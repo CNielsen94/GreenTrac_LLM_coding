@@ -1,0 +1,589 @@
+{
+  "submission_metadata": {
+    "country": "Saudi Arabia",
+    "date": "2023-02-10",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "Establish a new instrument for eliminating plastic pollution in a sustainable manner.",
+        "To eliminate the leakage or disposal of post-consumer plastics in the environment",
+        "The objective should aim to reduce additional plastic pollution in the environment and marine plastic litter based on national plans taking national circumstances and capabilities in consideration...",
+        "Saudi Arabia's is supporting a development of an instrument that promotes plastic waste reduction, elimination of plastic pollution to the environment including marine environment."
+      ],
+      "reasoning": "The document explicitly and repeatedly states the objective of eliminating or addressing plastic pollution. This is clearly articulated in the proposed 'Vision', listed as a specific 'Objective', and reinforced in the 'Explanatory Text'. No specific timeframe or target year for achieving this objective is mentioned in the submission."
+    },
+    "reduce_production": {
+      "mentioned": false,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [],
+      "reasoning": "The document does not contain any language related to reducing, limiting, or capping the production of new plastic. The focus is exclusively on downstream, post-consumer issues such as waste management, circularity, recycling, and preventing pollution from mismanaged waste. For example, objectives mentioned are to 'address more effective waste management' and to focus on 'reduce, reuse and recycle for the post-consumer plastics'. The term 'reduce' is consistently used in the context of 'waste generation' and 'plastic pollution', not primary plastic production."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "Sustainable development, critical societal role, and providing a wide variety of utility across multiple sectors.",
+      "citation": [
+        "To recognize the importance of plastics for sustainable development and the need to focus on addressing pollution through - adoption of circular approaches anchored on the principles of reduce, reuse and recycle for the post-consumer plastics.",
+        "The objective should aim to reduce additional plastic pollution in the environment and marine plastic litter based on national plans taking national circumstances and capabilities in consideration, through a life-cycle approach that includes reducing the discharge of mismanaged plastic litter by improved waste management infrastructure and innovative solutions while recognizing the critical role of plastics for society",
+        "it is strategic for a circular approach for future plastics to concentrate efforts on a few safe, appropriate polymers that can provide a wide variety of utility.",
+        "It is imperative for a legally binding treaty such as the INC to have an instrument that creates a factual basis to understand better the role plastics play across multiple sectors..."
+      ],
+      "reasoning": "The document explicitly states the need to recognize the 'importance of plastics for sustainable development' and their 'critical role for society.' It also mentions the 'wide variety of utility' that certain polymers provide and the need to understand the role plastics play 'across multiple sectors.' These statements directly acknowledge the positive contributions and necessity of plastics, even within a document focused on mitigating plastic pollution."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document specifies the need to use novel and non-toxic plastic additives to reduce toxicity to humans, and generally promotes a circular approach for the good of people.",
+      "citation": [
+        "In addition, the use of novel plastic additives that has less toxicity to the environment and humans.",
+        "This vision requires a major transformation from a liner to a circular model to reduce plastic waste, use non-toxic additives, and enhance products for recyclability to maximize their value and protect our environment. Promoting innovation, and sustainable business towards a circular approach for the good of people and the planet."
+      ],
+      "reasoning": "The document explicitly states an objective to use plastic additives with \"less toxicity to... humans\" and to use \"non-toxic additives\" for \"the good of people.\" These phrases directly link the treaty's objectives to the protection of human health from the harmful chemical components of plastics."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "The objective should aim to reduce additional plastic pollution in the environment and marine plastic litter based on national plans taking national circumstances and capabilities in consideration...",
+        "Saudi Arabia's is supporting a development of an instrument that promotes plastic waste reduction, elimination of plastic pollution to the environment including marine environment.",
+        "This vision requires a major transformation from a liner to a circular model to reduce plastic waste, use non-toxic additives, and enhance products for recyclability to maximize their value and protect our environment."
+      ],
+      "reasoning": "The document explicitly states the objective of eliminating plastic pollution from 'the environment' to 'protect our environment.' It specifically and repeatedly mentions the 'marine environment' and 'marine plastic litter' as key areas of concern, justifying both the 'mentioned' and 'marine_focus' findings."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "Encourage research and innovation to reduce waste generation through the full cycle from the design of product phase, use, and recycling phase.",
+        "The objective should aim to reduce additional plastic pollution in the environment and marine plastic litter based on national plans taking national circumstances and capabilities in consideration, through a life-cycle approach that includes reducing the discharge of mismanaged plastic litter by improved waste management infrastructure and innovative solutions while recognizing the critical role of plastics for society",
+        "Life cycle assessment (LCA): including social, environmental and economic impacts across all life cycle stages when making decision, considering into account concepts combined with life cycle tools that enables science- based evidence",
+        "driving technology growth, advanced recycling and materials recovery methodologies and commitments in the whole value chain on waste collection, sorting, and conversion."
+      ],
+      "reasoning": "The document explicitly and repeatedly uses terms such as 'life-cycle approach', 'full cycle', and 'whole value chain'. The citations specify stages from 'design' to 'use' and 'recycling', and call for Life Cycle Assessment (LCA) across 'all life cycle stages,' which confirms the intent to cover the full lifecycle of plastics."
+    },
+    "other_objectives": {
+      "value": "Create a circular economy, spur innovation, and create new jobs.",
+      "citation": [
+        "The Government of Canada’s approach recognizes the need for a circular economy for plastics, which will keep plastics in the economy and out of the environment.",
+        "This approach will also spur innovation and create new jobs in a more sustainable economy.",
+        "Key elements of Canada’s plan to reduce plastic pollution and move to a circular economy include:",
+        "Improving the management of plastic waste, including by stopping the export of plastic waste"
+      ],
+      "reasoning": "The document explicitly states the objective of creating a 'circular economy' as a central part of its plan. Additionally, it identifies clear socio-economic goals, such as to 'spur innovation and create new jobs'. Finally, it specifies an objective to improve national waste management by 'stopping the export of plastic waste'. These are distinct economic, social, and logistical objectives that are not covered by the other specified categories."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document calls for financial support from developed to developing countries to aid in the implementation of the treaty, specifically to increase investment in plastic waste management and recycling infrastructure.",
+        "citation": [
+          "The future treaty shall always provide financial support in the context of sustainable development.",
+          "Financial support flows shall be provided from developed to developing countries.",
+          "Increase investment in the required infrastructure for plastic waste management and build an integrated waste management infrastructure that is linked to recycling, with increased disclosure and transparency."
+        ],
+        "reasoning": "The document explicitly uses the term 'financial support,' which is listed as a key term in the code definition. It details that this support should flow from developed to developing nations to help them build the necessary infrastructure for waste management and recycling, which aligns with the definition of a subsidy or grant as a form of financial assistance."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document mentions encouraging research and innovation for waste reduction and recycling, driving investments in technology growth (like advanced recycling), and providing direct support for research and development to find sustainable technical solutions and identify scientific gaps.",
+        "citation": [
+          "Encourage research and innovation to reduce waste generation through the full cycle from the design of product phase, use, and recycling phase.",
+          "Driving Investments: through driving technology growth, advanced recycling and materials recovery methodologies and commitments in the whole value chain on waste collection, sorting, and conversion.",
+          "Support research and development and investigate sustainable technical solutions within the value chain for production and identifying key gaps in scientific research."
+        ],
+        "reasoning": "The cited texts explicitly call for encouraging, driving, and supporting research, innovation, and technological development through investments. This directly matches the code definition of providing R&D funding or financial support for technological development within the plastic value chain."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "The document mentions empowering vulnerable societies, basing decisions on socioeconomic facts, and assessing the socio-economic impacts of response measures as part of the treaty's implementation.",
+        "citation": [
+          "The treaty should address more effective waste management, adapting circularity, advanced recycling technologies, and empowering vulnerable societies that could be affected by this instrument.",
+          "Decision-making should be purely based on scientific and socioeconomic facts to ensure sustainable outcomes.",
+          "Life cycle assessment (LCA): including social, environmental and economic impacts across all life cycle stages when making decision, considering into account concepts combined with life cycle tools that enables science- based evidence",
+          "For any effective implementation of policy, assessing, addressing, and understanding the socio-economic impacts of the implementation of response measures is an essential need for developing countries."
+        ],
+        "reasoning": "The document explicitly states the need to empower vulnerable societies that could be affected by the instrument and to assess and understand the socio-economic impacts of its implementation. This directly aligns with the code's definition, which focuses on addressing the social impact of the transition, particularly for vulnerable groups."
+      },
+      "bans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document proposes 'Design for circularity' as a core obligation, which includes setting 'circularity requirements for components' and ensuring products can be easily disassembled at their end of life. It also mentions enhancing products for recyclability.",
+        "citation": [
+          "Design for circularity: it is strategic for a circular approach for future plastics to concentrate efforts on a few safe, appropriate polymers that can provide a wide variety of utility. This may mean providing engineering departments with circularity requirements for components as well as how easily the whole product can be disassembled at end of use.",
+          "This vision requires a major transformation from a liner to a circular model to reduce plastic waste, use non-toxic additives, and enhance products for recyclability to maximize their value and protect our environment."
+        ],
+        "reasoning": "The document explicitly lists 'Design for circularity' as a core obligation. This includes setting specific requirements for product design, such as how easily a product can be disassembled and mandating 'circularity requirements'. These are clear examples of performance standards that dictate how products must be designed or what characteristics they must possess."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document calls for the improvement and establishment of waste management infrastructure, specifically mentioning systems for waste collection, sorting, conversion, and integrated infrastructure linked to recycling.",
+        "citation": [
+          "The objective should aim to reduce additional plastic pollution in the environment and marine plastic litter based on national plans taking national circumstances and capabilities in consideration, through a life-cycle approach that includes reducing the discharge of mismanaged plastic litter by improved waste management infrastructure and innovative solutions while recognizing the critical role of plastics for society",
+          "Driving Investments: through driving technology growth, advanced recycling and materials recovery methodologies and commitments in the whole value chain on waste collection, sorting, and conversion.",
+          "Increase investment in the required infrastructure for plastic waste management and build an integrated waste management infrastructure that is linked to recycling, with increased disclosure and transparency."
+        ],
+        "reasoning": "The document explicitly identifies 'improved waste management infrastructure' as a necessary component to reduce plastic pollution. It directly calls to 'Increase investment in the required infrastructure for plastic waste management' and specifies the need for systems covering the whole value chain, including 'waste collection, sorting, and conversion,' thereby confirming the code."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The document refers to 'national plans', 'nationally determined action plans', and 'national action plans and strategies' as mechanisms for countries to implement the treaty and report on progress.",
+        "citation": [
+          "The objective should aim to reduce additional plastic pollution in the environment and marine plastic litter based on national plans taking national circumstances and capabilities in consideration...",
+          "Open communication channels: among parties of the treaty and the instrument must be established, to aid in the communication of nationally determined action plans without any standardization or harmonization to the elements in these communications, or in the plans themselves as all of this should be nationally determined, based on a bottom-up approach, aligning with each country's national strategy, and addressing the pollution within each country's geographical boundaries.",
+          "Countries can build their reporting on national action plans and strategies."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions that countries should use 'national plans', 'nationally determined action plans', and 'national action plans and strategies' to guide their efforts in reducing plastic pollution and to serve as the basis for their reporting. This directly aligns with the code definition of required plans or strategies that countries must develop to implement the treaty."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document proposes a system of national reporting where the methods and tools are nationally determined. This includes reporting on national action plans and strategies, progress achieved, and a specific mechanism for plastic waste monitoring, reporting, and verification. The format is flexible, to be selected by each country, with an emphasis on sharing best practices.",
+        "citation": [
+          "How to ensure effectiveness of the instrument and have efficient national reporting?",
+          "Any tool and reporting method have to be nationally determined.",
+          "A designed mechanism on plastic waste monitoring, reporting and verification would support policy makers to further measure impacts of implemented targets and policies.",
+          "Countries can build their reporting on national action plans and strategies.",
+          "Countries can report the progress they are achieving on an individual using the format of reporting they select. Reporting approaches can be exchanged as part of best practices."
+        ],
+        "reasoning": "The document explicitly addresses the question of 'efficient national reporting' and proposes a 'mechanism on plastic waste monitoring, reporting and verification.' The citations clearly indicate a plan for countries to report on their progress and national plans, which directly aligns with the code definition regarding reporting and information sharing on implementation progress."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document discusses issues related to the international trade of plastic waste, including illegal traffic, historical dumping of plastic waste in developing countries, and the Basel Convention's requirement for clear consent before plastic waste can be imported.",
+        "citation": [
+          "The sources include, but are not limited to illegal traffic, historical dumping of plastic waste to the developing countries, the uncontrolled dumping of waste, and litter.",
+          "Also learning from other agreements, there is an important aspect to protect developing countries, new amendments adopted in other conventions impact plastic waste that is difficult-to-recycle, ensuring a need to receive clear consent before being imported into receiving countries in accordance to Basel Convention which could be an area where some amendment can be made under Basel Convention, this is an important step in the right direction, but still allows developed countries to dump difficult-to-recycle plastic waste in developing countries, where there is often not the infrastructure and capacity to appropriately manage it."
+        ],
+        "reasoning": "The cited texts explicitly mention 'illegal traffic', 'historical dumping of plastic waste to the developing countries', and the Basel Convention's mechanism requiring 'clear consent before being imported'. These all refer to measures and issues directly affecting the international trade and transboundary movement of plastic waste, matching the code's definition."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [
+          "Voluntary approaches: (No content provided in the source document)"
+        ],
+        "reasoning": "The document includes a specific section for 'Voluntary approaches' but explicitly states that no content was provided. A search for related terms like 'certification,' 'eco-label,' or 'verification' yielded no results elsewhere in the text, confirming that voluntary certification is not mentioned as a proposed instrument."
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document proposes a 'designed mechanism on plastic waste monitoring, reporting and verification' to measure the impacts of implemented targets and policies. It also mentions socio-economic impact assessments of policies (ex-ante and post-ante).",
+        "citation": [
+          "Reporting and monitoring must not burden countries, particularly developing countries, and should not affect their right to develop their economies.",
+          "A designed mechanism on plastic waste monitoring, reporting and verification would support policy makers to further measure impacts of implemented targets and policies.",
+          "For any effective implementation of policy, assessing, addressing, and understanding the socio-economic impacts of the implementation of response measures is an essential need for developing countries. For example, ex-ante and post-ante assessment of national and international policies on domestic economies."
+        ],
+        "reasoning": "The document explicitly calls for a 'mechanism on plastic waste monitoring, reporting and verification' and states its purpose is to 'measure impacts of implemented targets and policies,' which directly aligns with the code definition of monitoring policy effectiveness. The further mention of conducting 'ex-ante and post-ante assessment of national and international policies' reinforces the presence of systems to assess and evaluate policy."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document proposes the exchange and sharing of best practices, knowledge transfer, and sharing experiences from other conventions, particularly regarding recycling, reporting, capacity building, and technology transfer.",
+        "citation": [
+          "Agree on exchange of best practices in recycling between nations & support knowledge transfer",
+          "Best practices sharing is encouraged, similar to the BRS convention.",
+          "Building on best practices and drawing on the experiences in reporting with other conventions such as BRS, which focus on achievements and the challenges.",
+          "Reporting approaches can be exchanged as part of best practices.",
+          "Sharing experiences and best practices from other conventions on capacity building and technology transfer relating to the conventions' implementation."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions the exchange and sharing of 'best practices,' 'knowledge,' and 'experiences' as both a core obligation and a key implementation measure. This directly aligns with the code definition of providing guidelines or informational resources to help stakeholders implement effective measures."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "consumer sensitization",
+        "citation": [
+          "A Recent research¹ provided evidence that higher recycling rates of post-consumer plastics are achievable with the right business model, product design, consumer sensitization, technology deployment and high value circular flow (e.g., reuse, redistribute, refurbished, remanufacture, and recycling and regulatory support) with almost 80% recycling rate reported in some countries ( Figure 1.)."
+        ],
+        "reasoning": "The document explicitly mentions 'consumer sensitization' as a necessary component, alongside technology and business models, for achieving high recycling rates. Consumer sensitization is a form of public education aimed at raising awareness and influencing consumer behavior regarding plastic waste management, which directly aligns with the definition of the education code."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The submission proposes a multi-stakeholder dialogue (MSD) that must include experts such as scientists, engineers, researchers, manufacturers, and businesses.",
+        "citation": [
+          "The multi-stakeholder dialogue (MSD) provides a venue for deeper discussion.",
+          "It must include experts such as scientists from all relevant disciplines such as engineers, researchers, manufacturers, and businesses with diverse backgrounds (geographic, cultural, socio-economic etc.)"
+        ],
+        "reasoning": "The document explicitly proposes the use of a 'multi-stakeholder dialogue (MSD)' as an instrument to provide a factual basis for the treaty. It specifies that this body 'must include experts such as scientists from all relevant disciplines,' which directly aligns with the code definition of establishing an expert group to provide guidance."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document encourages research and innovation for waste reduction across the product life cycle, the development of less toxic novel plastic additives, and support for R&D to find sustainable technical solutions and identify gaps in scientific research.",
+        "citation": [
+          "Encourage research and innovation to reduce waste generation through the full cycle from the design of product phase, use, and recycling phase. In addition, the use of novel plastic additives that has less toxicity to the environment and humans.",
+          "Support research and development and investigate sustainable technical solutions within the value chain for production and identifying key gaps in scientific research."
+        ],
+        "reasoning": "The document explicitly encourages and supports research and innovation. The cited texts directly state the need to 'Encourage research and innovation' for waste reduction and new materials, and to 'Support research and development' to find sustainable solutions and identify scientific gaps, fitting the definition of promoting scientific advancement without specific funding commitments."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document explicitly rejects the harmonization or standardization of nationally determined action plans, communications, and implementation standards, advocating instead for nationally determined approaches.",
+        "citation": [
+          "Open communication channels: among parties of the treaty and the instrument must be established, to aid in the communication of nationally determined action plans without any standardization or harmonization to the elements in these communications, or in the plans themselves as all of this should be nationally determined, based on a bottom-up approach, aligning with each country's national strategy, and addressing the pollution within each country's geographical boundaries.",
+          "There is no one size and no common standards that fit all as individual countries. economic circumstance and available infrastructure defer significantly."
+        ],
+        "reasoning": "The document explicitly mentions the concepts of 'standardization or harmonization' and 'common standards' but only to reject them. The cited texts state that communication and national plans should be free from any standardization and that there are no common standards that would fit all countries, which is a clear discussion of the harmonization topic."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document proposes several knowledge sharing mechanisms, including: cross-parties collaboration, exchange of best practices in recycling and reporting, knowledge transfer, sharing experiences, and technology transfer from developed to developing countries.",
+        "citation": [
+          "Consider national circumstances and capabilities while encouraging cross-parties collaboration and knowledge sharing to facilitate desirable outcomes",
+          "Agree on exchange of best practices in recycling between nations & support knowledge transfer",
+          "Any tool and reporting method have to be nationally determined. Best practices sharing is encouraged, similar to the BRS convention.",
+          "Sharing experiences and best practices from other conventions on capacity building and technology transfer relating to the conventions' implementation.",
+          "Mechanism is needed to transfer advanced technology from develop to developing countries."
+        ],
+        "reasoning": "The document explicitly and repeatedly advocates for mechanisms to exchange information, best practices, and technology. The citations show that knowledge sharing is integrated as a core objective, a formal obligation, and a key implementation measure, highlighting its importance for building capacity and achieving the instrument's goals."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [
+        "The objective should aim to reduce additional plastic pollution in the environment and marine plastic litter based on national plans taking national circumstances and capabilities in consideration...",
+        "...communication of nationally determined action plans without any standardization or harmonization to the elements in these communications, or in the plans themselves as all of this should be nationally determined, based on a bottom-up approach...",
+        "There is no one size and no common standards that fit all as individual countries. economic circumstance and available infrastructure defer significantly."
+      ],
+      "reasoning": "The document does not propose any specific, measurable, or quantitative targets with concrete numbers or deadlines. Instead, it consistently advocates for a nationally determined, bottom-up approach where each country sets its own plans based on its unique circumstances, explicitly rejecting standardized or harmonized targets."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "compostable polymers",
+        "citation": [
+          "Recent advances in compostable polymers provide a promising \"biochemical recycling\" pathway."
+        ],
+        "reasoning": "The document mentions 'compostable polymers' as a technological advance. Compostable polymers are a type of feedstock, often biobased, which falls under the code's definition of addressing raw materials used in plastic production."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document mentions supporting research and development for sustainable technical solutions in the production stage.",
+        "citation": [
+          "Support research and development and investigate sustainable technical solutions within the value chain for production and identifying key gaps in scientific research."
+        ],
+        "reasoning": "The cited text explicitly mentions a measure related to the production stage of the value chain. While the document's overall focus is on downstream waste management and circularity, it does propose supporting R&D for sustainable production solutions, which directly aligns with the code's definition of addressing the manufacturing or creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document proposes 'Design for circularity' as a core obligation, which includes using a limited number of safe polymers, setting circularity requirements for components, and ensuring products can be easily disassembled. It also mentions enhancing products for recyclability and focusing on the 'design of product phase' in the product life cycle.",
+        "citation": [
+          "Encourage research and innovation to reduce waste generation through the full cycle from the design of product phase, use, and recycling phase.",
+          "This vision requires a major transformation from a liner to a circular model to reduce plastic waste, use non-toxic additives, and enhance products for recyclability to maximize their value and protect our environment.",
+          "Design for circularity: it is strategic for a circular approach for future plastics to concentrate efforts on a few safe, appropriate polymers that can provide a wide variety of utility. This may mean providing engineering departments with circularity requirements for components as well as how easily the whole product can be disassembled at end of use."
+        ],
+        "reasoning": "The document explicitly identifies 'Design for circularity' as a core obligation and details specific design principles, such as component requirements and ease of disassembly. Further citations confirm a focus on the 'design of product phase' and the need to 'enhance products for recyclability,' directly aligning with the code's definition of addressing how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "Product design for circularity, use of non-toxic/less toxic chemical additives",
+        "citation": [
+          "Encourage research and innovation to reduce waste generation through the full cycle from the design of product phase, use, and recycling phase. In addition, the use of novel plastic additives that has less toxicity to the environment and humans.",
+          "This vision requires a major transformation from a liner to a circular model to reduce plastic waste, use non-toxic additives, and enhance products for recyclability to maximize their value and protect our environment.",
+          "Design for circularity: it is strategic for a circular approach for future plastics to concentrate efforts on a few safe, appropriate polymers that can provide a wide variety of utility. This may mean providing engineering departments with circularity requirements for components as well as how easily the whole product can be disassembled at end of use."
+        ],
+        "reasoning": "The document explicitly addresses the product production stage by mentioning the 'design of product phase' and proposing 'Design for circularity' as a core obligation, which includes designing for disassembly. It specifically addresses chemical additives by calling for the 'use of novel plastic additives that has less toxicity' and the 'use non-toxic additives'. The document does not mention intentionally added microplastics in products."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "Effective planning and investment in the supply chain to support circular approaches.",
+        "citation": [
+          "Increase capacity in the Effective planning and investment in the supply chain to cope with the changes and modifications needed to realize circular approaches in materials and emissions."
+        ],
+        "reasoning": "The document explicitly mentions the need for planning and investment in the 'supply chain' as a capacity-building measure. The supply chain is a core component of the distribution stage, which involves the movement of products from manufacturer to consumer. This citation directly addresses this stage of the value chain."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "consumer sensitization, addressing the product 'use' phase, promotion of reuse, and highlighting the role of consumers in a circular economy",
+        "citation": [
+          "Encourage research and innovation to reduce waste generation through the full cycle from the design of product phase, use, and recycling phase.",
+          "A Recent research¹ provided evidence that higher recycling rates of post-consumer plastics are achievable with the right business model, product design, consumer sensitization, technology deployment and high value circular flow (e.g., reuse, redistribute, refurbished, remanufacture, and recycling and regulatory support) with almost 80% recycling rate reported in some countries ( Figure 1.).",
+          "For this - elimination of plastic waste to work, civil society, consumers, retailers, recyclers and manufacturers must all come together to enable valuable materials to be collected and included in CE."
+        ],
+        "reasoning": "The document explicitly refers to the consumption stage by including the 'use' phase in the full product life cycle. It also addresses consumer behavior through calls for 'consumer sensitization' and by stating that 'consumers' must come together with other stakeholders to enable a circular economy. Furthermore, it promotes 'reuse' as a key principle, which is a consumption-focused measure. However, there is no specific mention of single-use or disposable plastic products."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions the need for investment in the whole value chain, specifically including 'waste collection' and 'sorting'. It also highlights the need to enhance waste management capabilities, with an emphasis on 'collection and sorting'.",
+        "citation": [
+          "For this - elimination of plastic waste to work, civil society, consumers, retailers, recyclers and manufacturers must all come together to enable valuable materials to be collected and included in CE.",
+          "Driving Investments: through driving technology growth, advanced recycling and materials recovery methodologies and commitments in the whole value chain on waste collection, sorting, and conversion.",
+          "Enhance waste management capabilities, especially in collection and sorting, treatment, and disposal in environmentally sounds manner."
+        ],
+        "reasoning": "The cited texts explicitly mention the act of 'collection' as a critical stage in the value chain and a key capability for effective waste management. This directly corresponds to the code's definition of addressing the collection, gathering, or aggregation of plastic waste after consumer use."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "Improved waste management infrastructure; advanced recycling technologies; waste collection, sorting, treatment, conversion, and disposal in an environmentally sound manner; materials recovery methodologies; addressing the mismanagement of waste.",
+        "citation": [
+          "The treaty should address more effective waste management, adapting circularity, advanced recycling technologies, and empowering vulnerable societies that could be affected by this instrument.",
+          "Driving Investments: through driving technology growth, advanced recycling and materials recovery methodologies and commitments in the whole value chain on waste collection, sorting, and conversion.",
+          "Increase investment in the required infrastructure for plastic waste management and build an integrated waste management infrastructure that is linked to recycling, with increased disclosure and transparency.",
+          "Enhance waste management capabilities, especially in collection and sorting, treatment, and disposal in environmentally sounds manner."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for measures related to the management of plastic waste after its initial use. The citations mention the need for 'more effective waste management,' 'improved waste management infrastructure,' and detail specific post-collection processes such as 'waste collection, sorting, and conversion,' as well as 'treatment, and disposal in environmentally sounds manner.' These points directly align with the code's definition of addressing the handling and processing of plastic waste."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document mentions several recycling-related measures, including: promoting advanced recycling technologies (such as chemical and mechanical recycling), exchanging best practices in recycling between nations, enhancing products for recyclability, driving investments in advanced recycling and materials recovery, and investing in waste management infrastructure linked to recycling.",
+        "citation": [
+          "The treaty should address more effective waste management, adapting circularity, advanced recycling technologies, and empowering vulnerable societies that could be affected by this instrument.",
+          "To recognize the importance of plastics for sustainable development and the need to focus on addressing pollution through - adoption of circular approaches anchored on the principles of reduce, reuse and recycle for the post-consumer plastics.",
+          "Agree on exchange of best practices in recycling between nations & support knowledge transfer",
+          "Advanced recycling technologies: A wide variety of technologies are underway to take plastics back down to their chemistry to fabricate new materials. ... Emerging efforts in “chemical recycling” (depolymerization, solvolysis, purification, etc.) also show progress. Like mechanical recycling...",
+          "Driving Investments: through driving technology growth, advanced recycling and materials recovery methodologies and commitments in the whole value chain on waste collection, sorting, and conversion.",
+          "Increase investment in the required infrastructure for plastic waste management and build an integrated waste management infrastructure that is linked to recycling, with increased disclosure and transparency."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'recycling' as a core component of its proposed strategy to eliminate plastic pollution. The citations show that recycling is mentioned not just as a general principle (e.g., 'reduce, reuse and recycle') but also with specific, actionable measures such as promoting 'advanced recycling technologies' (including chemical and mechanical), establishing core obligations for 'exchange of best practices in recycling', and calling for 'investment in the required infrastructure... linked to recycling'. This demonstrates a clear and detailed focus on the recycling stage of the value chain."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document identifies 'historical dumping of plastic waste' as a source of environmental leakage that needs to be addressed.",
+        "citation": [
+          "The leakage of plastic and plastic wastes into the environment can occur from a variety of land-based and ocean-based sources, and mainly from mismanagement of plastic waste. The sources include, but are not limited to illegal traffic, historical dumping of plastic waste to the developing countries, the uncontrolled dumping of waste, and litter."
+        ],
+        "reasoning": "The document explicitly identifies 'historical dumping of plastic waste' as a key source of plastic leakage into the environment. While specific cleanup measures like beach cleanups or marine litter removal are not detailed, acknowledging this historical source as a problem to be addressed falls under the scope of measures for existing plastic pollution. The overall objective is to eliminate plastic pollution, which would logically include addressing pollution from past activities."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "Implementing circular approaches for emissions through increased capacity in effective planning and investment.",
+        "citation": [
+          "Increase capacity in the Effective planning and investment in the supply chain to cope with the changes and modifications needed to realize circular approaches in materials and emissions."
+        ],
+        "reasoning": "The document explicitly mentions the need to build capacity to realize 'circular approaches in... emissions'. This falls directly under the code definition as a measure addressing releases associated with the plastic lifecycle, specifically by applying circular principles to manage emissions."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document proposes a timeline for the next Multi-Stakeholder Dialogue (MSD) to be held before the second session of the Intergovernmental Negotiating Committee (INC-2).",
+        "citation": [
+          "As for the timeline of the next MSD, we propose to be held before INC-2 to allow parties to position their inputs better and provide feedback to the secretariat on the most inclusive and holistic approach for a legally binding instrument that they anticipate."
+        ],
+        "reasoning": "The document explicitly uses the word 'timeline' and provides a specific, albeit relative, schedule for a key procedural step (the next MSD) by placing it before another scheduled event (INC-2). This directly addresses the question of whether a timeframe is specified."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document proposes a flexible, bottom-up approach where implementation is nationally determined. It specifies that there should be no common standards or harmonization for action plans or reporting. Reporting methods and formats should be selected by individual countries, and the overall process should not be burdensome.",
+        "citation": [
+          "Any tool and reporting method have to be nationally determined.",
+          "There is no one size and no common standards that fit all as individual countries. economic circumstance and available infrastructure defer significantly.",
+          "Reporting and monitoring must not burden countries, particularly developing countries, and should not affect their right to develop their economies.",
+          "...nationally determined action plans without any standardization or harmonization to the elements in these communications, or in the plans themselves as all of this should be nationally determined, based on a bottom-up approach...",
+          "Countries can report the progress they are achieving on an individual using the format of reporting they select."
+        ],
+        "reasoning": "The document repeatedly emphasizes flexibility, national determination, and a 'bottom-up' approach, while explicitly rejecting 'common standards' and 'harmonization'. The proposal allows countries to choose their own reporting formats and ensures that monitoring is not burdensome. This lack of standardized, binding obligations or enforcement mechanisms clearly indicates a low level of implementation stringency."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with implementation and action plans determined at the national level.",
+        "citation": [
+          "Kingdom of Saudi Arabia written submissions on the potential options for elements towards an international legally binding instrument",
+          "The objective should aim to reduce additional plastic pollution in the environment and marine plastic litter based on national plans taking national circumstances and capabilities in consideration...",
+          "...communication of nationally determined action plans without any standardization or harmonization to the elements in these communications, or in the plans themselves as all of this should be nationally determined, based on a bottom-up approach, aligning with each country's national strategy...",
+          "Any tool and reporting method have to be nationally determined."
+        ],
+        "reasoning": "The document is explicitly a submission for an 'international legally binding instrument', indicating a global scope. However, the text repeatedly emphasizes that implementation, action plans, and reporting mechanisms should be 'nationally determined', reflecting each country's specific circumstances and capabilities. This establishes a framework of a global treaty executed through national-level actions."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document mentions driving investments and creating investment opportunities across the entire value chain of plastic waste management, including waste collection, sorting, conversion, and recycling infrastructure.",
+      "citation": [
+        "Driving Investments: through driving technology growth, advanced recycling and materials recovery methodologies and commitments in the whole value chain on waste collection, sorting, and conversion.",
+        "Increase investment in the required infrastructure for plastic waste management and build an integrated waste management infrastructure that is linked to recycling, with increased disclosure and transparency. This involves identified investment opportunities in waste management across the entire value chain supported."
+      ],
+      "reasoning": "The cited texts explicitly call for 'Driving Investments' and creating 'investment opportunities' in the 'whole value chain' of plastic waste management. This value chain (collection, sorting, recycling, etc.) is primarily composed of private sector entities. Therefore, these statements are a clear reference to seeking financing and investment from the private sector to achieve the instrument's goals."
+    },
+    "state": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "international": {
+      "mentioned": true,
+      "details": "Financial support from developed to developing countries, working with existing multilateral financial bodies.",
+      "citation": [
+        "Financial support flows shall be provided from developed to developing countries.",
+        "For the effective and faster implementation of the treaty, working with existing multilateral financial bodies is beneficial."
+      ],
+      "reasoning": "The document explicitly mentions two forms of international financing: direct financial flows from developed to developing countries and engaging with 'multilateral financial bodies' to support the implementation of the treaty. These directly match the code definition for international financing sources."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document discusses financial support in the 'Means of Implementation' section, but it focuses exclusively on financial flows from developed to developing countries, working with existing multilateral financial bodies, and increasing general investment. There is no mention of financing mechanisms derived from specific fees, levies, taxes, or charges related to plastic pollution."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document specifies several responsibilities for the production sector, centered around the concept of 'design for circularity'. This includes designing products to reduce waste, enhancing products for recyclability, using a limited set of safe and appropriate polymers, incorporating non-toxic additives, and ensuring products are designed for easy disassembly at the end of their life.",
+      "citation": [
+        "Encourage research and innovation to reduce waste generation through the full cycle from the design of product phase, use, and recycling phase.",
+        "This vision requires a major transformation from a liner to a circular model to reduce plastic waste, use non-toxic additives, and enhance products for recyclability to maximize their value and protect our environment.",
+        "Design for circularity: it is strategic for a circular approach for future plastics to concentrate efforts on a few safe, appropriate polymers that can provide a wide variety of utility. This may mean providing engineering departments with circularity requirements for components as well as how easily the whole product can be disassembled at end of use."
+      ],
+      "reasoning": "The document explicitly identifies 'Design for circularity' as a core obligation. The cited texts detail responsibilities that occur at the product design and manufacturing stages, such as enhancing recyclability, using specific materials, and planning for disassembly. These are direct obligations placed on the production sector to manage the plastic lifecycle from its inception."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document highlights 'consumer sensitization' as a key factor for high recycling rates and states that consumers, along with civil society and other stakeholders, must collaborate to enable the collection of valuable materials for a circular economy.",
+      "citation": [
+        "A Recent research¹ provided evidence that higher recycling rates of post-consumer plastics are achievable with the right business model, product design, consumer sensitization, technology deployment and high value circular flow (e.g., reuse, redistribute, refurbished, remanufacture, and recycling and regulatory support) with almost 80% recycling rate reported in some countries ( Figure 1.).",
+        "For this - elimination of plastic waste to work, civil society, consumers, retailers, recyclers and manufacturers must all come together to enable valuable materials to be collected and included in CE."
+      ],
+      "reasoning": "The cited text directly assigns a role to consumers. The first citation identifies 'consumer sensitization' (awareness and education) as a necessary component for achieving recycling goals. The second citation explicitly lists 'consumers' as a stakeholder group that 'must all come together to enable valuable materials to be collected', clearly defining a responsibility in the waste management and collection process for a circular economy."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Responsibilities include implementing more effective and integrated waste management, improving infrastructure for plastic waste, enhancing capabilities in collection, sorting, treatment, and environmentally sound disposal, and participating in the collection of valuable materials to enable a circular economy.",
+      "citation": [
+        "The objective should aim to reduce additional plastic pollution in the environment and marine plastic litter based on national plans taking national circumstances and capabilities in consideration, through a life-cycle approach that includes reducing the discharge of mismanaged plastic litter by improved waste management infrastructure and innovative solutions while recognizing the critical role of plastics for society",
+        "For this - elimination of plastic waste to work, civil society, consumers, retailers, recyclers and manufacturers must all come together to enable valuable materials to be collected and included in CE.",
+        "Driving Investments: through driving technology growth, advanced recycling and materials recovery methodologies and commitments in the whole value chain on waste collection, sorting, and conversion.",
+        "Enhance waste management capabilities, especially in collection and sorting, treatment, and disposal in environmentally sounds manner."
+      ],
+      "reasoning": "The document explicitly assigns responsibilities to the waste management sector. The citations directly mention the need for 'improved waste management infrastructure,' identify 'recyclers' as key actors responsible for ensuring 'valuable materials to be collected,' and call to 'Enhance waste management capabilities, especially in collection and sorting, treatment, and disposal.' These points clearly define the roles and obligations of waste management entities in addressing plastic pollution."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document does not contain any explicit mentions of the 'informal sector,' 'waste pickers,' or 'informal recyclers.' While it discusses broad stakeholder groups such as 'civil society,' 'consumers,' 'retailers,' 'recyclers,' and 'manufacturers,' it never specifies the role, responsibilities, or integration of informal actors within the plastic waste management system. The text also mentions 'empowering vulnerable societies,' but this is a general statement and is not specifically linked to the informal waste sector."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines several government responsibilities, including: developing and implementing national action plans and strategies based on national circumstances; determining national tools for implementation and reporting; monitoring, reporting, and verifying plastic waste; supporting policymakers with data to measure impacts; and for developed countries, providing financial and technical support to developing countries.",
+      "citation": [
+        "The objective should aim to reduce additional plastic pollution in the environment and marine plastic litter based on national plans taking national circumstances and capabilities in consideration, through a life-cycle approach that includes reducing the discharge of mismanaged plastic litter by improved waste management infrastructure and innovative solutions while recognizing the critical role of plastics for society",
+        "Open communication channels: among parties of the treaty and the instrument must be established, to aid in the communication of nationally determined action plans without any standardization or harmonization to the elements in these communications, or in the plans themselves as all of this should be nationally determined, based on a bottom-up approach, aligning with each country's national strategy, and addressing the pollution within each country's geographical boundaries.",
+        "Any tool and reporting method have to be nationally determined.",
+        "Countries can build their reporting on national action plans and strategies.",
+        "A designed mechanism on plastic waste monitoring, reporting and verification would support policy makers to further measure impacts of implemented targets and policies."
+      ],
+      "reasoning": "The document consistently refers to the roles and obligations of countries and national bodies. Phrases such as 'national plans,' 'nationally determined,' 'country's national strategy,' and 'countries can build their reporting' directly assign the responsibility for policy creation, implementation, and oversight to government entities as parties to the international instrument."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Collaborating with consumers, retailers, recyclers, and manufacturers to enable the collection of materials for inclusion in a circular economy.",
+      "citation": [
+        "For this - elimination of plastic waste to work, civil society, consumers, retailers, recyclers and manufacturers must all come together to enable valuable materials to be collected and included in CE."
+      ],
+      "reasoning": "The document explicitly mentions 'civil society', which falls under the definition of NGOs/advocacy groups. It assigns this group a collaborative responsibility alongside other stakeholders to ensure materials are collected for a circular economy (CE), thereby defining a specific role for them."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "Receiving feedback from parties to inform the approach for the legally binding instrument.",
+      "citation": [
+        "As for the timeline of the next MSD, we propose to be held before INC-2 to allow parties to position their inputs better and provide feedback to the secretariat on the most inclusive and holistic approach for a legally binding instrument that they anticipate."
+      ],
+      "reasoning": "The document explicitly states that parties should provide feedback to the 'secretariat'. In the context of an Intergovernmental Negotiating Committee (INC) for a UN-led treaty, the secretariat is a core UN system actor responsible for organizing and facilitating the negotiations. Therefore, the text assigns a responsibility (receiving feedback) to a UN entity."
+    }
+  }
+}

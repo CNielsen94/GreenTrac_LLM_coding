@@ -1,0 +1,634 @@
+{
+  "submission_metadata": {
+    "country": "Australia",
+    "date": "2023-02-10",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "\"End plastic pollution to protect the environment and human health from the adverse effects of plastic pollution across the full life cycle of plastics\"",
+        "The title of the UNEA resolution 5/14, *End Plastic Pollution: Towards an International Legally-binding Instrument*, has already settled ending plastic pollution as the goal of the Treaty (in the public sphere).",
+        "Ongoing innovation in relation to environmentally sustainable plastic technologies, environmentally sound waste management and safe alternatives to plastic will be critical to achieving our goal of ending plastic pollution."
+      ],
+      "reasoning": "The document explicitly proposes the objective to \"End plastic pollution\" and repeatedly refers to this as the primary goal of the legally binding instrument, referencing the title of UNEA resolution 5/14. However, while it describes this as a \"long-term endeavour,\" no specific target year or timeline for achieving this objective is mentioned."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+        "The instrument should facilitate a shift from the current linear plastic economy to a safe circular economy where plastic is produced at sustainable levels, and is considered a valued resource that continues to circulate within the economy.",
+        "New technologies will be crucial to restraining virgin plastic production while maintaining (and improving) standards of living."
+      ],
+      "reasoning": "The document explicitly mentions the need to 'restrain the production of unnecessary primary plastics' and 'restraining virgin plastic production'. It also refers to a future where 'plastic is produced at sustainable levels'. These statements directly align with the code definition of decreasing, reducing, or controlling plastic production. However, the document does not provide any specific quantitative targets, percentages, or caps for this reduction, hence `specification_provided` is false."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "Essential uses, best and most necessary uses, maintaining/improving standards of living",
+      "citation": [
+        "Promote market-based instruments that recognise the value of plastics, ensure that plastic is put to its best and most necessary uses, and avoided where it is unnecessary.",
+        "Ensuring that those plastics that are essential but cannot be reused or recycled are managed in an environmentally sound manner, in line with the waste hierarchy.",
+        "New technologies will be crucial to restraining virgin plastic production while maintaining (and improving) standards of living."
+      ],
+      "reasoning": "The document, while focused on the negative impacts of plastic pollution, explicitly acknowledges that some plastics are 'essential' and have 'best and most necessary uses'. It also connects the services provided by plastics to 'maintaining (and improving) standards of living', which is a clear recognition of their societal benefit."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document specifies protecting human health from the adverse effects of plastic pollution as a core objective. Specific health protection measures and concerns mentioned include creating a 'safe' circular economy, phasing out or banning 'chemicals of concern' and 'hazardous additives' in plastics, preventing the import of products with 'harmful chemicals', and filling knowledge gaps on the 'human health impacts of chemicals of concern and microplastics'.",
+      "citation": [
+        "\"End plastic pollution to protect the environment and human health from the adverse effects of plastic pollution across the full life cycle of plastics\"",
+        "It has significant adverse impacts on the environment, ecosystems, biodiversity and human health.",
+        "Creating a shift towards a safe circular economy that protects the environment and human health",
+        "Global approach to phasing out/banning chemicals of concern and hazardous additives in plastics, noting plastic is a globally traded material.",
+        "Fill knowledge gaps regarding the environmental and human health impacts of chemicals of concern and microplastics."
+      ],
+      "reasoning": "The document explicitly and repeatedly states that protecting human health is a primary objective of the proposed treaty. The citations clearly articulate this goal in the proposed objective, identify adverse health impacts as a key motivator, and propose specific actions such as creating a safe circular economy and regulating hazardous chemicals to mitigate health risks associated with plastic pollution."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "Plastic pollution contributes to the triple planetary crisis of climate change, biodiversity loss and pollution as a consequence of the plastic leakage into the environment at every stage of its lifecycle.",
+        "It has significant adverse impacts on the environment, ecosystems, biodiversity and human health.",
+        "Collaborative actions to manage existing pollution, including guidance and cooperation to address legacy marine litter, including in international waters."
+      ],
+      "reasoning": "The document explicitly states that plastic pollution contributes to 'biodiversity loss' and has 'adverse impacts on the environment, ecosystems, biodiversity'. This directly aligns with the code definition. Furthermore, the specific mention of addressing 'legacy marine litter' indicates a clear focus on protecting marine ecosystems, justifying the 'marine_focus' finding."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "End plastic pollution to protect the environment and human health from the adverse effects of plastic pollution across the full life cycle of plastics",
+        "The objective should also reflect the need to take a comprehensive approach that addresses the full life cycle of plastics, in accordance with the mandate of UNEA resolution 5/14.",
+        "This mandated approach covers source materials, product design and production, transportation, use and end of life treatment and impacts.",
+        "Ensuring global action is taken across the full life cycle of plastics",
+        "National action plans should align with the principles of the instrument, cover the full life cycle of plastics and be informed by circular economy principles."
+      ],
+      "reasoning": "The document explicitly and repeatedly advocates for a 'full life cycle' approach. This concept is central to the proposed objective, defined as a core obligation, and included as a requirement for national action plans. The citations confirm that this approach is intended to be comprehensive, covering all stages from raw material sourcing and product design through to use and end-of-life management."
+    },
+    "other_objectives": {
+      "value": "Promote a just and equitable transition, support decent work and green jobs, and ensure the inclusion of workers in the informal sector.",
+      "citation": [
+        "A treaty must promote a just and equitable transition for all affected workers and communities that supports decent work and the creation of green jobs and livelihoods.",
+        "This must include specific and effective measures that recognize the rights and contributions of waste pickers and other workers in the informal and cooperative waste sectors and ensure their inclusion and meaningful participation in the development and implementation of national action plans and policies under the new instrument."
+      ],
+      "reasoning": "The document outlines specific socio-economic objectives centered on ensuring a 'just and equitable transition' for workers and communities. This includes creating 'green jobs' and formally recognizing and including the informal waste sector (e.g., 'waste pickers'). These goals are distinct from the other categories which focus on environmental protection, human health, production, or a methodological approach, by instead focusing on the social and economic fairness of the policy's implementation."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "Financial assistance to help countries build capability for managing plastic materials, potentially using existing mechanisms like the Global Environment Facility and harnessing private investment.",
+        "citation": [
+          "Mechanisms to facilitate financial assistance will be required to implement the instrument globally.",
+          "The goal of financial assistance should be to help countries build their capability to independently manage their plastic materials into the future, rather than to fund recurring government services.",
+          "We note there is significant private investment occurring to improve the circularity of plastics. There is an opportunity for the finance mechanism to harness this private capital and investment (in addition to government contributions) to support the instrument's objectives."
+        ],
+        "reasoning": "The document explicitly discusses the need for \"financial assistance\" as a means of implementation. The term \"financial assistance\" directly aligns with the code definition's inclusion of \"financial support\" and \"grants\". The cited text outlines the purpose and potential mechanisms for this financial support, thus validating the coding decision."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document proposes applying the 'polluter-pays principle' as a core obligation.",
+        "citation": [
+          "Applying the precautionary approach and polluter-pays principle, noting information gaps should not be a reason to delay action where we know certain chemicals or products cause harm."
+        ],
+        "reasoning": "The document explicitly cites the 'polluter-pays principle' as a core obligation for the treaty. This principle is a key economic instrument where the entity responsible for pollution is made to bear the cost of managing it, which directly aligns with the definition of penalties, fines, or fees for non-compliance."
+      },
+      "trading_systems": {
+        "mentioned": true,
+        "details": "The document mentions promoting 'market-based instruments' and 'potential trade-related measures' as part of the upstream actions to support a circular economy for plastics.",
+        "citation": [
+          "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+          "Promote market-based instruments that recognise the value of plastics, ensure that plastic is put to its best and most necessary uses, and avoided where it is unnecessary."
+        ],
+        "reasoning": "The document explicitly refers to 'market-based instruments' and 'trade-related measures' as potential policy tools. These terms directly match the code definition, which seeks evidence of market-based mechanisms like emissions trading, credits, or tariffs."
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document proposes that the instrument should promote and support research and development (R&D) to transition to a safe circular economy. Specific areas mentioned for R&D include environmentally sustainable plastic technologies (such as bio-plastic alternatives and advanced recycling), safe plastic alternatives, and environmentally sound waste management.",
+        "citation": [
+          "Support research on safe plastic alternatives.",
+          "The instrument should promote research and development to support the implementation of the instrument's objectives in transitioning to a safe circular economy.",
+          "Ongoing innovation in relation to environmentally sustainable plastic technologies, environmentally sound waste management and safe alternatives to plastic will be critical to achieving our goal of ending plastic pollution."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for the promotion and support of research and development. It has a dedicated section for 'Research and Development' and also mentions it under the 'Scientific and technical mechanism', directly aligning with the code's definition of supporting R&D related to the plastic value chain."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document suggests applying the 'polluter-pays principle'.",
+        "citation": [
+          "Applying the precautionary approach and polluter-pays principle, noting information gaps should not be a reason to delay action where we know certain chemicals or products cause harm."
+        ],
+        "reasoning": "The document explicitly mentions the 'polluter-pays principle', which is the foundational concept of Extended Producer Responsibility (EPR). This principle assigns responsibility for the environmental impacts and end-of-life management of a product to its producer, directly matching the code's definition of making producers responsible for the post-consumer stage."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "The document calls for affording protections to vulnerable populations and ensuring the meaningful engagement, participation, and inclusion of traditional knowledge from First Nations and Pacific Island communities.",
+        "citation": [
+          "It is important that all communities (including vulnerable populations) are afforded similar protections through such global measures.",
+          "Australia also recognises First Nations peoples' continuing connection to the environment, and the importance of their participation, traditional knowledge and contributions to this process.",
+          "Australia particularly wants to ensure the meaningful engagement and participation of First Nations and Pacific Island communities in a stakeholder action agenda."
+        ],
+        "reasoning": "The document explicitly addresses the need to protect 'vulnerable populations' and ensure the participation and inclusion of specific groups like 'First Nations and Pacific Island communities'. While it does not use the term 'just transition' or mention specific measures like job retraining, this focus on social equity and the inclusion of potentially impacted or marginalized groups aligns with the core principles of a just transition as defined in the coding instructions."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Elimination of unnecessary and problematic single-use plastics; phase-out/ban of certain materials, additives, and harmful/hazardous chemicals of concern.",
+        "citation": [
+          "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+          "Eliminate problematic and unnecessary single-use plastics.",
+          "Global approach to phasing out/banning chemicals of concern and hazardous additives in plastics, noting plastic is a globally traded material.",
+          "Traceability, transparency and labelling standards to support a circular plastics economy, support the phase out of harmful chemicals through mandatory disclosure provisions, reduce 'green-washing', and increase validity of recycled input materials."
+        ],
+        "reasoning": "The document explicitly proposes several measures that constitute bans or phase-outs. It uses the terms 'eliminating unnecessary plastics', 'Eliminate problematic and unnecessary single-use plastics', 'phase-out of certain materials/additives', 'phasing out/banning chemicals of concern', and 'phase out of harmful chemicals', directly matching the code's definition of prohibitions, bans, or phase-outs."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document proposes several types of performance standards, including: design standards/criteria for safe recyclability, reuse, and repair; standards for the chemical composition of products; global standards to define problematic plastics and ensure products are truly recyclable; traceability, transparency, and labelling standards; and standards to avoid unsustainable product substitution.",
+        "citation": [
+          "Design standards/criteria to ensure products (including their chemical composition) are designed for safe recyclability, reuse and repair.",
+          "Global standards and definitions will be needed to define problematic single-use plastics, standards to ensure products are truly recyclable, and definitions and standards to counter vague and prolific greenwashing claims.",
+          "Traceability, transparency and labelling standards to support a circular plastics economy, support the phase out of harmful chemicals through mandatory disclosure provisions, reduce 'green-washing', and increase validity of recycled input materials.",
+          "Standards to avoid unsustainable product substitution."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for the creation of various 'standards' and 'criteria' that plastic products must meet. These proposals, such as 'Design standards/criteria' and 'standards to ensure products are truly recyclable', directly align with the code definition, which covers product or material standards, specifications, criteria, or requirements, including those for recyclability and durability."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "Environmentally sound waste management services and technology; Recycling technologies.",
+        "citation": [
+          "Environmentally sound waste management – reducing plastic leakage into the environment is dependent on communities having access to environmentally sound waste management services and technology.",
+          "Recycling - our ability to recycle materials and keep them in the economy longer is continually improving through new recycling technologies."
+        ],
+        "reasoning": "The document explicitly states that reducing plastic leakage is 'dependent on communities having access to environmentally sound waste management services and technology'. This indicates that such infrastructure is a required component for successful treaty implementation. It also highlights the importance of new recycling technologies, which implies the need for corresponding facilities and systems."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "The document proposes traceability, transparency, and labelling standards, including mandatory disclosure provisions for harmful chemicals, standards to ensure products are recyclable, and verification standards to increase the validity of recycled input materials and counter greenwashing.",
+        "citation": [
+          "Global standards and definitions will be needed to define problematic single-use plastics, standards to ensure products are truly recyclable, and definitions and standards to counter vague and prolific greenwashing claims.",
+          "Traceability, transparency and labelling standards to support a circular plastics economy, support the phase out of harmful chemicals through mandatory disclosure provisions, reduce 'green-washing', and increase validity of recycled input materials."
+        ],
+        "reasoning": "The document explicitly calls for standards and mandatory disclosure provisions, which are core components of certification and verification systems. Proposals for 'standards to ensure products are truly recyclable,' systems to 'increase validity of recycled input materials,' and measures to counter 'greenwashing' directly reference the need for approval or verification schemes to control what types of products and materials are allowed on the market."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "General labelling requirements, traceability and labelling standards, mandatory disclosure provisions for harmful chemicals, and standards to reduce 'green-washing' and validate recycled materials.",
+        "citation": [
+          "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+          "Traceability, transparency and labelling standards to support a circular plastics economy, support the phase out of harmful chemicals through mandatory disclosure provisions, reduce 'green-washing', and increase validity of recycled input materials."
+        ],
+        "reasoning": "The document explicitly proposes 'labelling requirements' and 'labelling standards' as potential measures for the treaty. These are intended to provide transparency about plastic products, support a circular economy through mandatory disclosure of harmful chemicals, and counter misleading environmental claims ('green-washing'), which directly aligns with the code's definition."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National action plans",
+        "citation": [
+          "National action plans will be critical to the instrument's successful implementation, as identified by UNEA resolution 5/14.",
+          "National action plans allow nations to outline their commitments and actions to meet the objective and obligations of the instrument.",
+          "Regular reporting against these plans will be important to drive and measure global progress and increase transparency.",
+          "A requirement to report on national performance against the measures in the instrument and implementation of National Action Plans will assist in providing transparency of implementation, and essential data to facilitate periodic analysis of progress in meeting the instrument's objective."
+        ],
+        "reasoning": "The document explicitly proposes 'National action plans' as a critical implementation measure. The text states these plans are for nations to outline their commitments and actions to meet the treaty's obligations, and that reporting on their implementation will be a requirement, confirming their mandatory nature."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document suggests several mandatory reporting requirements, including: national reporting on virgin plastic production; improved reporting of plastic leakage; regular reporting against national action plans; reporting on national performance against the instrument's measures; and mandatory disclosure provisions to support traceability and transparency.",
+        "citation": [
+          "Improving global understanding of the problem and measuring performance (through national reporting obligations)",
+          "measures to increase recycling rates, national reporting on virgin plastic production...",
+          "Improved measurement, monitoring and reporting of plastic leakage so that we can assess global progress towards the instrument's objective and better target our activities.",
+          "Regular reporting against these plans will be important to drive and measure global progress and increase transparency.",
+          "A requirement to report on national performance against the measures in the instrument and implementation of National Action Plans will assist in providing transparency of implementation, and essential data to facilitate periodic analysis of progress in meeting the instrument's objective.",
+          "Traceability, transparency and labelling standards to support a circular plastics economy, support the phase out of harmful chemicals through mandatory disclosure provisions..."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'national reporting obligations' and 'a requirement to report' as core components of the proposed treaty. The citations clearly outline the specific areas where reporting is envisioned, such as on virgin plastic production, plastic leakage, and progress against national action plans, justifying the 'true' finding and the specified details."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document suggests potential trade-related measures to restrain primary plastic production, regulating the movement of plastic waste, and establishing global standards and definitions to support the circular trade in plastics. It also justifies these measures by highlighting the need to prevent countries from unknowingly importing products containing harmful chemicals.",
+        "citation": [
+          "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+          "Regulating the movement, and end of life management of plastic waste to reduce leakage from mismanaged waste.",
+          "Global standards and definitions to support the circular trade in plastics, reduce the costs of doing business and increase recycling rates.",
+          "Given the global nature of the trade in plastics and plastic products, global measures are necessary to provide transparency and fair market conditions to ensure countries do not unknowingly import products containing harmful chemicals or products with high litter propensity."
+        ],
+        "reasoning": "The document explicitly mentions 'potential trade-related measures,' 'regulating the movement... of plastic waste' (which implies transboundary trade), and creating standards to 'support the circular trade in plastics.' These citations directly align with the code definition of measures affecting international trade of plastic or plastic products, such as import/export restrictions or other controls."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": true,
+        "details": "The document mentions proposals for labelling requirements and standards to counter greenwashing and increase the validity of recycled materials, which are functions of voluntary certification and verification schemes.",
+        "citation": [
+          "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+          "Global standards and definitions will be needed to define problematic single-use plastics, standards to ensure products are truly recyclable, and definitions and standards to counter vague and prolific greenwashing claims.",
+          "Traceability, transparency and labelling standards to support a circular plastics economy, support the phase out of harmful chemicals through mandatory disclosure provisions, reduce 'green-washing', and increase validity of recycled input materials."
+        ],
+        "reasoning": "The document explicitly calls for 'labelling requirements' and 'labelling standards' designed to 'counter vague and prolific greenwashing claims' and 'increase validity of recycled input materials.' These measures are characteristic of voluntary certification, verification, and eco-labelling schemes, which provide standardized, often third-party validated, information to substantiate environmental claims and guide consumer and industry choices."
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document suggests several monitoring measures, including: national reporting obligations to measure performance, improved measurement and reporting of plastic leakage, regular reporting against national action plans to measure global progress, collection and analysis of data on plastic production/use/leakage, and a compliance/performance monitoring system to assess parties' collective performance.",
+        "citation": [
+          "Improving global understanding of the problem and measuring performance (through national reporting obligations)",
+          "Improved measurement, monitoring and reporting of plastic leakage so that we can assess global progress towards the instrument's objective and better target our activities.",
+          "Regular reporting against these plans will be important to drive and measure global progress and increase transparency.",
+          "National reporting requirements will be required to provide the key information needed to monitor and measure the parties' collective performance in achieving the objective of the instrument, in particular plastic leakage into the environment."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for systems to track, measure, and assess progress towards the treaty's objective. The citations highlight the need for monitoring plastic leakage, measuring the performance of national plans, and evaluating the collective effectiveness of the instrument through robust reporting and data collection mechanisms, directly aligning with the code definition."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document suggests several forms of information and guidance, including: guidance for addressing legacy marine litter, global standards and definitions to support circular trade and define problematic plastics, traceability and labelling standards, and baseline standards or guidelines for developing national action plans.",
+        "citation": [
+          "Collaborative actions to manage existing pollution, including guidance and cooperation to address legacy marine litter, including in international waters.",
+          "Global standards and definitions will be needed to define problematic single-use plastics, standards to ensure products are truly recyclable, and definitions and standards to counter vague and prolific greenwashing claims.",
+          "The instrument would benefit from establishing a baseline standard or guidelines for national action plans to ensure a consistent approach and to facilitate efficient development by parties.",
+          "This information can then be used to direct effort toward the highest priority issues and to provide guidance to nations on the most effective domestic interventions."
+        ],
+        "reasoning": "The document explicitly proposes the creation and use of 'guidance', 'guidelines', and 'standards' to help nations and other stakeholders implement the treaty's objectives. These informational resources are intended to harmonize approaches, facilitate the development of national plans, and direct efforts toward effective interventions, directly matching the code's definition."
+      },
+      "education": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The document proposes a 'Scientific and technical mechanism / science-policy interface' and an 'advisory mechanism', and references a 'Science Policy Panel'.",
+        "citation": [
+          "A mechanism for scientific and socio-economic information and analysis to inform decision-making will be vital to the successful implementation of the instrument.",
+          "Australia supports the INC process considering approaches that draw upon the knowledge and experience of existing multilateral technical and scientific workstreams. This includes investigating links between the Science Policy Panel currently under development, SAICM, and with other chemicals, waste, and pollution multilateral agreements and bodies.",
+          "To this end we request that INC2 develop a list of the questions requiring input from science, technical and other advisors to inform the structure and early work program of any advisory mechanism."
+        ],
+        "reasoning": "The document explicitly proposes the creation of a 'Scientific and technical mechanism / science-policy interface' to provide information and analysis for decision-making. It also directly requests the development of an 'advisory mechanism' involving 'science, technical and other advisors' to inform the treaty's structure and work program. This aligns with the code definition of establishing expert bodies for guidance."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document suggests promoting research and development in areas such as safe plastic alternatives, environmentally sustainable technologies (e.g., bio-plastics, advanced recycling), and environmentally sound waste management. It also calls for filling knowledge gaps regarding the impacts of chemicals and microplastics.",
+        "citation": [
+          "The instrument should promote research and development to support the implementation of the instrument's objectives in transitioning to a safe circular economy.",
+          "Ongoing innovation in relation to environmentally sustainable plastic technologies, environmentally sound waste management and safe alternatives to plastic will be critical to achieving our goal of ending plastic pollution.",
+          "The mechanism should incorporate the best available science and traditional knowledge to: Fill knowledge gaps regarding the environmental and human health impacts of chemicals of concern and microplastics. ... Support research on safe plastic alternatives."
+        ],
+        "reasoning": "The document explicitly states that the instrument should 'promote research and development'. It further details the specific areas for this R&D, including 'safe alternatives to plastic', 'environmentally sustainable plastic technologies', and filling 'knowledge gaps'. This direct call to encourage and support innovation and scientific inquiry aligns perfectly with the definition of research promotion as a soft instrument."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes several areas for harmonization, including: global standards and definitions for plastics (e.g., for problematic single-use plastics, recyclability, greenwashing claims); a global approach to phasing out hazardous chemicals; common standards for traceability, transparency, and labelling; standards to avoid unsustainable product substitution; a baseline standard or guidelines for national action plans to ensure a consistent approach; and the harmonization of data collection and national reporting processes.",
+        "citation": [
+          "The instrument could focus on measures that would achieve efficiencies for industry and prevent the impacts of plastic pollution through global harmonisation.",
+          "Global standards and definitions to support the circular trade in plastics, reduce the costs of doing business and increase recycling rates. Global standards and definitions will be needed to define problematic single-use plastics, standards to ensure products are truly recyclable, and definitions and standards to counter vague and prolific greenwashing claims.",
+          "The instrument would benefit from establishing a baseline standard or guidelines for national action plans to ensure a consistent approach and to facilitate efficient development by parties.",
+          "Collect, harmonise and analyse data on plastic production, use, movement, leakage, and effects.",
+          "National reporting requirements should be designed to be efficient, effective in supporting implementation of the instrument, and harmonised with existing reporting processes where possible to avoid duplication and minimise reporting burdens on governments and industry."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for 'harmonisation' and the creation of 'global standards,' 'definitions,' and 'consistent approaches' across multiple areas. A dedicated subsection titled 'Supporting harmonised approaches' outlines specific measures. The citations show clear intent to standardize methodologies for national plans, data collection, reporting, and definitions for products and materials, which directly aligns with the code's definition of making approaches consistent across countries."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document explicitly proposes technical assistance, technology transfer (in areas of product design, waste management, and recycling), and a scientific and technical mechanism to share information, analysis, and data. It also mentions providing guidance and fostering cooperation among nations.",
+        "citation": [
+          "Collaborative actions to manage existing pollution, including guidance and cooperation to address legacy marine litter, including in international waters.",
+          "A mechanism for scientific and socio-economic information and analysis to inform decision-making will be vital to the successful implementation of the instrument.",
+          "Technical assistance and technology transfer (on mutually agreed terms) will be particularly important in the areas of: Product design and production – designing products to maximise the value of embedded plastics and ensure they are designed for circularity. Environmentally sound waste management... Recycling...",
+          "This information can then be used to direct effort toward the highest priority issues and to provide guidance to nations on the most effective domestic interventions."
+        ],
+        "reasoning": "The document directly calls for mechanisms to exchange information, expertise, and technology. The explicit mentions of 'technical assistance', 'technology transfer', 'guidance and cooperation', and a 'mechanism for scientific and socio-economic information and analysis' all perfectly align with the definition of knowledge sharing, which involves exchanging information, best practices, and expertise to build capacity among stakeholders."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document proposes a high-level objective to 'End plastic pollution' and outlines the types of measures that should be included in a treaty (e.g., restraining production, eliminating single-use plastics, increasing recycling rates). However, it does not specify any concrete, measurable targets with quantitative values, percentages, or deadlines for these actions."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "virgin plastic reduction, national reporting on virgin plastic production, recycled input materials",
+        "citation": [
+          "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+          "New technologies will be crucial to restraining virgin plastic production while maintaining (and improving) standards of living.",
+          "Traceability, transparency and labelling standards to support a circular plastics economy, support the phase out of harmful chemicals through mandatory disclosure provisions, reduce 'green-washing', and increase validity of recycled input materials."
+        ],
+        "reasoning": "The document explicitly calls for measures to 'restrain the production of unnecessary primary plastics' and 'restraining virgin plastic production'. Virgin and primary plastics refer to the raw material (feedstock) stage of the value chain. Additionally, it mentions increasing the 'validity of recycled input materials', which is an alternative feedstock to virgin plastic."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document suggests several measures related to plastic production, including restraining the production of unnecessary primary/virgin plastics, implementing national reporting on virgin plastic production, collecting and analyzing data on production, and incorporating circularity principles into product design and production processes.",
+        "citation": [
+          "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+          "Collect, harmonise and analyse data on plastic production, use, movement, leakage, and effects.",
+          "New technologies will be crucial to restraining virgin plastic production while maintaining (and improving) standards of living.",
+          "Product design and production – designing products to maximise the value of embedded plastics and ensure they are designed for circularity."
+        ],
+        "reasoning": "The cited texts directly address the manufacturing and creation process of plastics. They explicitly mention restraining the production of 'primary' and 'virgin' plastics, which refers to newly created polymers. Furthermore, they propose control measures such as national reporting and data collection specifically on 'plastic production', confirming a focus on this upstream stage of the value chain."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document calls for design standards and criteria to ensure products are designed for safe recyclability, reuse, and repair, and for circularity to maximize the value of embedded plastics.",
+        "citation": [
+          "noting estimates by the OECD that 70% of a product's environmental impact is determined at the design stage.",
+          "Design standards/criteria to ensure products (including their chemical composition) are designed for safe recyclability, reuse and repair.",
+          "Product design and production – designing products to maximise the value of embedded plastics and ensure they are designed for circularity."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions the importance of the design stage. It proposes specific measures such as establishing 'Design standards/criteria' for recyclability, reuse, and repair, and highlights the need for technical assistance in 'Product design and production' to achieve circularity goals."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "Product design standards for recyclability, reuse, and repair; restrictions and phase-out/ban of chemicals of concern and hazardous additives.",
+        "citation": [
+          "Design standards/criteria to ensure products (including their chemical composition) are designed for safe recyclability, reuse and repair.",
+          "Global approach to phasing out/banning chemicals of concern and hazardous additives in plastics, noting plastic is a globally traded material.",
+          "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+          "Product design and production – designing products to maximise the value of embedded plastics and ensure they are designed for circularity."
+        ],
+        "reasoning": "The document explicitly discusses measures related to the product production stage. The citations call for establishing 'Design standards/criteria' for products and regulating their 'chemical composition' through a 'Global approach to phasing out/banning chemicals of concern and hazardous additives'. This directly addresses the manufacturing of plastic products and the use of chemical additives within them. However, it does not specifically mention intentionally added microplastics in products."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "The document addresses the distribution stage by including transportation as a key part of the plastic life cycle. It also proposes measures such as trade-related measures, global standards for circular trade, traceability standards, and data collection on the movement of plastics.",
+        "citation": [
+          "This mandated approach covers source materials, product design and production, transportation, use and end of life treatment and impacts.",
+          "Traceability, transparency and labelling standards to support a circular plastics economy, support the phase out of harmful chemicals through mandatory disclosure provisions, reduce 'green-washing', and increase validity of recycled input materials.",
+          "Given the global nature of the trade in plastics and plastic products, global measures are necessary to provide transparency and fair market conditions to ensure countries do not unknowingly import products containing harmful chemicals or products with high litter propensity.",
+          "We need to establish common baseline information and improve data on plastic production, use, movement through the life cycle, waste management and leakage."
+        ],
+        "reasoning": "The document explicitly names 'transportation' as a stage in the plastic life cycle to be addressed. It further elaborates on this stage by discussing the 'trade in plastics', the need for 'traceability' standards, and data collection on the 'movement' of plastics, all of which are core concepts within the distribution and supply chain phase."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "The document addresses consumption through proposals to eliminate problematic and unnecessary single-use plastics and by promoting design standards that enable product reuse and repair.",
+        "citation": [
+          "This mandated approach covers source materials, product design and production, transportation, use and end of life treatment and impacts.",
+          "Eliminate problematic and unnecessary single-use plastics.",
+          "Design standards/criteria to ensure products (including their chemical composition) are designed for safe recyclability, reuse and repair."
+        ],
+        "reasoning": "The document explicitly includes the 'use' phase as part of the full life cycle approach to plastics. It also proposes specific control measures targeting consumption, such as the elimination of single-use plastics and the promotion of product design for reuse and repair, which directly relate to how consumers interact with and use plastic products."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document refers to the need for 'environmentally sound waste management services' and 'end of life management of plastic waste', which are broad categories that include the collection of post-consumer waste.",
+        "citation": [
+          "Regulating the movement, and end of life management of plastic waste to reduce leakage from mismanaged waste.",
+          "Environmentally sound waste management – reducing plastic leakage into the environment is dependent on communities having access to environmentally sound waste management services and technology.",
+          "Core obligations, control measures and voluntary actions will be necessary to help the global community... manage plastic waste in an environmentally sound manner, and address legacy pollution."
+        ],
+        "reasoning": "The document explicitly identifies the need for 'environmentally sound waste management' and 'end of life management' as crucial measures to reduce plastic leakage. These processes fundamentally begin with the collection of post-consumer waste. The text further highlights that access to these 'waste management services' is a dependency for preventing pollution, directly linking to the concept of waste collection."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "environmentally sound waste management, regulation of plastic waste movement, end of life management of plastic waste, recycling technologies, management of legacy marine litter, application of the waste hierarchy",
+        "citation": [
+          "Ensuring that those plastics that are essential but cannot be reused or recycled are managed in an environmentally sound manner, in line with the waste hierarchy.",
+          "Regulating the movement, and end of life management of plastic waste to reduce leakage from mismanaged waste.",
+          "Collaborative actions to manage existing pollution, including guidance and cooperation to address legacy marine litter, including in international waters.",
+          "Environmentally sound waste management – reducing plastic leakage into the environment is dependent on communities having access to environmentally sound waste management services and technology.",
+          "Recycling - our ability to recycle materials and keep them in the economy longer is continually improving through new recycling technologies."
+        ],
+        "reasoning": "The document explicitly proposes measures for the downstream stage of waste management. The citations call for ensuring 'environmentally sound waste management', regulating the 'end of life management of plastic waste', managing 'legacy marine litter', and providing access to waste management services and recycling technologies. These points directly address the handling and processing of plastic waste after its collection, aligning with the code's definition."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document mentions several recycling-related measures, including: increasing recycling rates, establishing design standards for safe recyclability, creating global standards to ensure products are truly recyclable, increasing the validity of recycled input materials, fast-tracking advanced recycling technologies, and providing technical assistance and technology transfer for new recycling technologies.",
+        "citation": [
+          "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+          "Design standards/criteria to ensure products (including their chemical composition) are designed for safe recyclability, reuse and repair.",
+          "Global standards and definitions to support the circular trade in plastics, reduce the costs of doing business and increase recycling rates.",
+          "Fast-track the rollout of environmentally sustainable plastic technologies (e.g., bio-plastic alternatives, advanced recycling technologies).",
+          "Recycling - our ability to recycle materials and keep them in the economy longer is continually improving through new recycling technologies."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions recycling as a core strategy to manage plastics. The citations show a comprehensive approach, from setting 'recycling rates' as a goal and establishing standards for product 'recyclability', to promoting 'advanced recycling technologies' and providing technical assistance to improve recycling capabilities. This indicates a clear focus on the recycling stage of the plastic life cycle."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "Collaborative actions to manage existing pollution, and guidance and cooperation to address legacy marine litter.",
+        "citation": [
+          "Collaborative actions to manage existing pollution, including guidance and cooperation to address legacy marine litter, including in international waters."
+        ],
+        "reasoning": "The document explicitly mentions addressing existing pollution that is already in the environment. The cited text calls for 'collaborative actions to manage existing pollution' and specifically to 'address legacy marine litter', which directly aligns with the code definition of cleaning up already-polluted areas."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document links plastic pollution to climate change, an issue driven by greenhouse gas emissions.",
+        "citation": [
+          "Plastic pollution contributes to the triple planetary crisis of climate change, biodiversity loss and pollution as a consequence of the plastic leakage into the environment at every stage of its lifecycle."
+        ],
+        "reasoning": "The document explicitly states that plastic pollution contributes to climate change in its explanatory text for the proposed objective. Climate change is a direct result of greenhouse gas emissions, thus fitting the code's definition of addressing emissions associated with the plastic lifecycle."
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "Filling knowledge gaps on the environmental and human health impacts of microplastics.",
+        "citation": [
+          "The mechanism should incorporate the best available science and traditional knowledge to: Fill knowledge gaps regarding the environmental and human health impacts of chemicals of concern and microplastics."
+        ],
+        "reasoning": "The document explicitly proposes a measure to address microplastics by suggesting a scientific mechanism to 'Fill knowledge gaps regarding the environmental and human health impacts of... microplastics'. This constitutes a measure aimed at understanding and ultimately addressing the issue, which aligns with the code's focus on measures related to microplastics."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document specifies a deadline for the negotiation phase, aiming for a timely conclusion and an agreed text by the end of 2024.",
+        "citation": [
+          "The INC should consider the potential scientific/technical issues that may arise, how these issues could be addressed, and how the scientific community and First Nation peoples will be engaged to provide input to negotiations to facilitate a timely conclusion and agreed text by end 2024."
+        ],
+        "reasoning": "The cited text provides a concrete deadline ('end 2024') for a critical phase of the instrument's development, which is the conclusion of negotiations and the agreement on the final text. This is a specific timeframe for a key implementation step."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document suggests a facilitative compliance mechanism focused on performance monitoring and national reporting to provide guidance and support, rather than strict enforcement. It explicitly calls for avoiding burdensome requirements.",
+        "citation": [
+          "Performance monitoring/compliance must focus upon achieving the objectives of the instrument as soon as possible and make visible the matters that would benefit from greater global cooperation or support.",
+          "Compliance and monitoring should avoid onerous reporting and data requirement that detract from the real-world solutions required to achieve the instrument's objective.",
+          "This information can then be used to direct effort toward the highest priority issues and to provide guidance to nations on the most effective domestic interventions."
+        ],
+        "reasoning": "The cited text indicates a preference for a low-stringency compliance model. Instead of mentioning sanctions, penalties, or a formal enforcement body, the proposal emphasizes a supportive role for compliance, focusing on providing 'guidance' and 'support'. The explicit desire to 'avoid onerous reporting' further reinforces the preference for a flexible and non-burdensome system."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global, legally-binding treaty that is implemented through national-level actions and plans.",
+        "citation": [
+          "The title of the UNEA resolution 5/14, *End Plastic Pollution: Towards an International Legally-binding Instrument*, has already settled ending plastic pollution as the goal of the Treaty (in the public sphere).",
+          "The instrument should support national-level actions, complemented by clear, transparent global requirements where necessary.",
+          "National action plans will be critical to the instrument's successful implementation, as identified by UNEA resolution 5/14.",
+          "Core obligations should focus on: Ensuring global action is taken across the full life cycle of plastics"
+        ],
+        "reasoning": "The document consistently refers to an 'International Legally-binding Instrument' and a 'Treaty,' establishing its global scope. It then specifies that the primary mechanism for putting the treaty into practice is through 'national action plans' and 'national-level actions,' demonstrating a global framework with national-level implementation."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "Private investment in plastic circularity and harnessing private capital and investment to support the instrument's objectives.",
+      "citation": [
+        "We note there is significant private investment occurring to improve the circularity of plastics.",
+        "There is an opportunity for the finance mechanism to harness this private capital and investment (in addition to government contributions) to support the instrument's objectives."
+      ],
+      "reasoning": "The document explicitly notes that 'significant private investment' is already happening to improve plastic circularity. It further proposes that the treaty's financial mechanism should leverage this 'private capital and investment', which directly confirms the private sector as a recognized source of financing for the instrument's goals."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document refers to 'government contributions' as a source for a financial assistance mechanism. It also suggests considering existing mechanisms like the Global Environment Facility, which is funded by governments.",
+      "citation": [
+        "There is an opportunity for the finance mechanism to harness this private capital and investment (in addition to government contributions) to support the instrument's objectives.",
+        "To reduce administration costs, consideration should first be given to drawing on existing and established mechanisms, such as the Global Environment Facility.",
+        "Capacity building should focus on those interventions that have the most impact in reducing plastic pollution, with the goal to ensure countries can deliver the necessary ongoing government services and measures without relying on external financial assistance."
+      ],
+      "reasoning": "The text explicitly states that a finance mechanism should include 'government contributions' alongside private investment. It also proposes using the Global Environment Facility, a well-known international funding body supported by contributions from various states. Furthermore, the discussion on capacity building aims to help countries provide their own 'government services' without needing 'external financial assistance,' which implies that such assistance, likely from public sources, is a considered means of implementation."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "Global Environment Facility",
+      "citation": [
+        "Mechanisms to facilitate financial assistance will be required to implement the instrument globally.",
+        "To reduce administration costs, consideration should first be given to drawing on existing and established mechanisms, such as the Global Environment Facility."
+      ],
+      "reasoning": "The document explicitly proposes using an existing international financing mechanism, the Global Environment Facility, as a potential source of financial assistance to help countries implement the treaty. This directly aligns with the code definition of financing from an international multilateral fund."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "The document suggests applying the 'polluter-pays principle' and promoting 'market-based instruments' as potential measures.",
+      "citation": [
+        "Applying the precautionary approach and polluter-pays principle, noting information gaps should not be a reason to delay action where we know certain chemicals or products cause harm.",
+        "Promote market-based instruments that recognise the value of plastics, ensure that plastic is put to its best and most necessary uses, and avoided where it is unnecessary."
+      ],
+      "reasoning": "The document explicitly advocates for the 'polluter-pays principle' and the use of 'market-based instruments'. These are foundational economic concepts for policies that generate revenue through taxes, fees, or charges on polluting activities or products to fund environmental measures."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "private investment, private capital",
+      "citation": [
+        "We note there is significant private investment occurring to improve the circularity of plastics. There is an opportunity for the finance mechanism to harness this private capital and investment (in addition to government contributions) to support the instrument's objectives."
+      ],
+      "reasoning": "The document explicitly identifies 'private capital and investment' as a source of funding that can be harnessed. This is a form of voluntary financial contribution from the private sector, distinct from mandatory or government-based financing."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Restrain the production of unnecessary primary plastics; Design standards for safe recyclability, reuse, and repair; Phase out/ban chemicals of concern and hazardous additives; Adhere to traceability, transparency, and labelling standards; Design products for circularity.",
+      "citation": [
+        "Restrain the production of unnecessary primary plastics through eliminating unnecessary plastics, measures to increase recycling rates, national reporting on virgin plastic production, potential trade-related measures, labelling requirements and phase-out of certain materials/additives.",
+        "Design standards/criteria to ensure products (including their chemical composition) are designed for safe recyclability, reuse and repair.",
+        "Global approach to phasing out/banning chemicals of concern and hazardous additives in plastics, noting plastic is a globally traded material.",
+        "Product design and production – designing products to maximise the value of embedded plastics and ensure they are designed for circularity."
+      ],
+      "reasoning": "The document explicitly outlines several responsibilities for the production sector, particularly under the heading 'Upstream actions'. The cited texts directly mention obligations such as restraining the production of virgin plastics, adhering to design standards for recyclability and repair, phasing out harmful chemicals and additives, and designing products for circularity. These are all explicit roles and obligations assigned to plastic producers and manufacturers."
+    },
+    "consumers": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Environmentally sound waste management, regulating end-of-life management to reduce leakage, increasing recycling rates, managing legacy pollution, and innovating in recycling technologies and waste management services.",
+      "citation": [
+        "Ensuring that those plastics that are essential but cannot be reused or recycled are managed in an environmentally sound manner, in line with the waste hierarchy.",
+        "Regulating the movement, and end of life management of plastic waste to reduce leakage from mismanaged waste.",
+        "Core obligations, control measures and voluntary actions will be necessary to help the global community move swiftly to a safe circular economy, support circular economy trade, reduce plastic leakage to the environment, manage plastic waste in an environmentally sound manner, and address legacy pollution.",
+        "Environmentally sound waste management – reducing plastic leakage into the environment is dependent on communities having access to environmentally sound waste management services and technology."
+      ],
+      "reasoning": "The document explicitly assigns responsibilities to the downstream, post-consumer stage of the plastic lifecycle. The cited texts clearly articulate obligations for the waste management sector, including the environmentally sound management of plastic waste (especially non-recyclables), the regulation of end-of-life processes to prevent leakage, the management of existing pollution, and the provision of necessary services and technology."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Developing and implementing national action plans, national reporting on performance, data gathering, monitoring compliance, and delivering ongoing government services for waste management.",
+      "citation": [
+        "Improving global understanding of the problem and measuring performance (through national reporting obligations)",
+        "National action plans allow nations to outline their commitments and actions to meet the objective and obligations of the instrument.",
+        "A requirement to report on national performance against the measures in the instrument and implementation of National Action Plans will assist in providing transparency of implementation, and essential data to facilitate periodic analysis of progress in meeting the instrument's objective.",
+        "Capacity building should focus on those interventions that have the most impact in reducing plastic pollution, with the goal to ensure countries can deliver the necessary ongoing government services and measures without relying on external financial assistance."
+      ],
+      "reasoning": "The document explicitly outlines several responsibilities for national governments (referred to as 'nations' and 'countries') in the implementation of the proposed treaty. The cited texts detail specific obligations such as creating national action plans, conducting national reporting to measure performance, and delivering essential government services related to waste management."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "The document calls for the mobilisation and engagement of a 'broad range of actors' and 'stakeholders' within a multi-stakeholder action agenda and in research and development.",
+      "citation": [
+        "Australia supports provisions in the instrument that facilitate the development of a multi-stakeholder action agenda. Action to address plastic pollution requires the mobilisation of a broad range of actors and these actors must be engaged early in this process.",
+        "Provisions that support strong stakeholder engagement, including with the research and development community, technical experts and innovators will facilitate this."
+      ],
+      "reasoning": "Although the document does not explicitly use the terms 'NGOs', 'civil society', or 'advocacy groups', it assigns roles to the broader categories of 'actors' and 'stakeholders'. These terms are widely understood in policy contexts to include non-governmental organizations. The cited texts indicate a responsibility for these groups to be mobilized and engaged in a multi-stakeholder action agenda and to participate in research and development processes."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document assigns several roles to UN-related entities, including: setting the foundational mandate for the treaty (through UNEA resolution 5/14), convening and guiding negotiations (via the INC), facilitating financial assistance through existing mechanisms (like the Global Environment Facility), and coordinating with other multilateral agreements and bodies (such as SAICM).",
+      "citation": [
+        "The title of the UNEA resolution 5/14, End Plastic Pollution: Towards an International Legally-binding Instrument, has already settled ending plastic pollution as the goal of the Treaty (in the public sphere).",
+        "Australia supports the INC process considering approaches that draw upon the knowledge and experience of existing multilateral technical and scientific workstreams. This includes investigating links between the Science Policy Panel currently under development, SAICM, and with other chemicals, waste, and pollution multilateral agreements and bodies.",
+        "To reduce administration costs, consideration should first be given to drawing on existing and established mechanisms, such as the Global Environment Facility.",
+        "To this end we request that INC2 develop a list of the questions requiring input from science, technical and other advisors to inform the structure and early work program of any advisory mechanism."
+      ],
+      "reasoning": "The cited texts explicitly mention UN-convened bodies (UNEA, INC), related international initiatives (SAICM), and associated financial mechanisms (Global Environment Facility). The document assigns specific responsibilities to these entities, such as framing the treaty's objective based on a UNEA resolution, requesting the INC to manage the negotiation process, and suggesting the use of the GEF for financial assistance. This demonstrates a clear allocation of roles and responsibilities to the UN system and related international governance bodies."
+    }
+  }
+}

@@ -1,0 +1,566 @@
+{
+  "submission_metadata": {
+    "country": "Uganda",
+    "date": "2023-01-01",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "To protect human health and the environment from plastic pollution",
+        "To prevent and manage plastic pollution across the plastic value chain",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?"
+      ],
+      "reasoning": "The document explicitly states multiple objectives aimed at tackling plastic pollution, such as protecting the environment from it and preventing and managing it across the value chain. The section on core obligations is also framed around 'addressing plastic pollution'. This confirms the objective is mentioned. However, the document does not specify any target year or timeline for achieving these objectives."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Put in place economic incentives for plastics alternatives and disincentives for virgin plastic production"
+      ],
+      "reasoning": "The document explicitly proposes creating 'disincentives for virgin plastic production'. This is a direct measure aimed at controlling or limiting the manufacturing of new plastic, which aligns perfectly with the code's definition of reducing production."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document identifies a key objective as protecting human health from plastic pollution and specifies the potential danger of microplastics entering the aquatic food chain and subsequently harming human health.",
+      "citation": [
+        "To protect human health and the environment from plastic pollution",
+        "Not to mention the possibility of micro plastics ending up into the Lake Victoria aquatic biodiversity and subsequent potential danger to human health and environment."
+      ],
+      "reasoning": "The submission explicitly lists 'To protect human health' as the first proposed objective. It further substantiates this by citing a specific risk pathway, namely the 'potential danger to human health' from microplastics contaminating the aquatic ecosystem, which directly links plastic pollution to a human health concern."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "To protect human health and the environment from plastic pollution",
+        "...the plastics find their way into the lakes and rivers which link them to ocean s and seas thereby contributing to global marine litter.",
+        "Not to mention the possibility of micro plastics ending up into the Lake Victoria aquatic biodiversity and subsequent potential danger to human health and environment."
+      ],
+      "reasoning": "The document explicitly lists the protection of the environment as a primary objective. It specifically highlights the threat plastic pollution poses to 'Lake Victoria aquatic biodiversity.' Furthermore, it demonstrates a marine focus by connecting pollution in its local freshwater systems (lakes and rivers) directly to the problem of 'global marine litter'."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "To prevent and manage plastic pollution across the plastic value chain",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "Formal training sessions with academic institutions targeting different stakeholders across the value chain."
+      ],
+      "reasoning": "The document explicitly states an objective to manage plastic pollution \"across the plastic value chain,\" which is synonymous with a lifecycle approach. Furthermore, it directly responds to a prompt that includes the phrase \"throughout the full life cycle,\" indicating that the proposed measures are framed within this comprehensive context. The repeated mention of the \"value chain\" reinforces the intention to address plastics at all stages of their existence."
+    },
+    "other_objectives": {
+      "value": "Promote a circular economy, ensure a just transition for affected stakeholders, and establish mechanisms for international cooperation and support.",
+      "citation": [
+        "A key objective must be to promote a circular economy for plastics.",
+        "Furthermore, the treaty should ensure a just transition for all affected stakeholders, particularly in the waste management sector, by creating green jobs and supporting reskilling programs.",
+        "Finally, the instrument must establish mechanisms for effective international cooperation, including the provision of financial assistance and technology transfer to developing countries, to ensure that all Parties can meet their obligations."
+      ],
+      "reasoning": "The document explicitly states several objectives that are distinct from the excluded categories. These include: 1) Promoting a 'circular economy' as a specific economic model; 2) Ensuring a 'just transition,' which is a socio-economic objective focused on equity for workers and communities; and 3) Establishing 'international cooperation' with financial and technical support, which is an implementation and equity mechanism for the treaty itself."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "economic incentives for plastics alternatives and disincentives for virgin plastic production",
+        "citation": [
+          "Put in place economic incentives for plastics alternatives and disincentives for virgin plastic production"
+        ],
+        "reasoning": "The document calls for the implementation of 'economic incentives' and 'disincentives' related to plastic alternatives and virgin plastic production. These are fiscal measures that typically include tax-based mechanisms, such as tax breaks or virgin plastic taxes, thereby matching the code's definition of tax incentives and similar fiscal measures."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document proposes implementing economic incentives for alternatives to plastics.",
+        "citation": [
+          "Put in place economic incentives for plastics alternatives and disincentives for virgin plastic production"
+        ],
+        "reasoning": "The document explicitly recommends establishing 'economic incentives for plastics alternatives'. This directly matches the code definition, which includes 'financial incentives' as a key indicator for the subsidies code."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "disincentives for virgin plastic production",
+        "citation": [
+          "Put in place economic incentives for plastics alternatives and disincentives for virgin plastic production"
+        ],
+        "reasoning": "The document explicitly proposes the implementation of 'disincentives for virgin plastic production'. A disincentive is a financial measure designed to discourage a specific action, which aligns with the code's definition of punitive financial measures, functioning similarly to a penalty or tax to discourage the production of new plastics."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "Investment in Research and Innovation for Recycling, Reuse and Reducing plastics.",
+        "citation": [
+          "Invest in Research and Innovation for Recycling, Reuse and Reducing plastics"
+        ],
+        "reasoning": "The document explicitly lists 'Invest in Research and Innovation for Recycling, Reuse and Reducing plastics' as a proposed implementation measure. This directly aligns with the code definition, which looks for mentions of R&D funding or innovation investments related to the plastic value chain."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "Implementing mechanisms for Extended Producer Responsibility (EPR), potentially through Joint Venture Schemes.",
+        "citation": [
+          "Put in place mechanisms to implement Extended Producer Responsibility (EPR)",
+          "Financial assistance could be best achieved through Joint Venture Schemes particularly in Extended Producer (EPR) Responsibility implementation"
+        ],
+        "reasoning": "The document explicitly lists 'Put in place mechanisms to implement Extended Producer Responsibility (EPR)' as a core obligation. It further suggests that financial assistance for implementation could be achieved through 'Joint Venture Schemes' specifically for EPR, confirming that it is a key proposed regulatory instrument."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "Tailored sensitization for vulnerable groups (market ladies, pickers, youth)",
+        "citation": [
+          "Tailored sensitization of critical demographics like market ladies (gender issue), pickers, youth etc."
+        ],
+        "reasoning": "The document explicitly identifies 'pickers,' a key vulnerable group in the informal waste sector, and other specific demographics like 'market ladies' and 'youth' for targeted sensitization. This focus on specific, often marginalized, social groups involved in the plastic value chain is a core element of a just transition."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document suggests banning single-use plastics and prohibiting the importation of certain plastics.",
+        "citation": [
+          "Put in place legislation to effectively manage plastics pollution including banning of single use plastics where alternatives exist",
+          "In line with the Bamako Convention, prohibit importation of certain plastics and seek written consent to import certain plastics, thereby limiting the possibility of dumping"
+        ],
+        "reasoning": "The document explicitly proposes two types of bans as potential control measures: a ban on single-use plastics and a prohibition on the importation of certain plastics. These quotes directly support the presence of this regulatory instrument."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document proposes the development of national guidelines and Standard Operating Procedures (SOPs) to implement the global instrument.",
+        "citation": [
+          "Develop national guidelines and/or Standard Operating Procedures (SOPs) to implement the global instrument"
+        ],
+        "reasoning": "The proposal to develop 'national guidelines and/or Standard Operating Procedures (SOPs)' directly relates to the creation of performance standards. These instruments are used to establish specific criteria, requirements, and regulations that must be met to ensure the proper implementation of the global treaty on plastics, which fits the code definition."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National Action Plans (Strategies)",
+        "citation": [
+          "Develop National Action Plans (Strategies) to serve as information baselines against which progress can be measured"
+        ],
+        "reasoning": "The document explicitly proposes the development of 'National Action Plans (Strategies)' as a key measure for implementing the instrument at the national level, directly matching the code definition."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document suggests a need for national reporting to measure progress against baselines established in National Action Plans. It also mentions profiling case studies and promoting best practices as a form of information sharing.",
+        "citation": [
+          "b) How to ensure effectiveness of the instrument and have efficient national reporting?",
+          "Develop National Action Plans (Strategies) to serve as information baselines against which progress can be measured",
+          "Profile case studies and promote best practices based on the success stories and lessons from failure stories"
+        ],
+        "reasoning": "The document directly addresses the topic of 'efficient national reporting' in a question. The subsequent answers propose creating 'information baselines against which progress can be measured' and profiling case studies, which are clear forms of information sharing and progress reporting that align with the code definition."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document suggests prohibiting the importation of certain plastics and requiring written consent to import other plastics, in line with the Bamako Convention, to prevent dumping.",
+        "citation": [
+          "In line with the Bamako Convention, prohibit importation of certain plastics and seek written consent to import certain plastics, thereby limiting the possibility of dumping"
+        ],
+        "reasoning": "The cited text explicitly proposes measures that directly regulate the international trade of plastics. It calls for prohibiting the importation of some plastics and establishing a consent-based system for others, which are clear examples of trade requirements as defined by the code."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "Using National Action Plans as baselines to measure progress; requiring equipment and tools for monitoring and compliance efforts.",
+        "citation": [
+          "Develop National Action Plans (Strategies) to serve as information baselines against which progress can be measured",
+          "Equipment, tools and tools for ensuring monitoring and compliance efforts"
+        ],
+        "reasoning": "The document explicitly states the need for National Action Plans to serve as 'information baselines against which progress can be measured,' which is a direct reference to a monitoring function. Furthermore, it lists 'equipment, tools and tools for ensuring monitoring and compliance efforts' as a required measure to support implementation, confirming the intention to establish systems for tracking and assessment."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document suggests developing national guidelines, Standard Operating Procedures (SOPs), case studies, and best practices to aid implementation.",
+        "citation": [
+          "Develop national guidelines and/or Standard Operating Procedures (SOPs) to implement the global instrument",
+          "Profile case studies and promote best practices based on the success stories and lessons from failure stories"
+        ],
+        "reasoning": "The text explicitly proposes the creation of specific informational and guidance tools, such as 'national guidelines', 'Standard Operating Procedures (SOPs)', 'case studies', and 'best practices', to support the implementation of the instrument. This directly aligns with the definition of providing informational resources to help stakeholders."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "The document suggests several educational initiatives, including general education and awareness campaigns to influence consumer behavior, tailored sensitization programs for specific demographic groups like market ladies and youth, and formal training sessions in collaboration with academic institutions for stakeholders across the plastic value chain.",
+        "citation": [
+          "Create desired behaviors through education and awareness creation around plastics usage (trigger demand for recycled plastics)",
+          "Tailored sensitization of critical demographics like market ladies (gender issue), pickers, youth etc.",
+          "Formal training sessions with academic institutions targeting different stakeholders across the value chain."
+        ],
+        "reasoning": "The document explicitly lists 'education and awareness creation' as a core approach. It further elaborates on this by proposing specific actions like 'tailored sensitization' and 'formal training sessions' with academic institutions, clearly matching the code definition for education as a soft instrument."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "stakeholder forums",
+        "citation": [
+          "Creation of knowledge exchange platforms like stakeholder forums, benchmarking engagements among countries with similar characteristics etc."
+        ],
+        "reasoning": "The document explicitly proposes the creation of 'stakeholder forums' as knowledge exchange platforms. This aligns with the definition of an advisory or expert group intended to provide guidance and share information among relevant parties to support the implementation of the instrument."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document suggests investing in research and innovation for recycling, reuse, and reducing plastics, as well as promoting best practices and creating knowledge exchange platforms.",
+        "citation": [
+          "Invest in Research and Innovation for Recycling, Reuse and Reducing plastics",
+          "Profile case studies and promote best practices based on the success stories and lessons from failure stories",
+          "Creation of knowledge exchange platforms like stakeholder forums, benchmarking engagements among countries with similar characteristics etc."
+        ],
+        "reasoning": "The cited texts explicitly call for investment in research and innovation and the promotion and exchange of knowledge through best practices and platforms. These actions directly align with the definition of encouraging scientific research, innovation, and knowledge development to combat plastic pollution."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "Development of national guidelines and Standard Operating Procedures (SOPs) to implement the global instrument; benchmarking engagements among countries.",
+        "citation": [
+          "Develop national guidelines and/or Standard Operating Procedures (SOPs) to implement the global instrument",
+          "Creation of knowledge exchange platforms like stakeholder forums, benchmarking engagements among countries with similar characteristics etc."
+        ],
+        "reasoning": "The document calls for the development of national 'Standard Operating Procedures (SOPs)' to implement a global instrument, which inherently requires aligning national methods with an international standard. Furthermore, the suggestion of 'benchmarking engagements among countries' points to a process of comparing and aligning national approaches and performance based on common standards or practices, which is a form of soft harmonization."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document suggests several knowledge sharing initiatives, including profiling case studies, promoting best practices, technology transfer from developed to developing countries, regional and international collaboration, and the creation of knowledge exchange platforms such as stakeholder forums and benchmarking engagements between countries.",
+        "citation": [
+          "Profile case studies and promote best practices based on the success stories and lessons from failure stories",
+          "Regional and international collaboration",
+          "Technology transfer especially from developed to developing countries",
+          "Creation of knowledge exchange platforms like stakeholder forums, benchmarking engagements among countries with similar characteristics etc."
+        ],
+        "reasoning": "The document explicitly calls for mechanisms to share information and expertise. The cited texts detail specific methods for this exchange, such as promoting best practices, transferring technology between nations, and establishing dedicated platforms like forums and benchmarking exercises to facilitate learning and capacity building among stakeholders and countries."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document outlines high-level objectives, core obligations, and implementation measures, such as putting in place legislation, implementing EPR, and developing national action plans. However, it does not specify any quantitative or time-bound targets (e.g., reduction percentages, recycling rates, or specific deadlines)."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "virgin plastic production disincentives, promoting recycled plastics, promoting plastics alternatives",
+        "citation": [
+          "Put in place economic incentives for plastics alternatives and disincentives for virgin plastic production",
+          "Create desired behaviors through education and awareness creation around plastics usage (trigger demand for recycled plastics)"
+        ],
+        "reasoning": "The document explicitly proposes measures intended to influence the type of raw materials used in plastic production. It suggests creating 'disincentives for virgin plastic production' and triggering 'demand for recycled plastics', which serves as an alternative feedstock. This directly addresses the feedstock stage of the value chain."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "disincentives for virgin plastic production, Cleaner Production initiatives",
+        "citation": [
+          "Put in place economic incentives for plastics alternatives and disincentives for virgin plastic production",
+          "Capacity in Cleaner Production and green economy initiatives"
+        ],
+        "reasoning": "The document explicitly mentions two measures related to the production stage. Firstly, it proposes creating 'disincentives for virgin plastic production,' which directly targets the manufacturing of new plastic polymers. Secondly, it identifies a need for 'Capacity in Cleaner Production,' which refers to optimizing manufacturing processes to be more environmentally sound and efficient. Both citations fall under the definition of addressing the manufacturing or creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": "cleaner production initiatives",
+        "citation": [
+          "Capacity in Cleaner Production and green economy initiatives"
+        ],
+        "reasoning": "The document explicitly calls for building capacity in \"Cleaner Production\" initiatives. This is a preventative environmental strategy that is applied to the processes of manufacturing products to increase eco-efficiency and reduce risks, directly addressing the product production stage of the value chain."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "prohibit importation of certain plastics; require written consent for importation of certain plastics",
+        "citation": [
+          "In line with the Bamako Convention, prohibit importation of certain plastics and seek written consent to import certain plastics, thereby limiting the possibility of dumping"
+        ],
+        "reasoning": "The cited text mentions measures to control the importation of plastics. Importation is a key activity within the international supply chain and distribution stage, as it involves the transportation of products across borders before they reach the domestic market and consumers."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "banning single-use plastics; consumer education and awareness creation; influencing consumer demand",
+        "citation": [
+          "Put in place legislation to effectively manage plastics pollution including banning of single use plastics where alternatives exist",
+          "Create desired behaviors through education and awareness creation around plastics usage (trigger demand for recycled plastics)"
+        ],
+        "reasoning": "The document explicitly proposes measures that target the consumption stage of the value chain. It directly calls for 'banning of single use plastics', a key measure addressing consumer products. It also advocates for influencing consumer behavior through 'education and awareness creation around plastics usage' and aiming to 'trigger demand for recycled plastics', which are both direct interventions in the consumption phase."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document proposes implementing Extended Producer Responsibility (EPR) schemes and engaging with informal waste 'pickers' through sensitization efforts.",
+        "citation": [
+          "Put in place mechanisms to implement Extended Producer Responsibility (EPR)",
+          "Financial assistance could be best achieved through Joint Venture Schemes particularly in Extended Producer (EPR) Responsibility implementation",
+          "Tailored sensitization of critical demographics like market ladies (gender issue), pickers, youth etc."
+        ],
+        "reasoning": "The document mentions implementing Extended Producer Responsibility (EPR), which is a policy mechanism where producers are responsible for the post-consumer stage of their products' life cycle, often including organizing or funding collection systems. Furthermore, the explicit mention of 'pickers,' who are key actors in the informal waste collection sector, and the proposal to engage them through sensitization, directly addresses the collection and gathering of plastic waste."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "Extended Producer Responsibility (EPR), creating value from plastic waste through reuse and recycle models, Public Private Partnerships (PPP) for managing plastics, and research/innovation in recycling and reuse.",
+        "citation": [
+          "Put in place mechanisms to implement Extended Producer Responsibility (EPR)",
+          "Work with private sector to create value out of plastic waste (reuse and recycle models)",
+          "Invest in Research and Innovation for Recycling, Reuse and Reducing plastics",
+          "As first step, consider Public Private Partnership (PPP) to managing plastics"
+        ],
+        "reasoning": "The document explicitly proposes measures that fall under waste management, which involves the handling and processing of plastic waste after it has been used and collected. The citations mention specific strategies like Extended Producer Responsibility (EPR), developing reuse and recycling models, and forming partnerships specifically for 'managing plastics', all of which are core components of the downstream waste management stage."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document mentions several recycling-related measures: developing 'reuse and recycle models' with the private sector, creating consumer demand for recycled plastics, and investing in research and innovation for recycling.",
+        "citation": [
+          "Work with private sector to create value out of plastic waste (reuse and recycle models)",
+          "Create desired behaviors through education and awareness creation around plastics usage (trigger demand for recycled plastics)",
+          "Invest in Research and Innovation for Recycling, Reuse and Reducing plastics"
+        ],
+        "reasoning": "The document explicitly proposes several measures that fall under the recycling stage of the value chain. The citations show suggestions to develop recycling models, stimulate the market for recycled materials, and invest in recycling innovation, all of which directly align with the code definition for recycling."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document mentions unclogging drainage systems as a measure to manage existing plastic pollution.",
+        "citation": [
+          "In addition, the plastics find their way into the lakes and rivers which link them to ocean s and seas thereby contributing to global marine litter.",
+          "Not to mention the possibility of micro plastics ending up into the Lake Victoria aquatic biodiversity and subsequent potential danger to human health and environment.",
+          "indeed records show that City Authorities spend over Ush 6.4 Billion annually to unclog the drainages systems, a bill that could have been invested in health care improvement."
+        ],
+        "reasoning": "The document explicitly references the problem of existing plastic pollution, such as 'global marine litter' and plastics in 'lakes and rivers'. It provides a specific example of an action taken to address this legacy pollution: the costly effort by city authorities to 'unclog the drainages systems'. This action directly falls under the definition of cleaning up already-polluted areas."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document acknowledges the problem of microplastics ('the possibility of micro plastics ending up into the Lake Victoria aquatic biodiversity'), but it does not mention or propose any specific measures to address their unintentional release from sources like tire wear, textile washing, or pellet loss. The proposed actions focus on macroplastic management."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document proposes various actions, such as developing National Action Plans and putting legislation in place, but it does not associate these measures with any specific timelines, deadlines, or schedules for implementation. The text focuses on what should be done rather than when it should be completed."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes legally binding measures such as national legislation, banning single-use plastics, and prohibiting the importation of certain plastics. It also mentions the need for tools to support monitoring and compliance efforts.",
+        "citation": [
+          "Put in place legislation to effectively manage plastics pollution including banning of single use plastics where alternatives exist",
+          "In line with the Bamako Convention, prohibit importation of certain plastics and seek written consent to import certain plastics, thereby limiting the possibility of dumping",
+          "Equipment, tools and tools for ensuring monitoring and compliance efforts"
+        ],
+        "reasoning": "The proposal advocates for the creation of legally binding instruments, including 'legislation,' 'banning,' and 'prohibit[ing]' certain activities. This goes beyond voluntary approaches and implies a strict, enforceable framework. The explicit mention of needing tools for 'monitoring and compliance efforts' further supports the classification of 'High' stringency, as it indicates a system to ensure the proposed obligations are met."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global instrument requiring national-level implementation through action plans and guidelines.",
+        "citation": [
+          "Develop national guidelines and/or Standard Operating Procedures (SOPs) to implement the global instrument",
+          "Develop National Action Plans (Strategies) to serve as information baselines against which progress can be measured",
+          "...plastics find their way into the lakes and rivers which link them to ocean s and seas thereby contributing to global marine litter."
+        ],
+        "reasoning": "The document is a submission for an international negotiation committee (INC) on plastic pollution, addressing a global problem ('global marine litter'). The proposed implementation measures explicitly mention creating 'national guidelines' and 'National Action Plans' to implement a 'global instrument,' clearly defining the scale as a global treaty with national-level execution."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document suggests several private sector financing mechanisms, including Public Private Partnerships (PPP), Joint Venture Schemes, and Extended Producer Responsibility (EPR) implementation.",
+      "citation": [
+        "Work with private sector to create value out of plastic waste (reuse and recycle models)",
+        "As first step, consider Public Private Partnership (PPP) to managing plastics",
+        "Financial assistance could be best achieved through Joint Venture Schemes particularly in Extended Producer (EPR) Responsibility implementation"
+      ],
+      "reasoning": "The document explicitly proposes Public Private Partnerships (PPPs) and Joint Venture Schemes as models for implementation and financial assistance. Furthermore, it advocates for Extended Producer Responsibility (EPR), a policy approach where producers (private sector) are given significant financial responsibility for the treatment or disposal of post-consumer products."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "Public spending by city authorities to manage the consequences of plastic pollution (e.g., unclogging drainage systems).",
+      "citation": [
+        "In addition, most of the economic activities happen around Lake Victoria and indeed records show that City Authorities spend over Ush 6.4 Billion annually to unclog the drainages systems, a bill that could have been invested in health care improvement."
+      ],
+      "reasoning": "The document explicitly mentions spending by 'City Authorities,' which are public, state-level entities. This spending is a form of public financing used to address the impacts of plastic pollution, directly matching the code's definition."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "Financial assistance (via UNEP document reference), regional and international collaboration.",
+      "citation": [
+        "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance.",
+        "Regional and international collaboration"
+      ],
+      "reasoning": "The document explicitly references a United Nations Environment Programme (UNEP) document that covers 'financial assistance' as a means of implementation. UNEP is an international organization, directly linking the concept of financial aid to an international source. Additionally, the call for 'Regional and international collaboration' as a required implementation measure reinforces the idea of seeking support, including financial, from international partners."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "disincentives for virgin plastic production",
+      "citation": [
+        "Put in place economic incentives for plastics alternatives and disincentives for virgin plastic production"
+      ],
+      "reasoning": "The document explicitly proposes creating 'disincentives for virgin plastic production'. Economic disincentives in a policy context are typically implemented as taxes or fees on producers to discourage a specific activity, which directly matches the code's definition of financing derived from fees or taxes."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "Public Private Partnership (PPP), Joint Venture Schemes",
+      "citation": [
+        "As first step, consider Public Private Partnership (PPP) to managing plastics",
+        "Financial assistance could be best achieved through Joint Venture Schemes particularly in Extended Producer (EPR) Responsibility implementation"
+      ],
+      "reasoning": "The document proposes Public Private Partnerships (PPPs) and Joint Venture Schemes as means of implementation. These mechanisms rely on voluntary financial investment and participation from the private sector, which qualifies as a form of non-mandatory financial support as per the code definition."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Implement Extended Producer Responsibility (EPR), including through joint ventures; work with the private sector to create value from plastic waste through reuse and recycle models; and respond to disincentives for virgin plastic production.",
+      "citation": [
+        "Put in place mechanisms to implement Extended Producer Responsibility (EPR)",
+        "Work with private sector to create value out of plastic waste (reuse and recycle models)",
+        "Put in place economic incentives for plastics alternatives and disincentives for virgin plastic production",
+        "Financial assistance could be best achieved through Joint Venture Schemes particularly in Extended Producer (EPR) Responsibility implementation"
+      ],
+      "reasoning": "The document explicitly calls for implementing Extended Producer Responsibility (EPR), a policy that places direct responsibility on producers for the post-consumer lifecycle of their products. It also identifies a role for the 'private sector'—which includes producers—in creating value from plastic waste and participating in joint ventures for EPR implementation, clearly outlining their obligations in plastic pollution management."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document refers to the need to create desired behaviors in the public regarding plastic usage and to trigger consumer demand for recycled plastics.",
+      "citation": [
+        "Create desired behaviors through education and awareness creation around plastics usage (trigger demand for recycled plastics)",
+        "Tailored sensitization of critical demographics like market ladies (gender issue), pickers, youth etc."
+      ],
+      "reasoning": "The document assigns a role to the public by proposing to 'create desired behaviors' and 'trigger demand for recycled plastics'. This implies that consumers have a responsibility to change their usage habits and purchasing decisions. The call for 'tailored sensitization' of demographics like market ladies and youth further supports that the public is expected to adopt new behaviors."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document assigns responsibilities to the private sector, which includes waste management and recycling entities, to create value from plastic waste through reuse and recycling models, invest in research and innovation for recycling and reuse, and engage in Public Private Partnerships (PPPs) for managing plastics.",
+      "citation": [
+        "Work with private sector to create value out of plastic waste (reuse and recycle models)",
+        "Invest in Research and Innovation for Recycling, Reuse and Reducing plastics",
+        "As first step, consider Public Private Partnership (PPP) to managing plastics"
+      ],
+      "reasoning": "The document explicitly proposes obligations that involve the private sector in post-consumer plastic management. The citations call for the private sector (which encompasses waste management and recycling companies) to develop recycling models, innovate in reuse and recycling, and participate in partnerships to manage plastics, thus assigning them clear responsibilities in the waste value chain."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "Identifies 'pickers' as a critical demographic requiring tailored sensitization and engagement.",
+      "citation": [
+        "Tailored sensitization of critical demographics like market ladies (gender issue), pickers, youth etc."
+      ],
+      "reasoning": "The document explicitly lists 'pickers,' a common term for informal waste collectors, as a 'critical demographic' that needs to be engaged through 'tailored sensitization.' This directly acknowledges their presence and role as stakeholders in the context of plastic pollution management."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines several government responsibilities, including: legislation creation (e.g., banning single-use plastics), implementing mechanisms like Extended Producer Responsibility (EPR), creating economic incentives and disincentives, prohibiting and regulating imports, developing national action plans and guidelines, investing in research, running public awareness campaigns, and designating national contact points for coordination.",
+      "citation": [
+        "Put in place legislation to effectively manage plastics pollution including banning of single use plastics where alternatives exist",
+        "Put in place mechanisms to implement Extended Producer Responsibility (EPR)",
+        "Put in place economic incentives for plastics alternatives and disincentives for virgin plastic production",
+        "In line with the Bamako Convention, prohibit importation of certain plastics and seek written consent to import certain plastics, thereby limiting the possibility of dumping",
+        "Develop National Action Plans (Strategies) to serve as information baselines against which progress can be measured",
+        "Develop national guidelines and/or Standard Operating Procedures (SOPs) to implement the global instrument",
+        "Designate an office or contact point to communicate and coordinate with parties on issues related to plastics"
+      ],
+      "reasoning": "The document explicitly lists core obligations and implementation measures that are fundamental responsibilities of a national government. The cited texts detail actions such as creating legislation, implementing policy mechanisms (EPR), controlling international trade (importation), and developing national strategic plans, all of which fall squarely within the purview of governmental or public agencies."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document implies roles for the UN system in facilitating international collaboration, providing a framework for capacity-building, technical assistance, and technology transfer, and creating platforms for knowledge exchange.",
+      "citation": [
+        "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance.",
+        "Regional and international collaboration",
+        "Creation of knowledge exchange platforms like stakeholder forums, benchmarking engagements among countries with similar characteristics etc."
+      ],
+      "reasoning": "The document does not explicitly assign tasks to a specific UN agency. However, it directly references a UNEP document (UNEP/PP/INC.1/5) in the context of required implementation measures like technical assistance and capacity-building, strongly implying a role for the UN system. Furthermore, the calls for 'Regional and international collaboration' and 'Creation of knowledge exchange platforms' describe functions typically coordinated and facilitated by international bodies or treaty secretariats within the UN framework."
+    }
+  }
+}

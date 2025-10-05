@@ -1,0 +1,607 @@
+{
+  "submission_metadata": {
+    "country": "People's Republic of China",
+    "date": "2023-02-10",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "China suggests that the objective of the instrument could be to protect human health and the environment from adverse impact of plastic pollution, to ensure a better and more sustainable future for all.",
+        "In this regard, the international community should take necessary measures to reduce the leakage of plastic waste to the environment, with the aim to protect human health and the environment from adverse impact of plastic pollution.",
+        "The core obligations of the instrument should adopt the concept of full life cycle to address plastic pollution and focus on waste management to minimize the leakage of plastic waste to the environment...",
+        "National Action Plan(NAP) is essential for countries to develop national strategies based on their national circumstances to address plastic pollution domestically and contribute to the global efforts."
+      ],
+      "reasoning": "The document explicitly states that the objective of the instrument is to \"protect human health and the environment from adverse impact of plastic pollution\" and repeatedly uses the phrase \"address plastic pollution\" when defining core obligations and implementation measures. This aligns with the code definition which includes looking for statements about addressing or tackling plastic pollution as a primary goal. However, the document does not specify any overarching date or timeline for achieving this objective."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Restrict or ban the production and use of certain plastic products with specific categories and purposes;",
+        "In general, a variety of economic and market tools could be adopted in an integrated manner to reduce production and use of plastic products and enhance research and development of alternatives."
+      ],
+      "reasoning": "The document mentions reducing plastic production within the context of 'voluntary approaches'. It explicitly lists the option to 'Restrict or ban the production' of certain products and suggests using economic tools 'to reduce production'. This directly satisfies the code definition for mentioning production reduction. However, it does not provide any specific quantitative targets or caps, hence no specifications are provided."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "clothing, food, housing, transportation, medical care, industrial engineering, construction, agriculture",
+      "citation": [
+        "Plastics are fundamental materials that guarantee clothing, food, housing, transportation, and medical care, with wide application in industrial engineering, construction, agriculture, etc.",
+        "Therefore, when formulating the objective of the instrument, the significant role and contribution of plastics to human society and economy should not be neglected and plastics should be put in the whole socioeconomic system to consider the synergy between economy, society and environment."
+      ],
+      "reasoning": "The document explicitly states that plastics are 'fundamental materials' and lists their essential role in providing 'clothing, food, housing, transportation, and medical care,' as well as their use in key industries. It further emphasizes that the 'significant role and contribution of plastics' should not be neglected, which directly aligns with the code's definition of acknowledging plastic's positive contributions and utility."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document states that a primary objective of the instrument should be to protect human health from the adverse impacts of plastic pollution. It also calls for enhanced research and development into the specific health impacts of plastics, microplastics, and the transboundary movement of plastic waste.",
+      "citation": [
+        "China suggests that the objective of the instrument could be to protect human health and the environment from adverse impact of plastic pollution, to ensure a better and more sustainable future for all.",
+        "...the international community should take necessary measures to reduce the leakage of plastic waste to the environment, with the aim to protect human health and the environment from adverse impact of plastic pollution.",
+        "Enhance the research and development in the areas of: Sources, releases and the impact on human health and the environment of plastics and microplastics,",
+        "Impact of transboundary movements of plastic waste on human health and the environment,"
+      ],
+      "reasoning": "The document explicitly and repeatedly frames the protection of human health as a core objective for the international instrument. The cited texts clearly state this goal and further reinforce its importance by calling for specific research into the health impacts of plastics, microplastics, and their waste streams."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "China suggests that the objective of the instrument could be to protect human health and the environment from adverse impact of plastic pollution, to ensure a better and more sustainable future for all.",
+        "Plastics are not pollutants, however, it will take hundreds or even thousands of years to completely degrade when leaked to the nature environment because of their stable physicochemical structures, leading to long-term adverse impact on global soil and aquatic environment and biodiversity.",
+        "The mismanagement of plastic waste has led to contamination of the entire marine environment, from shores to the deepest ocean sediments"
+      ],
+      "reasoning": "The document explicitly states that a key objective is to protect the environment. It directly identifies that leaked plastics have a \"long-term adverse impact on global soil and aquatic environment and biodiversity.\" While the focus is broad, including terrestrial environments (\"soil\"), it specifically highlights the marine impact by citing a UNEP document stating that plastic waste has contaminated the \"entire marine environment,\" justifying the marine focus."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "The core obligations of the instrument should adopt the concept of full life cycle to address plastic pollution and focus on waste management to minimize the leakage of plastic waste to the environment, including,",
+        "1. Promote sustainable production and consumption of plastics.",
+        "2. Strengthen the collection of the post-consumer products and improve the reuse of plastic waste by utilizing it as materials and energy.",
+        "Therefore, based on the core obligations that focus on waste management to minimize plastic pullution, voluntary approaches should be taken during other phases of the life circle of plastics, such as the production and consumption, in adaption with different national circumstances and development paths."
+      ],
+      "reasoning": "The document explicitly states that the instrument's core obligations should \"adopt the concept of full life cycle.\" Although it emphasizes a focus on waste management for core obligations, it also includes measures for \"sustainable production and consumption\" and suggests voluntary approaches for \"other phases of the life circle of plastics.\" This comprehensive scope, addressing production, consumption, and end-of-life management, justifies the 'Full lifecycle' coverage."
+    },
+    "other_objectives": {
+      "value": "Mitigate climate change and support closed-loop systems for plastics",
+      "citation": [
+        "...to contribute to the recovery of biodiversity and the mitigation of climate change;",
+        "Support closed-loop systems for plastics to ensure that plastics are kept in the economy and out of the environment;"
+      ],
+      "reasoning": "The document lists 'the mitigation of climate change' as a specific goal, which is a distinct environmental objective separate from protecting biodiversity or ending plastic pollution. Furthermore, it explicitly aims to 'Support closed-loop systems,' a specific circular economy principle that is a separate objective from the broader lifecycle approach."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "Tax on certain types of plastic products.",
+        "citation": [
+          "Tax on certain types of plastic products;",
+          "In general, a variety of economic and market tools could be adopted in an integrated manner to reduce production and use of plastic products and enhance research and development of alternatives."
+        ],
+        "reasoning": "The document explicitly lists 'Tax on certain types of plastic products' as a potential 'voluntary approach'. This is a direct example of a tax-related measure as defined by the code. The subsequent sentence further supports this by classifying such measures as 'economic and market tools'."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "Financial support and assistance from developed countries and international organizations to developing countries to help them implement the instrument and address plastic pollution.",
+        "citation": [
+          "Developed countries should provide additional, sufficient and predictable financial support and technical assistance to developing countries, mindful of the needs of the least developed countries and small island developing states.",
+          "Promote international organizations, within their capacities, to assist developing countries with financial and technological support;"
+        ],
+        "reasoning": "The document explicitly calls for 'financial support' and 'financial and technological support' to be provided by developed countries and international organizations to developing countries. This matches the code definition, which includes 'financial support' as a form of subsidy or related financial incentive."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "Tax on certain types of plastic products",
+        "citation": [
+          "Tax on certain types of plastic products;",
+          "The process should be transparent, non-confrontational and non-punitive, with specific considerations of national capacity and actual situation."
+        ],
+        "reasoning": "The document lists 'Tax on certain types of plastic products' as a potential voluntary approach for countries. A tax functions as a punitive financial measure to discourage the use of certain products, which aligns with the code definition. However, it is crucial to note that the document also explicitly states the international compliance mechanism should be 'non-punitive', indicating that such measures are envisioned as national-level policy tools rather than international enforcement penalties."
+      },
+      "trading_systems": {
+        "mentioned": true,
+        "details": "The document suggests implementing a 'Tax on certain types of plastic products' as a voluntary approach.",
+        "citation": [
+          "Tax on certain types of plastic products;",
+          "In general, a variety of economic and market tools could be adopted in an integrated manner to reduce production and use of plastic products and enhance research and development of alternatives."
+        ],
+        "reasoning": "The document explicitly lists 'Tax on certain types of plastic products' as a potential voluntary approach. The code definition includes 'tariffs', which are a form of tax, and 'market-based instruments' more broadly. A tax is a classic economic/market tool designed to influence production and consumption, which directly aligns with the scope of this code."
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document suggests enhancing research and development (R&D) for alternatives to plastics, alternative products and technologies, and best available technologies (BAT/BEP) for addressing plastic pollution.",
+        "citation": [
+          "In general, a variety of economic and market tools could be adopted in an integrated manner to reduce production and use of plastic products and enhance research and development of alternatives.",
+          "Enhance the research and development in the areas of:",
+          "Alternatives/alternative materials to the problematic and unnecessary plastics,",
+          "Alternative products/alternative technologies,",
+          "Best available technologies and best environmental practices (BAT/BEP) to address plastic pollution"
+        ],
+        "reasoning": "The document explicitly states that economic tools should be used to 'enhance research and development of alternatives.' It further provides a dedicated section listing specific areas where R&D should be enhanced, including alternatives, alternative technologies, and best available technologies. This directly aligns with the code definition concerning R&D funding and financial support for technological development."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Bans or restrictions on the production and use of certain plastic products, products containing added plastic microbeads, and certain plastic additives are listed as potential voluntary approaches.",
+        "citation": [
+          "Restrict or ban the production and use of certain plastic products with specific categories and purposes;",
+          "Prohibit certain products added with plastic microbeads;",
+          "Restrict certain additives to the plastics;"
+        ],
+        "reasoning": "The document explicitly lists several types of bans and prohibitions as 'feasible voluntary approaches' that countries can adopt. The cited texts use the specific terms 'ban', 'prohibit', and 'restrict' in relation to certain plastic products, microbeads, and additives, directly matching the code's definition."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document suggests voluntary approaches such as restricting certain additives, encouraging eco-design, setting conditions for the use and ratio of reprocessed plastics, and certifying green plastic products.",
+        "citation": [
+          "Restrict certain additives to the plastics;",
+          "Encourage the eco-design of plastic products;",
+          "Set the conditions to use and the ratio of reprocessed plastics;",
+          "Certify green plastic products."
+        ],
+        "reasoning": "The cited texts list several voluntary approaches that function as performance standards. These include restricting specific additives (a material composition standard), encouraging eco-design (a design standard), setting a required ratio of reprocessed materials (a recycled content standard), and certifying 'green' products, which implies meeting a set of pre-defined criteria to earn that label."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document proposes establishing a complete system for waste management, which includes infrastructure for collection, recycling, and disposal of plastic waste.",
+        "citation": [
+          "Establish a complete system covering collection, recycling and disposal and constantly improve recycling of plastic waste."
+        ],
+        "reasoning": "The document, under the 'Control measures' section, explicitly suggests a measure to 'Establish a complete system covering collection, recycling and disposal'. This phrase directly indicates a requirement to create the necessary infrastructure and facilities for waste management, fulfilling the code's definition."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any mandatory or required product labeling, marking, or information disclosure. While it lists 'Certify green plastic products' as a potential measure, this is explicitly categorized under 'Voluntary approaches' that countries could choose to adopt, not as a core obligation or required control measure."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The instrument should request countries to develop National Action Plans (NAPs) to create national strategies for addressing plastic pollution.",
+        "citation": [
+          "National Action Plan(NAP) is essential for countries to develop national strategies based on their national circumstances to address plastic pollution domestically and contribute to the global efforts.",
+          "Hence, the instrument could request countries to develop NAPs and report regularly in according a decided timing."
+        ],
+        "reasoning": "The document explicitly proposes that the legally binding instrument should require countries to develop National Action Plans (NAPs). The cited text describes these plans as 'essential' for developing national strategies and suggests the instrument should 'request countries to develop NAPs,' which directly matches the code definition of a mandatory action plan."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The instrument should request countries to develop National Action Plans (NAPs) and report regularly on their progress according to a decided timing and format.",
+        "citation": [
+          "National Action Plan(NAP) is essential for countries to develop national strategies based on their national circumstances to address plastic pollution domestically and contribute to the global efforts.",
+          "Hence, the instrument could request countries to develop NAPs and report regularly in according a decided timing.",
+          "The format of NAPs and National Reporting could be discussed and formulated by the Conference of Parties for the reference of countries."
+        ],
+        "reasoning": "The document explicitly states that the instrument should 'request countries to develop NAPs and report regularly'. This is a clear reference to a mandatory reporting mechanism to track the implementation of national strategies against plastic pollution, fulfilling the code's definition."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document suggests reducing and controlling the transboundary movement of plastic waste, particularly from developed to developing countries.",
+        "citation": [
+          "Enhance domestic recycling and proper disposal of plastic waste and reduce its transboundary movement.",
+          "Make timetable for the controlling measures on transboundary movements of plastic waste (especially from the developed to developing countries)."
+        ],
+        "reasoning": "The document explicitly proposes core obligations and control measures aimed at the 'transboundary movement of plastic waste'. This term directly refers to international trade (import/export) of waste materials. The citations call for both the reduction and the creation of a timetable for controlling these movements, which aligns with the code definition of measures affecting international trade, such as import/export restrictions."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": true,
+        "details": "Certify green plastic products.",
+        "citation": [
+          "Certify green plastic products."
+        ],
+        "reasoning": "The document explicitly lists 'Certify green plastic products' as one of the 'feasible voluntary approaches' that the instrument could provide as an option for countries to adopt."
+      },
+      "voluntary_labelling": {
+        "mentioned": true,
+        "details": "Certification of green plastic products.",
+        "citation": [
+          "Certify green plastic products."
+        ],
+        "reasoning": "The document lists 'Certify green plastic products' under the section 'Voluntary approaches'. Product certification schemes are a form of voluntary labeling, where a product that meets specific criteria (in this case, being 'green') is given a special label or mark. This is an optional measure for entities to implement."
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document suggests setting an indicator for the recycling rate of plastic waste, establishing a system for regular National Reporting on National Action Plans (NAPs), and implementing an Effectiveness Evaluation to periodically assess outcomes and progress.",
+        "citation": [
+          "Set the indicator of recycling rate of plastic waste, especially at domestic level.",
+          "Hence, the instrument could request countries to develop NAPs and report regularly in according a decided timing.",
+          "Effectiveness Evaluation is crucial to support the periodic assessment of the outcomes, progress and potential problems towards obtaining the objective of the instrument."
+        ],
+        "reasoning": "The cited texts describe mechanisms to track, measure, and evaluate the effectiveness of the instrument. Setting an 'indicator' is a form of measurement. 'National Reporting' is a system to track and report on implementation progress. 'Effectiveness Evaluation' is an explicit call to assess outcomes. These elements directly match the code definition for monitoring."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document suggests providing various options for voluntary approaches, a standardized format for National Action Plans (NAPs) and National Reporting for reference, the development and promotion of Best Available Technologies and Best Environmental Practices (BAT/BEP), and the exchange of education and training plans.",
+        "citation": [
+          "The instrument could provide various options of feasible voluntary approaches, for instance, providing management measures and approaches that fit the national context...",
+          "The format of NAPs and National Reporting could be discussed and formulated by the Conference of Parties for the reference of countries.",
+          "Best available technologies and best environmental practices (BAT/BEP) to address plastic pollution",
+          "...formulate, exchange and implement education and training plans at both national and international levels."
+        ],
+        "reasoning": "The cited texts confirm the mention of information and guidance measures. The document proposes that the instrument could provide 'options of feasible voluntary approaches' and a 'format' for national plans for 'reference'. Furthermore, it explicitly calls for the development of 'Best available technologies and best environmental practices (BAT/BEP)' and the exchange of 'education and training plans'. These all constitute forms of guidance, best practices, and informational resources designed to help stakeholders implement effective measures, as defined by the code."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Public communication and education to raise awareness, training for technical and management personnel, and the formulation and implementation of national and international education and training plans.",
+        "citation": [
+          "Step up public communication and education to raise the awareness of reducing plastic pollution.",
+          "Raise awareness in policy making, conduct public communication on the impact of plastic pollution and alternatives, carry out training for personnel at technical and management levels and formulate, exchange and implement education and training plans at both national and international levels."
+        ],
+        "reasoning": "The document explicitly lists 'public communication and education to raise the awareness of reducing plastic pollution' as a core obligation. It further dedicates a section to 'Public communication, awareness and education', detailing specific actions such as public communication campaigns, training programs, and the development of education plans at national and international levels. These citations directly confirm the inclusion of educational measures as a recommended strategy."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not contain any mention or proposal for the establishment of scientific committees, technical panels, advisory groups, or any other form of expert body to guide the implementation of the instrument. The text focuses on national action plans, a compliance mechanism based on geographical representation, and an effectiveness evaluation without specifying the creation of a dedicated expert group to perform these tasks."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document explicitly calls for enhancing research and development in several key areas. These include understanding the sources and impacts of plastics and microplastics, developing alternatives (both materials and products/technologies), conducting economic assessments of pollution control technologies, and identifying best available technologies and environmental practices (BAT/BEP).",
+        "citation": [
+          "In general, a variety of economic and market tools could be adopted in an integrated manner to reduce production and use of plastic products and enhance research and development of alternatives.",
+          "Enhance the research and development in the areas of:",
+          "Sources, releases and the impact on human health and the environment of plastics and microplastics,",
+          "Alternatives/alternative materials to the problematic and unnecessary plastics,",
+          "Alternative products/alternative technologies,",
+          "Best available technologies and best environmental practices (BAT/BEP) to address plastic pollution"
+        ],
+        "reasoning": "The document directly encourages scientific and technological advancement by stating the need to 'enhance research and development' across a wide range of topics related to plastic pollution. This is a clear example of promoting research and innovation without specifying any binding financial commitments, which aligns perfectly with the definition of research promotion as a soft instrument."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "Formulation of a common format for National Action Plans (NAPs) and National Reporting.",
+        "citation": [
+          "The format of NAPs and National Reporting could be discussed and formulated by the Conference of Parties for the reference of countries."
+        ],
+        "reasoning": "The document proposes that the Conference of Parties could formulate a common format for National Action Plans and National Reporting. This is a direct example of harmonization, as it seeks to standardize the structure and content of national reports to ensure consistency and comparability across different countries."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions several knowledge sharing mechanisms, including technical assistance from developed to developing countries, the development and application of Best Available Technologies and Best Environmental Practices (BAT/BEP), the exchange of education and training plans at national and international levels, and technological support from international organizations.",
+        "citation": [
+          "Developed countries should provide additional, sufficient and predictable financial support and technical assistance to developing countries, mindful of the needs of the least developed countries and small island developing states.",
+          "Best available technologies and best environmental practices (BAT/BEP) to address plastic pollution",
+          "...formulate, exchange and implement education and training plans at both national and international levels.",
+          "Promote international organizations, within their capacities, to assist developing countries with financial and technological support;"
+        ],
+        "reasoning": "The cited texts explicitly call for 'technical assistance', the 'exchange' of 'education and training plans' internationally, and the promotion of 'Best available technologies and best environmental practices (BAT/BEP)'. These are all clear mechanisms for sharing expertise, information, and technology between countries and stakeholders to build capacity in addressing plastic pollution, directly aligning with the code's definition."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document suggests that control measures should be established, such as setting an 'indicator of recycling rate of plastic waste' and a 'ratio of reprocessed plastics'. However, it does not specify any concrete numerical targets, percentages, or deadlines. The text focuses on recommending the creation of such indicators and frameworks rather than defining them."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "recycled content requirements, promotion of alternative materials",
+        "citation": [
+          "Set the conditions to use and the ratio of reprocessed plastics;",
+          "Enhance the research and development in the areas of: ... Alternatives/alternative materials to the problematic and unnecessary plastics,"
+        ],
+        "reasoning": "The document suggests voluntary approaches that include setting a 'ratio of reprocessed plastics', which directly corresponds to recycled content requirements for feedstock. It also calls for research into 'alternative materials', which addresses the raw materials used in production. Both points align with the code definition for feedstock."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document suggests promoting sustainable production, restricting or banning the production of certain plastic products, restricting certain additives, and using economic tools to reduce production.",
+        "citation": [
+          "Promote sustainable production and consumption of plastics.",
+          "Restrict or ban the production and use of certain plastic products with specific categories and purposes;",
+          "Restrict certain additives to the plastics;",
+          "In general, a variety of economic and market tools could be adopted in an integrated manner to reduce production and use of plastic products and enhance research and development of alternatives."
+        ],
+        "reasoning": "The document explicitly includes 'sustainable production' as a core obligation and lists 'restrict or ban the production' of certain products and the reduction of production as potential voluntary approaches. These measures directly address the manufacturing or creation process of plastic materials, which aligns with the code definition."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document suggests voluntary approaches such as encouraging the eco-design of plastic products, prohibiting products with added plastic microbeads, and restricting certain additives to plastics.",
+        "citation": [
+          "Encourage the eco-design of plastic products;",
+          "Prohibit certain products added with plastic microbeads;",
+          "Restrict certain additives to the plastics;"
+        ],
+        "reasoning": "The document explicitly lists 'Encourage the eco-design of plastic products' as a potential voluntary approach. This, along with measures on additives and microbeads, directly addresses the design and composition of plastic products, which is a key aspect of the midstream value chain."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": true,
+        "chemicals_addressed": true,
+        "details": "Restrict or ban the production of certain plastic products, prohibit products with added plastic microbeads, restrict certain additives, encourage eco-design, and set conditions for using reprocessed plastics.",
+        "citation": [
+          "Restrict or ban the production and use of certain plastic products with specific categories and purposes;",
+          "Prohibit certain products added with plastic microbeads;",
+          "Restrict certain additives to the plastics;",
+          "Encourage the eco-design of plastic products;",
+          "Set the conditions to use and the ratio of reprocessed plastics;"
+        ],
+        "reasoning": "The document explicitly lists several potential voluntary approaches that target the product production stage. These include measures to restrict or ban the production of certain items, prohibit intentionally added microplastics (specifically microbeads), and restrict chemical additives, thereby directly addressing manufacturing, microplastics, and chemicals in products."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "Promotion of sustainable consumption, restrictions/bans on the use of certain products, taxation on certain plastic products, public awareness campaigns, and encouraging consumers to reduce the use of non-recyclable plastics.",
+        "citation": [
+          "Promote sustainable production and consumption of plastics.",
+          "Restrict or ban the production and use of certain plastic products with specific categories and purposes;",
+          "In general, a variety of economic and market tools could be adopted in an integrated manner to reduce production and use of plastic products and enhance research and development of alternatives.",
+          "Encourage consumers to reduce use of non-recyclable plastic products;"
+        ],
+        "reasoning": "The document explicitly identifies 'Promote sustainable... consumption of plastics' as a core obligation. It further details measures targeting the use-phase, such as voluntary restrictions or bans on the use of certain products, and economic tools to 'reduce... use of plastic products'. Lastly, it directly addresses consumer behavior by suggesting to 'Encourage consumers to reduce use of non-recyclable plastic products', confirming a clear focus on the consumption stage."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document proposes strengthening the collection of post-consumer products and establishing a complete system that includes the collection, recycling, and disposal of plastic waste.",
+        "citation": [
+          "The control measures of the instrument should focus on managing the leakage of plastic waste to the environment, specifically, the collection, reuse and disposal of waste that tends to leak to the environment.",
+          "Strengthen the collection of the post-consumer products and improve the reuse of plastic waste by utilizing it as materials and energy.",
+          "Establish a complete system covering collection, recycling and disposal and constantly improve recycling of plastic waste."
+        ],
+        "reasoning": "The document explicitly and repeatedly identifies 'collection' as a core obligation and a key control measure for managing plastic waste. The cited texts specify the need to strengthen the collection of post-consumer products and to establish a comprehensive system that includes collection, which directly matches the code definition."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document emphasizes waste management as a core obligation, proposing measures such as strengthening the collection of post-consumer products, improving the reuse of plastic waste (as materials and energy), enhancing domestic recycling, ensuring proper disposal, setting recycling rate indicators, and controlling the transboundary movement of plastic waste.",
+        "citation": [
+          "The core obligations of the instrument should adopt the concept of full life cycle to address plastic pollution and focus on waste management to minimize the leakage of plastic waste to the environment...",
+          "Strengthen the collection of the post-consumer products and improve the reuse of plastic waste by utilizing it as materials and energy.",
+          "Enhance domestic recycling and proper disposal of plastic waste and reduce its transboundary movement.",
+          "Establish a complete system covering collection, recycling and disposal and constantly improve recycling of plastic waste."
+        ],
+        "reasoning": "The cited texts explicitly state that the instrument's core obligations and control measures should focus on 'waste management'. They directly mention specific post-collection processes such as 'collection', 'reuse', 'recycling', and 'disposal' of plastic waste, which directly aligns with the code definition for the waste management stage."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document suggests several recycling-related measures, including: enhancing domestic recycling, establishing a complete system for collection, recycling, and disposal, improving the recycling of plastic waste, setting a recycling rate indicator (target), defining approaches to plastic recycling, setting conditions for the use and ratio of reprocessed plastics, and encouraging private sector engagement in recycling.",
+        "citation": [
+          "Enhance domestic recycling and proper disposal of plastic waste and reduce its transboundary movement.",
+          "Establish a complete system covering collection, recycling and disposal and constantly improve recycling of plastic waste.",
+          "Set the indicator of recycling rate of plastic waste, especially at domestic level.",
+          "Approaches to plastic recycling;",
+          "Set the conditions to use and the ratio of reprocessed plastics;",
+          "Encourage the engagement of private sectors in plastic recycling and disposal."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'recycling' as a core obligation and a key control measure for managing plastic waste. The cited texts propose concrete actions such as enhancing domestic recycling capabilities, establishing recycling systems, setting recycling rate targets, and defining approaches for recycling and the use of reprocessed materials, all of which directly align with the code definition for the recycling stage of the value chain."
+      },
+      "legacy_plastic": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document calls for enhancing research and development into the sources and releases of plastics, and for the use of Best Available Technologies and Best Environmental Practices (BAT/BEP) to address plastic pollution, which typically includes emission controls.",
+        "citation": [
+          "Sources, releases and the impact on human health and the environment of plastics and microplastics,",
+          "Best available technologies and best environmental practices (BAT/BEP) to address plastic pollution"
+        ],
+        "reasoning": "The document explicitly calls for research into the 'releases' from plastics, which encompasses emissions. It also recommends adopting 'Best available technologies and best environmental practices (BAT/BEP),' a standard environmental management framework that includes measures to control air pollution and other emissions from production and waste management processes."
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "The document suggests prohibiting products with added plastic microbeads and enhancing research and development on the sources and releases of microplastics.",
+        "citation": [
+          "Prohibit certain products added with plastic microbeads;",
+          "Enhance the research and development in the areas of: Sources, releases and the impact on human health and the environment of plastics and microplastics,"
+        ],
+        "reasoning": "The document proposes two measures related to microplastics. It suggests a voluntary approach to 'Prohibit certain products added with plastic microbeads,' which is a direct control measure for primary microplastics. It also calls for enhanced 'research and development' into the 'sources, releases and the impact' of microplastics, which is a foundational measure to understand and subsequently control their leakage into the environment."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document proposes creating a timetable for specific control measures (transboundary waste movements), regular reporting on National Action Plans at a timing to be decided, and periodic effectiveness evaluations.",
+        "citation": [
+          "Make timetable for the controlling measures on transboundary movements of plastic waste (especially from the developed to developing countries).",
+          "Hence, the instrument could request countries to develop NAPs and report regularly in according a decided timing.",
+          "Effectiveness Evaluation is crucial to support the periodic assessment of the outcomes, progress and potential problems towards obtaining the objective of the instrument."
+        ],
+        "reasoning": "The document explicitly calls for the creation of a 'timetable' for certain control measures and mentions that reporting should happen 'regularly' at a 'decided timing,' and that evaluations should be 'periodic.' These terms directly indicate that schedules and timeframes are integral components of the proposed implementation, even if the exact intervals are to be determined later."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document proposes a facilitative, non-confrontational, and non-punitive compliance mechanism.",
+        "citation": [
+          "The procedure and mechanism of compliance should take facilitating countries' national implementation of the instrument as its main purpose.",
+          "The process should be transparent, non-confrontational and non-punitive, with specific considerations of national capacity and actual situation."
+        ],
+        "reasoning": "The submission explicitly advocates for a compliance mechanism that is 'non-confrontational and non-punitive'. This directly opposes the characteristics of high stringency, which would involve legally binding rules with enforcement and potential sanctions. The stated purpose is to 'facilitate' implementation, indicating a supportive and flexible approach rather than a strict one."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "The document outlines a proposal for an international treaty, or a 'legally binding instrument', which is to be implemented by individual countries through National Action Plans (NAPs) and reporting.",
+        "citation": [
+          "Submission from the People's Republic of China on an International Legally Binding Instrument on Plastic Pollution",
+          "National Action Plan(NAP) is essential for countries to develop national strategies based on their national circumstances to address plastic pollution domestically and contribute to the global efforts.",
+          "In this regard, the international community should take necessary measures to reduce the leakage of plastic waste to the environment...",
+          "Developed countries should provide additional, sufficient and predictable financial support and technical assistance to developing countries..."
+        ],
+        "reasoning": "The document's title explicitly refers to an 'International Legally Binding Instrument,' establishing its global scope. The text further supports this by mentioning the 'international community' and 'global efforts.' The implementation mechanism is described as national-level action (e.g., 'National Action Plans') to fulfill the obligations of this global agreement, including financial and technical assistance between developed and developing nations, a common feature of multilateral environmental treaties."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "Private sector engagement in plastic recycling and disposal.",
+      "citation": [
+        "Encourage the engagement of private sectors in plastic recycling and disposal."
+      ],
+      "reasoning": "The document explicitly encourages the 'engagement of private sectors' in key activities such as recycling and disposal. This engagement necessitates financial investment from these businesses to establish and operate the required infrastructure, thereby serving as a form of private sector financing and investment towards achieving the instrument's objectives."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document calls for financial support from developed countries to developing countries to aid in implementation.",
+      "citation": [
+        "Developed countries should provide additional, sufficient and predictable financial support and technical assistance to developing countries, mindful of the needs of the least developed countries and small island developing states."
+      ],
+      "reasoning": "This quote is a direct call for states (developed countries) to provide public funds ('financial support') to other states (developing countries) to help them achieve the objectives of the instrument. This aligns perfectly with the definition of financing from national governments or public sources."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "financial support from developed countries; financial support from international organizations",
+      "citation": [
+        "Developed countries should provide additional, sufficient and predictable financial support and technical assistance to developing countries, mindful of the needs of the least developed countries and small island developing states.",
+        "Promote international organizations, within their capacities, to assist developing countries with financial and technological support;"
+      ],
+      "reasoning": "The document explicitly calls for developed countries to provide 'financial support' to developing countries and encourages 'international organizations' to assist developing countries with 'financial and technological support'. These are clear examples of international financing sources as defined by the code."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "Tax on certain types of plastic products",
+      "citation": [
+        "Tax on certain types of plastic products;"
+      ],
+      "reasoning": "The document explicitly lists 'Tax on certain types of plastic products' as a potential voluntary approach. This directly addresses the code's definition concerning financing derived from taxes dedicated to addressing plastic pollution."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "financial support from international organizations",
+      "citation": [
+        "Promote international organizations, within their capacities, to assist developing countries with financial and technological support;"
+      ],
+      "reasoning": "The document encourages, or 'promotes', international organizations to provide financial support. The use of the verb 'promote' implies that this is a voluntary action to be encouraged, rather than a mandatory obligation, thus fitting the definition of a voluntary financing source."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document suggests responsibilities for the production sector, including promoting sustainable production as a core obligation. As voluntary approaches, it lists restricting or banning the production of certain products, prohibiting microbeads, restricting additives, encouraging eco-design, setting targets for reprocessed/recycled content, certifying green products, and enhancing research and development of alternatives.",
+      "citation": [
+        "Promote sustainable production and consumption of plastics.",
+        "Restrict or ban the production and use of certain plastic products with specific categories and purposes;",
+        "Prohibit certain products added with plastic microbeads;",
+        "Restrict certain additives to the plastics;",
+        "Encourage the eco-design of plastic products;",
+        "Set the conditions to use and the ratio of reprocessed plastics;",
+        "In general, a variety of economic and market tools could be adopted in an integrated manner to reduce production and use of plastic products and enhance research and development of alternatives."
+      ],
+      "reasoning": "The document explicitly lists 'Promote sustainable production' as a core obligation for addressing plastic pollution. Furthermore, under the 'Voluntary approaches' section, it provides a detailed list of potential measures that directly assign responsibilities to the production sector, such as banning or restricting specific products and additives, encouraging eco-design, and setting recycled content requirements. These citations clearly outline roles and obligations for plastic producers and manufacturers."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "reduce use of non-recyclable plastic products; be subject to public communication and education to raise awareness",
+      "citation": [
+        "Step up public communication and education to raise the awareness of reducing plastic pollution.",
+        "Encourage consumers to reduce use of non-recyclable plastic products;"
+      ],
+      "reasoning": "The document explicitly identifies consumers as key stakeholders. Under the 'Stakeholder engagement' section, it directly suggests encouraging consumers to 'reduce use of non-recyclable plastic products'. Additionally, it lists 'public communication and education to raise the awareness of reducing plastic pollution' as a core obligation, which defines a role for the public as recipients of information to enable responsible behavior."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document assigns several responsibilities to the waste management sector, including: focusing on waste management to minimize leakage; collection of post-consumer products; reuse of plastic waste; enhancing domestic recycling and proper disposal; establishing a complete system covering collection, recycling, and disposal; and managing the transboundary movement of plastic waste.",
+      "citation": [
+        "The core obligations of the instrument should adopt the concept of full life cycle to address plastic pollution and focus on waste management to minimize the leakage of plastic waste to the environment...",
+        "Strengthen the collection of the post-consumer products and improve the reuse of plastic waste by utilizing it as materials and energy.",
+        "Enhance domestic recycling and proper disposal of plastic waste and reduce its transboundary movement.",
+        "Establish a complete system covering collection, recycling and disposal and constantly improve recycling of plastic waste.",
+        "Encourage the engagement of private sectors in plastic recycling and disposal."
+      ],
+      "reasoning": "The document explicitly states that the instrument's core obligations should 'focus on waste management'. The cited texts directly enumerate the key functions of this sector, such as the collection, reuse, recycling, and disposal of plastic waste, thereby confirming that responsibilities are clearly assigned."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines numerous government responsibilities, including: developing National Action Plans (NAPs), regular national reporting, establishing comprehensive waste management systems (collection, recycling, disposal), setting recycling targets, controlling transboundary waste movements, public education, and enhancing research. For developed countries, there is an added responsibility to provide financial and technical assistance to developing nations.",
+      "citation": [
+        "National Action Plan(NAP) is essential for countries to develop national strategies based on their national circumstances to address plastic pollution domestically and contribute to the global efforts.",
+        "Hence, the instrument could request countries to develop NAPs and report regularly in according a decided timing.",
+        "Establish a complete system covering collection, recycling and disposal and constantly improve recycling of plastic waste.",
+        "Developed countries should provide additional, sufficient and predictable financial support and technical assistance to developing countries, mindful of the needs of the least developed countries and small island developing states."
+      ],
+      "reasoning": "The cited texts explicitly assign duties and obligations to 'countries' and 'developed countries,' which in the context of an international instrument, refers to their national governments. These responsibilities include strategic planning (NAPs), reporting, creating infrastructure (waste management systems), and providing international aid, all of which are core functions and roles of government entities."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document suggests that international organizations should assist developing countries by providing financial and technological support. Additionally, it assigns the role of formulating formats for National Action Plans and National Reporting to the Conference of Parties.",
+      "citation": [
+        "Promote international organizations, within their capacities, to assist developing countries with financial and technological support;",
+        "The format of NAPs and National Reporting could be discussed and formulated by the Conference of Parties for the reference of countries."
+      ],
+      "reasoning": "The cited texts directly assign responsibilities to 'international organizations' and the 'Conference of Parties'. These entities are integral to the international governance system, fitting the code's definition. The responsibilities include providing financial/technical assistance and developing reporting formats, which are core functions of such bodies in multilateral environmental agreements."
+    }
+  }
+}

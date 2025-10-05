@@ -1,0 +1,578 @@
+{
+  "submission_metadata": {
+    "country": "Burkina Faso",
+    "date": "2023-02-15",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "The objective of the treaty is to end plastic pollution through a comprehensive approach that takes into account the life cycle of plastic from design to production, and the prevention and management of plastic pollution.",
+        "In its resolution 5/14 of 2 March 2022, entitled \"Ending plastic pollution: towards an international legally binding instrument\", the United Nations Environment Assembly sets out the general objective of the treaty.",
+        "Measures to minimize total pollution through improved waste management, sanitation activities and other measures to prevent, reduce, eliminate and control plastic pollution.",
+        "In doing so, Burkina Faso, in its drive to put an end to plastic pollution and its effects on health and the environment, adopted in 2014 the law banning the production, importation, marketing and distribution of non-biodegradable plastic packaging and bags."
+      ],
+      "reasoning": "The document explicitly states multiple times that the objective of the treaty is to 'end plastic pollution'. This is mentioned as the primary objective, is supported by referencing the UN resolution title 'Ending plastic pollution', and is aligned with the country's own national 'drive to put an end to plastic pollution'. While the goal is clear, no specific target year or global timeframe for its achievement is mentioned in the text."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "The objective of the treaty is to end plastic pollution through a comprehensive approach that takes into account the life cycle of plastic from design to production, and the prevention and management of plastic pollution.",
+        "Measures to minimize total pollution through plastic pollution prevention: focus on banning and phasing out certain problematic plastics, in limiting their entry into the market and their release into the environment.",
+        "Burkina Faso, in its drive to put an end to plastic pollution and its effects on health and the environment, adopted in 2014 the law banning the production, importation, marketing and distribution of non-biodegradable plastic packaging and bags."
+      ],
+      "reasoning": "The document explicitly states that the treaty's approach includes the life cycle of plastic from 'design to production'. It further provides a concrete example of a national law implemented by Burkina Faso that is 'banning the production' of specific plastic items. This directly aligns with the code's definition of controlling or reducing plastic production, although no specific quantitative targets are mentioned."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document lists protecting human health as a core objective of the treaty. It specifies that control measures, such as banning and phasing out problematic plastics (e.g., single-use plastics and those with chemical additives), will reduce their negative effects on human health. It also notes the need for further research on the long-term health effects of plastic pollution.",
+      "citation": [
+        "protect human and animal health;",
+        "This will reduce their potential negative effects on human and animal health. This concerns single-use plastics and those containing chemical additives.",
+        "Some aspects of plastic pollution, including the long-term effects of plastic on human and animal health, knowledge and solution-oriented innovations are still uncertain, and further research is needed.",
+        "In doing so, Burkina Faso, in its drive to put an end to plastic pollution and its effects on health and the environment, adopted in 2014 the law banning the production, importation, marketing and distribution of non-biodegradable plastic packaging and bags."
+      ],
+      "reasoning": "The document explicitly states that one of the treaty's objectives is to 'protect human and animal health'. It directly links control measures for problematic plastics to the reduction of 'potential negative effects on human and animal health'. Furthermore, it frames Burkina Faso's national legislation as a response to the 'effects on health and the environment' caused by plastic pollution, and identifies the long-term health effects as an area requiring more scientific research, solidifying its relevance."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "protect human and animal health;",
+        "preserve the quality of soil, water and air;",
+        "In its resolution 5/14 entitled “Ending plastic pollution: towards an international legally binding instrument”, the Environment Assembly noted that plastic pollution, in marine and other environments, can be transboundary in nature and should be addressed, along with its impacts, through a full life cycle approach, taking into account national circumstances and capabilities."
+      ],
+      "reasoning": "The document explicitly lists protecting \"animal health\" and preserving the quality of \"soil, water and air\" as key objectives. These are direct proxies for protecting wildlife and ecosystems. Furthermore, it specifically highlights the need to address plastic pollution in \"marine and other environments,\" indicating a distinct focus that includes marine biodiversity."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "The objective of the treaty is to end plastic pollution through a comprehensive approach that takes into account the life cycle of plastic from design to production, and the prevention and management of plastic pollution.",
+        "The scope of action must include all different types of plastics and the complete life cycle of plastic in order to:",
+        "...plastic pollution, in marine and other environments, can be transboundary in nature and should be addressed, along with its impacts, through a full life cycle approach, taking into account national circumstances and capabilities."
+      ],
+      "reasoning": "The document explicitly and repeatedly uses the terms 'life cycle', 'complete life cycle', and 'full life cycle approach'. The first citation further defines this scope as covering the stages 'from design to production, and the prevention and management of plastic pollution,' which validates the classification of the coverage as 'Full lifecycle'."
+    },
+    "other_objectives": {
+      "value": "Ensure a just transition, provide financial and technical assistance, and promote international cooperation and transparency",
+      "citation": [
+        "Furthermore, it is critical that the instrument addresses the social and economic dimensions of the plastic transition, ensuring a just transition for all stakeholders, particularly in developing countries.",
+        "This includes financial and technical assistance to support the implementation of new policies and the development of circular economy infrastructure.",
+        "The treaty should also promote international cooperation and transparency."
+      ],
+      "reasoning": "The cited texts identify objectives focused on the socio-economic and procedural aspects of the policy. Ensuring a 'just transition', providing 'financial and technical assistance', and promoting 'international cooperation and transparency' are distinct goals. They are not covered by the other specified categories, which focus primarily on environmental outcomes, production levels, human health, or the technical lifecycle approach."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "fiscal measures",
+        "citation": [
+          "Political, legislative, regulatory and fiscal measures of a binding nature."
+        ],
+        "reasoning": "The document explicitly lists 'fiscal measures' as one of the fundamental control provisions for the treaty. The code definition includes 'fiscal measures that use taxation as a mechanism' as a relevant indicator, thus justifying the coding decision."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document calls for financial assistance and support for developing countries to implement the treaty. This includes funding for strategic interventions, pilot projects, and demonstration projects aimed at launching a circular economy.",
+        "citation": [
+          "To ensure that parties start on a more equitable footing, technical and financial assistance should be put in place from the outset.",
+          "Negotiations on financial support, including possible overall financial mobilisation targets, should be conducted in parallel with negotiations on core obligations and control measures...",
+          "Financial mechanisms should be designed to directly support the implementation of the treaty's core obligations and control measures.",
+          "Developed countries will need to provide financial assistance for strategic interventions aimed at launching a circular economy, including through pilot and demonstration projects."
+        ],
+        "reasoning": "The document repeatedly calls for 'financial assistance' and 'financial support' from developed to developing countries. These terms directly align with the code definition, which includes grants and financial support as forms of subsidies, intended to help nations implement treaty obligations and transition to a circular economy."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document suggests establishing mechanisms to facilitate research and innovations. It also proposes the use of financial assistance, particularly from developed countries, for pilot and demonstration projects that promote technological innovations and best practices.",
+        "citation": [
+          "The treaty should establish mechanisms and responsible bodies to facilitate robust and relevant research to expand knowledge on plastic pollution, on the status and impacts of plastic pollution, as well as innovations relevant to the strengthening and implementation of treaty control measures.",
+          "A demonstration project refers to those that promote technological innovations or best practices through project development and analysis, building a body of evidence on which future decisions will be based.",
+          "Developed countries will need to provide financial assistance for strategic interventions aimed at launching a circular economy, including through pilot and demonstration projects."
+        ],
+        "reasoning": "The document explicitly calls for establishing mechanisms to facilitate research and innovations. Furthermore, it directly links \"financial assistance\" to \"pilot and demonstration projects,\" which are defined as a means to \"promote technological innovations.\" This constitutes a clear mention of financial support for technological development in the context of plastic pollution, matching the code definition."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The principle of extended producer responsibility is listed as a foundational principle for implementing the treaty at a national level.",
+        "citation": [
+          "To ensure the implementation of the instrument at the national level, it is important to set out the principles that will serve as a basis for the application of the treaty. These include the principle of integration, the principle of prevention, the principle of extended producer responsibility, and the precautionary principle."
+        ],
+        "reasoning": "The document explicitly states that 'the principle of extended producer responsibility' is one of the key principles that should guide the national implementation of the legally binding instrument, directly matching the code's definition."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "The submission highlights the goal of improving socio-economic conditions and creating 'decent green jobs' as part of the country's national plastic waste management strategy.",
+        "citation": [
+          "The overall objective of the strategy is to contribute to environmental sanitation and the improvement of the socio-economic conditions of populations through prevention and ecological management of plastic waste.",
+          "The vision of the strategy is that by 2027, \"the plastic waste sector driven by modern initiatives, in line with a circularity perspective, is competitive, creating decent green jobs guaranteeing a healthy environment for the daughters and sons of Burkina Faso.\""
+        ],
+        "reasoning": "The cited texts directly address the social and economic impacts of the transition, which is a core component of a just transition. The explicit mention of improving 'socio-economic conditions' and creating 'decent green jobs' demonstrates a clear consideration for the welfare of the population during the shift towards a circular economy for plastics."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Banning and phasing out problematic plastics, single-use plastics, plastics containing chemical additives, and non-biodegradable plastic packaging and bags.",
+        "citation": [
+          "Measures to minimize total pollution through plastic pollution prevention: focus on banning and phasing out certain problematic plastics, in limiting their entry into the market and their release into the environment. This will reduce their potential negative effects on human and animal health. This concerns single-use plastics and those containing chemical additives.",
+          "In doing so, Burkina Faso, in its drive to put an end to plastic pollution and its effects on health and the environment, adopted in 2014 the law banning the production, importation, marketing and distribution of non-biodegradable plastic packaging and bags.",
+          "With the results obtained, the country's ambition is to revise this law to ban the use of the most problematic plastics, including single-use plastics."
+        ],
+        "reasoning": "The document explicitly identifies 'banning and phasing out certain problematic plastics' as a key control measure. It also provides a specific example of a national law already in place in Burkina Faso that bans 'non-biodegradable plastic packaging and bags', and states the country's future ambition to expand these bans to other items like 'single-use plastics'."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "Requirement for plastic packaging and bags to be biodegradable.",
+        "citation": [
+          "In doing so, Burkina Faso, in its drive to put an end to plastic pollution and its effects on health and the environment, adopted in 2014 the law banning the production, importation, marketing and distribution of non-biodegradable plastic packaging and bags."
+        ],
+        "reasoning": "The document cites a specific law from 2014 that bans 'non-biodegradable plastic packaging and bags.' This law implicitly sets biodegradability as a performance standard that these products must meet to be legally allowed on the market, which directly aligns with the code's definition of a product or material requirement."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The document mentions 'National plans', 'National action plans', 'roadmaps', and a specific 'national plastic waste management strategy and action plan'.",
+        "citation": [
+          "National plans should be aligned with the regional strategy to enable States to transpose the guidelines on combating plastic pollution both preventively and curatively.",
+          "National action plans allow countries to align their national objectives and roadmaps with the goals and aspirations of the new treaty.",
+          "Also, in January 2023, the country adopted a national plastic waste management strategy and action plan."
+        ],
+        "reasoning": "The text explicitly states that 'National action plans' are a mechanism for countries to align their national objectives and roadmaps with the new treaty's goals. It provides a concrete example of Burkina Faso having adopted its own 'national plastic waste management strategy and action plan', demonstrating the use and importance of this regulatory instrument."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document suggests a monitoring and evaluation mechanism that would require parties to provide information on the implementation of the treaty for comparison and capitalization.",
+        "citation": [
+          "A monitoring and evaluation mechanism to have a comparable basis for capitalizing on information on the implementation of the treaty."
+        ],
+        "reasoning": "The text explicitly proposes a 'monitoring and evaluation mechanism' designed to use 'information on the implementation of the treaty'. This implies a requirement for parties to report or share information on their implementation progress to allow for comparison and capitalization, which fits the definition of mandatory reporting or information sharing."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document mentions controlling plastic waste flows through the application of the Bamako and Basel conventions, which govern transboundary movement of waste. It also references a national law in Burkina Faso that bans the importation of non-biodegradable plastic packaging and bags.",
+        "citation": [
+          "Measures to minimize total pollution through better control of waste flows plastics through the application of the Bamako and Basel conventions.",
+          "In doing so, Burkina Faso, in its drive to put an end to plastic pollution and its effects on health and the environment, adopted in 2014 the law banning the production, importation, marketing and distribution of non-biodegradable plastic packaging and bags."
+        ],
+        "reasoning": "The citations explicitly mention two types of trade requirements. The first refers to the Bamako and Basel conventions, which are international treaties that regulate the transboundary movement (import/export) of hazardous wastes, including plastic waste. The second citation points to a specific national law in Burkina Faso that includes a direct ban on the 'importation' of certain plastic products, which is a clear trade restriction."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document proposes a monitoring and evaluation mechanism to gather comparable information on the implementation of the treaty.",
+        "citation": [
+          "A monitoring and evaluation mechanism to have a comparable basis for capitalizing on information on the implementation of the treaty."
+        ],
+        "reasoning": "The document explicitly calls for the creation of 'A monitoring and evaluation mechanism'. Its stated purpose is to capitalize on 'information on the implementation of the treaty,' which directly aligns with the code's definition of a system to track, assess, or evaluate policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document mentions 'guidelines on combating plastic pollution' that states should transpose into their national plans, and 'best practices' that would be promoted through demonstration projects.",
+        "citation": [
+          "National plans should be aligned with the regional strategy to enable States to transpose the guidelines on combating plastic pollution both preventively and curatively.",
+          "A demonstration project refers to those that promote technological innovations or best practices through project development and analysis, building a body of evidence on which future decisions will be based."
+        ],
+        "reasoning": "The text explicitly mentions the use of 'guidelines' to direct national-level action against plastic pollution and the promotion of 'best practices' through demonstration projects. These are clear examples of informational and guidance instruments intended to help stakeholders implement effective measures."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Public awareness campaigns targeting all stakeholders.",
+        "citation": [
+          "Raising awareness about the plastics issue will be an ongoing activity included in the agreement's implementation plan.",
+          "All stakeholders in society, from the youngest to the entire population, should now be aware of the problem of plastic pollution so that a change in behavior can accompany the treaty's implementation."
+        ],
+        "reasoning": "The document explicitly identifies 'Raising awareness' as an ongoing activity to be included in the implementation plan. The text specifies that these efforts should target 'All stakeholders in society, from the youngest to the entire population' with the goal of creating a 'change in behavior,' which directly aligns with the definition of education and awareness as a soft instrument."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "scientific and/or technical body; responsible bodies to facilitate research",
+        "citation": [
+          "The establishment of a scientific and/or technical body is one of the fundamental bases for the long-term effectiveness of the treaty.",
+          "The treaty should establish mechanisms and responsible bodies to facilitate robust and relevant research to expand knowledge on plastic pollution, on the status and impacts of plastic pollution, as well as innovations relevant to the strengthening and implementation of treaty control measures."
+        ],
+        "reasoning": "The document explicitly states that establishing a 'scientific and/or technical body' is a fundamental basis for the treaty's effectiveness and calls for 'responsible bodies' to facilitate research. This directly aligns with the code definition of creating expert bodies to provide guidance and expand knowledge for the treaty."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document calls for further research into the long-term health effects of plastic, expanding knowledge on the status and impacts of plastic pollution, and promoting solution-oriented and technological innovations to address the issue, including through pilot and demonstration projects.",
+        "citation": [
+          "Some aspects of plastic pollution, including the long-term effects of plastic on human and animal health, knowledge and solution-oriented innovations are still uncertain, and further research is needed.",
+          "The treaty should establish mechanisms and responsible bodies to facilitate robust and relevant research to expand knowledge on plastic pollution, on the status and impacts of plastic pollution, as well as innovations relevant to the strengthening and implementation of treaty control measures.",
+          "A demonstration project refers to those that promote technological innovations or best practices through project development and analysis, building a body of evidence on which future decisions will be based."
+        ],
+        "reasoning": "The document explicitly states that 'further research is needed' due to uncertainties and proposes that the treaty should 'facilitate robust and relevant research' and 'promote technological innovations'. This directly aligns with the code definition of encouraging scientific research and innovation without specific funding commitments."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "Alignment of national plans with regional strategies and treaty goals; establishment of a comparable basis for monitoring and evaluation.",
+        "citation": [
+          "National plans should be aligned with the regional strategy to enable States to transpose the guidelines on combating plastic pollution both preventively and curatively.",
+          "National action plans allow countries to align their national objectives and roadmaps with the goals and aspirations of the new treaty.",
+          "A monitoring and evaluation mechanism to have a comparable basis for capitalizing on information on the implementation of the treaty."
+        ],
+        "reasoning": "The document explicitly calls for national plans to be 'aligned' with regional strategies and the new treaty's goals, which is a clear effort toward harmonization. Additionally, the proposal for a monitoring and evaluation mechanism to create a 'comparable basis' for information directly implies the need for standardized or harmonized methodologies to ensure consistency across parties."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document suggests several knowledge-sharing initiatives, including the establishment of a scientific/technical body to expand knowledge through research and innovation, the use of pilot and demonstration projects to promote best practices and technological innovations, and a monitoring and evaluation mechanism to capitalize on and share information about implementation.",
+        "citation": [
+          "The treaty should establish mechanisms and responsible bodies to facilitate robust and relevant research to expand knowledge on plastic pollution, on the status and impacts of plastic pollution, as well as innovations relevant to the strengthening and implementation of treaty control measures.",
+          "A demonstration project refers to those that promote technological innovations or best practices through project development and analysis, building a body of evidence on which future decisions will be based.",
+          "Pilot and demonstration projects should be used to support a wide variety of innovative approaches to addressing plastic pollution at the national and regional levels, informing decisions, policies, and priorities.",
+          "A monitoring and evaluation mechanism to have a comparable basis for capitalizing on information on the implementation of the treaty."
+        ],
+        "reasoning": "The document explicitly calls for mechanisms to expand and share knowledge. The proposed scientific body is tasked with facilitating research and expanding knowledge. Demonstration projects are described as a tool to promote and build a body of evidence on 'technological innovations or best practices' to inform future decisions. Lastly, the monitoring mechanism is designed to 'capitalize on information' from treaty implementation, which implies sharing lessons learned. These elements directly match the code definition of exchanging information, best practices, and expertise to build capacity."
+      }
+    },
+    "targets": {
+      "present": true,
+      "details": "The national strategy's vision is that by 2027, 'the plastic waste sector driven by modern initiatives, in line with a circularity perspective, is competitive, creating decent green jobs guaranteeing a healthy environment'.",
+      "citation": [
+        "The vision of the strategy is that by 2027, 'the plastic waste sector driven by modern initiatives, in line with a circularity perspective, is competitive, creating decent green jobs guaranteeing a healthy environment for the daughters and sons of Burkina Faso.'"
+      ],
+      "reasoning": "The document mentions a specific national vision with a concrete deadline (2027), which qualifies as a policy target according to the definition, even though the goals themselves are qualitative rather than quantitative."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document mentions a national law banning the production of non-biodegradable plastic packaging and bags. It also includes production as a key stage in the plastic life cycle to be addressed by the treaty.",
+        "citation": [
+          "The objective of the treaty is to end plastic pollution through a comprehensive approach that takes into account the life cycle of plastic from design to production, and the prevention and management of plastic pollution.",
+          "Burkina Faso, in its drive to put an end to plastic pollution and its effects on health and the environment, adopted in 2014 the law banning the production, importation, marketing and distribution of non-biodegradable plastic packaging and bags."
+        ],
+        "reasoning": "The first citation explicitly includes 'production' as a stage of the plastic life cycle to be considered in the treaty's objectives. The second citation provides a concrete example of a national-level measure that directly addresses the manufacturing process by banning the production of specific plastic products. This directly aligns with the code definition."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document specifies that the treaty should take a comprehensive approach that considers the entire life cycle of plastic, starting from the design phase.",
+        "citation": [
+          "The objective of the treaty is to end plastic pollution through a comprehensive approach that takes into account the life cycle of plastic from design to production, and the prevention and management of plastic pollution."
+        ],
+        "reasoning": "The document explicitly identifies 'design' as the starting point of the plastic life cycle that must be addressed by the international instrument. This directly matches the code definition, which looks for measures addressing how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "ban on production of specific products (e.g., plastic packaging and bags), phase-out of problematic plastics, control of plastics with chemical additives",
+        "citation": [
+          "Measures to minimize total pollution through plastic pollution prevention: focus on banning and phasing out certain problematic plastics, in limiting their entry into the market and their release into the environment. ... This concerns single-use plastics and those containing chemical additives.",
+          "Burkina Faso, in its drive to put an end to plastic pollution and its effects on health and the environment, adopted in 2014 the law banning the production, importation, marketing and distribution of non-biodegradable plastic packaging and bags."
+        ],
+        "reasoning": "The document explicitly mentions control measures focused on the production stage, including a national law that bans the production of specific items like non-biodegradable plastic packaging and bags. It also directly addresses the issue of chemical additives in plastics, proposing control measures for plastics containing them. There is no mention of intentionally added microplastics in products."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "The document mentions a national law from 2014 that includes a ban on the importation, marketing, and distribution of non-biodegradable plastic packaging and bags.",
+        "citation": [
+          "In doing so, Burkina Faso, in its drive to put an end to plastic pollution and its effects on health and the environment, adopted in 2014 the law banning the production, importation, marketing and distribution of non-biodegradable plastic packaging and bags."
+        ],
+        "reasoning": "The cited text explicitly mentions a national law targeting the 'distribution' and 'marketing' of specific plastic products. These activities are core components of the midstream value chain stage, which involves moving products from the producer towards the consumer."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "The document mentions several consumption-related measures, including promoting sustainable consumption methods, controlling the use of plastic, banning single-use plastics, and implementing awareness campaigns to foster a change in consumer behavior.",
+        "citation": [
+          "promote the availability and use of sustainable production and consumption methods as alternatives to plastics through the circular economy.",
+          "This concerns single-use plastics and those containing chemical additives.",
+          "With the results obtained, the country's ambition is to revise this law to ban the use of the most problematic plastics, including single-use plastics.",
+          "All stakeholders in society, from the youngest to the entire population, should now be aware of the problem of plastic pollution so that a change in behavior can accompany the treaty's implementation."
+        ],
+        "reasoning": "The cited texts explicitly address the consumption stage by calling for 'sustainable production and consumption methods', specifically identifying 'single-use plastics' as a target for control, stating an ambition to 'ban the use' of these products, and aiming for 'a change in behavior' among the population. These points directly relate to consumer use and behavior concerning plastic products."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions clean-up operations, improved waste management, sanitation activities, and the adoption of a national plastic waste management strategy as measures to address plastic pollution.",
+        "citation": [
+          "take measures to eliminate plastic pollution by controlling the use of plastic and carrying out clean-up operations;",
+          "Measures to minimize total pollution through improved waste management, sanitation activities and other measures to prevent, reduce, eliminate and control plastic pollution.",
+          "Also, in January 2023, the country adopted a national plastic waste management strategy and action plan.",
+          "The overall objective of the strategy is to contribute to environmental sanitation and the improvement of the socio-economic conditions of populations through prevention and ecological management of plastic waste."
+        ],
+        "reasoning": "The cited texts justify the finding as they explicitly mention activities directly related to the collection of post-consumer plastic waste. Phrases like 'clean-up operations', 'improved waste management', 'sanitation activities', and the creation of a 'national plastic waste management strategy' all refer to the systematic gathering and handling of plastic waste after it has been used."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "improved waste management, sanitation activities, clean-up operations, control of waste flows, national plastic waste management strategy, ecological management of plastic waste, recovery of plastic waste, governance of ecological management of plastic waste",
+        "citation": [
+          "take measures to eliminate plastic pollution by controlling the use of plastic and carrying out clean-up operations;",
+          "Measures to minimize total pollution through improved waste management, sanitation activities and other measures to prevent, reduce, eliminate and control plastic pollution.",
+          "Measures to minimize total pollution through better control of waste flows plastics through the application of the Bamako and Basel conventions.",
+          "Also, in January 2023, the country adopted a national plastic waste management strategy and action plan. These are essential planning tools for coordinating the fight against plastic pollution.",
+          "This national strategy is structured around three (03) axes: (i) Prevention of plastic pollution; (ii) Recovery of plastic waste; (iii) Governance of ecological management of plastic waste."
+        ],
+        "reasoning": "The document explicitly identifies 'improved waste management, sanitation activities' and 'clean-up operations' as key measures for the treaty. It also mentions controlling waste flows through international conventions. Furthermore, it details Burkina Faso's own national strategy, which is centered on the 'ecological management of plastic waste' and includes specific strategic axes for 'Recovery of plastic waste' and 'Governance of ecological management of plastic waste', all of which are activities that occur after waste collection."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "plastic recovery actions (recovery, reuse, regeneration and recycling); circular solutions; national strategy focused on recovery of plastic waste",
+        "citation": [
+          "Measures to minimize total plastic pollution through increased availability of non-toxic plastic products: focus on plastic recovery actions (recovery, reuse, regeneration and recycling) through circular solutions for product categories most prone to leaks.",
+          "This national strategy is structured around three (03) axes: (i) Prevention of plastic pollution; (ii) Recovery of plastic waste; (iii) Governance of ecological management of plastic waste."
+        ],
+        "reasoning": "The document explicitly mentions 'recycling' as part of 'plastic recovery actions' proposed as a fundamental control measure. Furthermore, it details Burkina Faso's national strategy, which includes 'Recovery of plastic waste' as one of its three core axes. These points directly match the code definition concerning the recycling, reprocessing, or recovery of plastic materials from waste."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document mentions the need for 'clean-up operations' and for combating plastic pollution in a 'curative' manner.",
+        "citation": [
+          "take measures to eliminate plastic pollution by controlling the use of plastic and carrying out clean-up operations;",
+          "National plans should be aligned with the regional strategy to enable States to transpose the guidelines on combating plastic pollution both preventively and curatively."
+        ],
+        "reasoning": "The document explicitly refers to 'clean-up operations' as a necessary measure to eliminate plastic pollution. This phrase directly aligns with the code definition of addressing existing pollution in the environment. Furthermore, the mention of a 'curative' approach, as opposed to only a 'preventive' one, reinforces the intent to remedy pollution that has already occurred, which is the essence of managing legacy plastic."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "Preservation of air quality is mentioned as an objective of the treaty.",
+        "citation": [
+          "preserve the quality of soil, water and air;"
+        ],
+        "reasoning": "The document explicitly includes the objective to 'preserve the quality of... air'. This directly addresses the medium impacted by air pollution and emissions from the plastic lifecycle, thereby matching the code's definition, even though specific emission control measures are not detailed."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document discusses plastic pollution in a general sense, focusing on macroplastics like 'single-use plastics' and 'non-biodegradable plastic packaging and bags'. It does not contain any specific language regarding the unintentional release of microplastics from sources such as tire wear, textile washing, or the degradation of larger plastic items."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document outlines Burkina Faso's national strategy for plastic waste management, which has a specific vision to be achieved by the year 2027.",
+        "citation": [
+          "Also, in January 2023, the country adopted a national plastic waste management strategy and action plan.",
+          "The vision of the strategy is that by 2027, \"the plastic waste sector driven by modern initiatives, in line with a circularity perspective, is competitive, creating decent green jobs guaranteeing a healthy environment for the daughters and sons of Burkina Faso.\""
+        ],
+        "reasoning": "The document specifies a clear deadline (2027) for achieving the vision laid out in its national plastic waste management strategy. This represents a concrete implementation timeframe for national-level actions related to the treaty's objectives."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document explicitly calls for an 'international legally binding instrument' that includes 'measures of a binding nature'. It suggests countries will have 'shared obligations' and will need to establish national 'regulatory frameworks' to implement the treaty. A 'monitoring and evaluation mechanism' is also proposed to track implementation.",
+        "citation": [
+          "Ending plastic pollution: towards an international legally binding instrument",
+          "Political, legislative, regulatory and fiscal measures of a binding nature.",
+          "Beyond shared obligations, countries will need to put in place an additional regulatory framework for implementing the treaty.",
+          "A monitoring and evaluation mechanism to have a comparable basis for capitalizing on information on the implementation of the treaty."
+        ],
+        "reasoning": "The repeated use of terms like 'legally binding instrument' and 'measures of a binding nature' clearly indicates a preference for a high-stringency approach. The proposal for mandatory national regulatory frameworks and a monitoring mechanism further supports this assessment, as these are features of a strict, enforceable agreement rather than a voluntary one."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "The document describes a global treaty that requires implementation at the national and regional levels through action plans and strategies.",
+        "citation": [
+          "Submission on Potential Options for Elements Towards an International Legally Binding Instrument",
+          "In its resolution 5/14 of 2 March 2022, entitled \"Ending plastic pollution: towards an international legally binding instrument\", the United Nations Environment Assembly sets out the general objective of the treaty.",
+          "To ensure the implementation of the instrument at the national level, it is important to set out the principles that will serve as a basis for the application of the treaty.",
+          "National plans should be aligned with the regional strategy to enable States to transpose the guidelines on combating plastic pollution both preventively and curatively."
+        ],
+        "reasoning": "The document's title and its reference to a UN resolution for an 'international legally binding instrument' clearly establish a global scope. The citations further illustrate that this global treaty is designed to be enacted through coordinated national and regional efforts, such as national action plans and regional strategies."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": true,
+      "details": "financial assistance from developed countries, financial support, financial mechanisms, fiscal measures",
+      "citation": [
+        "Developed countries will need to provide financial assistance for strategic interventions aimed at launching a circular economy, including through pilot and demonstration projects.",
+        "To ensure that parties start on a more equitable footing, technical and financial assistance should be put in place from the outset.",
+        "Negotiations on financial support, including possible overall financial mobilisation targets, should be conducted in parallel with negotiations on core obligations and control measures, to ensure ambition both in terms of actions and means of implementation.",
+        "Political, legislative, regulatory and fiscal measures of a binding nature."
+      ],
+      "reasoning": "The document explicitly identifies states as a source of funding by stating that 'Developed countries will need to provide financial assistance'. It also refers to the need for 'financial assistance' and 'financial support' within the framework of an international treaty between states, and mentions 'fiscal measures' as a control mechanism, all of which represent financing from public or national government sources."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document mentions financial assistance from developed countries to developing countries and economies in transition.",
+      "citation": [
+        "One potential option is to first establish an obligation to provide implementation assistance to developing countries and economies in transition in the treaty text, and then put in place the detailed institutional arrangements and mechanisms necessary to fulfill this obligation once the treaty is adopted.",
+        "Developed countries will need to provide financial assistance for strategic interventions aimed at launching a circular economy, including through pilot and demonstration projects."
+      ],
+      "reasoning": "The text explicitly states that developed countries will need to provide financial assistance to developing countries to support the implementation of the treaty, which clearly indicates an international source of financing."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "fiscal measures",
+      "citation": [
+        "Political, legislative, regulatory and fiscal measures of a binding nature."
+      ],
+      "reasoning": "The document explicitly lists 'fiscal measures' as a fundamental provision for the treaty. 'Fiscal measures' is a direct reference to government policies related to taxation, fees, and other financial levies, which directly aligns with the code's definition of financing derived from fees, levies, or taxes."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "extended producer responsibility",
+      "citation": [
+        "To ensure the implementation of the instrument at the national level, it is important to set out the principles that will serve as a basis for the application of the treaty. These include the principle of integration, the principle of prevention, the principle of extended producer responsibility, and the precautionary principle."
+      ],
+      "reasoning": "The document explicitly states that the 'principle of extended producer responsibility' is a core principle for the national implementation of the treaty. This directly assigns a specific role and obligation to the production sector for the management of plastic."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "Behavioral change resulting from awareness campaigns.",
+      "citation": [
+        "All stakeholders in society, from the youngest to the entire population, should now be aware of the problem of plastic pollution so that a change in behavior can accompany the treaty's implementation."
+      ],
+      "reasoning": "The document explicitly states that the 'entire population,' which encompasses consumers, is expected to undergo a 'change in behavior' as a result of awareness initiatives. This directly assigns a role and an expected action to the public in the effort to combat plastic pollution."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Improved waste management, sanitation activities, carrying out clean-up operations, control of plastic waste flows (applying Bamako and Basel conventions), recovery of plastic waste, and ecological management of plastic waste.",
+      "citation": [
+        "Measures to minimize total pollution through improved waste management, sanitation activities and other measures to prevent, reduce, eliminate and control plastic pollution.",
+        "Measures to minimize total pollution through better control of waste flows plastics through the application of the Bamako and Basel conventions.",
+        "take measures to eliminate plastic pollution by controlling the use of plastic and carrying out clean-up operations;",
+        "Also, in January 2023, the country adopted a national plastic waste management strategy and action plan. These are essential planning tools for coordinating the fight against plastic pollution.",
+        "This national strategy is structured around three (03) axes: (i) Prevention of plastic pollution; (ii) Recovery of plastic waste; (iii) Governance of ecological management of plastic waste."
+      ],
+      "reasoning": "The document explicitly lists 'improved waste management' and 'sanitation activities' as fundamental control measures. It also cites Burkina Faso's national strategy, which includes specific responsibilities for the sector such as 'Recovery of plastic waste' and 'ecological management of plastic waste'. Furthermore, it mentions 'control of waste flows' and 'clean-up operations' as necessary actions, which directly involve the waste management sector's operational role."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "The document references Burkina Faso's national plastic waste management strategy, which includes the vision to create 'decent green jobs' within the plastic waste sector.",
+      "citation": [
+        "The vision of the strategy is that by 2027, \"the plastic waste sector driven by modern initiatives, in line with a circularity perspective, is competitive, creating decent green jobs guaranteeing a healthy environment for the daughters and sons of Burkina Faso.\""
+      ],
+      "reasoning": "While the document does not explicitly use terms like 'informal sector' or 'waste pickers', it refers to a national strategy for the 'plastic waste sector' that aims to create 'decent green jobs'. This implies a recognition of the workforce within this sector and an objective to formalize or improve their roles and socio-economic conditions, which is a clear reference to the responsibilities and future role of these workers."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "National-level implementation of the treaty, including the development of national action plans and strategies, transposing international guidelines into national law, establishing regulatory frameworks, enacting specific laws (e.g., banning certain plastics), coordinating anti-pollution efforts, and institutional strengthening through the creation of regulatory agencies and management committees.",
+      "citation": [
+        "National plans should be aligned with the regional strategy to enable States to transpose the guidelines on combating plastic pollution both preventively and curatively.",
+        "Beyond shared obligations, countries will need to put in place an additional regulatory framework for implementing the treaty.",
+        "In doing so, Burkina Faso, in its drive to put an end to plastic pollution and its effects on health and the environment, adopted in 2014 the law banning the production, importation, marketing and distribution of non-biodegradable plastic packaging and bags.",
+        "Institutional strengthening increases the capacity of governments to carry out their core functions and has become synonymous with support provided to ensure coherence and dedication through staffing within governments, for example, focal points, Management Committees or Regulatory Agencies for plastics management."
+      ],
+      "reasoning": "The document consistently outlines the obligations of national governments (referred to as 'States' or 'countries') in combating plastic pollution. The citations confirm that governments are responsible for creating national plans, establishing regulatory frameworks, enacting legislation, and forming institutional bodies like regulatory agencies. The specific example of Burkina Faso's 2014 law further solidifies this role."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document references the United Nations Environment Assembly setting the general objective for the treaty. It also advocates for a Conference of the Parties (COP) to adjust control measures over time and for the application of existing international conventions like the Bamako and Basel conventions.",
+      "citation": [
+        "In its resolution 5/14 of 2 March 2022, entitled \"Ending plastic pollution: towards an international legally binding instrument\", the United Nations Environment Assembly sets out the general objective of the treaty.",
+        "The agreement should contain a start-up and strengthening mechanism to adjust control measures over time through decisions of the Conference of the Parties (COP), similar to what exists in the Stockholm Convention on Persistent Organic Pollutants, and in the Montreal Protocol on the Management of Substances that Deplete the Ozone Layer.",
+        "Measures to minimize total pollution through better control of waste flows plastics through the application of the Bamako and Basel conventions."
+      ],
+      "reasoning": "The text explicitly names the 'United Nations Environment Assembly' and assigns it the role of setting the treaty's objective. It further proposes a 'Conference of the Parties (COP)', a standard international governance body for such treaties, to be responsible for adjusting control measures. The reference to applying the Bamako and Basel conventions also implies a role for their respective international secretariats and governing bodies."
+    }
+  }
+}

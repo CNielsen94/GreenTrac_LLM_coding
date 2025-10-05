@@ -1,0 +1,588 @@
+{
+  "submission_metadata": {
+    "country": "Türkiye",
+    "date": "2023-02-10",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": true,
+      "timeframe": "by 2050",
+      "citation": [
+        "To provide coherence, ratify commitments and guide action by States and stakeholders for eliminating plastic pollution in marine and other environments, developing zero waste hierarchy and for abating its adverse effects on human health and well-being, on the environment, and on sustainable development.",
+        "In addition, the instrument needs to commit to reduce additional plastic pollution in the marine environment to zero by a certain year by recalling the Blue Osaka Vision declared by the G20 countries includes “reduce to zero additional pollution from plastic litter in the seas by 2050 with a comprehensive life-cycle approach”.",
+        "With these mechanisms, we can get an integrated result from the efforts of developing and developed countries and ensure the end of plastic pollution."
+      ],
+      "reasoning": "The document explicitly states the objective of 'eliminating plastic pollution' and later confirms the goal is to 'ensure the end of plastic pollution'. A specific timeframe is provided by referencing the Blue Osaka Vision, which aims to 'reduce to zero additional pollution from plastic litter in the seas by 2050'."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "The instrument should introduce global common targets (eg. circularity of plastics) and timelines to reduce the plastic consumption and production addressing the entire lifecycle of the plastic, starting with the production, and offer actionable measures at every step."
+      ],
+      "reasoning": "The document explicitly states that the proposed instrument should introduce targets and timelines to 'reduce the plastic consumption and production'. This directly aligns with the code's definition of reducing or controlling the production of plastic. However, the document does not provide any specific quantitative targets or caps for this reduction, hence specification_provided is false."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": "The document exclusively discusses plastics in the context of a pollution problem that needs to be eliminated. It focuses on the adverse effects of plastic pollution and outlines strategies for reduction, circularity, and waste management. There are no statements acknowledging or mentioning any positive contributions, utility, or essential uses of plastic materials."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document aims to abate the adverse effects of plastic pollution on human health and well-being, and to ensure actions taken to protect the environment also protect human health.",
+      "citation": [
+        "To provide coherence, ratify commitments and guide action by States and stakeholders for eliminating plastic pollution in marine and other environments, developing zero waste hierarchy and for abating its adverse effects on human health and well-being, on the environment, and on sustainable development.",
+        "In this way, we can be sure that the steps we take to protect the environment, biodiversity, and human health will be carried to better places by future generations."
+      ],
+      "reasoning": "The document explicitly states that a primary objective of the proposed international instrument is to abate the adverse effects of plastic pollution on human health. It further reinforces this goal by linking the protection of the environment and biodiversity directly to the protection of human health for current and future generations."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "To provide coherence, ratify commitments and guide action by States and stakeholders for eliminating plastic pollution in marine and other environments, developing zero waste hierarchy and for abating its adverse effects on human health and well-being, on the environment, and on sustainable development.",
+        "It is of great importance to determine within the Instrument a global plastic strategy while preserving our natural resources and eco-systems in order to transition to a healthy and livable environment and circular economy for current and future generations.",
+        "In this way, we can be sure that the steps we take to protect the environment, biodiversity, and human health will be carried to better places by future generations.",
+        "An internationally binding instrument should aim to protect our environment and reduce marine litter, greenhouse gas emissions and dependence on fossil fuels."
+      ],
+      "reasoning": "The document explicitly states the objective is to abate the adverse effects of plastic pollution on the environment. It directly mentions goals such as \"preserving our natural resources and eco-systems\" and protecting \"biodiversity.\" The focus on marine environments is also explicit, with numerous references to eliminating pollution in \"marine and other environments\" and reducing \"marine litter.\""
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "The instrument should introduce global common targets (eg. circularity of plastics) and timelines to reduce the plastic consumption and production addressing the entire lifecycle of the plastic, starting with the production, and offer actionable measures at every step.",
+        "reduce to zero additional pollution from plastic litter in the seas by 2050 with a comprehensive life-cycle approach”.",
+        "In this manner, this global plastic strategy should include systemic approaches for Circular Economy and eco-innovation, such as sustainable product policy, value chain and taking into account the entire life cycle assessment of plastic products.",
+        "The new instrument would aim to provide entirely new vision for plastics economy, that will encompass design and production of plastics respect reuse, repair and recycling needs as well as development of more sustainable and durable materials."
+      ],
+      "reasoning": "The document explicitly and repeatedly calls for addressing the 'entire lifecycle of the plastic' and using a 'comprehensive life-cycle approach'. The citations confirm this by not only using the specific terminology but also by detailing various stages from production and design to use (reuse, repair) and end-of-life (recycling), justifying the classification of 'Full lifecycle' coverage."
+    },
+    "other_objectives": {
+      "value": "Foster international cooperation, provide financial and technical assistance, and ensure a just transition for affected populations.",
+      "citation": [
+        "The instrument must also foster international cooperation and collaboration to enable all countries, especially developing country Parties, to meet their obligations and goals, including through the provision of financial resources, technical assistance, and technology transfer.",
+        "Furthermore, the treaty must include provisions to ensure a just transition for affected populations, including waste-pickers and others working in the informal and cooperative sectors."
+      ],
+      "reasoning": "The cited text identifies specific policy objectives that are distinct from the excluded categories. These objectives focus on the mechanisms for implementation (international cooperation, financial/technical assistance) and the social equity dimensions (a just transition for workers). These are separate goals from the primary environmental and health aims."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "Incentive and/or disincentive based enforcement mechanisms.",
+        "citation": [
+          "In addition, to ensure effective compliance with the national regulations to be published in line with the instrument, incentive and/or disincentive based enforcement mechanisms should be also adopted."
+        ],
+        "reasoning": "The document explicitly recommends the adoption of 'incentive and/or disincentive based enforcement mechanisms'. Tax incentives (like tax breaks) and disincentives (like taxes or levies) are a primary form of such economic instruments, directly aligning with the code definition which covers tax incentives and similar fiscal measures."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document mentions providing 'financial support' and 'financial funds' to countries, particularly those in need, to aid in implementation. It also explicitly proposes the use of 'incentive and/or disincentive based enforcement mechanisms' to ensure compliance with national regulations.",
+        "citation": [
+          "In addition, it is important to establish a monitoring and reporting mechanism with traceable indicators that will assess whether the adopted measures are fulfilled, to evaluate the national monitoring reports produced within the scope of scientific methods and to provide technical and financial support to the countries where they are lacking.",
+          "Multilateral financial mechanism and technology transfer is imperative to support implementation, including capacity building, technical assistance, and finance.",
+          "In addition, to ensure effective compliance with the national regulations to be published in line with the instrument, incentive and/or disincentive based enforcement mechanisms should be also adopted."
+        ],
+        "reasoning": "The document explicitly calls for 'financial support' and 'finance' for countries to implement the instrument's obligations. Furthermore, it directly proposes the adoption of 'incentive... based enforcement mechanisms,' which clearly aligns with the code definition's inclusion of financial incentives and reward systems as a form of subsidy."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document proposes that the new instrument should be based on 'polluter pays principles' and should adopt 'disincentive based enforcement mechanisms' to ensure compliance.",
+        "citation": [
+          "And the new instrument should be established based on EPR and polluter pays principles.",
+          "In addition, to ensure effective compliance with the national regulations to be published in line with the instrument, incentive and/or disincentive based enforcement mechanisms should be also adopted."
+        ],
+        "reasoning": "The document explicitly mentions the 'polluter pays principles', a foundational concept for financial penalties related to pollution. Furthermore, the call for 'disincentive based enforcement mechanisms' directly refers to punitive measures, such as fines or fees, designed to discourage non-compliance with regulations."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document advocates for the inclusion of 'research and development' in the new instrument's content, supporting 'initiatives of the world of science and technology', and encouraging the 'development of more sustainable and durable materials' and scientific 'studies on zero waste'.",
+        "citation": [
+          "In this direction, issues such as organizing national and global awareness campaigns, exchange of information and best practices, research and development, stakeholder engagement and taking initiatives to include the subject in training programs should be included in the content of the new instrument.",
+          "The instrument would aim to provide entirely new vision for plastics economy, that will encompass design and production of plastics respect reuse, repair and recycling needs as well as development of more sustainable and durable materials.",
+          "It would be beneficial to include a joint effort to ensure the initiatives of the world of science and technology related to the new instrument, which we can describe as a game changer in the coming years, in the content of the new instrument.",
+          "In this context, it would be benefical to conduct studies on zero waste, support good practices, evaluate expertise and technology transfers, and prepare reports with a scientific approach on the role of plastics in the zero waste approach within the new instrument to be established."
+        ],
+        "reasoning": "The document explicitly states that 'research and development' should be included as a core topic within the new international instrument. It also calls for supporting scientific and technological initiatives and the development of new, more sustainable materials, which are direct outcomes of R&D activities. While specific funding mechanisms like grants are not detailed, the text clearly advocates for creating a framework to support and encourage R&D."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The new instrument should be established based on the principle of EPR.",
+        "citation": [
+          "And the new instrument should be established based on EPR and polluter pays principles."
+        ],
+        "reasoning": "The document explicitly states that the new international instrument for plastic pollution should be founded on the principle of Extended Producer Responsibility (EPR). This directly confirms that the concept is mentioned and considered a foundational element for the proposed policy."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not contain any specific provisions for a just transition. While it mentions high-level concepts like ensuring 'no one is left behind' and achieving 'positive socio-economic outcomes', it does not specify any measures aimed at protecting or supporting vulnerable groups such as waste pickers, workers in the plastics industry, or their dependent communities during the transition."
+      },
+      "bans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document proposes that the new instrument should set standards for the design and production of plastics. These standards should ensure products are designed to respect the needs of reuse, repair, and recycling, enable higher recycling rates, and be made from more sustainable and durable materials.",
+        "citation": [
+          "The instrument would aim to provide entirely new vision for plastics economy, that will encompass design and production of plastics respect reuse, repair and recycling needs as well as development of more sustainable and durable materials.",
+          "The new instrument shall result in more sustainable plastics industry where the product design and production shall enable higher recycling rates also respect the needs of reuse, the rights to repair."
+        ],
+        "reasoning": "The citations directly support the finding that performance standards are mentioned. They explicitly call for the instrument to include requirements for 'design and production' of plastics that achieve specific performance outcomes, such as respecting 'reuse, repair and recycling needs,' being more 'durable,' and enabling 'higher recycling rates.' These are clear examples of performance standards for products."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document specifies that 'separate collection at source, sorting and recycling' are essential and should be carried out by local governments. It also calls for the necessary 'establishment of regional centers' for technical assistance and technology transfer.",
+        "citation": [
+          "It is essential that the separate collection at source, sorting and recycling, which are the basic principles in the environmentally sound management of plastic waste, is carried out by local governments.",
+          "In this sense, establishment of regional centers should be necessary in order to provide technical assistance, capacity building and to promote the transfer of technology to Parties that are developing countries or countries with economies in transition in order to enable them to implement their obligations under the instrument."
+        ],
+        "reasoning": "The document uses strong, prescriptive language like 'essential' and 'necessary' to describe the implementation of specific waste management systems (separate collection, sorting, recycling) and the creation of physical facilities ('regional centers'). Assigning the responsibility for these activities to local governments implies a mandate to establish and operate the required infrastructure to fulfill these basic principles of environmentally sound waste management."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National Action Plans (NAPs), national Circular Economy Strategies, national plastics strategies, and a roadmap for combating plastic-containing marine litter.",
+        "citation": [
+          "The new instrument along with national Circular Economy Strategies and NAPs shall enable economic growth and more jobs while in the same time cutting GHG emissions.",
+          "National Action Plans: In order to ensure the implementation of the new instrument by the countries, national action plans should be prepared with the participation of all relevant stakeholders in the country and their views should be reflected in the NAPs.",
+          "National Action Plans (NAPs) in addition to the complementary tools such as national plastics strategies, national circular economy strategies and action plans, should be main implementation international instrument.",
+          "In this context, it is important that the new instrument contains provisions to ensure that countries prepare a national action plan, that financial opportunities and implications are recognized starting from the countries that need the most.",
+          "In this context, the new instrument should include provisions to determine a roadmap for combating plastic-containing marine litter, which is already a pollutant, and to ensure control measures and monitoring at national, regional and global scales."
+        ],
+        "reasoning": "The document explicitly advocates for the new instrument to require countries to prepare National Action Plans (NAPs) as a core implementation measure. The citations clearly state that the instrument should contain provisions to 'ensure that countries prepare a national action plan' and that NAPs, along with other strategies and roadmaps, 'should be main implementation international instrument'. This language confirms the mandatory nature of this regulatory instrument."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document calls for a mandatory monitoring and reporting mechanism with traceable indicators, including national monitoring reports, national action plans (NAPs) with reporting requirements, and defined national reporting formats. It also suggests that a Secretariat should evaluate these reports and submit results and recommendations.",
+        "citation": [
+          "In addition, it is important to establish a monitoring and reporting mechanism with traceable indicators that will assess whether the adopted measures are fulfilled, to evaluate the national monitoring reports produced within the scope of scientific methods and to provide technical and financial support to the countries where they are lacking.",
+          "In order to ensure the principles of prevention, reduction and elimination, NAPs should include intended national targets, actions to achieve the targets and a timeline of targets, and monitoring and reporting requirements.",
+          "The mandatory minimum criteria for reporting formats should be set in the international instrument while the optional formats should be at discretion to the Contracting Parties.",
+          "That will be expected from the Secretariat of the new instrument to evaluate the monitoring reports within a transparent process and submit the results and recommendations report to all member countries regarding the monitoring of progress."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for the establishment of a 'monitoring and reporting mechanism' as a core part of the international instrument. The citations detail requirements for 'national monitoring reports', mandatory criteria for 'reporting formats', and the inclusion of 'monitoring and reporting requirements' within National Action Plans, directly matching the code's definition of mandatory reporting and data submission."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document proposes a 'monitoring and reporting mechanism with traceable indicators' to assess if measures are fulfilled. It also suggests the creation of a 'monitoring committee', the evaluation of national monitoring reports based on scientific methods, and the use of National Action Plans (NAPs) for 'monitoring of activities' and measuring the effectiveness of the instrument at national, regional, and global scales.",
+        "citation": [
+          "In addition, it is important to establish a monitoring and reporting mechanism with traceable indicators that will assess whether the adopted measures are fulfilled, to evaluate the national monitoring reports produced within the scope of scientific methods and to provide technical and financial support to the countries where they are lacking.",
+          "NAPs should include intended national targets, actions to achieve the targets and a timeline of targets, and monitoring and reporting requirements.",
+          "Such monitoring and reporting can be used as a successful tool in measuring the success of national efforts and the effectiveness of the new instrument.",
+          "The new instrument should follow up the decisions of the science policy panel on chemicals and waste to prevent pollution by establishing subsidiary bodies such as committees i.e. monitoring committee, technical/scientific committee etc."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for the establishment of systems and bodies to track, assess, and evaluate the effectiveness of the proposed international instrument and national actions. The citations directly mention establishing a 'monitoring and reporting mechanism', using 'traceable indicators', evaluating 'monitoring reports', and creating a 'monitoring committee', all of which are core components of the monitoring instrument as defined."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document proposes that the new instrument should include measures such as organizing national and global awareness campaigns, facilitating the exchange of information and best practices, developing lessons learned, supporting good practices, and preparing scientific reports on topics like the zero waste approach.",
+        "citation": [
+          "In this direction, issues such as organizing national and global awareness campaigns, exchange of information and best practices, research and development, stakeholder engagement and taking initiatives to include the subject in training programs should be included in the content of the new instrument.",
+          "A body responsible for reviewing reports and developing lessons learned would be most advisable.",
+          "In this context, it would be benefical to conduct studies on zero waste, support good practices, evaluate expertise and technology transfers, and prepare reports with a scientific approach on the role of plastics in the zero waste approach within the new instrument to be established."
+        ],
+        "reasoning": "The cited texts explicitly call for the new instrument to contain provisions for various informational and guidance-based measures. These include 'exchange of information and best practices,' 'awareness campaigns,' 'training programs,' developing 'lessons learned,' and supporting 'good practices.' These all align with the definition of providing guidelines, toolkits, or informational resources to help stakeholders implement effective measures."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "national and global awareness campaigns, increasing citizen awareness about consumption, inclusion of the subject in training programs",
+        "citation": [
+          "It is envisaged that the practices brought by the new instrument will be embraced by society and lead to habit changes. Thus, it will be beneficial for citizens to increase their sense of responsibility and awareness about consumption.",
+          "In this direction, issues such as organizing national and global awareness campaigns, exchange of information and best practices, research and development, stakeholder engagement and taking initiatives to include the subject in training programs should be included in the content of the new instrument."
+        ],
+        "reasoning": "The document explicitly recommends that the new international instrument should include provisions for 'organizing national and global awareness campaigns' and 'taking initiatives to include the subject in training programs'. It also states a goal to increase citizens' 'sense of responsibility and awareness about consumption,' directly aligning with the definition of education as a soft instrument."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The document proposes establishing subsidiary bodies such as a monitoring committee, a technical/scientific committee, and a body responsible for reviewing reports and developing lessons learned.",
+        "citation": [
+          "A body responsible for reviewing reports and developing lessons learned would be most advisable.",
+          "The new instrument should follow up the decisions of the science policy panel on chemicals and waste to prevent pollution by establishing subsidiary bodies such as committees i.e. monitoring committee, technical/scientific committee etc."
+        ],
+        "reasoning": "The document explicitly proposes the establishment of several expert bodies to support the treaty's implementation. The citations directly name a 'monitoring committee' and a 'technical/scientific committee' as necessary subsidiary bodies and also advise the creation of a 'body responsible for reviewing reports', fitting the definition of expert groups providing guidance."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document calls for the inclusion of 'research and development', 'eco-innovation', and 'initiatives of the world of science and technology' in the new instrument. It also suggests conducting specific 'studies on zero waste' and developing 'appropriate methodologies for monitoring... scientific data'.",
+        "citation": [
+          "In this direction, issues such as organizing national and global awareness campaigns, exchange of information and best practices, research and development, stakeholder engagement and taking initiatives to include the subject in training programs should be included in the content of the new instrument.",
+          "It would be beneficial to include a joint effort to ensure the initiatives of the world of science and technology related to the new instrument, which we can describe as a game changer in the coming years, in the content of the new instrument.",
+          "In this context, it would be benefical to conduct studies on zero waste, support good practices, evaluate expertise and technology transfers, and prepare reports with a scientific approach on the role of plastics in the zero waste approach within the new instrument to be established."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for the new instrument to include and encourage scientific activity. The citations directly mention including 'research and development', ensuring 'initiatives of the world of science and technology', and conducting 'studies on zero waste'. These are clear examples of encouraging research and innovation without specific funding commitments, aligning perfectly with the definition of the code."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes harmonization through the establishment of global common targets and timelines, the development of common methodologies for monitoring scientific data, and setting minimum requirements and mandatory criteria for the format of National Action Plans (NAPs) and national reporting.",
+        "citation": [
+          "The instrument should introduce global common targets (eg. circularity of plastics) and timelines to reduce the plastic consumption and production addressing the entire lifecycle of the plastic...",
+          "The development of appropriate methodologies for monitoring the scientific data to be produced should be the backbone of the Instrument.",
+          "The general scope, objectives and minimum requirements for reporting format of the NAPs shall be set by the international instrument...",
+          "The mandatory minimum criteria for reporting formats should be set in the international instrument while the optional formats should be at discretion to the Contracting Parties."
+        ],
+        "reasoning": "The cited text explicitly calls for 'global common targets', 'appropriate methodologies for monitoring', 'minimum requirements' for National Action Plans, and 'mandatory minimum criteria for reporting formats'. These proposals directly align with the definition of harmonization, as they represent efforts to standardize and align approaches, methodologies, and reporting systems across different countries under the proposed international instrument."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document proposes several knowledge sharing mechanisms, including 'exchange of information and best practices', 'technology transfer', 'technical assistance', establishing 'regional centers' for capacity building, supporting 'good practices', and evaluating 'expertise and technology transfers'.",
+        "citation": [
+          "In this direction, issues such as organizing national and global awareness campaigns, exchange of information and best practices, research and development, stakeholder engagement and taking initiatives to include the subject in training programs should be included in the content of the new instrument.",
+          "Multilateral financial mechanism and technology transfer is imperative to support implementation, including capacity building, technical assistance, and finance.",
+          "In this sense, establishment of regional centers should be necessary in order to provide technical assistance, capacity building and to promote the transfer of technology to Parties that are developing countries or countries with economies in transition in order to enable them to implement their obligations under the instrument.",
+          "In this context, it would be benefical to conduct studies on zero waste, support good practices, evaluate expertise and technology transfers, and prepare reports with a scientific approach on the role of plastics in the zero waste approach within the new instrument to be established."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for the inclusion of mechanisms for sharing knowledge and expertise as a core component of the proposed international instrument. The cited texts directly mention the 'exchange of information and best practices' and 'technology transfer' as necessary elements to build capacity and support the implementation of obligations, which directly aligns with the code's definition."
+      }
+    },
+    "targets": {
+      "present": true,
+      "details": "Reduce additional pollution from plastic litter in the seas to zero by 2050, as part of the Blue Osaka Vision.",
+      "citation": [
+        "In addition, the instrument needs to commit to reduce additional plastic pollution in the marine environment to zero by a certain year by recalling the Blue Osaka Vision declared by the G20 countries includes “reduce to zero additional pollution from plastic litter in the seas by 2050 with a comprehensive life-cycle approach”."
+      ],
+      "reasoning": "The document explicitly references a quantitative target ('reduce to zero') with a specific deadline ('by 2050'). This target is part of the 'Blue Osaka Vision', which the submission recommends for inclusion in the new international instrument, thus meeting the code's definition of a specific, measurable target."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "reduce dependence on fossil fuels",
+        "citation": [
+          "An internationally binding instrument should aim to protect our environment and reduce marine litter, greenhouse gas emissions and dependence on fossil fuels."
+        ],
+        "reasoning": "The document explicitly calls for reducing dependence on fossil fuels. Since fossil fuels are the primary raw material (feedstock) for virgin plastic production, this statement directly addresses a measure at the feedstock stage of the value chain."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document suggests measures to reduce plastic production, reduce dependence on fossil fuels (a key feedstock for polymer production), and establish production standards that incorporate design for reuse, repair, and recycling.",
+        "citation": [
+          "The instrument should introduce global common targets (eg. circularity of plastics) and timelines to reduce the plastic consumption and production addressing the entire lifecycle of the plastic, starting with the production, and offer actionable measures at every step.",
+          "An internationally binding instrument should aim to protect our environment and reduce marine litter, greenhouse gas emissions and dependence on fossil fuels.",
+          "The new instrument shall result in more sustainable plastics industry where the product design and production shall enable higher recycling rates also respect the needs of reuse, the rights to repair."
+        ],
+        "reasoning": "The document explicitly states that the instrument should address the entire lifecycle 'starting with the production' and calls for a reduction in plastic production. It also targets the source material for virgin plastics by calling for reduced 'dependence on fossil fuels.' Furthermore, it discusses modifying the 'design and production' of plastics to enable circularity, which directly relates to the manufacturing and creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document proposes that a new global instrument should include a strategy for a plastics economy that encompasses sustainable product policy, design for reuse, repair, and recyclability, and the development of more durable materials.",
+        "citation": [
+          "The instrument would aim to provide entirely new vision for plastics economy, that will encompass design and production of plastics respect reuse, repair and recycling needs as well as development of more sustainable and durable materials.",
+          "The new instrument shall result in more sustainable plastics industry where the product design and production shall enable higher recycling rates also respect the needs of reuse, the rights to repair."
+        ],
+        "reasoning": "The cited texts explicitly mention that the proposed instrument should address the 'design and production of plastics' to ensure they meet the needs of 'reuse, repair and recycling' and are more 'durable'. This directly aligns with the code definition, which focuses on measures addressing how plastic products are designed, including eco-design, design for recyclability, and durability requirements."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": "sustainable product design, design for reuse, repair, and recycling, development of sustainable and durable materials, sustainable product policy",
+        "citation": [
+          "In this manner, this global plastic strategy should include systemic approaches for Circular Economy and eco-innovation, such as sustainable product policy, value chain and taking into account the entire life cycle assessment of plastic products.",
+          "The instrument would aim to provide entirely new vision for plastics economy, that will encompass design and production of plastics respect reuse, repair and recycling needs as well as development of more sustainable and durable materials.",
+          "The new instrument shall result in more sustainable plastics industry where the product design and production shall enable higher recycling rates also respect the needs of reuse, the rights to repair."
+        ],
+        "reasoning": "The document explicitly addresses the production of plastic products by calling for a 'sustainable product policy' and a new vision for the plastics economy that encompasses the 'design and production of plastics'. The citations show a clear focus on manufacturing products that are designed for reuse, repair, and recyclability, as well as being made from more sustainable and durable materials. However, the document does not specifically mention measures to address intentionally added microplastics or chemical additives within these products."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "reduce plastic consumption, change consumer habits, increase consumer awareness through campaigns, promote sustainable consumption and reuse, involve consumer associations",
+        "citation": [
+          "The instrument should introduce global common targets (eg. circularity of plastics) and timelines to reduce the plastic consumption and production addressing the entire lifecycle of the plastic...",
+          "It is envisaged that the practices brought by the new instrument will be embraced by society and lead to habit changes. Thus, it will be beneficial for citizens to increase their sense of responsibility and awareness about consumption.",
+          "The new instrument should cover broadly the sustainable consumption and production, life cycle assessment of plastics, measures and details describe the national action plans...",
+          "Zero waste entails avoiding wastefulness and advocating for the prevention, reduction, reuse, and recycling of waste."
+        ],
+        "reasoning": "The document explicitly states the need for global targets to 'reduce the plastic consumption' and for measures that will 'lead to habit changes' and increase 'awareness about consumption' among citizens. It also promotes 'sustainable consumption and production' and key consumer-focused actions like 'reduction, reuse' within a zero waste framework. These points directly address consumer behavior and the consumption phase. However, the document does not specifically use the terms 'single-use' or 'disposable' plastics, so 'single_use_addressed' is false."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document highlights the importance of separate collection at source, specifying that this should be carried out by local governments as a basic principle for environmentally sound plastic waste management.",
+        "citation": [
+          "It is essential that the separate collection at source, sorting and recycling, which are the basic principles in the environmentally sound management of plastic waste, is carried out by local governments."
+        ],
+        "reasoning": "The cited text explicitly mentions 'separate collection at source' as an essential principle for managing plastic waste. It also assigns the responsibility for this activity to 'local governments', directly addressing the gathering and aggregation of post-consumer plastic waste as defined by the code."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document mentions several waste management measures, including the 'zero waste' approach, separate collection at source, sorting, and recycling as core principles for the environmentally sound management of plastic waste.",
+        "citation": [
+          "It is essential that the separate collection at source, sorting and recycling, which are the basic principles in the environmentally sound management of plastic waste, is carried out by local governments.",
+          "Zero waste is an approach to resource and waste management based on circularity. It promotes sustainable production and consumption habits and encourages the efficient use of resources. Zero waste entails avoiding wastefulness and advocating for the prevention, reduction, reuse, and recycling of waste."
+        ],
+        "reasoning": "The cited texts explicitly mention key post-collection waste management activities such as 'separate collection at source', 'sorting', and 'recycling'. These activities are fundamental components of handling and processing plastic waste, directly aligning with the code's definition. The mention of 'zero waste' as a resource and waste management approach further reinforces this."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Designing products to respect recycling needs, enabling higher recycling rates, and implementing separate collection, sorting, and recycling as key principles of waste management and the zero waste approach.",
+        "citation": [
+          "The instrument would aim to provide entirely new vision for plastics economy, that will encompass design and production of plastics respect reuse, repair and recycling needs as well as development of more sustainable and durable materials.",
+          "The new instrument shall result in more sustainable plastics industry where the product design and production shall enable higher recycling rates also respect the needs of reuse, the rights to repair.",
+          "It is essential that the separate collection at source, sorting and recycling, which are the basic principles in the environmentally sound management of plastic waste, is carried out by local governments.",
+          "Zero waste entails avoiding wastefulness and advocating for the prevention, reduction, reuse, and recycling of waste."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'recycling'. The citations show that recycling is discussed as a core consideration in product design, a key goal for the plastics industry (higher recycling rates), a fundamental principle in waste management alongside sorting and collection, and an integral part of the zero waste hierarchy. This directly aligns with the code's definition of addressing the recycling of plastic materials from waste."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document suggests that the new instrument should include provisions for a roadmap to combat existing marine litter.",
+        "citation": [
+          "In this context, the new instrument should include provisions to determine a roadmap for combating plastic-containing marine litter, which is already a pollutant, and to ensure control measures and monitoring at national, regional and global scales."
+        ],
+        "reasoning": "The cited text explicitly calls for a 'roadmap for combating' marine litter that it defines as 'already a pollutant'. This directly aligns with the code's definition of addressing existing plastic pollution in the environment."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document specifies that the new instrument should aim to reduce greenhouse gas emissions (GHG) and that national circular economy strategies would contribute to cutting GHG emissions.",
+        "citation": [
+          "An internationally binding instrument should aim to protect our environment and reduce marine litter, greenhouse gas emissions and dependence on fossil fuels.",
+          "The new instrument along with national Circular Economy Strategies and NAPs shall enable economic growth and more jobs while in the same time cutting GHG emissions."
+        ],
+        "reasoning": "The document explicitly states that a goal of the proposed international instrument is to 'reduce... greenhouse gas emissions' and notes that national circular economy strategies will help in 'cutting GHG emissions'. These statements directly match the code's definition of addressing greenhouse gas emissions associated with the plastic lifecycle."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document proposes a long-term target to reduce additional marine plastic pollution to zero by 2050. It also mandates that National Action Plans (NAPs) must include a timeline for their targets and that the frequency of reporting should be defined.",
+        "citation": [
+          "In addition, the instrument needs to commit to reduce additional plastic pollution in the marine environment to zero by a certain year by recalling the Blue Osaka Vision declared by the G20 countries includes “reduce to zero additional pollution from plastic litter in the seas by 2050 with a comprehensive life-cycle approach”.",
+          "In order to ensure the principles of prevention, reduction and elimination, NAPs should include intended national targets, actions to achieve the targets and a timeline of targets, and monitoring and reporting requirements.",
+          "The frequency of reporting should be defined as well as availability of the reports to a general public."
+        ],
+        "reasoning": "The cited texts directly mention a specific deadline (2050) for a major objective, explicitly require that National Action Plans contain 'a timeline of targets', and state that the 'frequency of reporting should be defined'. These elements collectively confirm that the document specifies implementation timeframes."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document advocates for an internationally binding instrument with a dedicated international compliance mechanism, sound enforcement mechanisms (including incentive/disincentive measures), and subsidiary bodies like monitoring and technical/scientific committees. It also specifies mandatory minimum criteria for national reporting.",
+        "citation": [
+          "Like in the case of other International Legally Binding Instruments, this instrument will strengthen international cooperation...",
+          "An internationally binding instrument should aim to protect our environment and reduce marine litter, greenhouse gas emissions and dependence on fossil fuels.",
+          "The international compliance mechanism should be established by the international instrument, which will facilitate the progress made in the implementation.",
+          "The mandatory minimum criteria for reporting formats should be set in the international instrument while the optional formats should be at discretion to the Contracting Parties.",
+          "In addition, to ensure effective compliance with the national regulations to be published in line with the instrument, incentive and/or disincentive based enforcement mechanisms should be also adopted."
+        ],
+        "reasoning": "The document consistently refers to the proposed agreement as an 'International Legally Binding Instrument'. This indicates a high level of stringency. The reasoning is further supported by explicit proposals for an 'international compliance mechanism', 'enforcement mechanisms', and potential 'disincentive based' measures, all of which point to a strict, enforceable framework rather than a voluntary one."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with implementation through national action plans and regional cooperation.",
+        "citation": [
+          "Like in the case of other International Legally Binding Instruments, this instrument will strengthen international cooperation...",
+          "An internationally binding instrument should aim to protect our environment and reduce marine litter, greenhouse gas emissions and dependence on fossil fuels.",
+          "The general scope, objectives and minimum requirements for reporting format of the NAPs shall be set by the international instrument, hence the detailed scope shall be set by the Contracting Parties.",
+          "...the new instrument should include provisions to determine a roadmap for combating plastic-containing marine litter, which is already a pollutant, and to ensure control measures and monitoring at national, regional and global scales."
+        ],
+        "reasoning": "The document consistently refers to the policy as an 'International Legally Binding Instrument' and an 'internationally binding instrument', establishing its global scope. It specifies that this global framework will be put into action primarily through 'National Action Plans' (NAPs) at the country level. The text further calls for this instrument to ensure monitoring and control measures across 'national, regional and global scales', indicating a comprehensive, multi-level implementation strategy that originates from a global agreement."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "private sector investments",
+      "citation": [
+        "It should be our fundamental understanding to act strategically, to benefit from all kinds of investments, private sector, public, and other international financial mechanisms while carrying out studies on this subject."
+      ],
+      "reasoning": "The document explicitly states that the implementation of the new instrument should benefit from 'all kinds of investments, private sector,' clearly identifying the private sector as a source of financing alongside public and other international mechanisms."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "public investments",
+      "citation": [
+        "It should be our fundamental understanding to act strategically, to benefit from all kinds of investments, private sector, public, and other international financial mechanisms while carrying out studies on this subject."
+      ],
+      "reasoning": "The document explicitly mentions benefiting from various types of investments to finance studies and implementation. Among the sources listed is 'public', which directly refers to financing from state or public sources."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "Multilateral financial mechanism, other international financial mechanisms",
+      "citation": [
+        "Multilateral financial mechanism and technology transfer is imperative to support implementation, including capacity building, technical assistance, and finance.",
+        "It should be our fundamental understanding to act strategically, to benefit from all kinds of investments, private sector, public, and other international financial mechanisms while carrying out studies on this subject."
+      ],
+      "reasoning": "The document explicitly states that a 'Multilateral financial mechanism' is imperative for implementation and later refers to benefiting from 'other international financial mechanisms', directly confirming the mention of financing from international sources as defined by the code."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "The document suggests establishing the instrument based on Extended Producer Responsibility (EPR) and polluter pays principles, and adopting incentive/disincentive based enforcement mechanisms.",
+      "citation": [
+        "And the new instrument should be established based on EPR and polluter pays principles.",
+        "In addition, to ensure effective compliance with the national regulations to be published in line with the instrument, incentive and/or disincentive based enforcement mechanisms should be also adopted."
+      ],
+      "reasoning": "The document explicitly advocates for the instrument to be based on 'EPR and polluter pays principles'. These are foundational principles for financing systems that utilize fees, levies, or taxes to make producers and polluters financially responsible for plastic waste management and pollution. Furthermore, the call for 'disincentive based enforcement mechanisms' directly implies the use of financial penalties or charges, which fall under the category of fees and taxes designed to discourage pollution."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "private sector investments",
+      "citation": [
+        "It should be our fundamental understanding to act strategically, to benefit from all kinds of investments, private sector, public, and other international financial mechanisms while carrying out studies on this subject."
+      ],
+      "reasoning": "The document explicitly states the need to 'benefit from all kinds of investments, private sector, public, and other international financial mechanisms'. The inclusion of 'private sector' investments as a distinct source alongside public and international financial mechanisms indicates a reliance on voluntary, non-state financial contributions."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document specifies that the plastic industry and designers have a responsibility to design and produce plastics in a way that respects reuse, repair, and recycling needs. This includes enabling higher recycling rates, developing more sustainable and durable materials, and adhering to Extended Producer Responsibility (EPR) and polluter pays principles. They are also identified as key stakeholders to be involved in defining strategies and programs.",
+      "citation": [
+        "The instrument would aim to provide entirely new vision for plastics economy, that will encompass design and production of plastics respect reuse, repair and recycling needs as well as development of more sustainable and durable materials.",
+        "The new instrument shall result in more sustainable plastics industry where the product design and production shall enable higher recycling rates also respect the needs of reuse, the rights to repair.",
+        "Additionally, a functioning and effective mechanism to involve meaningfully categories of stakeholders in the definition of strategies and programs and in the review of progress is crucial. It would involve, among others, designers, plastic industry, trade (e.g. supermarkets), entrepreneurs, local authorities, consumer associations, etc.",
+        "And the new instrument should be established based on EPR and polluter pays principles."
+      ],
+      "reasoning": "The cited texts explicitly mention the 'plastics industry,' 'designers,' and the 'design and production' phase of the plastic lifecycle. They assign specific obligations, such as designing products that respect reuse, repair, and recycling, and enabling higher recycling rates. Furthermore, the document calls for the application of principles like 'EPR' (Extended Producer Responsibility), which directly places responsibility on producers for the post-consumer stage of a product's life cycle. The inclusion of the industry as a key stakeholder to be involved in strategy definition also constitutes a role or responsibility."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "Changing consumption habits, increasing sense of responsibility and awareness, adopting sustainable consumption, and engaging in zero waste practices like waste prevention, reduction, reuse, and recycling.",
+      "citation": [
+        "It is envisaged that the practices brought by the new instrument will be embraced by society and lead to habit changes.",
+        "Thus, it will be beneficial for citizens to increase their sense of responsibility and awareness about consumption.",
+        "Zero waste is an approach to resource and waste management based on circularity. It promotes sustainable production and consumption habits and encourages the efficient use of resources.",
+        "Zero waste entails avoiding wastefulness and advocating for the prevention, reduction, reuse, and recycling of waste."
+      ],
+      "reasoning": "The document explicitly states that it will be beneficial for 'citizens' to increase their 'sense of responsibility and awareness about consumption' and for 'society' to adopt 'habit changes'. It also promotes 'sustainable consumption habits' and actions such as 'prevention, reduction, reuse, and recycling' under the zero waste approach, all of which are direct responsibilities and roles assigned to consumers."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document specifies that the responsibilities for separate collection at source, sorting, and recycling of plastic waste should be carried out by local governments.",
+      "citation": [
+        "It is essential that the separate collection at source, sorting and recycling, which are the basic principles in the environmentally sound management of plastic waste, is carried out by local governments."
+      ],
+      "reasoning": "The text directly assigns core waste management responsibilities (collection, sorting, recycling) to a specific entity, 'local governments'. Local governments are key actors in the waste management sector, and this citation clearly outlines their obligations in the environmentally sound management of plastic waste, which perfectly matches the code definition."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document assigns several responsibilities to governments (referred to as 'States', 'Contracting Parties', 'countries', and 'local governments'), including: preparing and implementing National Action Plans (NAPs), monitoring and reporting on progress, setting national targets, establishing enforcement and compliance mechanisms, and carrying out waste management tasks like collection and recycling at the local level. It also mentions their role in international cooperation, such as providing technical and financial support.",
+      "citation": [
+        "In order to ensure the implementation of the new instrument by the countries, national action plans should be prepared with the participation of all relevant stakeholders in the country and their views should be reflected in the NAPs.",
+        "It is essential that the separate collection at source, sorting and recycling, which are the basic principles in the environmentally sound management of plastic waste, is carried out by local governments.",
+        "The new instrument would encourage the Contracting Parties to put in place effective implementation compliance promotion and enforcement mechanisms to ensure the implantation of the vision set to the national action plans."
+      ],
+      "reasoning": "The cited texts directly assign specific duties to various levels of government. The document explicitly states that 'countries' are responsible for preparing 'national action plans,' 'local governments' are essential for waste management activities, and 'Contracting Parties' (national governments) are expected to create 'enforcement mechanisms.' These passages clearly outline the obligations and roles assigned to governmental bodies."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "The document specifies that stakeholders, including civil society groups like 'consumer associations', should be involved in: stakeholder engagement, participation in the preparation of National Action Plans (NAPs), definition of strategies and programs, and the review of progress.",
+      "citation": [
+        "In this direction, issues such as organizing national and global awareness campaigns, exchange of information and best practices, research and development, stakeholder engagement and taking initiatives to include the subject in training programs should be included in the content of the new instrument.",
+        "In order to ensure the implementation of the new instrument by the countries, national action plans should be prepared with the participation of all relevant stakeholders in the country and their views should be reflected in the NAPs.",
+        "Additionally, a functioning and effective mechanism to involve meaningfully categories of stakeholders in the definition of strategies and programs and in the review of progress is crucial. It would involve, among others, designers, plastic industry, trade (e.g. supermarkets), entrepreneurs, local authorities, consumer associations, etc."
+      ],
+      "reasoning": "The document explicitly calls for 'stakeholder engagement' and specifies that 'all relevant stakeholders' must participate in the creation of National Action Plans. It further clarifies that these stakeholders include 'consumer associations,' a specific type of non-governmental organization, and assigns them a crucial role in the 'definition of strategies and programs' and the 'review of progress.' This directly assigns responsibilities to civil society actors in the policy and implementation process."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document assigns several roles to the Secretariat of the new instrument, including: carrying out studies in a transparent manner, ensuring equitable socio-economic benefits for countries, evaluating monitoring reports, and submitting recommendations. It also calls for the establishment of subsidiary bodies like committees and regional centers to provide technical assistance, capacity building, and promote technology transfer.",
+      "citation": [
+        "The Secretariat should be obliged to carry out studies that reflect the importance it attaches to the subject in a transparent manner. The Secretariat should also carry out studies on comparability and interactions with other multi-lateral environmental agreements.",
+        "In the realization of these studies, the Secretariat should be assigned to ensure that countries gain equal benefits in socio-economic and scientific dimensions.",
+        "That will be expected from the Secretariat of the new instrument to evaluate the monitoring reports within a transparent process and submit the results and recommendations report to all member countries regarding the monitoring of progress.",
+        "In this sense, establishment of regional centers should be necessary in order to provide technical assistance, capacity building and to promote the transfer of technology to Parties that are developing countries or countries with economies in transition in order to enable them to implement their obligations under the instrument."
+      ],
+      "reasoning": "The document repeatedly and explicitly assigns specific responsibilities to 'The Secretariat' of the proposed international instrument, which is a core component of international governance systems like those within the UN. The cited texts detail obligations such as conducting studies, evaluating national reports, ensuring equity, and providing technical assistance and capacity building through regional centers, all of which are functions of an international body."
+    }
+  }
+}

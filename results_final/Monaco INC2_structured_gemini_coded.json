@@ -1,0 +1,643 @@
+{
+  "submission_metadata": {
+    "country": "PRINCIPALITY OF MONACO",
+    "date": "2023-02-13",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": true,
+      "timeframe": "by 2040 at latest",
+      "citation": [
+        "To end plastic pollution (by 2040 at latest) and protect human health and the environment from plastic pollution, including the marine environment.",
+        "The title of the UNEA resolution 5/14, End Plastic Pollution: Towards an International Legally-binding Instrument, has already settled ending plastic pollution as the ultimate goal of the Treaty (in the public sphere).",
+        "The Objective of this Treaty could be to end plastic pollution and protect the environment and human health from plastic pollution at each stage of the plastics' life cycle."
+      ],
+      "reasoning": "The document explicitly states the proposed objective is 'To end plastic pollution' and provides a specific deadline of 'by 2040 at latest'. It further reinforces this by referencing the UNEA resolution title which has already established ending plastic pollution as the ultimate goal."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": true,
+      "specifications": "decrease 3 percent annually",
+      "citation": [
+        "Provision to reduce the production of virgin plastic polymers",
+        "Measures and targets for keeping the supply of primary plastic polymers (including both fossil fuel and bio-based) within sustainable levels is needed to reduce pressure on the environment globally.",
+        "Each Party should be required to take effective measures to reduce the production of primary plastics polymers to an agreed level to reach a common target.",
+        "Each Party shall be required to eliminate and restrict the production and use of polymers, chemicals and plastic products listed in an annex.",
+        "According to a recent report by Eunomia, demand for plastics will have to decrease 3 percent annually, rather than increase 4 percent annually, to stay within the IPCC 1.5 °C carbon budget by 2050."
+      ],
+      "reasoning": "The document explicitly advocates for reducing the production of virgin plastic polymers, dedicating a specific section to this provision. It proposes a general obligation for parties to take measures to reduce production and to eliminate or restrict the production of certain polymers and products. A specific quantitative target is mentioned in a footnote ('decrease 3 percent annually') to support the rationale for these measures."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document identifies protecting human health as a primary objective of the proposed treaty. Specific health concerns mentioned include the 'significant adverse effects' of plastic pollution and the 'long term adverse effects' of certain polymers and chemicals. It details criteria for identifying harmful substances based on their toxic properties, explicitly listing effects such as being 'carcinogenic, mutagenic, reprotoxic, endocrine disruptors'. The goal is to create a circular economy for plastics that protects human health by eliminating and restricting these harmful substances.",
+      "citation": [
+        "To end plastic pollution (by 2040 at latest) and protect human health and the environment from plastic pollution, including the marine environment.",
+        "Plastic pollution contributes to the triple planetary crises and already has devastating impacts on ecosystems and biodiversity and has significant adverse effects on human health as well as contributing to climate change.",
+        "The Objective of this Treaty could be to end plastic pollution and protect the environment and human health from plastic pollution at each stage of the plastics' life cycle.",
+        "Certain polymers and chemicals used in plastics (such as softeners or colourants) have long term adverse effects on human health and the environment and/or create barriers for the recycling of plastic waste.",
+        "Possible criteria for identifying polymers and chemicals include, based on inherent properties, substances that have slow or no degradation in the environment, bioaccumulate and/or have long-term toxic effects (e.g., carcinogenic, mutagenic, reprotoxic, endocrine disruptors).",
+        "The treaty must ensure criteria for the design of plastics to extend product lifespan, ensure durability, recyclability, and safety, in order to enable a circular economy for plastics that protects the environment and human health."
+      ],
+      "reasoning": "The document explicitly and repeatedly states that a core objective of the legally binding instrument should be to protect human health. The citations directly state this objective, link plastic pollution to adverse health effects, and propose measures to eliminate specific chemicals based on their long-term toxic, carcinogenic, mutagenic, reprotoxic, and endocrine-disrupting properties, thereby providing clear and detailed evidence for this code."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "To end plastic pollution (by 2040 at latest) and protect human health and the environment from plastic pollution, including the marine environment.",
+        "Plastic pollution contributes to the triple planetary crises and already has devastating impacts on ecosystems and biodiversity and has significant adverse effects on human health as well as contributing to climate change.",
+        "A special attention should be bring on fishing gear (major part in weight of all floating macroplastics) taking into accounts their impacts on animal life in oceans and their meaningful implications for food security and fisheries sustainability."
+      ],
+      "reasoning": "The document's proposed objective is to 'protect human health and the environment,' explicitly mentioning the 'marine environment.' It further justifies this by stating that plastic pollution has 'devastating impacts on ecosystems and biodiversity.' The marine focus is strongly reinforced by the specific call to address fishing gear due to its 'impacts on animal life in oceans.'"
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "The Objective of this Treaty could be to end plastic pollution and protect the environment and human health from plastic pollution at each stage of the plastics' life cycle.",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "Monitoring should cover the entire plastic life cycle, enabling the collection of current and future data on production, use, recycling, waste and pollution."
+      ],
+      "reasoning": "The document explicitly states that the treaty's objective should address pollution at 'each stage of the plastics' life cycle.' It directly engages with a prompt about a 'full life cycle' approach and proposes core obligations that span from production to waste management. Furthermore, it recommends that monitoring mechanisms should cover the 'entire plastic life cycle,' explicitly listing stages from production through to pollution, confirming a comprehensive, cradle-to-grave scope."
+    },
+    "other_objectives": {
+      "value": "Promote the circular economy and resource efficiency; ensure a just transition for workers and communities.",
+      "citation": [
+        "The instrument should promote the circular economy and resource efficiency.",
+        "A key aim is to ensure a just transition for affected workers and communities, fostering decent work and quality jobs."
+      ],
+      "reasoning": "The document explicitly states two additional objectives. The first is to 'promote the circular economy and resource efficiency,' which is a specific economic and resource management goal. The second is to 'ensure a just transition for affected workers and communities,' which is a distinct socio-economic objective. Neither of these falls under the pre-defined categories of ending pollution, protecting health/biodiversity, or the lifecycle approach."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "taxes, tariffs, removal of negative fiscal incentives",
+        "citation": [
+          "Measures could include, inter alia, taxes, tariffs, fees, production permits and licenses, moratoriums, bans, regulations, and removal of negative fiscal incentives, such as subsidies that support expansion of plastics production."
+        ],
+        "reasoning": "The document explicitly lists 'taxes', 'tariffs', and 'fiscal incentives' as potential measures to reduce the production of primary plastic polymers. This directly aligns with the code definition, which includes tax-related measures, duties, and similar fiscal mechanisms."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "Removal of negative fiscal incentives, such as subsidies that support expansion of plastics production.",
+        "citation": [
+          "Measures could include, inter alia, taxes, tariffs, fees, production permits and licenses, moratoriums, bans, regulations, and removal of negative fiscal incentives, such as subsidies that support expansion of plastics production."
+        ],
+        "reasoning": "The document explicitly lists the 'removal of negative fiscal incentives, such as subsidies that support expansion of plastics production' as a potential measure to reduce the production of primary plastics. This directly aligns with the code definition, which includes the 'removal of existing subsidies'."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document suggests several penalty-related economic instruments, including the 'Polluter pays principle', and specifically lists 'taxes, tariffs, fees' as potential measures to reduce the production of primary plastics, improve product design, and manage waste.",
+        "citation": [
+          "Control measures should be built upon three core principles:\n- Waste Hierarchy,\n- Precautionary principle,\n- Polluter pays principle, including Extended Producer Responsibility (EPR).",
+          "Measures could include, inter alia, taxes, tariffs, fees, production permits and licenses, moratoriums, bans, regulations, and removal of negative fiscal incentives, such as subsidies that support expansion of plastics production.",
+          "Each Party should be required to take effective measures so that plastic waste is collected, sorted and if necessary disposed of in an environmentally sound manner... Measures could include extended producer responsibility schemes, deposit return schemes, or fees."
+        ],
+        "reasoning": "The document explicitly identifies the 'Polluter pays principle' as a core guiding principle for control measures. Furthermore, it repeatedly suggests the use of 'taxes, tariffs, fees' as actionable measures to enforce obligations related to reducing plastic production and managing waste. These mechanisms directly align with the definition of financial penalties and punitive financial measures for non-compliance or to discourage specific activities."
+      },
+      "trading_systems": {
+        "mentioned": true,
+        "details": "The document suggests the use of 'tariffs' and 'production permits and licenses' as potential measures to reduce the production of primary plastic polymers.",
+        "citation": [
+          "Measures could include, inter alia, taxes, tariffs, fees, production permits and licenses, moratoriums, bans, regulations, and removal of negative fiscal incentives, such as subsidies that support expansion of plastics production."
+        ],
+        "reasoning": "The document explicitly lists 'tariffs' and 'production permits and licenses' as potential control measures. Tariffs are a trade-related economic instrument, and production permits/licenses are foundational components of market-based cap-and-trade systems. These directly match the code definition for trading systems."
+      },
+      "deposit_systems": {
+        "mentioned": true,
+        "details": "deposit refund schemes, deposit return schemes",
+        "citation": [
+          "Each Party should be required to take effective measures so that plastic wastes are collected, sorted and recycled in an environmentally sound manner, taking into account guidance and quality requirements to promote and make available for the market, non-toxic secondary materials. These measures could include targets, minimum requirements, fees, extended producer responsibility schemes, and deposit refund schemes.",
+          "Each Party should be required to take effective measures so that plastic waste is collected, sorted and if necessary disposed of in an environmentally sound manner, taking into account the waste hierarchy and inter alia, the technical guidelines adopted by the Basel Convention. Measures could include extended producer responsibility schemes, deposit return schemes, or fees."
+        ],
+        "reasoning": "The document explicitly lists 'deposit refund schemes' and 'deposit return schemes' as potential measures Parties could implement to improve recycling and waste management. This directly matches the code definition of systems where a deposit is paid and then refunded upon return of the item."
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document proposes that the international instrument should establish mechanisms or bodies to promote innovations and support additional research related to plastic pollution.",
+        "citation": [
+          "Scientific and technical cooperation/coordination: whereas there is sufficient scientific evidence to act now, some aspects of plastic pollution may need additional research.",
+          "The ILBI should, as appropriate, establish/rely on mechanisms/bodies to improve knowledge and promote innovations related to plastic pollution aspects."
+        ],
+        "reasoning": "The document explicitly states that the international legally binding instrument (ILBI) should establish mechanisms to 'promote innovations' and acknowledges that 'additional research' is needed for certain aspects of plastic pollution. This directly aligns with the code's definition of supporting research, development, and technological advancement in the context of the plastic value chain."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document lists 'Extended Producer Responsibility (EPR)' as a core principle for control measures. It also suggests 'extended producer responsibility schemes' as a potential measure to improve product design, increase recycling, and manage final waste disposal.",
+        "citation": [
+          "Polluter pays principle, including Extended Producer Responsibility (EPR).",
+          "Measures could include, inter alia, minimum requirements, technical regulations and standards, fees and extended producer responsibility schemes in line with the criteria.",
+          "These measures could include targets, minimum requirements, fees, extended producer responsibility schemes, and deposit refund schemes.",
+          "Measures could include extended producer responsibility schemes, deposit return schemes, or fees."
+        ],
+        "reasoning": "The document explicitly names 'Extended Producer Responsibility (EPR)' as a core principle for control measures. It is repeatedly suggested as a specific type of measure ('extended producer responsibility schemes') that parties could implement to achieve objectives related to product design, recycling, and final waste management."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document supports using bans as a measure to reduce the production of primary plastics polymers. It also proposes obligations to eliminate, phase out, or severely restrict specific polymers, chemicals, and plastic products of concern that are harmful, impede circularity, or have a high risk of release into the environment.",
+        "citation": [
+          "Measures could include, inter alia, taxes, tariffs, fees, production permits and licenses, moratoriums, bans, regulations, and removal of negative fiscal incentives, such as subsidies that support expansion of plastics production.",
+          "A number of legislative initiatives around the world have introduced bans or restrictions on such plastic products.",
+          "The plastic treaty may include obligations for effectively phasing out, or severely restricting the production and/or use of specific polymers, chemicals and plastic products that are harmful to the environment and human health, are problematic because they impede circularity or that have a high risk of release into the environment.",
+          "Each Party shall be required to eliminate and restrict the production and use of polymers, chemicals and plastic products listed in an annex."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions the use of 'bans', 'elimination', and 'phasing out' as potential control measures. The citations show that 'bans' are listed as a direct option for reducing plastic production and that 'eliminating', 'restricting', and 'phasing out' specific problematic plastics, chemicals, and products are core proposed obligations for the treaty."
+      },
+      "moratoriums": {
+        "mentioned": true,
+        "details": "Moratoriums are listed as a potential measure to reduce the production of primary plastic polymers.",
+        "citation": [
+          "Measures could include, inter alia, taxes, tariffs, fees, production permits and licenses, moratoriums, bans, regulations, and removal of negative fiscal incentives, such as subsidies that support expansion of plastics production."
+        ],
+        "reasoning": "The document explicitly includes 'moratoriums' in a list of potential control measures that Parties could implement to fulfill a general obligation to reduce the production of primary plastic polymers. This directly matches the code definition."
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document proposes establishing criteria for plastic product design to ensure durability, reliability, reusability, reparability, and recyclability. It also suggests setting minimum requirements, technical regulations, standards, and targets for minimum recycled content for products placed on the market.",
+        "citation": [
+          "The treaty must ensure criteria for the design of plastics to extend product lifespan, ensure durability, recyclability, and safety, in order to enable a circular economy for plastics that protects the environment and human health.",
+          "Measures could include, inter alia, minimum requirements, technical regulations and standards, fees and extended producer responsibility schemes in line with the criteria.",
+          "Possible criteria include durability, reliability, reusability, reparability, absence of substances of concern, microplastic content and potential for its release, minimum recycled content, possibility of remanufacturing and recycling as well as expected generation of waste.",
+          "Parties should set a target for the use of recycled content in plastic products put on the market."
+        ],
+        "reasoning": "The cited text directly calls for the establishment of 'criteria', 'minimum requirements', and 'technical regulations and standards' that products must meet. It specifies performance-based characteristics like durability, reusability, reparability, and minimum recycled content, which are explicit examples of performance standards as per the code definition."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document mandates that parties take measures to ensure plastic waste is collected, sorted, and recycled. It also encourages the use of reuse systems and suggests deposit refund/return schemes as a possible measure.",
+        "citation": [
+          "Each Party should be required to take effective measures to encourage the reuse of plastic products, such as containers and bottles, and/or other reuse systems.",
+          "Each Party should be required to take effective measures so that plastic wastes are collected, sorted and recycled in an environmentally sound manner, taking into account guidance and quality requirements to promote and make available for the market, non-toxic secondary materials.",
+          "Each Party should be required to take effective measures so that plastic waste is collected, sorted and if necessary disposed of in an environmentally sound manner, taking into account the waste hierarchy and inter alia, the technical guidelines adopted by the Basel Convention.",
+          "Measures could include extended producer responsibility schemes, deposit return schemes, or fees."
+        ],
+        "reasoning": "The document uses mandatory language such as \"Each Party should be required to take effective measures\" for actions that necessitate the creation of infrastructure. The requirements for waste to be \"collected, sorted and recycled\" and for the encouragement of \"reuse systems\" imply the establishment of corresponding physical facilities and systems. The explicit mention of \"deposit return schemes\" further supports the creation of specific systemic infrastructure for waste management."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "The document suggests mandatory measures such as 'technical regulations and standards' for plastic products to ensure they meet criteria like durability, reusability, reparability, absence of substances of concern, and minimum recycled content. It also calls for mandatory 'marking or labelling' to disclose chemical composition and for 'quality requirements' for secondary (recycled) materials.",
+        "citation": [
+          "Each Party should be required to take effective measures to ensure that plastic products are produced, manufactured and put on the market are in line with the criteria listed in an annex, and guidance adopted by the Conference of the Parties, with a view to phase out or prevent those products. Measures could include, inter alia, minimum requirements, technical regulations and standards, fees and extended producer responsibility schemes in line with the criteria.",
+          "These criteria could be applied in respect of any product characteristics, such as, for example, composition, performance, shape, packaging, marking and labelling.",
+          "Each Party should be required to ensure the disclosure of information on chemical and material composition of plastic products along the value chain for manufacturers, importers, users, consumers and recyclers for example through marking or labelling.",
+          "...taking into account guidance and quality requirements to promote and make available for the market, non-toxic secondary materials."
+        ],
+        "reasoning": "The text explicitly proposes 'technical regulations and standards' and mandatory 'marking and labelling' to ensure products comply with specified criteria (e.g., recycled content, absence of harmful substances). These are key components of certification or verification schemes that control the types of plastics and plastic products that can be produced or traded. The mention of 'quality requirements' for recycled materials further supports this by implying a verification process."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "marking and labelling requirements for product characteristics; disclosure of chemical and material composition",
+        "citation": [
+          "These criteria could be applied in respect of any product characteristics, such as, for example, composition, performance, shape, packaging, marking and labelling.",
+          "Each Party should be required to ensure the disclosure of information on chemical and material composition of plastic products along the value chain for manufacturers, importers, users, consumers and recyclers for example through marking or labelling."
+        ],
+        "reasoning": "The document explicitly mentions that criteria for product design could be applied to 'marking and labelling'. It further proposes a transparency measure requiring parties to ensure the 'disclosure of information on chemical and material composition of plastic products... for example through marking or labelling', which directly aligns with the code definition for mandatory labelling."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The document proposes National Action Plans as a key implementation measure to ensure accountability, facilitate technical sharing, and be periodically strengthened.",
+        "citation": [
+          "a) How to ensure implementation of the instrument at the national level (eg. role national action plans contribute to meeting the objectives and obligations of the instrument?)",
+          "National action plans, trough periodical update and periodically reported on, should ensure accountability on implementation and support technical and expertise sharing.",
+          "Compliance: the ILBI should set up periodic comprehensive assessments that evaluate progress, at global and national level, toward the objective against key targets providing a basis for re-evaluation and strengthening of national action plans over time."
+        ],
+        "reasoning": "The document explicitly identifies 'National action plans' as a primary tool for implementing the treaty at the national level. The citations show that these plans are envisioned as mandatory components for ensuring accountability and are subject to periodic review and strengthening, which directly aligns with the code definition of required plans or strategies."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document proposes several reporting and transparency measures, including: requiring Parties to report on the quantities and types of plastic polymers and chemicals produced; ensuring the disclosure of chemical and material composition of plastic products along the value chain; and establishing a globally standardized reporting and monitoring mechanism for Parties to periodically report on their national action plans and progress.",
+        "citation": [
+          "Each Party should be required to report on the quantities and type of plastic polymers produced as well as the quantities and type of chemicals applied in production.",
+          "Each Party should be required to ensure the disclosure of information on chemical and material composition of plastic products along the value chain for manufacturers, importers, users, consumers and recyclers for example through marking or labelling.",
+          "National action plans, trough periodical update and periodically reported on, should ensure accountability on implementation and support technical and expertise sharing.",
+          "Creation of a globally standardized reporting and monitoring mechanism: evidence base of consistent, reliable, and high-quality information to set baselines and monitor progress towards the ILBI objective."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for mandatory reporting and disclosure. The cited texts clearly state that Parties should be 'required to report' on production data, 'ensure the disclosure of information' on product composition, and create a 'standardized reporting and monitoring mechanism' for periodically reporting on national plans. This directly aligns with the code definition of mandatory reporting, data submission, and information sharing."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "Application of tariffs to reduce the production of primary plastic polymers, and applying import and export requirements for specific listed polymers, chemicals, and plastic products.",
+        "citation": [
+          "Measures could include, inter alia, taxes, tariffs, fees, production permits and licenses, moratoriums, bans, regulations, and removal of negative fiscal incentives, such as subsidies that support expansion of plastics production.",
+          "Non-Party trade measures. Each Party should be required to apply the import and export requirements for listed polymers, chemicals and plastic products to Parties and non-Parties alike on a non-discriminatory basis."
+        ],
+        "reasoning": "The document explicitly proposes using 'tariffs' as a potential measure to reduce the production of primary plastics. Furthermore, it suggests implementing 'import and export requirements' for certain listed substances and products, which are core examples of trade-related regulatory instruments."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document proposes a globally standardized reporting and monitoring mechanism to establish baselines and track progress. This monitoring should cover the entire plastic life cycle, including data on production, use, recycling, waste, and pollution. It also suggests periodic comprehensive assessments to evaluate progress at both global and national levels.",
+        "citation": [
+          "Creation of a globally standardized reporting and monitoring mechanism: evidence base of consistent, reliable, and high-quality information to set baselines and monitor progress towards the ILBI objective.",
+          "Monitoring should cover the entire plastic life cycle, enabling the collection of current and future data on production, use, recycling, waste and pollution.",
+          "Compliance: the ILBI should set up periodic comprehensive assessments that evaluate progress, at global and national level, toward the objective against key targets providing a basis for re-evaluation and strengthening of national action plans over time."
+        ],
+        "reasoning": "The cited texts explicitly call for the creation of a 'monitoring mechanism' to 'monitor progress' by collecting data across the 'entire plastic life cycle'. Furthermore, the proposal for 'periodic comprehensive assessments that evaluate progress' directly aligns with the code definition of assessing or evaluating policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document proposes the development and adoption of various forms of guidance, including general and sectoral guidelines for product design criteria, guidelines for reuse systems, guidelines on environmentally sound management and recycling of plastic waste, and guidelines on best available techniques and best environmental practices for eliminating plastic releases and remediating legacy waste.",
+        "citation": [
+          "Guidance. The Conference of Parties should adopt general and sectoral guidelines for meeting the criteria.",
+          "Guidance. The Conference of Parties should be required to develop and adopt general and sectoral guidelines for reuse.",
+          "Guidance. The Conference of Parties should be required to develop and adopt guidelines on environmentally sound management and recycling of plastic waste.",
+          "Guidance. The Conference of Parties should be required to adopt guidelines on best available techniques and best environmental practices to eliminate release of plastics to water, land and air from the source categories listed in an annex.",
+          "Guidance. The Conference of Parties should be required to adopt criteria and guidelines on best available techniques and best environmental practices for environmentally sound remediation of legacy waste."
+        ],
+        "reasoning": "The document explicitly and repeatedly proposes that the 'Conference of Parties' should develop and adopt various 'guidelines' to support the implementation of the treaty. These guidelines cover multiple areas, including product design, reuse, recycling, and waste management, and specify the need for 'best available techniques and best environmental practices,' which directly aligns with the definition of the information and guidance code."
+      },
+      "education": {
+        "mentioned": false,
+        "details": null,
+        "citation": [
+          "Monaco will provide details on other priorities in further submissions during the negotiation process."
+        ],
+        "reasoning": "The document does not mention any specific education or awareness-raising initiatives. In the final section titled 'Additional input', the prompt explicitly asks for proposals on 'awareness-raising, education and exchange of information'. However, the response from Monaco defers this topic to future submissions, confirming that no such measures are detailed in this document."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The submission proposes that the instrument could establish or rely on 'mechanisms/bodies to improve knowledge' and suggests exploring a role for the 'Science-policy Panel to Contribute Further to the Sound Management of Chemicals and Waste and to Prevent pollution'.",
+        "citation": [
+          "The ILBI should, as appropriate, establish/rely on mechanisms/bodies to improve knowledge and promote innovations related to plastic pollution aspects.",
+          "The “Science-policy Panel to Contribute Further to the Sound Management of Chemicals and Waste and to Prevent pollution\" (UNEA resolution5/8) may have a role in the ILBI perspective that could be explored in the option paper."
+        ],
+        "reasoning": "The cited text directly proposes that the legally binding instrument should establish or utilize 'bodies' for knowledge and innovation. It specifically names the 'Science-policy Panel' as a potential expert body, which aligns perfectly with the code definition of establishing scientific committees or expert bodies to provide guidance."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document suggests that while there is sufficient evidence to act, certain aspects of plastic pollution may require additional research. It also advocates for establishing mechanisms to improve knowledge and promote innovations related to plastic pollution, and for the treaty to be informed by new scientific insights.",
+        "citation": [
+          "As such, the Treaty must include mechanisms that allow for systematic work overtime and gradually strengthening the approach, informed by new scientific insights and updated understanding about progress.",
+          "Scientific and technical cooperation/coordination: whereas there is sufficient scientific evidence to act now, some aspects of plastic pollution may need additional research.",
+          "The ILBI should, as appropriate, establish/rely on mechanisms/bodies to improve knowledge and promote innovations related to plastic pollution aspects."
+        ],
+        "reasoning": "The cited texts directly support the code by explicitly mentioning the need for 'additional research,' the importance of being 'informed by new scientific insights,' and the establishment of bodies to 'improve knowledge and promote innovations.' This aligns perfectly with the definition of encouraging research and knowledge development without specific funding commitments."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes the creation of a globally standardized reporting and monitoring mechanism, the establishment of common targets for reduction of primary plastics production, and the use of annexes to create standardized lists of restricted polymers, chemicals, and products, as well as overarching criteria for product design.",
+        "citation": [
+          "Creation of a globally standardized reporting and monitoring mechanism: evidence base of consistent, reliable, and high-quality information to set baselines and monitor progress towards the ILBI objective.",
+          "Each Party should be required to take effective measures to reduce the production of primary plastics polymers to an agreed level to reach a common target.",
+          "The treaty should set criteria for identifying polymers, chemicals of concern and plastic products to be listed in an annex.",
+          "Each Party should be required to take effective measures to ensure that plastic products are produced, manufactured and put on the market are in line with the criteria listed in an annex..."
+        ],
+        "reasoning": "The document explicitly calls for a \"globally standardized reporting and monitoring mechanism\" to ensure \"consistent\" data collection across parties. It also repeatedly proposes using annexes to establish common criteria and standardized lists of restricted products and chemicals, and suggests a \"common target\" for production reduction. These proposals are clear efforts to align and standardize approaches and systems among all parties, which directly matches the definition of harmonization."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document proposes several knowledge sharing mechanisms, including: technical and expertise sharing through national action plans, a central data exchange, and the adoption of guidelines on best available techniques and best environmental practices.",
+        "citation": [
+          "The Secretariat should establish a central data exchange where this information can be made available.",
+          "National action plans, trough periodical update and periodically reported on, should ensure accountability on implementation and support technical and expertise sharing.",
+          "The Conference of Parties should be required to adopt guidelines on best available techniques and best environmental practices to eliminate release of plastics to water, land and air from the source categories listed in an annex.",
+          "The ILBI should, as appropriate, establish/rely on mechanisms/bodies to improve knowledge and promote innovations related to plastic pollution aspects."
+        ],
+        "reasoning": "The document explicitly proposes that national action plans should facilitate 'technical and expertise sharing'. It also suggests establishing a 'central data exchange' for information availability and calls for the creation of 'guidelines on best available techniques and best environmental practices'. These are all direct examples of mechanisms designed to exchange information, best practices, and expertise among parties, which aligns with the code definition."
+      }
+    },
+    "targets": {
+      "present": true,
+      "details": "End plastic pollution by 2040 at the latest.",
+      "citation": [
+        "To end plastic pollution (by 2040 at latest) and protect human health and the environment from plastic pollution, including the marine environment."
+      ],
+      "reasoning": "The document proposes a primary objective for the legally binding instrument which includes a specific, measurable target with a concrete deadline: 'to end plastic pollution (by 2040 at latest)'. This directly aligns with the code definition. While the document later suggests that parties should set other targets (for recycling, reuse, etc.), it does not specify what those quantitative targets should be, making the 'by 2040' goal the only concrete target mentioned."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "virgin plastic reduction, biobased material promotion, development of markets for secondary materials, recycled content requirements",
+        "citation": [
+          "Provision to reduce the production of virgin plastic polymers",
+          "Measures and targets for keeping the supply of primary plastic polymers (including both fossil fuel and bio-based) within sustainable levels is needed to reduce pressure on the environment globally.",
+          "In addition, it will be necessary to develop markets for non-toxic secondary materials.",
+          "Parties should set a target for the use of recycled content in plastic products put on the market."
+        ],
+        "reasoning": "The document explicitly calls for measures to reduce the production of 'virgin plastic polymers' and 'primary plastic polymers', which includes both 'fossil fuel and bio-based' sources. It also advocates for the development of markets for 'secondary materials' and setting targets for 'recycled content'. These are all measures that directly address the raw materials used in plastic production, aligning with the code definition for feedstock."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document suggests measures to reduce the production of virgin/primary plastic polymers. Specific mechanisms proposed include taxes, tariffs, fees, production permits and licenses, moratoriums, bans, and regulations. It also calls for the elimination and restriction of the production of specific harmful polymers and chemicals, and for transparency through reporting on the quantities and types of polymers produced.",
+        "citation": [
+          "Provision to reduce the production of virgin plastic polymers",
+          "Measures and targets for keeping the supply of primary plastic polymers (including both fossil fuel and bio-based) within sustainable levels is needed to reduce pressure on the environment globally.",
+          "Each Party should be required to take effective measures to reduce the production of primary plastics polymers to an agreed level to reach a common target. Measures could include, inter alia, taxes, tariffs, fees, production permits and licenses, moratoriums, bans, regulations, and removal of negative fiscal incentives, such as subsidies that support expansion of plastics production.",
+          "Each Party should be required to report on the quantities and type of plastic polymers produced as well as the quantities and type of chemicals applied in production.",
+          "Each Party shall be required to eliminate and restrict the production and use of polymers, chemicals and plastic products listed in an annex."
+        ],
+        "reasoning": "The document explicitly proposes core obligations aimed at the production stage of the plastic life cycle. The cited texts directly call for reducing and restricting the production of plastic polymers, list specific regulatory and fiscal measures to achieve this, and mention transparency requirements for polymer producers, all of which fall under the definition of addressing the manufacturing or creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document proposes establishing criteria for the design of plastics to ensure durability, reusability, reparability, recyclability, and safety. It also suggests considering product characteristics like composition, performance, shape, and recycled content requirements.",
+        "citation": [
+          "The treaty must ensure criteria for the design of plastics to extend product lifespan, ensure durability, recyclability, and safety, in order to enable a circular economy for plastics that protects the environment and human health.",
+          "Possible criteria include durability, reliability, reusability, reparability, absence of substances of concern, microplastic content and potential for its release, minimum recycled content, possibility of remanufacturing and recycling as well as expected generation of waste.",
+          "These criteria could be applied in respect of any product characteristics, such as, for example, composition, performance, shape, packaging, marking and labelling."
+        ],
+        "reasoning": "The cited texts explicitly call for the implementation of design criteria for plastic products. These criteria are intended to enhance circularity by focusing on key design principles such as durability, reusability, reparability, and recyclability, which directly aligns with the code definition."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": true,
+        "chemicals_addressed": true,
+        "details": "Restrictions on specific chemicals and additives (e.g., softeners, colorants); restrictions on products containing intentionally added microplastics; establishing criteria for product design and manufacturing regarding durability, reusability, and absence of substances of concern; requirements for transparency and disclosure of chemical composition in products.",
+        "citation": [
+          "Certain polymers and chemicals used in plastics (such as softeners or colourants) have long term adverse effects on human health and the environment and/or create barriers for the recycling of plastic waste.",
+          "Possible criteria for identifying plastic products could include high litter risk and/or the necessity of products and/or the possibility for recycling and/or the availability of environmentally sound substitutes and/or content of intentionally added microplastics.",
+          "Product design and manufacturing\n*   General obligation. Each Party should be required to take effective measures to ensure that plastic products are produced, manufactured and put on the market are in line with the criteria listed in an annex, and guidance adopted by the Conference of the Parties, with a view to phase out or prevent those products.",
+          "*   Criteria. The Treaty should set overarching criteria in an annex. Possible criteria include durability, reliability, reusability, reparability, absence of substances of concern, microplastic content and potential for its release, minimum recycled content, possibility of remanufacturing and recycling as well as expected generation of waste.",
+          "Each Party should be required to ensure the disclosure of information on chemical and material composition of plastic products along the value chain for manufacturers, importers, users, consumers and recyclers for example through marking or labelling."
+        ],
+        "reasoning": "The document explicitly addresses the product production stage through proposed obligations on 'Product design and manufacturing'. It directly mentions restricting 'chemicals used in plastics (such as softeners or colourants)' and lists 'content of intentionally added microplastics' as a criterion for identifying problematic products. This clearly supports the findings that product production, chemical additives, and intentionally added microplastics are all addressed."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "The document mentions several distribution-related measures, including: applying import and export requirements for specific plastic materials, ensuring information disclosure on product composition along the value chain to actors like importers, and eliminating plastic releases from the handling, storage, and transport of plastic pellets.",
+        "citation": [
+          "Non-Party trade measures. Each Party should be required to apply the import and export requirements for listed polymers, chemicals and plastic products to Parties and non-Parties alike on a non-discriminatory basis.",
+          "Each Party should be required to ensure the disclosure of information on chemical and material composition of plastic products along the value chain for manufacturers, importers, users, consumers and recyclers for example through marking or labelling.",
+          "A specific example is releases that occur through the handling, storage, transport, and processing of plastic pellets, flakes and powders.",
+          "This list of categories could include... transport and handling of plastic pellets..."
+        ],
+        "reasoning": "The cited texts directly address the distribution stage of the plastic value chain. They refer to 'import and export requirements,' which govern the cross-border transportation of products. The mention of disclosing information 'along the value chain' to 'importers' specifically includes a key actor in the distribution network. Furthermore, the document explicitly identifies the 'handling, storage, transport' of plastic raw materials (pellets) as a pollution source that requires control measures, fitting the definition of addressing the transportation and supply chain phase."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "The document addresses the need to change consumption patterns, promote the reuse of products like containers and bottles, and restrict the use of certain plastic products based on how they are used, which often implies single-use items.",
+        "citation": [
+          "Plastic consumption and production have reached unsustainable levels¹ ².",
+          "Plastic consumption has quadrupled over the past 30 years.",
+          "Also, certain plastic products are particularly prone to littering and plastic pollution due to the way in which they are intended to be used.",
+          "There is a need to bring forward more sustainable products, change consumption patterns for all users and consumers, and establish effective systems for retaining plastics in the economy.",
+          "Each Party should be required to take effective measures to encourage the reuse of plastic products, such as containers and bottles, and/or other reuse systems."
+        ],
+        "reasoning": "The document explicitly identifies rising 'plastic consumption' as a core problem and calls for measures to 'change consumption patterns for all users and consumers'. It also proposes specific actions targeting the consumption phase, such as promoting the 'reuse of plastic products, such as containers and bottles', which are common single-use items. Furthermore, it suggests restricting products 'prone to littering' based on their 'intended use', directly addressing the problematic nature of disposable plastics."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document proposes that parties should be required to take measures so that plastic wastes are collected. Specific measures mentioned include setting collection targets, implementing extended producer responsibility (EPR) schemes, and establishing deposit refund/return schemes.",
+        "citation": [
+          "Each Party should be required to take effective measures so that plastic wastes are collected, sorted and recycled in an environmentally sound manner, taking into account guidance and quality requirements to promote and make available for the market, non-toxic secondary materials. These measures could include targets, minimum requirements, fees, extended producer responsibility schemes, and deposit refund schemes.",
+          "Parties should set a target for collection and environmentally sound recycling of plastic waste while also meeting quality requirements.",
+          "Each Party should be required to take effective measures so that plastic waste is collected, sorted and if necessary disposed of in an environmentally sound manner, taking into account the waste hierarchy and inter alia, the technical guidelines adopted by the Basel Convention. Measures could include extended producer responsibility schemes, deposit return schemes, or fees."
+        ],
+        "reasoning": "The document explicitly and repeatedly states that parties should ensure plastic waste is 'collected'. It supports this obligation by suggesting specific, well-known collection mechanisms such as setting collection targets, and implementing Extended Producer Responsibility (EPR) and deposit refund/return schemes, which directly address the gathering of post-consumer plastic waste."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document mentions several waste management measures, including requirements for waste to be collected and sorted, environmentally sound disposal, targets to reduce landfilling and burning, and remediation of legacy plastic waste.",
+        "citation": [
+          "The final disposal of plastic waste (i.e., plastic that cannot be reused or recycled) will remain an area for coordinated global action.",
+          "Each Party should be required to take effective measures so that plastic waste is collected, sorted and if necessary disposed of in an environmentally sound manner, taking into account the waste hierarchy and inter alia, the technical guidelines adopted by the Basel Convention.",
+          "Parties should set a target for reducing the generation of plastic waste in need of final disposal operations, such as landfilling and burning.",
+          "Parties should cooperate to develop strategies to identify, prioritise and address areas of legacy waste in an environmentally sound manner."
+        ],
+        "reasoning": "The cited texts explicitly discuss the management and processing of plastic waste after it has been generated and cannot be recycled. The document outlines obligations for the sorting and environmentally sound disposal of waste, specifically naming 'landfilling and burning' as final disposal operations to be reduced, and also addresses the management of existing pollution through the 'remediation of legacy waste'. These points directly align with the code's definition of handling, processing, or managing plastic waste after collection."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document proposes a general obligation for parties to ensure plastic waste is collected, sorted, and recycled in an environmentally sound manner. It suggests setting targets for collection and recycling rates, developing guidelines for environmentally sound recycling, and setting targets for the use of recycled content in new plastic products. It also mentions specific measures to support these obligations, such as extended producer responsibility (EPR) schemes and deposit refund schemes.",
+        "citation": [
+          "Each Party should be required to take effective measures so that plastic wastes are collected, sorted and recycled in an environmentally sound manner, taking into account guidance and quality requirements to promote and make available for the market, non-toxic secondary materials.",
+          "Parties should set a target for collection and environmentally sound recycling of plastic waste while also meeting quality requirements.",
+          "The Conference of Parties should be required to develop and adopt guidelines on environmentally sound management and recycling of plastic waste.",
+          "Parties should set a target for the use of recycled content in plastic products put on the market."
+        ],
+        "reasoning": "The document includes a dedicated subsection titled 'Recycling' which explicitly outlines obligations, targets, and the development of guidelines for the environmentally sound recycling of plastic waste. The citations directly call for measures that fall under the definition of recycling, such as the collection, sorting, and reprocessing of plastic materials from waste, as well as measures to create a market for recycled materials (recycled content targets)."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document proposes measures for the remediation of legacy plastic waste, including international cooperation to develop strategies for identifying, prioritizing, and addressing polluted areas, and the adoption of guidelines for environmentally sound remediation techniques and practices.",
+        "citation": [
+          "Legacy waste is not only a local plastic pollution issue, but also a source of continuous spread of microplastics and chemicals of concern, and remediation may benefit from concerted international coordination and guidance from the Treaty.",
+          "Remediation of legacy plastic waste",
+          "Cooperation. Parties should cooperate to develop strategies to identify, prioritise and address areas of legacy waste in an environmentally sound manner.",
+          "Guidance. The Conference of Parties should be required to adopt criteria and guidelines on best available techniques and best environmental practices for environmentally sound remediation of legacy waste."
+        ],
+        "reasoning": "The document explicitly identifies 'legacy waste' as a problem and proposes measures under a dedicated heading, 'Remediation of legacy plastic waste'. The proposed actions, such as developing strategies to 'address areas of legacy waste' and creating guidelines for 'environmentally sound remediation', directly align with the code's definition of addressing existing plastic pollution in the environment."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document links reducing virgin plastic production to efforts to reduce GHG emissions and stay within the IPCC 1.5 °C carbon budget. It also mentions that plastic pollution contributes to climate change and calls for eliminating the release of plastics to the air.",
+        "citation": [
+          "Plastic pollution contributes to the triple planetary crises and already has devastating impacts on ecosystems and biodiversity and has significant adverse effects on human health as well as contributing to climate change.",
+          "Measures to reduce production of plastic polymers will also complement efforts to reduce GHG emissions⁴.",
+          "According to a recent report by Eunomia, demand for plastics will have to decrease 3 percent annually, rather than increase 4 percent annually, to stay within the IPCC 1.5 °C carbon budget by 2050.",
+          "Each Party should be required to take steps to eliminate releases of plastics to water, land and air from the source categories listed in an annex."
+        ],
+        "reasoning": "The cited texts directly confirm the mention of emissions. They explicitly state that plastic pollution contributes to 'climate change', that reducing plastic production will complement efforts to reduce 'GHG emissions', refer to the 'IPCC 1.5 °C carbon budget', and call for the elimination of plastic releases to the 'air'. This aligns perfectly with the code definition, which covers greenhouse gas emissions and air pollution."
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "The document suggests measures to address unintentional microplastic leakage, including through product design criteria considering 'potential for its release', and eliminating releases from specific source categories such as roads (implying tire wear), textiles, and the transport and handling of plastic pellets.",
+        "citation": [
+          "Possible criteria include durability, reliability, reusability, reparability, absence of substances of concern, microplastic content and potential for its release, minimum recycled content, possibility of remanufacturing and recycling as well as expected generation of waste.",
+          "A specific example is releases that occur through the handling, storage, transport, and processing of plastic pellets, flakes and powders.",
+          "Each Party should be required to take steps to eliminate releases of plastics to water, land and air from the source categories listed in an annex. This list of categories could include ... transport and handling of plastic pellets; unintentional microplastics releases from e.g. roads, textiles and other sources."
+        ],
+        "reasoning": "The document explicitly proposes an obligation for parties to eliminate 'unintentional microplastics releases' and lists specific, classic examples of such leakage, including from 'roads' (implying tire wear), 'textiles', and the 'transport and handling of plastic pellets'. Furthermore, it suggests including the 'potential for its release' as a key criterion in product design, directly aligning with the code's definition of addressing unintentional microplastic release."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The proposed objective is to end plastic pollution by 2040 at the latest.",
+        "citation": [
+          "To end plastic pollution (by 2040 at latest) and protect human health and the environment from plastic pollution, including the marine environment."
+        ],
+        "reasoning": "The document proposes a clear deadline for achieving the instrument's main objective, stating the goal is 'To end plastic pollution (by 2040 at latest)'. This establishes a specific, long-term timeframe for the overall implementation and success of the treaty."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes a legally binding instrument with a compliance mechanism based on periodic comprehensive assessments, a globally standardized reporting and monitoring system, and national action plans to ensure accountability.",
+        "citation": [
+          "Proposed response by the Principality of Monaco on the potential options for elements towards an international legally binding instrument",
+          "General obligation. Each Party shall be required to eliminate and restrict the production and use of polymers, chemicals and plastic products listed in an annex.",
+          "National action plans, trough periodical update and periodically reported on, should ensure accountability on implementation and support technical and expertise sharing.",
+          "Creation of a globally standardized reporting and monitoring mechanism: evidence base of consistent, reliable, and high-quality information to set baselines and monitor progress towards the ILBI objective.",
+          "Compliance: the ILBI should set up periodic comprehensive assessments that evaluate progress, at global and national level, toward the objective against key targets providing a basis for re-evaluation and strengthening of national action plans over time."
+        ],
+        "reasoning": "The submission consistently refers to the instrument as an 'internationally legally binding instrument (ILBI)' and uses mandatory language such as 'shall be required' throughout its proposed obligations. It further outlines specific compliance and accountability measures, including 'periodic comprehensive assessments' and a 'globally standardized reporting and monitoring mechanism,' which are hallmarks of a high-stringency approach rather than a voluntary or flexible one."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with required implementation at the national level by each signatory Party.",
+        "citation": [
+          "Proposed response by the Principality of Monaco on the potential options for elements towards an international legally binding instrument",
+          "The internationally legally binding instrument (ILBI) would benefit from an easy to understand and open-ended Objective.",
+          "How to ensure implementation of the instrument at the national level (eg. role national action plans contribute to meeting the objectives and obligations of the instrument?)",
+          "Each Party should be required to take effective measures to reduce the production of primary plastics polymers to an agreed level to reach a common target."
+        ],
+        "reasoning": "The document is a submission for an 'international legally binding instrument' (a global treaty). It consistently outlines obligations for 'Each Party' (signatory nations) and specifies that implementation will occur at the 'national level' through mechanisms like 'national action plans', confirming a global scope with national-level execution."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document does not contain any mention of financing, funding, or investment from the private sector, businesses, or corporations. The text focuses on national-level obligations and measures like taxes, fees, and Extended Producer Responsibility (EPR) schemes without specifying the source of financing as public or private."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document suggests several state-level financial instruments as potential control measures, including 'taxes', 'tariffs', 'fees', and the 'removal of negative fiscal incentives, such as subsidies'. It also mentions the need for 'dedicated funding' to support developing countries.",
+      "citation": [
+        "Measures could include, inter alia, taxes, tariffs, fees, production permits and licenses, moratoriums, bans, regulations, and removal of negative fiscal incentives, such as subsidies that support expansion of plastics production.",
+        "Dedicated funding should be available to support developing countries to meet reporting and monitoring obligations under the instrument."
+      ],
+      "reasoning": "The cited texts directly mention multiple forms of public financing and fiscal policy. The first quote lists taxes, tariffs, fees, and subsidies as measures that Parties (states) should be required to take. The second quote explicitly calls for dedicated funding to support developing countries, which in the context of an international treaty implies financial contributions from member states or public sources. This fulfills the code's definition of financing from national governments or public sources."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "Dedicated funding for developing countries; financial assistance.",
+      "citation": [
+        "Dedicated funding should be available to support developing countries to meet reporting and monitoring obligations under the instrument.",
+        "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance."
+      ],
+      "reasoning": "The document explicitly states that 'dedicated funding' is necessary to help developing countries meet their obligations under the proposed international instrument. It also lists 'financial assistance' as a key 'means of implementation' for the treaty. In the context of a global agreement, these references directly point to the need for international financing mechanisms."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "The document suggests several fee and tax mechanisms, including: taxes, tariffs, and fees to reduce the production of primary plastics; fees to ensure plastic products align with circularity criteria; and fees as part of recycling and final waste disposal management systems.",
+      "citation": [
+        "Measures could include, inter alia, taxes, tariffs, fees, production permits and licenses, moratoriums, bans, regulations, and removal of negative fiscal incentives, such as subsidies that support expansion of plastics production.",
+        "Measures could include, inter alia, minimum requirements, technical regulations and standards, fees and extended producer responsibility schemes in line with the criteria.",
+        "These measures could include targets, minimum requirements, fees, extended producer responsibility schemes, and deposit refund schemes.",
+        "Measures could include extended producer responsibility schemes, deposit return schemes, or fees."
+      ],
+      "reasoning": "The document explicitly and repeatedly proposes 'taxes, tariffs, fees' as potential control measures for Parties to implement. These are proposed to reduce the production of primary plastics, ensure sustainable product design, and manage recycling and final waste disposal. These financial instruments are a direct form of financing as defined by the code."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document outlines several responsibilities for the production sector, including: adhering to specific product design criteria (durability, reusability, reparability, minimum recycled content, absence of substances of concern), ensuring transparency through information disclosure on chemical and material composition, and participating in Extended Producer Responsibility (EPR) schemes.",
+      "citation": [
+        "Parties should require producers of polymers and plastic products to provide full and correct information on the properties relevant to the criteria and guidelines.",
+        "Each Party should be required to ensure the disclosure of information on chemical and material composition of plastic products along the value chain for manufacturers, importers, users, consumers and recyclers for example through marking or labelling.",
+        "Possible criteria include durability, reliability, reusability, reparability, absence of substances of concern, microplastic content and potential for its release, minimum recycled content, possibility of remanufacturing and recycling as well as expected generation of waste.",
+        "Measures could include, inter alia, minimum requirements, technical regulations and standards, fees and extended producer responsibility schemes in line with the criteria."
+      ],
+      "reasoning": "The cited texts directly assign obligations to 'producers' and 'manufacturers'. These responsibilities encompass product design standards, information transparency for downstream users and recyclers, and participation in policy mechanisms like Extended Producer Responsibility (EPR) schemes, clearly defining roles and obligations for the production sector in addressing plastic pollution."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document mentions the need to 'change consumption patterns' and positions consumers as key actors who need information on product composition to make informed decisions.",
+      "citation": [
+        "There is a need to bring forward more sustainable products, change consumption patterns for all users and consumers, and establish effective systems for retaining plastics in the economy.",
+        "Each Party should be required to ensure the disclosure of information on chemical and material composition of plastic products along the value chain for manufacturers, importers, users, consumers and recyclers for example through marking or labelling."
+      ],
+      "reasoning": "The text directly identifies the necessity to 'change consumption patterns for all users and consumers' as a core part of increasing the circularity of plastics. This explicitly assigns a role and responsibility to consumers to alter their behavior. Furthermore, the call to provide information to consumers along the value chain implies they have a responsibility to use this information to make conscious choices."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Responsibilities include the environmentally sound collection, sorting, and recycling of plastic waste; meeting quality requirements to promote non-toxic secondary materials; environmentally sound disposal of waste (e.g., landfilling, burning) when necessary; and the environmentally sound remediation of legacy plastic waste.",
+      "citation": [
+        "Each Party should be required to take effective measures so that plastic wastes are collected, sorted and recycled in an environmentally sound manner, taking into account guidance and quality requirements to promote and make available for the market, non-toxic secondary materials.",
+        "Each Party should be required to take effective measures so that plastic waste is collected, sorted and if necessary disposed of in an environmentally sound manner, taking into account the waste hierarchy and inter alia, the technical guidelines adopted by the Basel Convention.",
+        "Parties should set a target for reducing the generation of plastic waste in need of final disposal operations, such as landfilling and burning.",
+        "Parties should cooperate to develop strategies to identify, prioritise and address areas of legacy waste in an environmentally sound manner."
+      ],
+      "reasoning": "The document explicitly outlines obligations for Parties to ensure that plastic waste is managed through specific actions like 'collected, sorted and recycled', 'disposed of', and remediation of 'legacy waste'. These are core functions of the waste management sector. The citations detail responsibilities across the entire waste hierarchy, from ensuring quality recycled materials are available for the market, to environmentally sound final disposal and cleaning up historical pollution."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Policy implementation (taking effective measures), reporting on production, enforcement of restrictions and bans, ensuring information disclosure, implementing waste management systems (collection, sorting, recycling), and applying import/export requirements.",
+      "citation": [
+        "Each Party should be required to take effective measures to reduce the production of primary plastics polymers to an agreed level to reach a common target.",
+        "Each Party should be required to report on the quantities and type of plastic polymers produced as well as the quantities and type of chemicals applied in production.",
+        "Each Party shall be required to eliminate and restrict the production and use of polymers, chemicals and plastic products listed in an annex.",
+        "Each Party should be required to ensure the disclosure of information on chemical and material composition of plastic products along the value chain for manufacturers, importers, users, consumers and recyclers for example through marking or labelling.",
+        "Each Party should be required to take effective measures so that plastic wastes are collected, sorted and recycled in an environmentally sound manner, taking into account guidance and quality requirements to promote and make available for the market, non-toxic secondary materials."
+      ],
+      "reasoning": "The document consistently uses the phrase 'Each Party should be required to' or 'Each Party shall be required to'. In the context of an international legally binding instrument, a 'Party' refers to a signatory national government. The citations list specific obligations and roles for these governments, such as implementing policies, enforcing restrictions, reporting data, and overseeing waste management, which directly aligns with the code definition of government responsibilities."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document assigns several roles to the treaty's institutional bodies, including: the Secretariat establishing a central data exchange registry; the Conference of Parties (CoP) developing and adopting various guidelines, criteria, and guidance (e.g., for product design, reuse, recycling, eliminating releases, and legacy waste remediation); and a potential role for the 'Science-policy Panel to Contribute Further to the Sound Management of Chemicals and Waste and to Prevent pollution' in improving knowledge and promoting innovation.",
+      "citation": [
+        "The Secretariat should establish a central data exchange where this information can be made available.",
+        "The Conference of Parties should adopt general and sectoral guidelines for meeting the criteria.",
+        "The Conference of Parties should be required to develop and adopt guidelines on environmentally sound management and recycling of plastic waste.",
+        "The Conference of Parties should be required to adopt criteria and guidelines on best available techniques and best environmental practices for environmentally sound remediation of legacy waste.",
+        "The “Science-policy Panel to Contribute Further to the Sound Management of Chemicals and Waste and to Prevent pollution\" (UNEA resolution5/8) may have a role in the ILBI perspective that could be explored in the option paper."
+      ],
+      "reasoning": "The cited texts explicitly assign responsibilities to 'The Secretariat' and 'The Conference of Parties', which are core components of the institutional arrangements for an international legally binding instrument, often operating under the UN umbrella. These roles include creating a data registry and developing and adopting various technical guidelines. Furthermore, the document proposes leveraging an existing science-policy panel established under a UNEA (UN Environment Assembly) resolution, directly linking the treaty's functions to the broader UN system."
+    }
+  }
+}

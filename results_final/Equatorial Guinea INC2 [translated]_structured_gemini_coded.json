@@ -1,0 +1,530 @@
+{
+  "submission_metadata": {
+    "country": "REPUBLIC OF EQUATORIAL GUINEA",
+    "date": "2023-01-11",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "Submission on the International Instrument to End Plastic Pollution",
+        "WRITTEN SUBMISSION ON POSSIBLE OPTIONS FOR ELEMENTS FOR A LEGALLY BINDING INTERNATIONAL INSTRUMENT TO END PLASTIC POLLUTION.",
+        "so it's time to say goodbye to plastic pollution."
+      ],
+      "reasoning": "The document's title and primary heading explicitly state its purpose is to contribute to an 'instrument to end plastic pollution'. This objective is further reinforced in the body of the text with the statement, 'it's time to say goodbye to plastic pollution'. The document does not specify a target year or timeline for this objective."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Our country does not produce plastic; it is imported; the committee must consider the role played by large plastics industries.",
+        "Policies on reducing plastic packaging"
+      ],
+      "reasoning": "The document explicitly proposes 'Policies on reducing plastic packaging,' which is a measure aimed at source reduction and inherently involves decreasing the amount of plastic produced for packaging purposes. Furthermore, by stating that the country is an importer and calling on the committee to 'consider the role played by large plastics industries,' it directly points to the production stage as a key area for international consideration."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": "The document focuses entirely on the negative aspects of plastic pollution, including its environmental and health impacts, and calls for measures to end it. There is no mention of any positive contributions, utility, or essential uses of plastics."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document mentions the general endangerment of human health from plastic waste practices like open-air burning, and specifically highlights the risk of children ingesting dangerous chemicals through microplastics.",
+      "citation": [
+        "the practices of dumping plastic waste in waterways and open-air burning of these materials continue to be evident, endangering human and environmental health.",
+        "No one wants their children ingesting dangerous chemicals through microplastics."
+      ],
+      "reasoning": "The document explicitly states that current plastic waste disposal methods are 'endangering human... health.' It then provides a specific example of a health concern by mentioning the desire to prevent children from 'ingesting dangerous chemicals through microplastics,' directly linking the plastic crisis to human well-being."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "...dumping plastic waste in waterways and open-air burning of these materials continue to be evident, endangering human and environmental health.",
+        "Investments in the collection of plastic waste in different ecosystems nationwide",
+        "By moving from a linear plastics economy to a circular economy, we will ensure an ecological balance on our planet, so it's time to say goodbye to plastic pollution.",
+        "...the legally binding international instrument on plastic pollution, including in the marine environment."
+      ],
+      "reasoning": "The document explicitly mentions the goal of protecting 'environmental health,' achieving 'ecological balance,' and collecting waste from 'different ecosystems.' It also repeatedly emphasizes the instrument's scope as 'including in the marine environment,' which clearly indicates a focus on protecting biodiversity, with a specific highlight on marine ecosystems."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "By moving from a linear plastics economy to a circular economy, we will ensure an ecological balance on our planet, so it's time to say goodbye to plastic pollution."
+      ],
+      "reasoning": "The document explicitly advocates for a transition 'from a linear plastics economy to a circular economy.' A circular economy model inherently addresses the entire lifecycle of a product, from design and production through to use, reuse, and recycling, thus covering all stages."
+    },
+    "other_objectives": {
+      "value": "Promote sustainable production and consumption of plastics and facilitate international cooperation through technology access, capacity building, and scientific collaboration.",
+      "citation": [
+        "The future instrument is to promote sustainable production and consumption of plastics from source to sea.",
+        "It should facilitate access to technology, capacity building and scientific and technical cooperation."
+      ],
+      "reasoning": "The document outlines objectives that are not covered by the excluded categories. 'Promoting sustainable production and consumption' is a distinct economic and systemic goal that goes beyond simply reducing production or applying a lifecycle approach. Furthermore, 'facilitating access to technology, capacity building and scientific and technical cooperation' represents a crucial enabling objective focused on the means of implementation and international support, which is a separate goal in itself."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "taxes on numerous single-use plastic items",
+        "citation": [
+          "Bans and taxes on numerous single-use plastic items"
+        ],
+        "reasoning": "The document explicitly lists 'taxes on numerous single-use plastic items' as a proposed control and implementation measure for the legally binding instrument, which directly falls under the definition of tax incentives as an economic instrument."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "management of credit for entrepreneurs in this sector; financing mechanisms for capacity building",
+        "citation": [
+          "...the construction of recycling facilities, and the management of credit for entrepreneurs in this sector...",
+          "...financing mechanisms for capacity building in each nation."
+        ],
+        "reasoning": "The document mentions the 'management of credit for entrepreneurs', which is a form of financial support or incentive. It also explicitly calls for 'financing mechanisms for capacity building', which fits the definition of financial support or grants to assist nations in developing their capabilities to tackle plastic pollution."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "Taxes on single-use plastic items, Polluter-pays measures",
+        "citation": [
+          "Bans and taxes on numerous single-use plastic items",
+          "Polluter-pays measures"
+        ],
+        "reasoning": "The document explicitly proposes 'Polluter-pays measures' as a control measure for the international instrument. This directly aligns with the 'polluter-pays principle' mentioned in the code definition. Additionally, it suggests 'taxes on numerous single-use plastic items', which function as a punitive financial measure to discourage their use."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "Management of credit for entrepreneurs in the recycling sector and financing mechanisms for technology transfer and capacity building.",
+        "citation": [
+          "...the construction of recycling facilities, and the management of credit for entrepreneurs in this sector...",
+          "...technology transfer, as well as financing mechanisms for capacity building in each nation."
+        ],
+        "reasoning": "The document references financial support mechanisms aimed at fostering innovation and technological advancement. The 'management of credit for entrepreneurs' points to financial support for new ventures in the recycling sector, which often involves innovation. Furthermore, the call for 'financing mechanisms for capacity building' in conjunction with 'technology transfer' directly addresses financial support for adopting and implementing new technologies to manage plastic pollution, aligning with the definition of R&D funding."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document suggests 'Polluter-pays measures' and highlights the role of large plastic industries.",
+        "citation": [
+          "Our country does not produce plastic; it is imported; the committee must consider the role played by large plastics industries.",
+          "Polluter-pays measures"
+        ],
+        "reasoning": "The document explicitly calls for 'Polluter-pays measures,' which is the foundational principle of Extended Producer Responsibility (EPR). This principle assigns the financial and/or physical responsibility for a product's end-of-life management to the producer. This finding is further supported by the statement urging the committee to 'consider the role played by large plastics industries,' directly placing responsibility on the producers of plastic."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Bans on numerous single-use plastic items.",
+        "citation": [
+          "Bans and taxes on numerous single-use plastic items"
+        ],
+        "reasoning": "The document explicitly lists 'Bans and taxes on numerous single-use plastic items' as a proposed control and implementation measure for the legally binding instrument. This directly fulfills the code's requirement to identify mentions of prohibitions or bans on specific plastic products."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The submission mentions the construction of recycling facilities, investments in nationwide plastic waste collection, and the need for better solid waste management systems.",
+        "citation": [
+          "the construction of recycling facilities, and the management of credit for entrepreneurs in this sector...",
+          "Investments in the collection of plastic waste in different ecosystems nationwide",
+          "But establishing better solid waste management systems will not be enough to achieve this."
+        ],
+        "reasoning": "The document explicitly references the 'construction of recycling facilities' as a national effort. It further proposes that the treaty should include 'Investments in the collection of plastic waste' and acknowledges the need for 'better solid waste management systems'. These points directly relate to the establishment and improvement of physical systems and infrastructure required for waste management and recycling."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "reporting": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "environmental education",
+        "citation": [
+          "Plastic pollution is evident in my society, as a large percentage of the population is unaware of the negative environmental impacts caused by plastics.",
+          "Despite government efforts in environmental education, the nation's adherence to multiple international conventions on environmental sustainability, the construction of recycling facilities, and the management of credit for entrepreneurs in this sector, the practices of dumping plastic waste in waterways and open-air burning of these materials continue to be evident, endangering human and environmental health."
+        ],
+        "reasoning": "The document explicitly mentions 'environmental education' as a government effort to address the population's lack of awareness about the negative impacts of plastics. This directly aligns with the definition of an information and guidance instrument, as it is an informational resource intended to help stakeholders (the public) implement more effective measures against pollution."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "environmental education",
+        "citation": [
+          "Plastic pollution is evident in my society, as a large percentage of the population is unaware of the negative environmental impacts caused by plastics.",
+          "Despite government efforts in environmental education, the nation's adherence to multiple international conventions on environmental sustainability, the construction of recycling facilities, and the management of credit for entrepreneurs in this sector, the practices of dumping plastic waste in waterways and open-air burning of these materials continue to be evident, endangering human and environmental health."
+        ],
+        "reasoning": "The document explicitly states that there have been 'government efforts in environmental education' aimed at addressing the issue that a large percentage of the population is unaware of the negative environmental impacts of plastics. This directly matches the code's definition of public education initiatives and awareness-raising campaigns."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not propose or mention the establishment of any scientific committees, technical panels, advisory groups, or other expert bodies to guide the implementation of the treaty. The single mention of 'the committee' refers to the existing Intergovernmental Negotiating Committee (INC) to which the submission is addressed, not a new body to be created by the instrument."
+      },
+      "research_promotion": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "harmonization": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any efforts to standardize, align, or make consistent the approaches, definitions, methodologies, or systems across countries. The submission focuses on national-level control measures (e.g., bans, taxes, investments) and international support through technology transfer and financial mechanisms, rather than on harmonizing policies or standards between nations."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "technology transfer",
+        "citation": [
+          "It should also consider ways for more developed states, as well as private institutions, to reach out to less developed countries in terms of technology transfer, as well as financing mechanisms for capacity building in each nation."
+        ],
+        "reasoning": "The document explicitly proposes 'technology transfer' from more developed to less developed countries as a means of implementation for the legally binding instrument. This is a direct example of a mechanism to exchange technology and expertise to build capacity, fitting the code's definition."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document proposes general categories for measures, such as 'Bans and taxes on numerous single-use plastic items' and 'Policies on reducing plastic packaging', but it does not specify any quantitative targets with concrete numbers, percentages, or deadlines."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document suggests that the international instrument must consider the role played by large plastics industries, which are the producers of plastic.",
+        "citation": [
+          "Our country does not produce plastic; it is imported; the committee must consider the role played by large plastics industries."
+        ],
+        "reasoning": "The cited text explicitly states that the country is not a plastic producer but calls for the international instrument to consider the role of 'large plastics industries'. This directly addresses the production stage of the value chain by highlighting the responsibility of producers."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "product_production": {
+        "mentioned": false,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "Importation of plastic products.",
+        "citation": [
+          "Our country does not produce plastic; it is imported; the committee must consider the role played by large plastics industries."
+        ],
+        "reasoning": "The document explicitly states that Equatorial Guinea imports all its plastic products. Importation is a key activity within the distribution and supply chain phase, as it involves the transportation of finished goods across borders before they reach the domestic market and consumers."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "bans on single-use plastics, taxes on single-use plastics, policies on reducing plastic packaging",
+        "citation": [
+          "Bans and taxes on numerous single-use plastic items",
+          "Policies on reducing plastic packaging"
+        ],
+        "reasoning": "The document explicitly proposes control measures that target the consumption stage of the plastic life cycle. The call for 'Bans and taxes on numerous single-use plastic items' and 'Policies on reducing plastic packaging' are direct interventions aimed at influencing consumer behavior and reducing the overall consumption of specific plastic products."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document proposes investments in plastic waste collection systems across different ecosystems and conducting cleanup operations on beaches and water bodies.",
+        "citation": [
+          "Investments in the collection of plastic waste in different ecosystems nationwide",
+          "Cleanup operations on beaches and other water bodies"
+        ],
+        "reasoning": "The document explicitly lists 'Investments in the collection of plastic waste' and 'Cleanup operations on beaches and other water bodies' as proposed measures for the international instrument. These directly address the gathering and aggregation of post-consumer plastic waste, fitting the code definition for collection."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document mentions the construction of recycling facilities and the need for better solid waste management systems. It also references current poor waste management practices, such as dumping plastic waste in waterways and open-air burning.",
+        "citation": [
+          "Despite government efforts in environmental education, the nation's adherence to multiple international conventions on environmental sustainability, the construction of recycling facilities, and the management of credit for entrepreneurs in this sector, the practices of dumping plastic waste in waterways and open-air burning of these materials continue to be evident, endangering human and environmental health.",
+          "But establishing better solid waste management systems will not be enough to achieve this."
+        ],
+        "reasoning": "The text directly mentions the 'construction of recycling facilities' and the need for 'better solid waste management systems'. These are explicit measures for handling and processing plastic waste after collection. The document also describes current waste management issues like dumping and burning, further confirming that this stage of the value chain is being addressed."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "construction of recycling facilities",
+        "citation": [
+          "Despite government efforts in environmental education, the nation's adherence to multiple international conventions on environmental sustainability, the construction of recycling facilities, and the management of credit for entrepreneurs in this sector, the practices of dumping plastic waste in waterways and open-air burning of these materials continue to be evident, endangering human and environmental health."
+        ],
+        "reasoning": "The document explicitly states that government efforts have included 'the construction of recycling facilities'. This is a direct reference to a measure addressing the reprocessing of plastic materials from waste, which aligns with the code definition."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "Investments in the collection of plastic waste in different ecosystems nationwide; Cleanup operations on beaches and other water bodies.",
+        "citation": [
+          "Investments in the collection of plastic waste in different ecosystems nationwide",
+          "Cleanup operations on beaches and other water bodies"
+        ],
+        "reasoning": "The document explicitly proposes measures such as investing in the collection of existing plastic waste from ecosystems and conducting cleanup operations on beaches and in water bodies. These actions are directly aimed at addressing and remediating plastic pollution that is already present in the environment, which aligns perfectly with the definition of the legacy plastic code."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document identifies the issue of air pollution resulting from the open-air burning of plastic waste.",
+        "citation": [
+          "...the practices of dumping plastic waste in waterways and open-air burning of these materials continue to be evident, endangering human and environmental health."
+        ],
+        "reasoning": "The cited text explicitly mentions 'open-air burning' of plastic materials as a current and evident problem. This practice is a direct source of air pollution and other harmful emissions, which falls under the code's definition of addressing emissions associated with the plastic lifecycle (specifically, its end-of-life stage)."
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": null,
+        "citation": [
+          "No one wants their children ingesting dangerous chemicals through microplastics."
+        ],
+        "reasoning": "The document explicitly mentions the danger of 'microplastics' in the context of human health ('ingesting dangerous chemicals'). This reference, coupled with the call to 'confront this crisis', indicates an awareness of the problem that measures against microplastic leakage are designed to solve, even though specific measures like tire wear reduction or textile filters are not detailed."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not specify any timelines, deadlines, or phased approaches for implementing the instrument or its measures. While it contains a call to action ('we must act now, boldly and decisively'), it does not provide a concrete timeframe."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document explicitly advocates for a 'legally binding' instrument. Proposed control measures include bans, taxes on single-use plastics, and 'polluter-pays measures', which are all indicative of a strict, mandatory enforcement regime.",
+        "citation": [
+          "WRITTEN SUBMISSION ON POSSIBLE OPTIONS FOR ELEMENTS FOR A LEGALLY BINDING INTERNATIONAL INSTRUMENT TO END PLASTIC POLLUTION.",
+          "Equatorial Guinea has no objection to the creation and application of this international instrument, as it is of great importance to humanity and its surroundings.",
+          "It should implement measures ranging from: Bans and taxes on numerous single-use plastic items",
+          "Polluter-pays measures",
+          "Legally binding international law on plastic pollution, including in the marine environment."
+        ],
+        "reasoning": "The document repeatedly and explicitly calls for a 'legally binding' instrument and 'legally binding international law'. Furthermore, it proposes specific mandatory measures such as 'bans', 'taxes', and 'polluter-pays measures', which are hallmarks of a high-stringency approach involving non-voluntary, enforceable obligations rather than flexible or voluntary actions."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with national-level implementation and support mechanisms.",
+        "citation": [
+          "WRITTEN SUBMISSION ON POSSIBLE OPTIONS FOR ELEMENTS FOR A LEGALLY BINDING INTERNATIONAL INSTRUMENT TO END PLASTIC POLLUTION.",
+          "the legally binding international instrument on plastic pollution, including in the marine environment.",
+          "It should also consider ways for more developed states, as well as private institutions, to reach out to less developed countries in terms of technology transfer, as well as financing mechanisms for capacity building in each nation.",
+          "Investments in the collection of plastic waste in different ecosystems nationwide"
+        ],
+        "reasoning": "The document is explicitly a submission for a 'legally binding international instrument,' which defines its scope as global. The implementation details, such as investments 'nationwide' and financial mechanisms for 'capacity building in each nation,' clarify that this global treaty is intended to be executed through actions at the national level."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "Financing mechanisms from private institutions for capacity building in less developed countries.",
+      "citation": [
+        "It should also consider ways for more developed states, as well as private institutions, to reach out to less developed countries in terms of technology transfer, as well as financing mechanisms for capacity building in each nation."
+      ],
+      "reasoning": "The document explicitly states that the international instrument should consider 'financing mechanisms' from 'private institutions' to support less developed countries. This is a direct mention of financing from a private sector source."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "management of credit for entrepreneurs",
+      "citation": [
+        "Despite government efforts in environmental education, the nation's adherence to multiple international conventions on environmental sustainability, the construction of recycling facilities, and the management of credit for entrepreneurs in this sector, the practices of dumping plastic waste in waterways and open-air burning of these materials continue to be evident, endangering human and environmental health."
+      ],
+      "reasoning": "The document explicitly states that among the government's efforts is the 'management of credit for entrepreneurs in this sector,' which represents a form of public financing or financial mechanism provided by the state to support businesses in the recycling industry."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "Financing mechanisms from more developed states and private institutions for capacity building.",
+      "citation": [
+        "It should also consider ways for more developed states, as well as private institutions, to reach out to less developed countries in terms of technology transfer, as well as financing mechanisms for capacity building in each nation."
+      ],
+      "reasoning": "The document explicitly proposes that the legally binding instrument should include provisions for 'financing mechanisms' provided by 'more developed states' and 'private institutions' to 'less developed countries'. This is a clear reference to international financing sources, as it involves the transfer of funds across national borders from developed to developing nations."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "The document suggests implementing taxes on single-use plastic items and applying polluter-pays measures as part of the legally binding instrument.",
+      "citation": [
+        "Bans and taxes on numerous single-use plastic items",
+        "Polluter-pays measures"
+      ],
+      "reasoning": "The document explicitly proposes 'taxes on numerous single-use plastic items' and 'Polluter-pays measures' as potential control measures. These are direct examples of financing mechanisms derived from taxes and fees specifically aimed at addressing plastic pollution, which directly aligns with the code definition."
+    },
+    "credit_schemes": {
+      "mentioned": true,
+      "details": "management of credit for entrepreneurs in the recycling sector",
+      "citation": [
+        "Despite government efforts in environmental education, the nation's adherence to multiple international conventions on environmental sustainability, the construction of recycling facilities, and the management of credit for entrepreneurs in this sector, the practices of dumping plastic waste in waterways and open-air burning of these materials continue to be evident, endangering human and environmental health."
+      ],
+      "reasoning": "The document explicitly mentions government efforts in 'the management of credit for entrepreneurs in this sector' as a mechanism to address plastic pollution. This directly matches the code definition, which seeks evidence of financing through credit mechanisms or similar financial instruments."
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "Financing from private institutions",
+      "citation": [
+        "It should also consider ways for more developed states, as well as private institutions, to reach out to less developed countries in terms of technology transfer, as well as financing mechanisms for capacity building in each nation."
+      ],
+      "reasoning": "The document explicitly proposes that 'private institutions' should provide 'financing mechanisms' to less developed countries. This represents a form of voluntary, non-state financial support, such as philanthropic or corporate funding, which aligns with the code definition."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document suggests that the role of large plastic industries must be considered, polluter-pays measures should be implemented, and the private sector should take action. It also suggests a role for private institutions in technology transfer and financing for less developed countries.",
+      "citation": [
+        "Our country does not produce plastic; it is imported; the committee must consider the role played by large plastics industries.",
+        "Polluter-pays measures",
+        "However, the world is watching the situation with interest and countries, the private sector and communities have to start acting...",
+        "It should also consider ways for more developed states, as well as private institutions, to reach out to less developed countries in terms of technology transfer, as well as financing mechanisms for capacity building in each nation."
+      ],
+      "reasoning": "The document explicitly states that the role of 'large plastics industries' needs to be considered in the international instrument. It also proposes 'polluter-pays measures,' a principle often applied to producers. Furthermore, it includes a general call for the 'private sector' to act and a specific role for 'private institutions' (which includes producers) in providing technology transfer and financing, thereby assigning them responsibilities in addressing plastic pollution."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document highlights the importance of 'individual actions' and implies a responsibility to stop harmful practices such as 'dumping plastic waste in waterways and open-air burning'.",
+      "citation": [
+        "the practices of dumping plastic waste in waterways and open-air burning of these materials continue to be evident, endangering human and environmental health.",
+        "We all need to work together to solve this problem, and individual actions are important, as our country is aware of."
+      ],
+      "reasoning": "The text directly states that 'individual actions are important' in solving the plastic pollution crisis. It also describes negative consumer behaviors like dumping and burning plastic waste, which implies a responsibility for the public to cease these practices."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document mentions responsibilities such as the collection of plastic waste, conducting cleanup operations on beaches and water bodies, and the broader goal of establishing better solid waste management systems.",
+      "citation": [
+        "Investments in the collection of plastic waste in different ecosystems nationwide",
+        "Cleanup operations on beaches and other water bodies",
+        "But establishing better solid waste management systems will not be enough to achieve this."
+      ],
+      "reasoning": "The document explicitly lists 'collection of plastic waste' and 'cleanup operations' as control measures that should be implemented under the new international instrument. It also directly references the need for 'establishing better solid waste management systems' as a core part of the solution, even while noting it's not the only part. These are all direct responsibilities of the waste management sector."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "environmental education, adherence to international conventions, construction of recycling facilities, management of credit, implementing bans and taxes, investing in waste collection, creating policies on plastic packaging, conducting cleanup operations, implementing polluter-pays measures",
+      "citation": [
+        "Despite government efforts in environmental education, the nation's adherence to multiple international conventions on environmental sustainability, the construction of recycling facilities, and the management of credit for entrepreneurs in this sector, the practices of dumping plastic waste in waterways and open-air burning of these materials continue to be evident...",
+        "It should implement measures ranging from: Bans and taxes on numerous single-use plastic items, Investments in the collection of plastic waste in different ecosystems nationwide, Policies on reducing plastic packaging, Cleanup operations on beaches and other water bodies, Polluter-pays measures"
+      ],
+      "reasoning": "The document explicitly outlines current and proposed government responsibilities. The first citation lists several existing \"government efforts,\" including education, adherence to conventions, and infrastructure development. The second citation details a list of proposed control and implementation measures, such as bans, taxes, and investments, which are all duties that fall under governmental authority."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "The document assigns a general responsibility for communities (a form of civil society) to take action against plastic pollution.",
+      "citation": [
+        "However, the world is watching the situation with interest and countries, the private sector and communities have to start acting, as is the case of Equatorial Guinea, the legally binding international instrument on plastic pollution, including in the marine environment."
+      ],
+      "reasoning": "The document explicitly states that 'communities have to start acting' to address the issue of plastic pollution. The term 'communities' falls under the broader category of civil society, which is included in the code definition, thus assigning a role to this actor group."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document tasks the negotiating committee with the responsibility to consider the role played by large plastics industries in the creation of the instrument.",
+      "citation": [
+        "...the committee must consider the role played by large plastics industries."
+      ],
+      "reasoning": "The document explicitly assigns a task to 'the committee', which in the context of the INC-1 process for an international instrument, refers to the UN-established Intergovernmental Negotiating Committee. This constitutes a direct assignment of a role to an international governance entity."
+    }
+  }
+}

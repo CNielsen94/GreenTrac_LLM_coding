@@ -1,0 +1,575 @@
+{
+  "submission_metadata": {
+    "country": "Nepal",
+    "date": "2023-02-03",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "International commitment is necessary to address the issue of plastic pollution in the snow-capped mountains as these pristine environments get the wastes from the tourists representing various countries.",
+        "National campaign to make the water bodies free from the plastic wastes.",
+        "Policy adjustment to keep the water bodies plastic free."
+      ],
+      "reasoning": "The document explicitly states the need to 'address the issue of plastic pollution' and proposes specific national objectives to make water bodies 'plastic free'. These phrases directly align with the code's definition of addressing or tackling plastic pollution as a goal. However, the document does not specify any year or timeline for achieving these objectives."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": true,
+      "specifications": "Ban on the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron.",
+      "citation": [
+        "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+      ],
+      "reasoning": "The document explicitly states that Nepal has implemented a ban on the 'production' of a specific category of plastic products (bags thinner than 40 microns). This is a direct control measure on plastic manufacturing and provides a specific, quantifiable target (a ban based on thickness), fulfilling the definitions for both 'mentioned' and 'specification_provided'."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document mentions that plastic wastes cause 'environmental and health impacts' and notes that 'Plastics based chemical pollution and micro-plastics are contaminating the environment.'",
+      "citation": [
+        "Plastic wastes released in the environment will make the environmental and health impacts.",
+        "Plastics based chemical pollution and micro-plastics are contaminating the environment."
+      ],
+      "reasoning": "The document explicitly states that plastic waste results in 'health impacts' and identifies the sources of these risks as 'chemical pollution and micro-plastics.' This directly connects the issue of plastic pollution with the objective of protecting human health."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": false,
+      "citation": [
+        "Reduction of plastic wastes in the mountain and water bodies.",
+        "Unmanaged waste disposal activities release the plastic wastes in the rivers and lakes.",
+        "Plastic wastes released in the environment will make the environmental and health impacts.",
+        "...there is a increased risk for the pollution of mountain environment from the plastic pollution.",
+        "National campaign to make the water bodies free from the plastic wastes."
+      ],
+      "reasoning": "The document explicitly outlines objectives to protect specific ecosystems, namely the 'mountain environment' and 'water bodies' like 'rivers and lakes', from the negative environmental impacts of plastic pollution. The goal is to preserve these 'pristine environments' by reducing plastic waste, which directly aligns with the code's definition of ecosystem protection. The focus is entirely on terrestrial and freshwater ecosystems, with no mention of marine environments."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "Promotion of recycling industries through the formulation of policy.",
+        "Promotion of alternatives of plastic bags such as biodegradable bags.",
+        "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+      ],
+      "reasoning": "The document explicitly references the concept of addressing plastic pollution 'throughout the full life cycle' in a key question it is responding to. The subsequent proposed control measures reflect this by addressing multiple stages: production (banning certain bags, promoting alternatives), use (rules for tourists), and end-of-life (recycling, take-back programs, and waste management)."
+    },
+    "other_objectives": {
+      "value": "Support a just transition for workers; Promote a circular economy",
+      "citation": [
+        "A key objective, therefore, is to support a just transition for waste pickers and other workers in the informal sector.",
+        "The treaty should also promote a circular economy for plastics, which will reduce waste and create new economic opportunities."
+      ],
+      "reasoning": "The document explicitly states two objectives that are not covered by the other predefined categories. The first is to 'support a just transition' for workers, which is a socio-economic goal focused on labor rights and equity for affected communities. The second is to 'promote a circular economy,' a systemic goal aimed at creating a closed-loop system for plastics to eliminate waste and foster new economic models. These objectives are distinct from the other codes which focus on the problem of pollution itself, production levels, health/biodiversity impacts, or a general lifecycle analysis."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "A proposed control measure includes establishing a 'pollution control fund' where contributions are made based on the quantity of plastic waste that is not returned, functioning as a penalty for non-compliance.",
+        "citation": [
+          "Establishing the pollution control fund at local government level and contributing on that fund based on the quantity of plastic wastes not returned."
+        ],
+        "reasoning": "The document proposes a financial mechanism where a contribution to a fund is required based on the 'quantity of plastic wastes not returned.' This directly links a financial consequence to a failure to comply with waste take-back obligations, which is a form of financial penalty or a polluter-pays principle."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": true,
+        "details": "A pollution control fund is proposed, where contributions are based on the quantity of plastic wastes that are not returned by tourists and mountaineering agencies.",
+        "citation": [
+          "Returning the plastic items by tourists, guides, mountaineering agencies and government bodies.",
+          "Establishing the pollution control fund at local government level and contributing on that fund based on the quantity of plastic wastes not returned."
+        ],
+        "reasoning": "The document describes a system that, while not a classic consumer-facing deposit-refund scheme, functions as an economic instrument to incentivize the return of materials. It establishes a 'pollution control fund' that is financed by contributions linked directly to the 'quantity of plastic wastes not returned.' This creates a financial penalty for failing to return waste, which is the core principle of a deposit system."
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document mentions the need for periodic research on the impacts of plastics and potential alternatives, as well as the need for technology development for waste management.",
+        "citation": [
+          "Periodic researches on impacts and alternatives.",
+          "Awareness-raising, education and exchange of information, research, stakeholder engagement is required for the plastic waste reduction and taking back the wastes released in the environment.",
+          "Application of segregation measures in all municipalities and technology development for waste management."
+        ],
+        "reasoning": "The document explicitly states that 'periodic researches on impacts and alternatives' and 'technology development for waste management' are required measures. These statements directly match the code definition, which looks for mentions of research, development, or technological advancement related to plastics."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document discusses 'take-back' schemes and returning plastic items. However, the responsibility for these actions is consistently placed on consumers (tourists, climbers), service providers (guides, mountaineering agencies), and government bodies, rather than on the producers of the plastic goods. There is no mention of producer-funded schemes or making producers responsible for the post-consumer stage of their products, which is the core principle of Extended Producer Responsibility (EPR)."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not contain any provisions related to a just transition. The submission focuses on environmental objectives, control measures like waste segregation and recycling, and implementation frameworks. There is no mention of the social impacts of these policies on vulnerable groups, such as informal waste pickers, or any measures to support affected communities or workers through the transition."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Ban on the production, import, sale, and use of plastic bags and other plastics with a thickness less than 40 microns.",
+        "citation": [
+          "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+        ],
+        "reasoning": "The document explicitly states that Nepal has 'banned' specific plastic products (bags and other plastics under 40 microns), which directly matches the code definition of a prohibition on specific plastic products."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "Standards for plastic bags and other plastic products, including a ban on plastics with a thickness less than 40 microns.",
+        "citation": [
+          "Formulation of appropriate standards for plastic bags and other plastic products.",
+          "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+        ],
+        "reasoning": "The document explicitly calls for the formulation of standards for plastic products and provides a specific, concrete example of a performance standard already implemented: a ban on plastic bags and other plastics that do not meet a minimum thickness requirement (less than 40 microns). This directly aligns with the code's definition of a product standard or requirement."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "Mandatory segregation of plastic wastes at different stages, application of segregation measures in all municipalities.",
+        "citation": [
+          "Practice waste segregation at source.",
+          "Mandatory segregation of plastic wastes in different stages of waste management.",
+          "Application of segregation measures in all municipalities and technology development for waste management."
+        ],
+        "reasoning": "The document explicitly lists 'Mandatory segregation of plastic wastes' as a core obligation and calls for the 'Application of segregation measures in all municipalities'. This necessitates the establishment of infrastructure and systems (e.g., separate bins, collection systems, sorting facilities) to enable and enforce waste segregation at the source and throughout the management process."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National Action Plan on Plastic Management",
+        "citation": [
+          "Ensuring the implementation of the instrument at the national level requires formulation of National Action Plan on Plastic Management.",
+          "National Action Plan on Plastic Management should consider for the formation of central level task force (including the stakeholders) for the effective plastic management and policy guidance."
+        ],
+        "reasoning": "The document explicitly states that a 'National Action Plan on Plastic Management' is required for the national implementation of the instrument, directly matching the code definition of a mandatory plan that countries must develop."
+      },
+      "reporting": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document states that Nepal has banned the import of plastic bags and other plastics with a thickness of less than 40 microns.",
+        "citation": [
+          "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+        ],
+        "reasoning": "The cited text explicitly mentions an 'import' ban on a specific category of plastic products. An import ban is a direct form of a trade requirement, which aligns with the code definition."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "Establishing a monitoring mechanism at all levels of government and providing capacity building for a monitoring agency.",
+        "citation": [
+          "Capacity building to the policy making body and monitoring agency is necessary to ensure effectiveness of the instrument.",
+          "Establishing the Monitoring mechanism in all levels of government."
+        ],
+        "reasoning": "The document explicitly calls for establishing a 'Monitoring mechanism in all levels of government' and capacity building for a 'monitoring agency'. This directly aligns with the code definition of creating systems to track, observe, and evaluate policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document mentions providing policy guidance, creating awareness programs for policymakers, implementing agencies and users, as well as general awareness-raising, education, and exchange of information.",
+        "citation": [
+          "National Action Plan on Plastic Management should consider for the formation of central level task force (including the stakeholders) for the effective plastic management and policy guidance.",
+          "Appropriate awareness programs at different levels: Policy making body, Implementing agency, Users.",
+          "Awareness-raising, education and exchange of information, research, stakeholder engagement is required for the plastic waste reduction and taking back the wastes released in the environment."
+        ],
+        "reasoning": "The cited texts explicitly state the need for 'policy guidance', 'awareness programs', 'education', and 'exchange of information'. These are all forms of soft instruments designed to provide information and guidance to stakeholders to help them implement effective measures for plastic waste management, which directly aligns with the code definition."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "The document calls for awareness programs targeting policymakers, implementing agencies, and users, as well as general awareness-raising, education, information exchange, and national campaigns.",
+        "citation": [
+          "Appropriate awareness programs at different levels: Policy making body, Implementing agency, Users.",
+          "Awareness-raising, education and exchange of information, research, stakeholder engagement is required for the plastic waste reduction and taking back the wastes released in the environment.",
+          "National campaign to make the water bodies free from the plastic wastes."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'awareness programs', 'awareness-raising', and 'education' as required measures to support the implementation of plastic pollution policy. It also identifies specific targets for these initiatives (policymakers, agencies, users) and suggests methods like 'national campaigns', all of which directly align with the definition of education as a soft instrument."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "central level task force",
+        "citation": [
+          "National Action Plan on Plastic Management should consider for the formation of central level task force (including the stakeholders) for the effective plastic management and policy guidance."
+        ],
+        "reasoning": "The document explicitly proposes the formation of a 'central level task force' that includes stakeholders. The stated purpose of this body is to provide 'policy guidance' for effective plastic management, which aligns directly with the code definition of an expert or advisory group established to guide the implementation of the instrument."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document calls for periodic research on the impacts and alternatives of plastics, general research for plastic waste reduction, and technology development for waste management.",
+        "citation": [
+          "Periodic researches on impacts and alternatives.",
+          "Awareness-raising, education and exchange of information, research, stakeholder engagement is required for the plastic waste reduction and taking back the wastes released in the environment.",
+          "Application of segregation measures in all municipalities and technology development for waste management."
+        ],
+        "reasoning": "The document explicitly identifies 'periodic researches on impacts and alternatives', 'research', and 'technology development' as required measures to support the implementation of the instrument. This directly aligns with the code's definition of encouraging scientific research and innovation as a soft instrument for policy support."
+      },
+      "harmonization": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "Technical cooperation and coordination, capacity-building, technical assistance, technology transfer, and exchange of information.",
+        "citation": [
+          "Technical cooperation and coordination is required for the take back the plastic wastes released in the environment and reusing or recycling or safe disposal or safe destruction of plastic wastes especially in local government.",
+          "Capacity-building, technical assistance, technology transfer.",
+          "Awareness-raising, education and exchange of information, research, stakeholder engagement is required for the plastic waste reduction and taking back the wastes released in the environment."
+        ],
+        "reasoning": "The document explicitly lists several measures that align with the definition of knowledge sharing. It directly calls for 'technical cooperation and coordination', 'technical assistance', 'technology transfer', and 'exchange of information' as required measures to support the implementation of the instrument and effectively manage plastic waste."
+      }
+    },
+    "targets": {
+      "present": true,
+      "details": "Nepal has banned the production, import, sale, and use of plastic bags and other plastics with a thickness less than 40 microns, effective from July 16, 2021.",
+      "citation": [
+        "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+      ],
+      "reasoning": "The document provides a specific, measurable target by stating a ban on plastic bags and other plastics that are less than a concrete thickness (40 microns). It also includes a specific deadline/effective date (16th July, 2021), which aligns with the code definition of a quantitative target."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "promotion of biobased/biodegradable materials",
+        "citation": [
+          "Promotion of alternatives of plastic bags such as biodegradable bags."
+        ],
+        "reasoning": "The document explicitly mentions the promotion of biodegradable bags as an alternative to conventional plastic bags. This directly addresses the feedstock stage by encouraging the use of different raw materials (e.g., biobased polymers) instead of traditional fossil-fuel-based virgin plastics, which aligns with the code definition."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "Ban on the production of plastic bags less than 40 microns thick.",
+        "citation": [
+          "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+        ],
+        "reasoning": "The cited text explicitly mentions a government ban on the 'production' of a specific plastic product (plastic bags thinner than 40 microns). This is a direct control measure targeting the manufacturing process, which aligns with the definition of the production stage."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "Formulation of standards for plastic bags and other plastic products, including a ban on plastic bags with a thickness less than 40 microns.",
+        "citation": [
+          "Formulation of appropriate standards for plastic bags and other plastic products.",
+          "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+        ],
+        "reasoning": "The document explicitly states the need for 'Formulation of appropriate standards for plastic bags and other plastic products' as a control measure. This directly addresses product design. The provided example of banning plastic bags less than 40 microns thick is a specific design requirement related to product durability and material use, which perfectly matches the code definition."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": "ban on production of thin plastic bags (<40 micron), formulation of standards for plastic products",
+        "citation": [
+          "Formulation of appropriate standards for plastic bags and other plastic products.",
+          "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+        ],
+        "reasoning": "The document explicitly mentions control measures targeting the production of plastic products, such as setting standards and banning the production of plastic bags below a certain thickness. However, it does not specifically address intentionally added microplastics in products or chemical additives used during the manufacturing process; it only refers to microplastics and chemical pollution as environmental contaminants from existing waste."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "A ban on the import and sale of plastic bags thinner than 40 microns has been implemented.",
+        "citation": [
+          "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+        ],
+        "reasoning": "The text explicitly mentions a ban on the 'import' and 'sale' of specific plastic bags. 'Import' and 'sale' are core activities within the distribution phase of the midstream value chain, as they involve the transportation and supply of products to the market before they reach the end consumer."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "The document mentions a ban on the use of certain types of plastic bags, promotion of alternatives to plastic bags, obligations for tourists to return plastic items, and awareness programs for users.",
+        "citation": [
+          "Returning the plastic items by tourists, guides, mountaineering agencies and government bodies.",
+          "Promotion of alternatives of plastic bags such as biodegradable bags.",
+          "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron.",
+          "Appropriate awareness programs at different levels: Policy making body, Implementing agency, Users."
+        ],
+        "reasoning": "The document directly addresses the consumption phase by mentioning a ban on the 'use' of certain plastic bags (a common single-use item), creating obligations for consumers (tourists), and proposing awareness programs targeted at 'users'. These measures are designed to control and influence consumer behavior regarding plastic products."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document outlines several collection-related measures, including practicing waste segregation at the source, mandatory take-back schemes (e.g., returning plastic items by tourists and guides), government-led waste collection programs (such as mountain cleaning campaigns), and voluntary take-back initiatives by organizations and mountain climbers.",
+        "citation": [
+          "Practice waste segregation at source.",
+          "Returning the plastic items by tourists, guides, mountaineering agencies and government bodies.",
+          "Programmatic approach of government for waste collection from the high mountain and bring it down for management.",
+          "Involvement of voluntary organizations for the waste take back from the environment.",
+          "Application of segregation measures in all municipalities and technology development for waste management."
+        ],
+        "reasoning": "The cited texts directly mention key collection activities such as 'waste segregation at source', 'returning' items (a form of take-back), and programmatic 'waste collection'. These quotes explicitly describe measures for gathering and aggregating post-consumer plastic waste from various sources, aligning with the definition of the collection stage."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "Waste segregation at source and at different stages of management, reusing, recycling, safe disposal, safe destruction, promotion of recycling industries, and technology development for waste management.",
+        "citation": [
+          "Practice waste segregation at source.",
+          "Mandatory segregation of plastic wastes in different stages of waste management.",
+          "Waste is collected from mountains including Mount Everest and handed over to the local bodies / committee and recycling agencies.",
+          "Promotion of recycling industries through the formulation of policy.",
+          "Technical cooperation and coordination is required for the take back the plastic wastes released in the environment and reusing or recycling or safe disposal or safe destruction of plastic wastes especially in local government.",
+          "Application of segregation measures in all municipalities and technology development for waste management."
+        ],
+        "reasoning": "The document explicitly mentions several measures for handling and processing plastic waste after it has been collected. These include waste segregation (a key step in management), the promotion of recycling industries, and various final disposal methods such as 'reusing', 'recycling', 'safe disposal', and 'safe destruction'. This directly aligns with the code's definition of addressing post-collection waste management."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Promotion of recycling industries through policy, waste segregation at source to facilitate recycling, utilizing pollution control funds for recycling, and handing over collected waste to recycling agencies.",
+        "citation": [
+          "Therefore, it is necessary to take back the waste released in environment, reusing or recycling or safe disposal or destruction is necessary.",
+          "Waste segregation at source makes it easier to collect plastic wastes for reusing and recycling.",
+          "Utilizing the pollution control fund on waste take back to reuse and recycle.",
+          "Waste is collected from mountains including Mount Everest and handed over to the local bodies / committee and recycling agencies.",
+          "Promotion of recycling industries through the formulation of policy.",
+          "Technical cooperation and coordination is required for the take back the plastic wastes released in the environment and reusing or recycling or safe disposal or safe destruction of plastic wastes especially in local government."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'recycling' as a necessary measure for managing plastic waste. It details several specific actions to support this, including policy formulation to promote recycling industries, financial mechanisms (pollution control fund), operational procedures (handing waste to recycling agencies), and enabling actions (waste segregation at source), clearly indicating that recycling is a key component of the proposed plastic pollution strategy."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document mentions several measures to address existing plastic pollution, including initiatives to 'take back the plastic wastes released in the environment', a government-led 'mountain cleaning campaign' to collect waste from high mountains like Mount Everest, involvement of voluntary organizations in waste take-back, and a proposed 'national campaign to make the water bodies free from the plastic wastes'.",
+        "citation": [
+          "Take back the plastic wastes released in the environment.",
+          "Programmatic approach of government for waste collection from the high mountain and bring it down for management. For example, Government of Nepal (Nepal Army as a lead agency) is involved in mountain cleaning campaign.",
+          "Bringing back the wastes already deposited in the mountain by the mountain climber.",
+          "National campaign to make the water bodies free from the plastic wastes."
+        ],
+        "reasoning": "The document explicitly and repeatedly refers to actions aimed at cleaning up plastic pollution that is already present in the environment. The cited phrases, such as the 'mountain cleaning campaign' and taking back 'wastes already deposited,' directly match the code's definition of addressing existing pollution and cleaning up polluted areas."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention measures to address greenhouse gas emissions, air pollution, or other atmospheric releases from the plastic lifecycle. The submission's focus is exclusively on managing solid plastic waste, particularly in mountain and water environments, through collection, segregation, recycling, and take-back schemes."
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "The document identifies microplastics as a contamination issue resulting from larger plastic waste and proposes measures to 'take back the waste released in environment' to prevent this form of pollution.",
+        "citation": [
+          "Plastic wastes released in the environment will make the environmental and health impacts. Plastics based chemical pollution and micro-plastics are contaminating the environment. Therefore, it is necessary to take back the waste released in environment, reusing or recycling or safe disposal or destruction is necessary."
+        ],
+        "reasoning": "The document explicitly identifies 'micro-plastics' as a form of environmental contamination resulting from released plastic wastes. It then directly links this problem to the proposed solution of taking back waste from the environment, which is a measure to prevent the degradation of macroplastics into microplastics."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes mandatory obligations, a community-based regulatory mechanism, and a pollution control fund that acts as a financial penalty for non-compliance. It also mentions an existing national ban on certain plastic bags and the establishment of monitoring mechanisms and a central task force.",
+        "citation": [
+          "Obligations: - Returning the plastic items by tourists, guides, mountaineering agencies and government bodies. - Community based regulatory mechanism for plastic waste disposal in water bodies. - Mandatory segregation of plastic wastes in different stages of waste management.",
+          "Establishing the pollution control fund at local government level and contributing on that fund based on the quantity of plastic wastes not returned.",
+          "Establishing the Monitoring mechanism in all levels of government.",
+          "National Action Plan on Plastic Management should consider for the formation of central level task force (including the stakeholders) for the effective plastic management and policy guidance.",
+          "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+        ],
+        "reasoning": "The document proposes a framework with 'Obligations' and 'Mandatory' requirements rather than purely voluntary approaches. The creation of a 'pollution control fund' where contributions are based on the 'quantity of plastic wastes not returned' functions as a clear enforcement mechanism with financial consequences for non-compliance. This, combined with regulatory mechanisms, monitoring bodies, and reference to an existing legal ban, justifies the 'High' stringency classification."
+      },
+      "scale": {
+        "scope": "National",
+        "details": "National action plan developed in the context of an international instrument on plastic pollution.",
+        "citation": [
+          "Ensuring the implementation of the instrument at the national level requires formulation of National Action Plan on Plastic Management.",
+          "National Action Plan on Plastic Management should consider for the formation of central level task force (including the stakeholders) for the effective plastic management and policy guidance.",
+          "International commitment is necessary to address the issue of plastic pollution in the snow-capped mountains as these pristine environments get the wastes from the tourists representing various countries."
+        ],
+        "reasoning": "The document primarily focuses on implementation at the 'national level' through a 'National Action Plan' for Nepal. However, it also explicitly situates these national efforts within a broader global context, as indicated by the submission being to an 'INC on Plastic Pollution' (Intergovernmental Negotiating Committee) and the call for 'International commitment', showing the national plan is designed to fulfill obligations under a global instrument."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "Contributions to a pollution control fund by mountaineering agencies.",
+      "citation": [
+        "Returning the plastic items by tourists, guides, mountaineering agencies and government bodies.",
+        "Establishing the pollution control fund at local government level and contributing on that fund based on the quantity of plastic wastes not returned."
+      ],
+      "reasoning": "The document proposes a 'pollution control fund' to be established at the local government level. The text specifies that contributions to this fund would be based on the quantity of unreturned plastic waste by obligated parties. The list of obligated parties explicitly includes 'mountaineering agencies,' which are private sector entities. Therefore, their financial contributions to this fund represent a form of private sector financing for waste management activities."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document mentions a 'pollution control fund at local government level' and a 'programmatic approach of government' for waste collection, citing a specific 'mountain cleaning campaign' led by the Nepal Army.",
+      "citation": [
+        "Establishing the pollution control fund at local government level and contributing on that fund based on the quantity of plastic wastes not returned.",
+        "Utilizing the pollution control fund on waste take back to reuse and recycle.",
+        "Programmatic approach of government for waste collection from the high mountain and bring it down for management. For example, Government of Nepal (Nepal Army as a lead agency) is involved in mountain cleaning campaign."
+      ],
+      "reasoning": "The document provides clear evidence of state-level financing mechanisms. It explicitly proposes a 'pollution control fund' to be established at the 'local government level' and describes an existing 'programmatic approach of government', which is a government-funded initiative involving a state agency (Nepal Army) to manage waste. These directly match the code's definition of financing from public sources."
+    },
+    "international": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "A 'pollution control fund' at the local government level, financed by contributions based on the quantity of unreturned plastic waste.",
+      "citation": [
+        "Establishing the pollution control fund at local government level and contributing on that fund based on the quantity of plastic wastes not returned.",
+        "Utilizing the pollution control fund on waste take back to reuse and recycle."
+      ],
+      "reasoning": "The cited text explicitly proposes establishing a 'pollution control fund' as a control measure. This fund is financed through contributions, which function as a fee or charge, levied based on the amount of plastic waste that is not returned. The text further specifies that this fund will be used for waste management, confirming it as a fee-based financing source dedicated to addressing plastic pollution."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "A ban on the production of plastic bags less than 40 microns thick.",
+      "citation": [
+        "For example, 16th July, 2021 Nepal has banned the production, import, sale and use of plastic bags and other plastics with the thickness less than 40 micron."
+      ],
+      "reasoning": "The document explicitly states a government ban on the 'production' of a specific plastic product. This is a direct control measure and obligation placed upon the production sector, defining what they are not allowed to manufacture."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document specifies responsibilities for consumers, particularly tourists and mountain climbers, including returning plastic items after use and voluntarily bringing back waste from mountains. It also mentions a general objective of 'waste segregation at source' and identifies 'users' as a target for awareness programs.",
+      "citation": [
+        "Practice waste segregation at source.",
+        "Returning the plastic items by tourists, guides, mountaineering agencies and government bodies.",
+        "Bringing back the wastes already deposited in the mountain by the mountain climber.",
+        "Appropriate awareness programs at different levels: Policy making body, Implementing agency, Users."
+      ],
+      "reasoning": "The document explicitly assigns obligations to 'tourists' and 'mountain climbers', who are types of consumers, to return their plastic waste. It also lists 'waste segregation at source' as a proposed objective, which is a common consumer responsibility. Furthermore, it identifies 'Users' as a key target group for awareness programs, indicating an expectation for them to be informed and change their behavior."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Responsibilities include mandatory waste segregation at various stages, receiving collected waste for management, performing take-back, reuse, recycling, safe disposal or destruction of plastic waste, applying segregation measures in municipalities, and developing waste management technology.",
+      "citation": [
+        "Mandatory segregation of plastic wastes in different stages of waste management.",
+        "Waste is collected from mountains including Mount Everest and handed over to the local bodies / committee and recycling agencies.",
+        "Technical cooperation and coordination is required for the take back the plastic wastes released in the environment and reusing or recycling or safe disposal or safe destruction of plastic wastes especially in local government.",
+        "Application of segregation measures in all municipalities and technology development for waste management."
+      ],
+      "reasoning": "The document explicitly assigns several responsibilities to entities involved in post-consumer waste handling. It names 'local bodies' and 'recycling agencies' as recipients of collected waste and assigns them the tasks of management, reuse, recycling, and safe disposal. Furthermore, it outlines obligations such as implementing mandatory segregation throughout the waste management process and developing relevant technologies, directly defining the roles and duties of the waste management sector."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Policy formulation and adjustment, setting standards and regulations, leading programmatic approaches for waste collection, establishing monitoring mechanisms and pollution control funds, creating national action plans and task forces, and direct participation in waste management activities.",
+      "citation": [
+        "Returning the plastic items by tourists, guides, mountaineering agencies and government bodies.",
+        "Establishing the pollution control fund at local government level and contributing on that fund based on the quantity of plastic wastes not returned.",
+        "Programmatic approach of government for waste collection from the high mountain and bring it down for management.",
+        "Promotion of recycling industries through the formulation of policy.",
+        "Formulation of appropriate standards for plastic bags and other plastic products.",
+        "Ensuring the implementation of the instrument at the national level requires formulation of National Action Plan on Plastic Management.",
+        "Establishing the Monitoring mechanism in all levels of government."
+      ],
+      "reasoning": "The document explicitly assigns numerous responsibilities to various levels of government, including national and local. The citations highlight the government's role in direct actions ('returning plastic items'), financial mechanisms ('establishing the pollution control fund'), program leadership ('programmatic approach of government'), policy and standard setting ('formulation of policy', 'formulation of appropriate standards'), and oversight ('Establishing the Monitoring mechanism'). These duties clearly define the government's obligations in addressing plastic pollution."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Involvement in waste take back from the environment.",
+      "citation": [
+        "Involvement of voluntary organizations for the waste take back from the environment."
+      ],
+      "reasoning": "The document explicitly assigns a role to 'voluntary organizations' under the section on 'Voluntary approaches'. This term is synonymous with non-governmental organizations (NGOs) or civil society. The specified responsibility is to participate in taking waste back from the environment, which clearly falls under the scope of the code."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document references a UNEP document as the framework for implementation support, specifically covering 'capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance'. This implies an expected role for the UN system in providing or coordinating these implementation measures.",
+      "citation": [
+        "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance.",
+        "a) What measures will be required to support the implementation of the instrument?\n\n- Adequate policy and legal instruments in all levels of government.\n- Capacity-building, technical assistance, technology transfer."
+      ],
+      "reasoning": "The submission explicitly references a UNEP document to frame the discussion on the means of implementation. The measures subsequently listed as necessary, such as 'Capacity-building, technical assistance, technology transfer,' directly align with the elements from the cited UN document. This demonstrates an expectation that the UN system will be instrumental in providing or coordinating support for the instrument's implementation."
+    }
+  }
+}

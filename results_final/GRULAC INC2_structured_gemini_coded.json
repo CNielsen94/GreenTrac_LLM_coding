@@ -1,0 +1,456 @@
+{
+  "submission_metadata": {
+    "country": "Costa Rica on behalf of the Group of Latin America and the Caribbean Countries (GRULAC)",
+    "date": "2023-02-10",
+    "type": "Organization"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "An ambitious agreement to end plastic pollution, including in the marine environment, will demand that developing countries be provided with commensurate means for its implementation, informed by the best available science, traditional knowledge, knowledge of Indigenous Peoples and local knowledge systems, as well as socioeconomic information and assessment related to plastic pollution."
+      ],
+      "reasoning": "The document explicitly states the objective of creating 'An ambitious agreement to end plastic pollution'. This directly matches the code definition. However, no specific year or timeline for achieving this goal is mentioned in the text."
+    },
+    "reduce_production": {
+      "mentioned": false,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "An ambitious agreement to end plastic pollution, including in the marine environment, will demand that developing countries be provided with commensurate means for its implementation..."
+      ],
+      "reasoning": "The document explicitly states the objective is to create an agreement to 'end plastic pollution, including in the marine environment.' Ending plastic pollution is a direct action aimed at environmental preservation and protecting ecosystems. The specific inclusion of the 'marine environment' highlights a clear focus on protecting marine biodiversity and habitats from this threat."
+    },
+    "lifecycle_approach": {
+      "mentioned": false,
+      "coverage": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "other_objectives": {
+      "value": "Establish a circular economy for plastics, provide financial mechanisms and ensure equitable outcomes for developing countries, and promote international cooperation on research and education.",
+      "citation": [
+        "Establishes common global rules that drive national action towards a circular economy for plastics, ensuring that plastics produced are reduced, and remaining plastics are reused and recycled safely.",
+        "Establishes a dedicated financial mechanism to support implementation in developing countries, which includes a dedicated multilateral fund and innovative approaches to unlock public and private investment, and ensure equitable outcomes.",
+        "Promotes international cooperation on scientific and technical research, awareness, and education."
+      ],
+      "reasoning": "The document outlines several distinct objectives not covered by the other categories. These include: 1) The systemic economic goal of creating a 'circular economy for plastics'. 2) The financial and equity-based objective of establishing a dedicated 'financial mechanism to support implementation in developing countries' and 'ensure equitable outcomes'. 3) The capacity-building objective to 'promote international cooperation on scientific and technical research, awareness, and education'. These goals are focused on the economic systems, financial support structures, and international collaboration required to address the plastics issue, rather than solely on the direct environmental or health impacts."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "Financial resources to support research, development, and innovation (R&D&I) projects.",
+        "citation": [
+          "The INC should thus conceive of a robust integrated mechanism that ensures the provision and mobilization of new, additional and predictable flows of financial resources to support relevant research, development, and innovation (R&D&I) projects, promote technology transfer and know how, and provide capacity building and technical assistance."
+        ],
+        "reasoning": "The document explicitly calls for the provision of 'financial resources to support' specific projects related to research, development, and innovation. This directly aligns with the code definition's inclusion of 'financial support' as a form of subsidy, even though the specific term 'subsidy' or 'grant' is not used."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "Financial resources to support research, development, and innovation (R&D&I) projects.",
+        "citation": [
+          "The INC should thus conceive of a robust integrated mechanism that ensures the provision and mobilization of new, additional and predictable flows of financial resources to support relevant research, development, and innovation (R&D&I) projects, promote technology transfer and know how, and provide capacity building and technical assistance."
+        ],
+        "reasoning": "The document explicitly calls for mobilizing 'financial resources to support relevant research, development, and innovation (R&D&I) projects' as a key component of the means of implementation for the plastic pollution agreement, directly matching the code's definition."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "mandatory_infrastructure": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "reporting": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "Socioeconomic assessment related to plastic pollution.",
+        "citation": [
+          "An ambitious agreement to end plastic pollution, including in the marine environment, will demand that developing countries be provided with commensurate means for its implementation, informed by the best available science, traditional knowledge, knowledge of Indigenous Peoples and local knowledge systems, as well as socioeconomic information and assessment related to plastic pollution."
+        ],
+        "reasoning": "The document explicitly states that the implementation of the agreement must be informed by 'socioeconomic information and assessment related to plastic pollution.' The term 'assessment' directly aligns with the code definition, which includes systems to 'assess, or evaluate plastic pollution'."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document requests the creation of a 'working document on all dimensions of means of implementation' and emphasizes that implementation should be informed by 'best available science, traditional knowledge, knowledge of Indigenous Peoples and local knowledge systems, as well as socioeconomic information and assessment'.",
+        "citation": [
+          "...informed by the best available science, traditional knowledge, knowledge of Indigenous Peoples and local knowledge systems, as well as socioeconomic information and assessment related to plastic pollution.",
+          "...GRULAC kindly requests the secretariat, subject to the availability of resources, to prepare ahead of the INC-2 meeting a working document on all dimensions of means of implementation with some examples drawn from other international instruments and arrangements."
+        ],
+        "reasoning": "The text explicitly states that implementation must be informed by various knowledge systems and information sources. Furthermore, it directly requests the creation of a 'working document' by the secretariat, which is a clear example of an informational and guidance resource intended to support stakeholders in future discussions."
+      },
+      "education": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document calls for the support of research, development, and innovation (R&D&I) projects and emphasizes that implementation should be informed by the best available science, traditional knowledge, and socioeconomic information.",
+        "citation": [
+          "An ambitious agreement to end plastic pollution, including in the marine environment, will demand that developing countries be provided with commensurate means for its implementation, informed by the best available science, traditional knowledge, knowledge of Indigenous Peoples and local knowledge systems, as well as socioeconomic information and assessment related to plastic pollution.",
+          "The INC should thus conceive of a robust integrated mechanism that ensures the provision and mobilization of new, additional and predictable flows of financial resources to support relevant research, development, and innovation (R&D&I) projects, promote technology transfer and know how, and provide capacity building and technical assistance."
+        ],
+        "reasoning": "The text explicitly advocates for a mechanism to support 'research, development, and innovation (R&D&I) projects'. Furthermore, it states that the implementation of the agreement must be 'informed by the best available science' and other knowledge systems, which directly encourages the use and development of scientific research in the context of plastic pollution."
+      },
+      "harmonization": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document calls for the agreement's implementation to be informed by various knowledge sources, including 'best available science, traditional knowledge, knowledge of Indigenous Peoples and local knowledge systems'. It also explicitly advocates for a mechanism to 'promote technology transfer and know how'.",
+        "citation": [
+          "An ambitious agreement to end plastic pollution, including in the marine environment, will demand that developing countries be provided with commensurate means for its implementation, informed by the best available science, traditional knowledge, knowledge of Indigenous Peoples and local knowledge systems, as well as socioeconomic information and assessment related to plastic pollution.",
+          "The INC should thus conceive of a robust integrated mechanism that ensures the provision and mobilization of new, additional and predictable flows of financial resources to support relevant research, development, and innovation (R&D&I) projects, promote technology transfer and know how, and provide capacity building and technical assistance."
+        ],
+        "reasoning": "The cited texts directly align with the code definition. The first quote identifies the need for implementation to be 'informed by' various types of knowledge, implying a mechanism for sharing that information. The second quote explicitly calls to 'promote technology transfer and know how,' which are direct mechanisms for exchanging expertise and technology between stakeholders."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document does not contain any specific, measurable, or quantitative policy targets with concrete numbers, percentages, or deadlines. The text is a high-level submission focusing on the 'means of implementation' for a future agreement, such as financial mechanisms and capacity building, rather than defining the specific targets the agreement should contain."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "production": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "product_production": {
+        "mentioned": false,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any specific measures related to the manufacturing of plastic products, intentionally added microplastics, or chemical additives. Its focus is entirely on the high-level 'means of implementation' for a future treaty, such as financial resources, technology transfer, and capacity building, rather than specific obligations or control measures within the plastic value chain."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": false,
+        "single_use_addressed": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not address the consumption stage of the plastic value chain. Its entire focus is on the high-level 'means of implementation' for a future agreement, such as financial mechanisms, technology transfer, and capacity building, rather than specific control measures or obligations targeting consumer behavior, product use, or single-use plastics."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document focuses on the high-level 'means of implementation' for a plastic pollution treaty, such as financial mechanisms, technology transfer, and capacity building. It does not mention any specific operational measures or stages of the value chain, such as the collection, gathering, or aggregation of post-consumer plastic waste."
+      },
+      "waste_management": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document focuses on the high-level 'means of implementation' for a future agreement, such as financial mechanisms, technology transfer, and capacity building. It does not mention any specific obligations, control measures, or actions related to the handling, processing, or management of plastic waste after collection."
+      },
+      "recycling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "legacy_plastic": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any specific time periods, deadlines, or schedules for implementing the plastic pollution treaty. Its focus is on the process of negotiating the means of implementation, such as requesting a working document 'ahead of the INC-2 meeting' and discussing elements 'at the same time as other substantial elements', rather than on the timeline for the treaty's execution."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document advocates for a 'legally binding instrument' that includes 'obligations and control measures'.",
+        "citation": [
+          "GRULAC SUBMISSION: LEGALLY BINDING INSTRUMENT ON PLASTIC POLLUTION - MEANS OF IMPLEMENTATION",
+          "GRULAC reiterates that the discussions on means of implementation be initiated and addressed at the same time as other substantial elements such as obligations and control measures."
+        ],
+        "reasoning": "The document title explicitly states that the submission is for a 'legally binding instrument,' indicating a high level of stringency. This is further supported by the text which frames the discussion in the context of creating 'obligations and control measures,' which are key components of a mandatory and enforceable agreement, not a voluntary one."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "The document discusses the creation of a global, legally binding instrument (international treaty) to address plastic pollution, which will require implementation by signatory countries.",
+        "citation": [
+          "GRULAC SUBMISSION: LEGALLY BINDING INSTRUMENT ON PLASTIC POLLUTION - MEANS OF IMPLEMENTATION",
+          "An ambitious agreement to end plastic pollution, including in the marine environment, will demand that developing countries be provided with commensurate means for its implementation...",
+          "...prepare ahead of the INC-2 meeting a working document on all dimensions of means of implementation with some examples drawn from other international instruments and arrangements."
+        ],
+        "reasoning": "The document title explicitly refers to a 'LEGALLY BINDING INSTRUMENT' on plastic pollution. The text discusses this instrument in the context of an Intergovernmental Negotiating Committee (INC), the needs of 'developing countries', and comparisons to 'other international instruments,' all of which indicate a global-scale treaty or agreement."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "international": {
+      "mentioned": true,
+      "details": "dedicated financial mechanism, examples from other international instruments and arrangements",
+      "citation": [
+        "This integrated system of implementation and the scale of the challenge ahead of us will also demand a dedicated financial mechanism.",
+        "GRULAC kindly requests the secretariat, subject to the availability of resources, to prepare ahead of the INC-2 meeting a working document on all dimensions of means of implementation with some examples drawn from other international instruments and arrangements."
+      ],
+      "reasoning": "The document explicitly calls for a 'dedicated financial mechanism' and requests the secretariat to provide examples from 'other international instruments and arrangements'. In the context of a multilateral environmental agreement, these terms directly refer to the establishment or use of international financing sources to fund implementation in developing countries, similar to mechanisms like the Global Environment Facility (GEF) or the Green Climate Fund (GCF)."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "consumers": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document does not mention any responsibilities, obligations, or roles assigned to consumers or the general public. The text exclusively focuses on the high-level 'means of implementation' for an international agreement, such as financial mechanisms, technology transfer, and capacity building for developing countries."
+    },
+    "waste_management": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document focuses on the high-level 'means of implementation' for a future agreement, such as financial mechanisms, technology transfer, and capacity building for developing countries. It does not assign or describe any specific responsibilities, obligations, or roles to the waste management sector."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines the responsibility of participating governments (within the Intergovernmental Negotiating Committee - INC) to discuss, conceive, and establish mechanisms for implementing a plastic pollution treaty. This includes providing developing countries with financial resources, promoting technology transfer, and offering capacity building and technical assistance.",
+      "citation": [
+        "An ambitious agreement to end plastic pollution, including in the marine environment, will demand that developing countries be provided with commensurate means for its implementation...",
+        "The INC should thus conceive of a robust integrated mechanism that ensures the provision and mobilization of new, additional and predictable flows of financial resources to support relevant research, development, and innovation (R&D&I) projects, promote technology transfer and know how, and provide capacity building and technical assistance.",
+        "For INC-2 discussions to reach the expected level of ambition, GRULAC reiterates that the discussions on means of implementation be initiated and addressed at the same time as other substantial elements such as obligations and control measures."
+      ],
+      "reasoning": "The document is a formal submission from a group of national governments (GRULAC) to an Intergovernmental Negotiating Committee (INC). The citations clearly state the demands and expectations placed upon these governmental bodies to create a system of support, including financial and technological aid for developing countries, and to deliberate on these implementation measures as a core part of their negotiating responsibilities."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The secretariat of the Intergovernmental Negotiating Committee (INC) is requested to prepare a working document on means of implementation for the INC-2 meeting.",
+      "citation": [
+        "GRULAC kindly requests the secretariat, subject to the availability of resources, to prepare ahead of the INC-2 meeting a working document on all dimensions of means of implementation with some examples drawn from other international instruments and arrangements."
+      ],
+      "reasoning": "The document explicitly assigns a preparatory task to 'the secretariat'. In the context of an Intergovernmental Negotiating Committee (INC) for a UN-led treaty, 'the secretariat' refers to the UN body tasked with supporting the negotiations, thus fitting the definition of a UN system actor with an assigned responsibility."
+    }
+  }
+}

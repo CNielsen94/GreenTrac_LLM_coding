@@ -1,0 +1,544 @@
+{
+  "submission_metadata": {
+    "country": "Azerbaijan",
+    "date": "2023-01-27",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "Reducing the negative impact of plastic pollution on the environment and human health",
+        "Reducing the production of single use plastic to an almost zero level",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?"
+      ],
+      "reasoning": "The submission explicitly proposes 'Reducing the negative impact of plastic pollution' and 'Reducing the production of single use plastic to an almost zero level' as objectives. It also frames core obligations around 'a comprehensive approach to addressing plastic pollution'. These statements confirm that tackling plastic pollution is a central goal. However, the document does not mention any specific target year or timeline for achieving these objectives."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": true,
+      "specifications": "to an almost zero level",
+      "citation": [
+        "Reducing the production of single use plastic to an almost zero level",
+        "Reducing the single use plastic can help in reducing the manufacturing of it and encourage recycling and reuse hence reducing the amount of litter."
+      ],
+      "reasoning": "The document explicitly states an objective to reduce the production of single-use plastic to a specific, quantifiable target of 'an almost zero level'. It further clarifies that reducing single-use plastic will directly reduce its manufacturing, confirming the focus is on production, not just waste management."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "Universal materials with various advantages",
+      "citation": [
+        "Nowadays, plastics, which are universal materials, were created on the basis of scientific achievements.",
+        "Conducting presentations about the advantages and disadvantages of plastic products in schools and universities with the participation of relevant state institutions."
+      ],
+      "reasoning": "The document acknowledges the utility of plastics by referring to them as 'universal materials,' indicating their widespread applicability. Additionally, the proposal to educate students on the 'advantages and disadvantages' of plastics is a direct acknowledgment that plastics have positive attributes worth discussing, thus meeting the code definition."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The submission explicitly lists reducing the negative impact of plastic pollution on human health as a key objective. It also calls for developing international controls on additives and chemicals of concern, which are known to pose health risks.",
+      "citation": [
+        "Reducing the negative impact of plastic pollution on the environment and human health",
+        "Develop international guidance, standards and controls on additives and chemicals of concern"
+      ],
+      "reasoning": "The document explicitly states the protection of human health as a proposed objective for the instrument. This is further supported by the call to control harmful additives and chemicals in plastics, which is a specific measure aimed at mitigating health risks."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": false,
+      "citation": [
+        "To preserve the animal and bird species, and to protect our ecosystem reducing the single-use of plastics can be helpful."
+      ],
+      "reasoning": "The document explicitly states that reducing single-use plastics serves the goal of preserving animal and bird species and protecting the ecosystem. This justification directly links plastic reduction measures to biodiversity protection. The focus is general ('animal and bird species,' 'our ecosystem') rather than specifically on marine life."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?"
+      ],
+      "reasoning": "The document explicitly uses the term 'full life cycle' within a question about creating a comprehensive approach to plastic pollution. This demonstrates that the concept is considered and the scope is intended to be the entire lifecycle."
+    },
+    "other_objectives": {
+      "value": "Promote a circular economy, ensure a just transition for workers, and address climate impacts.",
+      "citation": [
+        "It is also fundamental to promote a circular economy for plastics, which protects the environment and human health.",
+        "The instrument should ensure a just transition for waste pickers and other workers in the informal and cooperative sectors.",
+        "The instrument should include a whole lifecycle approach to address plastic pollution... and its impacts on human health, biodiversity and the climate."
+      ],
+      "reasoning": "The document explicitly states several objectives that are distinct from the predefined categories. These include the systemic goal to 'promote a circular economy,' the socio-economic objective to 'ensure a just transition' for workers, and the environmental goal of addressing plastic's impacts on 'the climate,' which is a separate concern from biodiversity or general pollution."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any tax-related measures. The proposed strategies focus on Extended Producer Responsibility (EPR), investment in alternatives and waste collection, developing legislative frameworks, and awareness campaigns, but there is no reference to plastic taxes, tax breaks, duties, or other fiscal incentives."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document mentions providing support for researching plastic substitute products, which implies a form of financial assistance or grant.",
+        "citation": [
+          "Providing support for researching plastic substitute products."
+        ],
+        "reasoning": "The phrase 'Providing support' is a clear indication of a subsidy-like mechanism, such as a grant or financial assistance, which directly aligns with the code definition. This support is targeted at a specific activity (researching plastic substitutes) to encourage a desired outcome."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document mentions increasing investment in new materials, additives, technologies, and product design, as well as providing support for scientific research institutions and for researching plastic substitute products.",
+        "citation": [
+          "For the production of materials that are safer, biodegradable and qualitatively competitive with plastics, greater opportunities should be created for the employees of scientific research institutions, and their opinions should be taken into account.",
+          "Increase investment in new materials, additives, technologies and product design, as well as safe and sustainable alternatives",
+          "Providing support for researching plastic substitute products."
+        ],
+        "reasoning": "The cited texts explicitly call for 'investment' in new technologies and materials, creating 'opportunities' for scientific research institutions, and 'providing support for researching' alternatives. These phrases directly correspond to the definition of R&D funding as a form of financial support for technological development and innovation."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document proposes the implementation of an 'extended producer responsibility model' at the national level, with control measures to be managed in cooperation with relevant state institutions such as the Ministry of Environment and the Ministry of Economy.",
+        "citation": [
+          "Implementation of the extended producer responsibility model",
+          "implementation of the extended producer responsibility model accepted at the national level and implementation of its control in cooperation with the relevant state institutions (for example, in cooperation with the Ministry of Environment and the Ministry of Economy)"
+        ],
+        "reasoning": "The document explicitly and repeatedly cites the 'extended producer responsibility model' as a core obligation and a national-level implementation measure to address plastic pollution, justifying the 'true' value for 'mentioned'."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document proposes a reduction of single-use plastic production to a level that is almost zero, which is functionally an elimination or phase-out.",
+        "citation": [
+          "Reducing the production of single use plastic to an almost zero level"
+        ],
+        "reasoning": "The objective to reduce the production of single-use plastic to 'an almost zero level' is a clear statement of intent to eliminate or phase-out these products, which falls under the definition of a ban or prohibition."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document suggests developing international standards and controls for additives and chemicals of concern used in plastics.",
+        "citation": [
+          "Develop international guidance, standards and controls on additives and chemicals of concern"
+        ],
+        "reasoning": "The cited text directly calls for the development of 'standards and controls' for the chemical composition of plastics. This aligns with the definition of performance standards, which includes material standards, specifications, and criteria that products must meet."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "plastic waste collection",
+        "citation": [
+          "Increase investment in plastic waste collection"
+        ],
+        "reasoning": "The document explicitly lists 'Increase investment in plastic waste collection' as a core obligation and control measure. This directly calls for the development or expansion of infrastructure necessary for managing plastic waste, aligning with the code's definition of requiring infrastructure for waste collection."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "Proposes creating a database for decision-making that requires parties involved in waste management to provide accurate information for an effective national report.",
+        "citation": [
+          "How to ensure effectiveness of the instrument and have efficient national reporting?",
+          "- to ensure the effectiveness of the national report, it is necessary to create a database for decision-making. It is useful for parties involved in waste management to provide accurate information."
+        ],
+        "reasoning": "The document explicitly addresses the question of 'efficient national reporting' and suggests a mechanism for it: requiring 'parties involved in waste management to provide accurate information' to a national database. This directly aligns with the definition of mandatory reporting and data submission."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document suggests ensuring the effectiveness of national reporting through the creation of a database for decision-making, which would rely on accurate information from waste management parties. It also mentions the need for control over the implementation of the extended producer responsibility (EPR) model.",
+        "citation": [
+          "implementation of its control in cooperation with the relevant state institutions (for example, in cooperation with the Ministry of Environment and the Ministry of Economy)",
+          "to ensure the effectiveness of the national report, it is necessary to create a database for decision-making. It is useful for parties involved in waste management to provide accurate information."
+        ],
+        "reasoning": "The text explicitly calls for the creation of a database and the provision of accurate information to ensure the effectiveness of national reporting. This constitutes a system to track, measure, and assess policy effectiveness, which aligns with the definition of monitoring. The mention of 'control' over the EPR model also implies a monitoring and oversight function."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document suggests the development of international guidance and standards for plastic additives, as well as conducting citizen campaigns and educational presentations in schools and universities.",
+        "citation": [
+          "Develop international guidance, standards and controls on additives and chemicals of concern",
+          "Promotion citizen campaigns to enhance plastic reuse, segregation and collection rates.",
+          "Conducting presentations about the advantages and disadvantages of plastic products in schools and universities with the participation of relevant state institutions."
+        ],
+        "reasoning": "The document explicitly calls for the creation of 'international guidance' and 'standards' to address plastic pollution. Furthermore, it proposes public-facing informational and educational measures, such as 'citizen campaigns' and 'presentations in schools and universities,' which are forms of providing information and guidance to the general public to influence their behavior."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Citizen awareness campaigns, presentations in schools and universities.",
+        "citation": [
+          "Promotion citizen campaigns to enhance plastic reuse, segregation and collection rates.",
+          "Conducting presentations about the advantages and disadvantages of plastic products in schools and universities with the participation of relevant state institutions."
+        ],
+        "reasoning": "The document explicitly proposes two distinct educational and awareness-raising initiatives: 'citizen campaigns' to promote better waste management practices and 'presentations in schools and universities' to educate students about plastics. These directly match the code definition for education as a soft instrument."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document suggests creating more opportunities for scientific research institutions to develop safer, biodegradable materials, increasing investment in new materials and technologies, and providing support for researching plastic substitute products.",
+        "citation": [
+          "For the production of materials that are safer, biodegradable and qualitatively competitive with plastics, greater opportunities should be created for the employees of scientific research institutions, and their opinions should be taken into account.",
+          "Increase investment in new materials, additives, technologies and product design, as well as safe and sustainable alternatives",
+          "Providing support for researching plastic substitute products."
+        ],
+        "reasoning": "The document explicitly calls for creating opportunities, increasing investment, and providing support for research and development activities aimed at creating plastic alternatives and safer materials. These statements directly align with the definition of encouraging scientific research and innovation without specifying concrete funding mechanisms."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "international guidance, standards and controls on additives and chemicals of concern",
+        "citation": [
+          "Develop international guidance, standards and controls on additives and chemicals of concern"
+        ],
+        "reasoning": "The document explicitly proposes the development of 'international guidance, standards and controls'. This directly aligns with the definition of harmonization, which involves creating consistent approaches and standards across different countries or stakeholders to address a common issue, in this case, harmful additives and chemicals in plastics."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions developing international guidance and standards, as well as ensuring access to advanced technologies for lower-income countries, which constitutes a form of technology transfer.",
+        "citation": [
+          "Develop international guidance, standards and controls on additives and chemicals of concern",
+          "ensuring access to advanced technologies for low- and middle-income countries"
+        ],
+        "reasoning": "The cited texts directly support the code for knowledge sharing. The first quote proposes the development of international guidance and standards, which is a mechanism for sharing information and best practices globally. The second quote explicitly calls for ensuring access to advanced technologies for certain countries, which is a clear example of technology transfer to build capacity."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [
+        "Reducing the production of single use plastic to an almost zero level"
+      ],
+      "reasoning": "The document proposes an objective to reduce single-use plastic production to 'an almost zero level'. However, this is a qualitative aspiration rather than a specific, measurable, or time-bound quantitative target. No concrete numbers, percentages, or deadlines are provided anywhere in the text."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "virgin plastic reduction, promotion of alternative/biodegradable materials",
+        "citation": [
+          "Reducing the production of single use plastic to an almost zero level",
+          "Expanding the production and use alternative biodegradable bags",
+          "For the production of materials that are safer, biodegradable and qualitatively competitive with plastics, greater opportunities should be created for the employees of scientific research institutions, and their opinions should be taken into account.",
+          "Increase investment in new materials, additives, technologies and product design, as well as safe and sustainable alternatives"
+        ],
+        "reasoning": "The document explicitly addresses feedstock by proposing a reduction in the production of single-use plastics, which inherently targets the consumption of virgin plastic feedstock. Furthermore, it repeatedly calls for the expansion, research, and investment in alternative raw materials, specifically mentioning 'alternative biodegradable bags' and 'materials that are safer, biodegradable', which are types of feedstocks."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "Reducing the production of single-use plastics, reducing the manufacturing of single-use plastics, expanding the production of alternative biodegradable bags, developing controls on additives and chemicals, and investing in the production of safer materials and new technologies.",
+        "citation": [
+          "Reducing the production of single use plastic to an almost zero level",
+          "Reducing the single use plastic can help in reducing the manufacturing of it and encourage recycling and reuse hence reducing the amount of litter.",
+          "Expanding the production and use alternative biodegradable bags",
+          "Develop international guidance, standards and controls on additives and chemicals of concern",
+          "For the production of materials that are safer, biodegradable and qualitatively competitive with plastics, greater opportunities should be created for the employees of scientific research institutions, and their opinions should be taken into account."
+        ],
+        "reasoning": "The document explicitly states an objective to reduce the 'production' and 'manufacturing' of single-use plastics. It also mentions measures directly related to the creation process, such as expanding the 'production' of alternatives and developing controls for 'additives and chemicals,' which are key components in polymer production. These citations directly align with the code definition of addressing the manufacturing or creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "Investment in product design; Controls on additives and chemicals of concern",
+        "citation": [
+          "Increase investment in new materials, additives, technologies and product design, as well as safe and sustainable alternatives",
+          "Develop international guidance, standards and controls on additives and chemicals of concern"
+        ],
+        "reasoning": "The document explicitly mentions the need for increased investment in 'product design' as a supportive measure for policy implementation. It also calls for controls on additives and chemicals, which is a key aspect of the material design of plastic products."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "The document suggests reducing the production of single-use plastics, developing controls on chemical additives, expanding the production of biodegradable alternatives, and investing in new materials, additives, and product design.",
+        "citation": [
+          "Reducing the production of single use plastic to an almost zero level",
+          "Develop international guidance, standards and controls on additives and chemicals of concern",
+          "Increase investment in new materials, additives, technologies and product design, as well as safe and sustainable alternatives",
+          "For the production of materials that are safer, biodegradable and qualitatively competitive with plastics, greater opportunities should be created for the employees of scientific research institutions, and their opinions should be taken into account."
+        ],
+        "reasoning": "The document explicitly addresses the manufacturing stage by proposing to reduce the production of specific products (single-use plastics) and to develop controls for 'additives and chemicals of concern'. It also calls for investment in 'product design', which is a core part of product production. There is no mention of intentionally added microplastics."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "single-use plastic reduction, reusable product promotion, consumer education, citizen campaigns for reuse and segregation, use of alternative biodegradable bags",
+        "citation": [
+          "Reducing the production of single use plastic to an almost zero level",
+          "Reducing the single use plastic can help in reducing the manufacturing of it and encourage recycling and reuse hence reducing the amount of litter.",
+          "Expanding the production and use alternative biodegradable bags",
+          "Promotion citizen campaigns to enhance plastic reuse, segregation and collection rates.",
+          "Conducting presentations about the advantages and disadvantages of plastic products in schools and universities with the participation of relevant state institutions."
+        ],
+        "reasoning": "The document explicitly states an objective to reduce single-use plastics to nearly zero. It also proposes several measures targeting consumer behavior, such as encouraging reuse, promoting citizen campaigns to enhance reuse and segregation, and educating students on plastic products. These actions directly address the consumption phase of the plastic life cycle."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "Increased investment in plastic waste collection and the promotion of citizen campaigns to improve segregation and collection rates.",
+        "citation": [
+          "Increase investment in plastic waste collection",
+          "Promotion citizen campaigns to enhance plastic reuse, segregation and collection rates."
+        ],
+        "reasoning": "The document explicitly lists 'Increase investment in plastic waste collection' as a core obligation and suggests promoting 'citizen campaigns to enhance... collection rates'. These statements directly address the gathering and aggregation of post-consumer plastic waste, which aligns with the code definition."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "recycling, segregation (waste sorting)",
+        "citation": [
+          "Sound recycling of plastics is the best sustainable option",
+          "Promotion citizen campaigns to enhance plastic reuse, segregation and collection rates.",
+          "...it is useful for parties involved in waste management to provide accurate information."
+        ],
+        "reasoning": "The document explicitly proposes 'sound recycling of plastics' and promoting 'segregation' as key measures. Recycling and segregation are core processes in the handling and processing of plastic waste after it has been collected. The text also refers to 'parties involved in waste management', directly confirming that this stage of the value chain is being addressed."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Promotion of sound recycling as the best sustainable option; encouragement of recycling through the reduction of single-use plastics.",
+        "citation": [
+          "Reducing the single use plastic can help in reducing the manufacturing of it and encourage recycling and reuse hence reducing the amount of litter.",
+          "Sound recycling of plastics is the best sustainable option"
+        ],
+        "reasoning": "The document explicitly states that reducing single-use plastics will 'encourage recycling' and separately identifies 'Sound recycling of plastics' as the 'best sustainable option'. These quotes directly address measures related to the recycling of plastic materials from waste, fulfilling the code's definition."
+      },
+      "legacy_plastic": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document details proposed objectives, obligations, and implementation measures but does not mention any specific time periods, deadlines, schedules, or timelines for their execution. The proposals are general and lack a defined implementation schedule."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes implementing control measures in cooperation with state institutions, improving the national legislative framework, and developing international controls.",
+        "citation": [
+          "Improving the legislative framework at the national level",
+          "Develop international guidance, standards and controls on additives and chemicals of concern",
+          "implementation of the extended producer responsibility model accepted at the national level and implementation of its control in cooperation with the relevant state institutions (for example, in cooperation with the Ministry of Environment and the Ministry of Economy)"
+        ],
+        "reasoning": "The document is coded as 'High' stringency because it explicitly calls for 'control in cooperation with the relevant state institutions' and improvements to the 'legislative framework at the national level'. This indicates a preference for a formal, state-managed compliance system with binding rules, which aligns with the definition of high stringency, as opposed to a voluntary or flexible approach."
+      },
+      "scale": {
+        "scope": "National",
+        "details": "National-level implementation of a proposed international instrument, focusing on domestic legislation and coordination between state institutions.",
+        "citation": [
+          "Improving the legislative framework at the national level",
+          "How to ensure implementation of the instrument at the national level (eg. role national action plans contribute to meeting the objectives and obligations of the instrument?)",
+          "implementation of the extended producer responsibility model accepted at the national level and implementation of its control in cooperation with the relevant state institutions (for example, in cooperation with the Ministry of Environment and the Ministry of Economy)"
+        ],
+        "reasoning": "The document is a submission from a single country (Azerbaijan) and repeatedly and explicitly refers to implementation actions occurring at the 'national level'. The citations point to improving the national legislative framework and coordinating between domestic state ministries, confirming the national scope of the proposed implementation."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document proposes the implementation of an Extended Producer Responsibility (EPR) model, which is a mechanism where producers in the private sector bear financial responsibility for post-consumer product management.",
+      "citation": [
+        "Implementation of the extended producer responsibility model",
+        "implementation of the extended producer responsibility model accepted at the national level and implementation of its control in cooperation with the relevant state institutions (for example, in cooperation with the Ministry of Environment and the Ministry of Economy)"
+      ],
+      "reasoning": "The document explicitly recommends the 'implementation of the extended producer responsibility model'. EPR is a well-established policy approach where producers, which are private sector entities, are required to finance the costs of managing their products at the end of their life cycle. This constitutes a direct mention of a financing mechanism funded by the private sector."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "government support for research",
+      "citation": [
+        "Providing support for researching plastic substitute products."
+      ],
+      "reasoning": "The document, a submission by Azerbaijan's Ministry of Ecology and Natural Resources, includes a proposal for 'Providing support for researching plastic substitute products.' In the context of a national policy submission, this phrase implies a planned action by the state to allocate resources, including financial support, for research initiatives."
+    },
+    "international": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Implementation of extended producer responsibility (EPR), reducing production of single-use plastics, expanding production of alternative biodegradable bags, and investing in new materials, additives, technologies, and product design.",
+      "citation": [
+        "Reducing the production of single use plastic to an almost zero level",
+        "Implementation of the extended producer responsibility model",
+        "Expanding the production and use alternative biodegradable bags",
+        "Increase investment in new materials, additives, technologies and product design, as well as safe and sustainable alternatives"
+      ],
+      "reasoning": "The document explicitly proposes the 'Implementation of the extended producer responsibility model,' which is a policy approach that directly assigns financial and/or physical responsibility for the treatment or disposal of post-consumer products to producers. Additionally, it calls for specific actions from the production sector, such as reducing the manufacturing of single-use plastics, increasing the production of alternatives, and investing in new product designs and materials."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document mentions promoting citizen campaigns to improve plastic reuse, waste segregation, and collection rates. It also proposes education and awareness-raising in schools and universities.",
+      "citation": [
+        "Promotion citizen campaigns to enhance plastic reuse, segregation and collection rates.",
+        "Conducting presentations about the advantages and disadvantages of plastic products in schools and universities with the participation of relevant state institutions."
+      ],
+      "reasoning": "The cited texts directly propose engaging citizens (consumers) through campaigns and education to take on specific responsibilities like reuse, segregation, and collection of plastics. This clearly assigns a role and set of obligations to the general public in addressing plastic pollution."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Responsibilities include performing 'sound recycling of plastics', increasing plastic waste collection, and providing accurate information for a national database.",
+      "citation": [
+        "Sound recycling of plastics is the best sustainable option",
+        "Increase investment in plastic waste collection",
+        "It is useful for parties involved in waste management to provide accurate information."
+      ],
+      "reasoning": "The document explicitly identifies key responsibilities for the waste management sector. The citations point to 'sound recycling' and 'waste collection' as fundamental obligations. Furthermore, the text assigns a specific data-reporting duty to 'parties involved in waste management,' clearly defining their role in the implementation and monitoring of the policy."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Improving the national legislative framework, implementing and controlling the extended producer responsibility model in cooperation with state institutions (e.g., Ministry of Environment and Ministry of Economy), creating a national database for reporting, participating in public awareness campaigns, and supporting research.",
+      "citation": [
+        "Improving the legislative framework at the national level",
+        "implementation of the extended producer responsibility model accepted at the national level and implementation of its control in cooperation with the relevant state institutions (for example, in cooperation with the Ministry of Environment and the Ministry of Economy)",
+        "to ensure the effectiveness of the national report, it is necessary to create a database for decision-making.",
+        "Conducting presentations about the advantages and disadvantages of plastic products in schools and universities with the participation of relevant state institutions."
+      ],
+      "reasoning": "The document explicitly assigns several responsibilities to government bodies. The citations refer to actions at the 'national level' such as improving the 'legislative framework' and implementing policy, and directly name 'relevant state institutions' and specific ministries (Ministry of Environment and Ministry of Economy) as responsible for control, cooperation, and public education activities. This directly matches the code definition of responsibilities and roles for national governments and public agencies."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "Development of international guidance, standards, and controls on additives and chemicals.",
+      "citation": [
+        "Develop international guidance, standards and controls on additives and chemicals of concern"
+      ],
+      "reasoning": "The document proposes that one of the core obligations of the instrument should be to 'Develop international guidance, standards and controls'. This task inherently falls to an international body or a treaty secretariat, which are key components of the UN system, to create a harmonized framework for all parties to follow."
+    }
+  }
+}

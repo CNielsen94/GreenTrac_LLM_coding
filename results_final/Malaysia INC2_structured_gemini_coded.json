@@ -1,0 +1,552 @@
+{
+  "submission_metadata": {
+    "country": "Malaysia",
+    "date": "2023-02-01",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "The objective of this instrument should be pragmatic and grounded on the basis to protect human health and the environment taking into consideration the increased impact of plastic pollution on marine biodiversity, ecosystem, society and economies through the prevention, reduction and better management of plastic waste.",
+        "Malaysia calls for the negotiations to include the elements of potential economic benefits in ending plastic pollution.",
+        "Scientific and technical cooperation and coordination undeniably plays a pivotal role in ensuring the effectiveness of the instrument and eventually, in ending plastic pollution.",
+        "National efforts to address plastic pollution require regional cooperation as well as international cooperation...",
+        "Behavioural change of industry and business players as well as the public remains one of the biggest challenges in addressing plastic pollution and waste management."
+      ],
+      "reasoning": "The document explicitly uses the phrase 'ending plastic pollution' and 'addressing plastic pollution' multiple times. The proposed objective clearly states the instrument's goal is the 'prevention, reduction and better management of plastic waste' to counter the impact of plastic pollution. This directly matches the code definition. The document does not specify any target year or timeline for achieving this goal."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "In managing global plastic pollution, it is important to reduce production of problematic, single-use, and unnecessary plastics and explore smart, safe, and sustainable ways to use plastics, without hampering the economic benefits of plastics."
+      ],
+      "reasoning": "The document explicitly states that it is 'important to reduce production of problematic, single-use, and unnecessary plastics'. This directly matches the code definition of looking for statements about decreasing or reducing plastic production. However, no specific quantitative targets, percentages, or caps are provided for this reduction."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "economic benefits",
+      "citation": [
+        "In managing global plastic pollution, it is important to reduce production of problematic, single-use, and unnecessary plastics and explore smart, safe, and sustainable ways to use plastics, without hampering the economic benefits of plastics.",
+        "Accordingly, Malaysia calls for the negotiations to include the elements of potential economic benefits in ending plastic pollution."
+      ],
+      "reasoning": "The document explicitly acknowledges the positive economic contributions of plastics, stating that pollution control measures should be implemented 'without hampering the economic benefits of plastics'. It further reinforces this by calling for the inclusion of 'potential economic benefits in ending plastic pollution' within the negotiations, clearly meeting the code's criteria for mentioning plastic's utility."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "Protecting human health is stated as a primary objective for the international instrument on plastic pollution.",
+      "citation": [
+        "The objective of this instrument should be pragmatic and grounded on the basis to protect human health and the environment taking into consideration the increased impact of plastic pollution on marine biodiversity, ecosystem, society and economies through the prevention, reduction and better management of plastic waste."
+      ],
+      "reasoning": "The document explicitly states that the objective of the instrument should be based on the need 'to protect human health'. This is a direct and unambiguous mention of the code, positioning human health protection as a core purpose of the proposed agreement."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "The objective of this instrument should be pragmatic and grounded on the basis to protect human health and the environment taking into consideration the increased impact of plastic pollution on marine biodiversity, ecosystem, society and economies through the prevention, reduction and better management of plastic waste."
+      ],
+      "reasoning": "The document explicitly states that a core objective should be to protect the environment. It specifically highlights the 'increased impact of plastic pollution on marine biodiversity' and 'ecosystem,' which justifies both the mention of biodiversity protection and the specific focus on marine environments."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "It should focus on addressing plastic leakages through whole life cycle approach of plastic products.",
+        "Control measures should cover the entire lifecycle of plastics especially on plastics waste management and its disposal, moving up the value chain in a progressive manner.",
+        "The instrument must consider truly comprehensive and viable solutions, with full life-cycle approach over the entire ecosystem of plastics, and across all sectors, both formal and informal."
+      ],
+      "reasoning": "The document explicitly and repeatedly uses phrases such as \"whole life cycle approach,\" \"entire lifecycle of plastics,\" and \"full life-cycle approach.\" These citations clearly indicate that the scope of the proposed measures is intended to cover all stages of the plastic lifecycle, from production through to waste management, justifying the 'Full lifecycle' coverage determination."
+    },
+    "other_objectives": {
+      "value": "Promote a circular economy, encourage international cooperation on research and innovation, and provide financial support for a just transition.",
+      "citation": [
+        "International plastics treaty should promote a circular economy for plastics.",
+        "It should encourage cooperation on research, development, and innovation to find sustainable alternatives to plastics, improve resource efficiency, and advance sorting and recycling technologies.",
+        "Furthermore, the treaty must include a robust financial mechanism to support implementation in developing countries, ensuring a just and inclusive transition for all stakeholders, particularly those in the informal waste sector."
+      ],
+      "reasoning": "The document outlines several distinct policy objectives that are not covered by the other specified categories. These include establishing a specific economic model (a circular economy), fostering international scientific and technological collaboration, and creating a financial and social support system to ensure an equitable transition for developing countries and workers in the informal sector. These are specific economic, collaborative, and socio-economic goals that stand apart from the general aims of ending pollution or protecting health/biodiversity."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "Proposal for the establishment of a dedicated multilateral fund to provide stable and predictable financing for the implementation of the instrument.",
+        "citation": [
+          "A dedicated multilateral fund should be established to ensure the success of objective of the instrument as the one established under the Montreal Protocol, which is consistently cited as a primary reason for its success.",
+          "Without stable and predictable financing, the new international legally binding instrument will fail."
+        ],
+        "reasoning": "The document explicitly calls for a 'dedicated multilateral fund' to provide 'stable and predictable financing'. A fund that distributes financial resources to support the implementation of an international agreement falls under the code's definition of 'financial support' and is a form of economic instrument akin to a subsidy or grant system."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document was analyzed for any mention of financial penalties, fines, fees for non-compliance, the polluter-pays principle, or similar punitive financial measures. No such mechanisms are discussed. The submission focuses on supportive measures like establishing a dedicated multilateral fund, technological transfer, and promoting behavioral change through education and awareness, rather than on penalties for non-compliance."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "The document calls for a 'fair and just transition' that considers national capabilities. It also proposes the inclusion of both formal and informal sectors, the establishment of a socio-economic advisory panel, and the need for mechanisms to conduct comprehensive socioeconomic assessments, all of which are measures to manage the social impacts of the transition.",
+        "citation": [
+          "The instrument must consider truly comprehensive and viable solutions, with full life-cycle approach over the entire ecosystem of plastics, and across all sectors, both formal and informal.",
+          "Due to data being the key component in reporting, it is strongly suggested for this instrument to consider this gap and challenge to ensure fair and just transition in formulating provisions on national reporting taking into account country's capabilities.",
+          "It is equally important to establish a socio-economic advisory panel as an initiative to facilitate effective negotiation process.",
+          "It is also necessary for the instrument to include mechanisms that provide comprehensive socioeconomic assessment in the context of plastic pollution and plastic economy, considering the differences in national circumstances and socioeconomic situation."
+        ],
+        "reasoning": "The document explicitly uses the phrase 'fair and just transition'. Furthermore, it specifically mentions the need to consider solutions across 'all sectors, both formal and informal,' which directly addresses the social impact on vulnerable groups like informal waste pickers. The proposed establishment of a 'socio-economic advisory panel' and mechanisms for 'socioeconomic assessment' further confirm the intention to address the social dimensions of the plastic transition, aligning with the code's definition."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document proposes reducing the production of problematic, single-use, and unnecessary plastics, and preventing and reducing harmful single-use plastics.",
+        "citation": [
+          "There is a need to start with a clear focus on preventing, reducing and better managing the unavoidable, most problematic and harmful single use plastic and move up the value chain in a progressive manner...",
+          "In managing global plastic pollution, it is important to reduce production of problematic, single-use, and unnecessary plastics and explore smart, safe, and sustainable ways to use plastics, without hampering the economic benefits of plastics."
+        ],
+        "reasoning": "The document explicitly calls for measures to 'reduce production of problematic, single-use, and unnecessary plastics' and to 'prevent' and 'reduce' the 'most problematic and harmful single use plastic'. These actions fall under the definition of bans or phase-outs, as they are control measures aimed at eliminating or prohibiting certain categories of plastics at the production level."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The submission calls for international cooperation on 'standards' and 'product design' as part of the national efforts to address plastic pollution.",
+        "citation": [
+          "National efforts to address plastic pollution require regional cooperation as well as international cooperation on topics such as alternative, standards, product design and management of plastic waste, among others."
+        ],
+        "reasoning": "The document explicitly identifies 'standards' and 'product design' as key topics for international cooperation in the context of addressing plastic pollution. This directly aligns with the code definition, which includes product or material standards, specifications, and criteria that products must meet."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "waste disposal technologies, recycling technologies, increased recycling capacities",
+        "citation": [
+          "In order to keep up with the increasing volume of plastic waste, technological transfer especially on waste disposal and recycling technologies are crucial to improve waste management and increase recycling capacities."
+        ],
+        "reasoning": "The document explicitly states that technology for waste disposal and recycling is 'crucial' to improve waste management and increase recycling capacities. This points to a required development of infrastructure and systems to handle the increasing volume of plastic waste as a necessary measure for the instrument's implementation."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "product standards, product design standards",
+        "citation": [
+          "National efforts to address plastic pollution require regional cooperation as well as international cooperation on topics such as alternative, standards, product design and management of plastic waste, among others."
+        ],
+        "reasoning": "The document calls for international cooperation on 'standards' and 'product design'. These regulatory areas are directly linked to labelling, as standards for products often include mandatory requirements for marking, such as disclosing plastic composition, recyclability information, or proper disposal instructions to consumers and waste management facilities."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National action plans and strategies should incorporate findings from proposed scientific and socio-economic advisory panels.",
+        "citation": [
+          "As such, these panels are not only established to implement the agreement but also to provide advice during negotiation process, providing a platform for the parties to access peer-reviewed, high impact scientific research findings, among others, and to incorporate these findings in national action plans and strategies."
+        ],
+        "reasoning": "The submission explicitly mentions 'national action plans and strategies' as a key mechanism for countries to implement the agreement, suggesting that findings from proposed advisory panels should be integrated into these plans. This directly aligns with the code's definition of required plans for treaty implementation."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document discusses the need for efficient national reporting, supported by a harmonised monitoring mechanism that includes clear definitions of what needs to be reported, content, data parameters, and methodologies.",
+        "citation": [
+          "b) How to ensure effectiveness of the instrument and have efficient national reporting?",
+          "Due to data being the key component in reporting, it is strongly suggested for this instrument to consider this gap and challenge to ensure fair and just transition in formulating provisions on national reporting taking into account country's capabilities.",
+          "A harmonised monitoring mechanism must be in place, including clear definitions of what needs to be reported, content, data parameters as well as methodologies."
+        ],
+        "reasoning": "The document explicitly addresses the topic of \"efficient national reporting\" in a dedicated subsection question. The cited text further elaborates on this by proposing the creation of provisions for national reporting and a 'harmonised monitoring mechanism', specifying key components like data parameters and methodologies. This directly aligns with the code definition concerning mandatory reporting and data submission requirements."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document suggests a 'harmonised monitoring mechanism' for national reporting, which would include clear definitions, content, data parameters, and methodologies. It also calls for mechanisms to provide 'comprehensive socioeconomic assessment' related to plastic pollution.",
+        "citation": [
+          "Due to data being the key component in reporting, it is strongly suggested for this instrument to consider this gap and challenge to ensure fair and just transition in formulating provisions on national reporting taking into account country's capabilities.",
+          "A harmonised monitoring mechanism must be in place, including clear definitions of what needs to be reported, content, data parameters as well as methodologies.",
+          "It is also necessary for the instrument to include mechanisms that provide comprehensive socioeconomic assessment in the context of plastic pollution and plastic economy, considering the differences in national circumstances and socioeconomic situation."
+        ],
+        "reasoning": "The cited text explicitly calls for a 'harmonised monitoring mechanism' and national reporting systems based on data. It also proposes mechanisms for 'socioeconomic assessment'. These components directly relate to the definition of monitoring, which involves systems to track, measure, and assess plastic pollution and policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document proposes several information and guidance measures, including the establishment of a scientific advisory panel to provide advice and access to research, a harmonised monitoring mechanism with clear definitions and methodologies, and targeted outreach, communication, education, and public awareness programs to encourage behavioural change.",
+        "citation": [
+          "A harmonised monitoring mechanism must be in place, including clear definitions of what needs to be reported, content, data parameters as well as methodologies.",
+          "Therefore, it is proposed for a scientific advisory panel to be established... to provide advice during negotiation process, providing a platform for the parties to access peer-reviewed, high impact scientific research findings, among others, and to incorporate these findings in national action plans and strategies.",
+          "This challenge calls for targeted outreach efforts as well as dedicated communication, education, and public awareness programs to influence and encourage behavioural change."
+        ],
+        "reasoning": "The cited texts explicitly propose the creation of mechanisms and programs designed to provide information, guidance, and standardized methodologies to stakeholders. The establishment of a scientific advisory panel to share research, a harmonised monitoring mechanism with clear definitions, and public awareness programs all fall directly under the definition of providing informational resources to help stakeholders implement effective measures."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Targeted outreach efforts, dedicated communication, education, and public awareness programs.",
+        "citation": [
+          "Behavioural change of industry and business players as well as the public remains one of the biggest challenges in addressing plastic pollution and waste management.",
+          "This challenge calls for targeted outreach efforts as well as dedicated communication, education, and public awareness programs to influence and encourage behavioural change."
+        ],
+        "reasoning": "The document explicitly identifies behavioural change as a major challenge and directly calls for 'dedicated communication, education, and public awareness programs' as a necessary measure to influence and encourage this change among both the public and industry."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "scientific advisory panel, socio-economic advisory panel",
+        "citation": [
+          "Therefore, it is proposed for a scientific advisory panel to be established.",
+          "It is equally important to establish a socio-economic advisory panel as an initiative to facilitate effective negotiation process.",
+          "As such, these panels are not only established to implement the agreement but also to provide advice during negotiation process, providing a platform for the parties to access peer-reviewed, high impact scientific research findings, among others, and to incorporate these findings in national action plans and strategies."
+        ],
+        "reasoning": "The document explicitly proposes the establishment of a 'scientific advisory panel' and a 'socio-economic advisory panel'. These bodies are intended to provide advice during both the negotiation and implementation stages of the treaty, based on scientific research and socio-economic assessments, which directly aligns with the definition of an expert group."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document suggests establishing a scientific advisory panel to facilitate access to scientific research, promotes scientific and technical cooperation, and encourages stakeholders to focus on exploring creative and innovative solutions.",
+        "citation": [
+          "Scientific and technical cooperation and coordination undeniably plays a pivotal role in ensuring the effectiveness of the instrument and eventually, in ending plastic pollution.",
+          "...providing a platform for the parties to access peer-reviewed, high impact scientific research findings, among others, and to incorporate these findings in national action plans and strategies.",
+          "Submissions by stakeholders should focus on exploring creative and innovative solutions rather than in form of statements or demand lists."
+        ],
+        "reasoning": "The document advocates for several measures that encourage research and innovation. It proposes a 'scientific advisory panel' to provide access to 'peer-reviewed, high impact scientific research findings,' emphasizes the critical role of 'scientific and technical cooperation,' and explicitly calls for stakeholders to develop 'creative and innovative solutions.' These points directly match the definition of research promotion as a soft instrument, as they encourage knowledge development without committing to specific funding."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "A harmonised monitoring mechanism, including clear definitions for reporting, content, data parameters, and methodologies, as well as international cooperation on standards.",
+        "citation": [
+          "National efforts to address plastic pollution require regional cooperation as well as international cooperation on topics such as alternative, standards, product design and management of plastic waste, among others.",
+          "A harmonised monitoring mechanism must be in place, including clear definitions of what needs to be reported, content, data parameters as well as methodologies."
+        ],
+        "reasoning": "The document explicitly calls for a 'harmonised monitoring mechanism' and international cooperation on 'standards'. This directly matches the code's definition of seeking to standardize or make consistent the approaches, definitions, and methodologies across countries, particularly in the context of reporting and implementation."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions several knowledge sharing initiatives, including scientific and technical cooperation, the establishment of a scientific advisory panel to provide access to research findings, technology transfer for waste disposal and recycling, and targeted communication, education, and public awareness programs. It also supports stakeholder engagement sessions.",
+        "citation": [
+          "Scientific and technical cooperation and coordination undeniably plays a pivotal role in ensuring the effectiveness of the instrument and eventually, in ending plastic pollution.",
+          "...providing a platform for the parties to access peer-reviewed, high impact scientific research findings, among others, and to incorporate these findings in national action plans and strategies.",
+          "In order to keep up with the increasing volume of plastic waste, technological transfer especially on waste disposal and recycling technologies are crucial to improve waste management and increase recycling capacities.",
+          "This challenge calls for targeted outreach efforts as well as dedicated communication, education, and public awareness programs to influence and encourage behavioural change."
+        ],
+        "reasoning": "The document explicitly proposes multiple mechanisms for exchanging expertise, scientific information, and technology. It highlights the importance of 'scientific and technical cooperation', proposes a 'scientific advisory panel' as a platform for research access, and calls for 'technological transfer' to improve waste management. These initiatives directly align with the definition of knowledge sharing as a means to build capacity among stakeholders."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document discusses high-level objectives, such as the 'prevention, reduction and better management of plastic waste' and the need to 'reduce production of problematic, single-use, and unnecessary plastics', but it does not contain any specific, measurable, or time-bound quantitative targets (e.g., percentages, specific amounts, or deadlines)."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "production": {
+        "mentioned": true,
+        "details": "reduction of production for problematic, single-use, and unnecessary plastics",
+        "citation": [
+          "In managing global plastic pollution, it is important to reduce production of problematic, single-use, and unnecessary plastics and explore smart, safe, and sustainable ways to use plastics, without hampering the economic benefits of plastics."
+        ],
+        "reasoning": "The document explicitly states the importance of reducing the production of certain types of plastics as a core obligation. This directly addresses the manufacturing or creation process of plastic materials, which is the focus of the 'production' code."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document lists 'product design' as a topic requiring international cooperation.",
+        "citation": [
+          "National efforts to address plastic pollution require regional cooperation as well as international cooperation on topics such as alternative, standards, product design and management of plastic waste, among others."
+        ],
+        "reasoning": "The document explicitly identifies 'product design' as a key area where international cooperation is needed to address plastic pollution. This directly aligns with the code's definition of addressing how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": "reduction in production of problematic plastics, product design, standards",
+        "citation": [
+          "In managing global plastic pollution, it is important to reduce production of problematic, single-use, and unnecessary plastics and explore smart, safe, and sustainable ways to use plastics, without hampering the economic benefits of plastics.",
+          "National efforts to address plastic pollution require regional cooperation as well as international cooperation on topics such as alternative, standards, product design and management of plastic waste, among others."
+        ],
+        "reasoning": "The document explicitly calls for measures to 'reduce production of problematic, single-use, and unnecessary plastics' and for international cooperation on 'standards' and 'product design'. These are all core activities within the product production stage of the plastic value chain."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "single-use plastic reduction, promotion of sustainable plastic use, and public behavioral change through communication, education, and awareness programs",
+        "citation": [
+          "There is a need to start with a clear focus on preventing, reducing and better managing the unavoidable, most problematic and harmful single use plastic and move up the value chain in a progressive manner through a country driven initiatives taking into account national circumstances and capabilities.",
+          "In managing global plastic pollution, it is important to reduce production of problematic, single-use, and unnecessary plastics and explore smart, safe, and sustainable ways to use plastics, without hampering the economic benefits of plastics.",
+          "Behavioural change of industry and business players as well as the public remains one of the biggest challenges in addressing plastic pollution and waste management.",
+          "This challenge calls for targeted outreach efforts as well as dedicated communication, education, and public awareness programs to influence and encourage behavioural change."
+        ],
+        "reasoning": "The document explicitly addresses the consumption stage by repeatedly calling for the reduction of 'single use plastic' and exploring 'sustainable ways to use plastics'. It also identifies public 'behavioural change' as a major challenge and proposes specific measures like education and public awareness programs to influence consumer behavior, directly linking to the consumption phase of the plastic life cycle."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document discusses 'waste management' and 'disposal' in general terms but does not mention any specific measures, systems, or approaches related to the collection, gathering, or aggregation of plastic waste post-consumer use. There are no references to concepts like separate collection systems, take-back schemes, or municipal collection requirements."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "better management of plastic waste, plastics waste management and its disposal, waste disposal and recycling technologies, improve waste management, increase recycling capacities",
+        "citation": [
+          "The objective of this instrument should be pragmatic and grounded on the basis to protect human health and the environment taking into consideration the increased impact of plastic pollution on marine biodiversity, ecosystem, society and economies through the prevention, reduction and better management of plastic waste.",
+          "Control measures should cover the entire lifecycle of plastics especially on plastics waste management and its disposal, moving up the value chain in a progressive manner.",
+          "In order to keep up with the increasing volume of plastic waste, technological transfer especially on waste disposal and recycling technologies are crucial to improve waste management and increase recycling capacities."
+        ],
+        "reasoning": "The document explicitly identifies 'better management of plastic waste' as a core objective of the instrument. It further states that control measures must specifically address 'plastics waste management and its disposal'. Finally, it calls for concrete implementation measures, such as technology transfer for 'waste disposal and recycling technologies', to 'improve waste management' and 'increase recycling capacities'. These points directly address the handling and processing of plastic waste after its collection."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Technological transfer on recycling technologies, increase recycling capacities",
+        "citation": [
+          "In order to keep up with the increasing volume of plastic waste, technological transfer especially on waste disposal and recycling technologies are crucial to improve waste management and increase recycling capacities."
+        ],
+        "reasoning": "The document explicitly states that 'technological transfer' for 'recycling technologies' is crucial to improve waste management. It also calls for an increase in 'recycling capacities', directly addressing the reprocessing and recovery of plastic materials from waste as defined by the code."
+      },
+      "legacy_plastic": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention greenhouse gas emissions, air pollution, or other atmospheric releases associated with the plastic lifecycle. The focus is exclusively on 'plastic pollution', 'plastic leakages', and 'plastic waste management' in the context of environmental and marine biodiversity impacts, without specifying measures to address related air or climate emissions."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document suggests a progressive or phased implementation approach, starting with a focus on single-use plastics and then moving up the value chain.",
+        "citation": [
+          "There is a need to start with a clear focus on preventing, reducing and better managing the unavoidable, most problematic and harmful single use plastic and move up the value chain in a progressive manner through a country driven initiatives taking into account national circumstances and capabilities.",
+          "Control measures should cover the entire lifecycle of plastics especially on plastics waste management and its disposal, moving up the value chain in a progressive manner."
+        ],
+        "reasoning": "The document repeatedly uses the phrase 'in a progressive manner' to describe the implementation of objectives and control measures. This indicates a preference for a phased or gradual timeline rather than an immediate, all-encompassing one, thus specifying the nature of the implementation timeframe."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document advocates for a flexible, country-driven approach based on national circumstances and capabilities. It proposes establishing advisory panels (scientific and socio-economic) to provide guidance and support, not for enforcement. National reporting is suggested to be flexible to account for data gaps.",
+        "citation": [
+          "...move up the value chain in a progressive manner through a country driven initiatives taking into account national circumstances and capabilities.",
+          "Due to data being the key component in reporting, it is strongly suggested for this instrument to consider this gap and challenge to ensure fair and just transition in formulating provisions on national reporting taking into account country's capabilities.",
+          "Therefore, it is proposed for a scientific advisory panel to be established. It is equally important to establish a socio-economic advisory panel as an initiative to facilitate effective negotiation process.",
+          "It is also necessary for the instrument to include mechanisms that provide comprehensive socioeconomic assessment in the context of plastic pollution and plastic economy, considering the differences in national circumstances and socioeconomic situation."
+        ],
+        "reasoning": "The submission consistently emphasizes flexibility and adaptation to 'national circumstances and capabilities' rather than imposing strict, uniform obligations. The proposed implementation bodies are advisory in nature ('scientific advisory panel', 'socio-economic advisory panel') and are intended to support negotiations and implementation, not to enforce compliance. The absence of any mention of sanctions, penalties, or binding enforcement mechanisms supports the classification of 'Low' stringency."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global legally binding instrument that is implemented through country-driven national action plans, supported by regional and international cooperation.",
+        "citation": [
+          "Malaysia Written Submissions on the Potential Options for Elements Towards an International Legally Binding Instrument on Plastic Pollution",
+          "...move up the value chain in a progressive manner through a country driven initiatives taking into account national circumstances and capabilities.",
+          "National efforts to address plastic pollution require regional cooperation as well as international cooperation on topics such as alternative, standards, product design and management of plastic waste, among others."
+        ],
+        "reasoning": "The document title explicitly states it is for an 'International Legally Binding Instrument,' establishing the global scope. The citations further clarify that the implementation model is nationally focused ('country driven initiatives') and supported by both 'regional' and 'international' cooperation, indicating a multi-level approach under a global framework."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": true,
+      "details": "A dedicated multilateral fund, similar to the one under the Montreal Protocol.",
+      "citation": [
+        "A dedicated multilateral fund should be established to ensure the success of objective of the instrument as the one established under the Montreal Protocol, which is consistently cited as a primary reason for its success.",
+        "Without stable and predictable financing, the new international legally binding instrument will fail."
+      ],
+      "reasoning": "The document explicitly proposes the establishment of a 'dedicated multilateral fund'. Multilateral funds are financed by contributions from multiple states (national governments), which are public sources. The reference to the successful Montreal Protocol fund, which is financed by developed country parties, reinforces that this is a call for state-level financing."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "A dedicated multilateral fund, similar to the one established under the Montreal Protocol.",
+      "citation": [
+        "A dedicated multilateral fund should be established to ensure the success of objective of the instrument as the one established under the Montreal Protocol, which is consistently cited as a primary reason for its success.",
+        "Without stable and predictable financing, the new international legally binding instrument will fail."
+      ],
+      "reasoning": "The document explicitly proposes the establishment of a 'dedicated multilateral fund' as a required measure for implementing the instrument. This is a direct reference to an international financing source, and it is further specified by comparing it to the successful fund of the Montreal Protocol."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Responsibilities include reducing the production of problematic, single-use, and unnecessary plastics; improving product design; and undergoing behavioural change to address plastic pollution.",
+      "citation": [
+        "In managing global plastic pollution, it is important to reduce production of problematic, single-use, and unnecessary plastics and explore smart, safe, and sustainable ways to use plastics, without hampering the economic benefits of plastics.",
+        "National efforts to address plastic pollution require regional cooperation as well as international cooperation on topics such as alternative, standards, product design and management of plastic waste, among others.",
+        "Behavioural change of industry and business players as well as the public remains one of the biggest challenges in addressing plastic pollution and waste management."
+      ],
+      "reasoning": "The document explicitly assigns responsibilities to the production sector by calling to \"reduce production\" of certain plastics and highlighting the need for cooperation on \"product design.\" Furthermore, it identifies the need for \"behavioural change of industry and business players,\" which directly points to the role and obligation of the production sector in tackling plastic pollution."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "behavioural change",
+      "citation": [
+        "Behavioural change of industry and business players as well as the public remains one of the biggest challenges in addressing plastic pollution and waste management.",
+        "This challenge calls for targeted outreach efforts as well as dedicated communication, education, and public awareness programs to influence and encourage behavioural change."
+      ],
+      "reasoning": "The document explicitly identifies the 'behavioural change' of 'the public' as one of the primary challenges in managing plastic pollution. This frames the public's role as an active one, where their behavior is a key factor that needs to be influenced and altered to achieve the instrument's goals, thus assigning them a clear area of responsibility."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Control measures for plastics waste management and disposal; improving waste management practices; increasing recycling capacities through the use of waste disposal and recycling technologies.",
+      "citation": [
+        "Control measures should cover the entire lifecycle of plastics especially on plastics waste management and its disposal, moving up the value chain in a progressive manner.",
+        "In order to keep up with the increasing volume of plastic waste, technological transfer especially on waste disposal and recycling technologies are crucial to improve waste management and increase recycling capacities."
+      ],
+      "reasoning": "The document explicitly states that 'control measures' should apply to 'plastics waste management and its disposal,' which constitutes a responsibility. It further details the crucial need to 'improve waste management and increase recycling capacities' as a response to the growing volume of plastic waste, thereby outlining specific obligations for the sector."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "The document specifies that comprehensive solutions for plastic management must cover all sectors, including the informal sector.",
+      "citation": [
+        "The instrument must consider truly comprehensive and viable solutions, with full life-cycle approach over the entire ecosystem of plastics, and across all sectors, both formal and informal."
+      ],
+      "reasoning": "The document explicitly includes the 'informal' sector as a key area to be considered within the scope of the legally binding instrument, indicating its role and relevance in the plastic management ecosystem."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines several government responsibilities including: engaging in national, regional, and international cooperation; conducting national reporting; developing and implementing national action plans and strategies; and running communication, education, and public awareness programs.",
+      "citation": [
+        "National efforts to address plastic pollution require regional cooperation as well as international cooperation on topics such as alternative, standards, product design and management of plastic waste, among others.",
+        "...it is strongly suggested for this instrument to consider this gap and challenge to ensure fair and just transition in formulating provisions on national reporting taking into account country's capabilities.",
+        "...to incorporate these findings in national action plans and strategies.",
+        "This challenge calls for targeted outreach efforts as well as dedicated communication, education, and public awareness programs to influence and encourage behavioural change."
+      ],
+      "reasoning": "The cited text directly refers to obligations and roles assigned to national governments. The document mentions 'National efforts', the formulation of 'national reporting' provisions, the development of 'national action plans and strategies', and the need for public awareness programs, all of which are core responsibilities of governmental bodies in implementing international agreements."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "The document outlines responsibilities for 'stakeholders,' a group that includes NGOs. Their roles include participating in engagement sessions and making submissions focused on providing creative and innovative solutions rather than demand lists.",
+      "citation": [
+        "Malaysia supports the proposals of holding stakeholder engagement and intersessional sessions either via online, in person or hybrid.",
+        "Submissions by stakeholders should focus on exploring creative and innovative solutions rather than in form of statements or demand lists.",
+        "Malaysia proposes to explore a more targeted and thematic-based engagement through regional-based stakeholder engagement sessions."
+      ],
+      "reasoning": "The document explicitly refers to 'stakeholder engagement' multiple times in Section III. It assigns stakeholders the role of participating in sessions and specifies the nature of their contributions, expecting them to provide 'creative and innovative solutions.' As NGOs are a key component of the 'stakeholder' group in international policy, these statements define a clear responsibility for them."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document proposes the establishment of several international bodies with specific responsibilities, including: a scientific advisory panel to provide advice and access to research; a socio-economic advisory panel to facilitate negotiations; and a dedicated multilateral fund to provide stable and predictable financing. It also mentions a role in ensuring coordination and coherence with existing multilateral environmental agreements.",
+      "citation": [
+        "Therefore, it is proposed for a scientific advisory panel to be established.",
+        "It is equally important to establish a socio-economic advisory panel as an initiative to facilitate effective negotiation process.",
+        "The establishment of these two advisory panels are to ensure cooperation, effective coordination, continuity and coherence between the instrument and existing multilateral environmental agreements in order to avoid duplications.",
+        "A dedicated multilateral fund should be established to ensure the success of objective of the instrument as the one established under the Montreal Protocol, which is consistently cited as a primary reason for its success."
+      ],
+      "reasoning": "The document explicitly proposes the creation of new international institutional arrangements (advisory panels and a multilateral fund) that would have defined responsibilities under the legally binding instrument. These proposed entities fall under the category of 'international bodies' or 'similar international governance entities' and are assigned specific roles related to scientific advice, negotiation support, financial administration, and coordination, which directly aligns with the code definition."
+    }
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "submission_metadata": {
+    "country": "Ghana",
+    "date": "2023-02-10",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "Proposal for a Global Plastic Pollution Fee in the legally binding instrument to end plastic pollution.",
+        "UNEA Resolution 5/14 sets out the objective of ending plastic pollution, including in the marine environment, through a legally binding international instrument.",
+        "To close this pollution gap and implement the objective of ending plastic pollution, we must make significant investments in environmentally safe and sound waste management infrastructure, especially in Africa and other developing countries; and we must also eliminate legacy plastic pollution, which is an important source of ongoing pollution.",
+        "A GPPF would make two significant contributions to achieving the objective of ending plastic pollution.",
+        "Considerable funding is, therefore, needed to implement fully a legally binding instrument that ends plastic pollution."
+      ],
+      "reasoning": "The document's primary and explicitly stated goal, mentioned in the title and repeated throughout the summary, introduction, and conclusion, is to 'end plastic pollution' through a legally binding instrument. The proposed Global Plastic Pollution Fee is presented as a key mechanism to achieve this objective. However, the document does not specify any target year or timeline for when this goal should be accomplished."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Second, a GPPF would be an effective control measure that helps to reduce plastic production and consumption.",
+        "To end plastic pollution, the instrument needs to include measures to reduce the overall supply of, and demand for, plastics.",
+        "Second, as a control measure, a GPPF would also contribute to reducing plastic demand – and hence, plastic production and consumption – through a higher price.",
+        "Under its scenarios, the OECD found that significant declines in plastic production, consumption, waste, and pollution would be “largely due to\" a fiscal charge."
+      ],
+      "reasoning": "The document explicitly and repeatedly states that a primary function of the proposed Global Plastic Pollution Fee (GPPF) is to act as a 'control measure' to 'reduce plastic production and consumption.' It frames this reduction in supply and demand as a necessary component to end plastic pollution. While the goal of reducing production is clearly mentioned, the document does not provide any specific quantitative targets, caps, or percentage reductions, thus 'specification_provided' is false."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "Key component in products for wrapping, protecting, and holding them together; integral to social and economic development.",
+      "citation": [
+        "Plastic plays a very important role in all our societies as a key component in all manner of products – wrapping, protecting, and holding products together.",
+        "As a reflection of the society's increased standards of living in the past 50 years, many plastic products have become an integral part of the world's social and economic development.",
+        "Largely for that reason, plastic has become a beneficial element in almost all societies."
+      ],
+      "reasoning": "The document explicitly acknowledges plastic's positive contributions in the introduction. The cited quotes directly state that plastic plays an 'important role,' lists its functional benefits in products (wrapping, protecting), and links its use to 'social and economic development,' even calling it a 'beneficial element' in societies."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document identifies that unsustainable plastic production and consumption have led to a 'health catastrophe' and that existing plastic pollution has a significant negative impact on human health. The ultimate goal includes creating a 'healthier planet'.",
+      "citation": [
+        "Yet, our unsustainable patterns of production and consumption of plastics have created an environmental and health catastrophe for the planet.",
+        "Today, legacy plastic pollution weighs heavily on our oceans and land, our biodiversity, and human health.",
+        "Nevertheless, it is a necessary step towards creating a cleaner and healthier planet for present and future generations."
+      ],
+      "reasoning": "The document explicitly states that plastic pollution has created a \"health catastrophe\" and \"weighs heavily on... human health.\" These direct references clearly indicate that protecting human health is a key concern and an implicit objective of the proposed instrument to end plastic pollution."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "UNEA Resolution 5/14 sets out the objective of ending plastic pollution, including in the marine environment, through a legally binding international instrument.",
+        "Today, legacy plastic pollution weighs heavily on our oceans and land, our biodiversity, and human health."
+      ],
+      "reasoning": "The document explicitly states that plastic pollution is a problem for 'biodiversity'. It also repeatedly highlights the 'marine environment' and 'oceans' as specific areas of concern, justifying both the general mention of biodiversity protection and the specific marine focus."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "In addressing this challenge, the UNEA Resolution 5/14 sets out the ambitious objective of ending plastic pollution through a legally binding international instrument and calls for a holistic approach that addresses the full lifecycle of the plastic economy, taking into account, among others, the principles of the Rio Declaration on Environment and Development (Rio Declaration).",
+        "The GPPF would hold polymer producers accountable for the pollution costs of all their plastics, irrespective of the country where the plastics end their useful life, and of whether the plastics are ultimately destined for recycling or disposal."
+      ],
+      "reasoning": "The document explicitly references the UNEA resolution's mandate for a 'holistic approach that addresses the full lifecycle of the plastic economy'. The proposed fee mechanism further reinforces this by connecting the beginning of the lifecycle (polymer producers) with the responsibility for end-of-life outcomes (waste management and legacy pollution)."
+    },
+    "other_objectives": {
+      "value": "Promote a just and inclusive transition, foster research and innovation, and establish robust monitoring and reporting mechanisms.",
+      "citation": [
+        "The instrument must also promote a just and inclusive transition for affected populations.",
+        "The INC must ensure that the transition to a circular economy for plastics is just and inclusive, creating decent work and opportunities for all.",
+        "Another central goal is to foster research, innovation, and knowledge-sharing to accelerate the transition.",
+        "Furthermore, the treaty should establish robust monitoring and reporting mechanisms to track progress and ensure accountability."
+      ],
+      "reasoning": "The document explicitly states several objectives that are not covered by the other categories. These include socio-economic goals, such as promoting a 'just and inclusive transition' and 'creating decent work'; scientific and technological goals, such as to 'foster research, innovation, and knowledge-sharing'; and governance goals, such as establishing 'robust monitoring and reporting mechanisms'. These are distinct from the primary environmental and health objectives listed in the excluded categories."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "Global Plastic Pollution Fee (GPPF); levy on fossil-fuel polymer production and/or consumption; finance charge; fiscal charge.",
+        "citation": [
+          "To raise sufficient funds, Ghana proposes that the legally binding instrument include a Global Plastic Pollution Fee (GPPF), as one of the tools to operationalise the “polluter pays principle”.",
+          "The Minderoo Foundation, for instance, recommends, “a levy on fossil-fuel polymer production and/or consumption to generate funds for scaling plastics collection, sorting, and recycling\".",
+          "The OECD, for instance, includes a finance charge as a key element of its mix of upstream and downstream policy scenarios to reduce plastic production and consumption.",
+          "Under its scenarios, the OECD found that significant declines in plastic production, consumption, waste, and pollution would be “largely due to\" a fiscal charge."
+        ],
+        "reasoning": "The document explicitly proposes a 'Global Plastic Pollution Fee (GPPF)' and refers to similar mechanisms recommended by other organizations, such as a 'levy', 'finance charge', and 'fiscal charge'. These are all forms of taxation or fiscal instruments designed to influence economic behavior by increasing the cost of plastic production, which directly aligns with the code definition."
+      },
+      "subsidies": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document proposes a 'Global Plastic Pollution Fee (GPPF)' based on the 'polluter pays principle' to be levied on polymer producers.",
+        "citation": [
+          "To raise sufficient funds, Ghana proposes that the legally binding instrument include a Global Plastic Pollution Fee (GPPF), as one of the tools to operationalise the “polluter pays principle”.",
+          "In a legally binding instrument designed to tackle a major form of global pollution, Principle 16 of the Rio Declaration has special significance: “the polluter should, in principle, bear the cost of pollution, with due regard to the public interest and without distorting international trade and investment.”",
+          "Second, as a **control measure**, a GPPF would also contribute to reducing plastic demand – and hence, plastic production and consumption – through a higher price."
+        ],
+        "reasoning": "The document explicitly proposes a 'Global Plastic Pollution Fee (GPPF)' as a financial instrument to implement the 'polluter pays principle'. The citations show this fee is designed as a 'control measure' to disincentivize plastic production and consumption by increasing its price, which directly aligns with the definition of a financial penalty or fee for non-compliance with environmental goals."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document's proposal is centered entirely on a 'Global Plastic Pollution Fee (GPPF),' also referred to as a 'levy' or 'fiscal charge.' This is a price-based economic instrument but is distinct from a trading system. The text does not mention market-based trading mechanisms like emissions trading, plastic credits, tariffs, or cap-and-trade systems."
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document suggests that revenue from a Global Plastic Pollution Fee could be used to fund research, innovation, and development as part of the implementation of the legally binding instrument.",
+        "citation": [
+          "First, a GPPF would guarantee significant and predictable revenues by some estimates, more than USD 300 billion per year¹ – to finance the full implementation of the instrument, in particular, environmentally safe and sound waste management infrastructure and the elimination of legacy plastic pollution, and other aspects of implementation, e.g., finance, technology, and capacity building including research, innovation, education and development.",
+          "These revenues could also fund the elimination of legacy plastic pollution, through the proposed Legacy Fund, and other aspects of implementation, e.g., finance, technology, and capacity building including research, innovation, education and development."
+        ],
+        "reasoning": "The document explicitly states on two separate occasions that the revenue generated from the proposed Global Plastic Pollution Fee could be used to fund 'research, innovation, education and development'. This directly matches the code definition of providing financial support for research and innovation related to the plastic value chain."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document proposes a Global Plastic Pollution Fee (GPPF) levied on polymer producers to operationalize the 'polluter pays principle'. This fee would fund global waste management infrastructure and potentially be administered by entities like producer responsibility organizations.",
+        "citation": [
+          "To raise sufficient funds, Ghana proposes that the legally binding instrument include a Global Plastic Pollution Fee (GPPF), as one of the tools to operationalise the “polluter pays principle”.",
+          "The GPPF would hold polymer producers accountable for the pollution costs of all their plastics, irrespective of the country where the plastics end their useful life, and of whether the plastics are ultimately destined for recycling or disposal.",
+          "A GPPF offers an international solution to this transboundary problem, extending the responsibility of producers to pay for the costs of pollution.",
+          "For other aspects, Ghana is considering further the potential role of entities such as the Global Environment Fund or development banks; producer responsibility organizations; or other entities, possibly newly created."
+        ],
+        "reasoning": "The document explicitly proposes a fee on polymer producers to fund the end-of-life management of their products, which is the core mechanism of an Extended Producer Responsibility (EPR) scheme. The text directly frames this as 'extending the responsibility of producers to pay for the costs of pollution' and mentions the potential role of 'producer responsibility organizations,' which are common in EPR systems."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document mentions that a Global Plastic Pollution Fee would complement 'phase-out obligations' but does not specify what products or materials would be subject to these phase-outs.",
+        "citation": [
+          "A price-based measure, like a GPPF, could significantly contribute to this objective, and complement phase-out obligations."
+        ],
+        "reasoning": "The document, while primarily focused on a global fee, explicitly mentions that this fee is intended to 'complement phase-out obligations.' A 'phase-out' is a gradual ban, which directly aligns with the code definition. This citation confirms that bans are considered a relevant and parallel regulatory instrument in the context of the legally binding instrument being discussed."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The proposal includes eco-modulating the fee to encourage the production of more sustainable plastics and references the concept of designing plastic products for circularity.",
+        "citation": [
+          "Even if ambitious “upstream” control measures were implemented to reduce plastic production and consumption, and even if plastic products are designed for circularity, plastic pollution is projected to increase.",
+          "The level of the GPPF could also be eco-modulated to encourage the production of more sustainable plastics."
+        ],
+        "reasoning": "The proposal for an 'eco-modulated' fee directly implies the use of performance criteria to define and incentivize 'more sustainable plastics.' Additionally, the document explicitly references 'design for circularity,' which is a type of product standard aimed at improving a product's end-of-life management, fitting the code definition."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document specifies the need for environmentally safe and sound waste management infrastructure, including systems to collect, sort, recycle, or dispose of plastic waste.",
+        "citation": [
+          "To close this pollution gap and implement the objective of ending plastic pollution, we must make significant investments in environmentally safe and sound waste management infrastructure, especially in Africa and other developing countries...",
+          "...this will only be possible if, alongside other control measures, all countries have access to modern waste management infrastructure to collect and sort plastic waste, and then recycle or dispose of it in an environmentally safe and sound way.",
+          "Instead, to close the pollution gap and end plastic pollution, we will need significant new investments in environmentally safe and sound global waste management infrastructure, alongside implementing ambitious “upstream” control measures.",
+          "Environmentally safe and sound waste management is a costly business, which calls for a developed infrastructure to collect and sort the waste, and then recycle or dispose of it acceptably."
+        ],
+        "reasoning": "The document consistently frames the development of waste management infrastructure as a fundamental requirement to end plastic pollution. Phrases like 'must make significant investments,' 'this will only be possible if,' and 'we will need significant new investments' clearly indicate that this infrastructure is mandatory for the treaty's objectives to be met. The citations explicitly detail the required functions of this infrastructure, such as collection, sorting, and recycling, which directly aligns with the code definition."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "reporting": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "information_guidance": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "education": {
+        "mentioned": true,
+        "details": "The document suggests that revenues from a Global Plastic Pollution Fee could be used to finance various implementation aspects, which explicitly include education.",
+        "citation": [
+          "First, a GPPF would guarantee significant and predictable revenues by some estimates, more than USD 300 billion per year¹ – to finance the full implementation of the instrument, in particular, environmentally safe and sound waste management infrastructure and the elimination of legacy plastic pollution, and other aspects of implementation, e.g., finance, technology, and capacity building including research, innovation, education and development.",
+          "First, as a means of implementation, a GPPF could reliably raise significant and predictable revenues that could fund a safe and sound waste management infrastructure with the capacity to close the pollution gap. These revenues could also fund the elimination of legacy plastic pollution, through the proposed Legacy Fund, and other aspects of implementation, e.g., finance, technology, and capacity building including research, innovation, education and development."
+        ],
+        "reasoning": "The document explicitly lists 'education' twice as a potential recipient of funding generated by the proposed Global Plastic Pollution Fee. This indicates that educational initiatives are considered a component of the overall strategy to end plastic pollution, justifying the 'mentioned' status."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document proposes that revenues from a Global Plastic Pollution Fee would be used to finance various aspects of the instrument's implementation, including research, innovation, and development.",
+        "citation": [
+          "First, a GPPF would guarantee significant and predictable revenues by some estimates, more than USD 300 billion per year¹ – to finance the full implementation of the instrument, in particular, environmentally safe and sound waste management infrastructure and the elimination of legacy plastic pollution, and other aspects of implementation, e.g., finance, technology, and capacity building including research, innovation, education and development.",
+          "These revenues could also fund the elimination of legacy plastic pollution, through the proposed Legacy Fund, and other aspects of implementation, e.g., finance, technology, and capacity building including research, innovation, education and development."
+        ],
+        "reasoning": "The document explicitly states on two separate occasions that the funds generated by the proposed fee would be used for 'research, innovation, education and development' as part of the broader implementation of the legally binding instrument. This directly aligns with the code definition of encouraging scientific research and innovation."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes a 'globally coordinated fee' (the Global Plastic Pollution Fee - GPPF) to create a consistent 'level playing field' for all polymer producers, contrasting this harmonized approach with 'fragmented national fees'.",
+        "citation": [
+          "Unlike fragmented national fees, a globally coordinated fee under the instrument would ensure a level playing field for all producers, in keeping with the need to avoid market distortions under the polluter pays principle in the Rio Declaration.",
+          "A GPPF offers an international solution to this transboundary problem, extending the responsibility of producers to pay for the costs of pollution."
+        ],
+        "reasoning": "The cited texts explicitly advocate for a harmonized financial instrument—a 'globally coordinated fee'—as a superior alternative to inconsistent 'fragmented national fees'. This aims to standardize the application of the 'polluter pays principle' across all producers and countries, creating a 'level playing field' and an 'international solution', which directly aligns with the definition of harmonization."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document proposes that revenues from a Global Plastic Pollution Fee would fund various implementation aspects, including 'capacity building including research, innovation, education and development'.",
+        "citation": [
+          "First, a GPPF would guarantee significant and predictable revenues by some estimates, more than USD 300 billion per year¹ – to finance the full implementation of the instrument, in particular, environmentally safe and sound waste management infrastructure and the elimination of legacy plastic pollution, and other aspects of implementation, e.g., finance, technology, and capacity building including research, innovation, education and development.",
+          "These revenues could also fund the elimination of legacy plastic pollution, through the proposed Legacy Fund, and other aspects of implementation, e.g., finance, technology, and capacity building including research, innovation, education and development."
+        ],
+        "reasoning": "The document explicitly states that funds generated by the proposed Global Plastic Pollution Fee would be used to finance 'capacity building including research, innovation, education and development'. These activities are fundamental mechanisms for sharing knowledge, expertise, and best practices, directly aligning with the code's definition."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document describes the current state of plastic waste management with quantitative data (e.g., 'just 9% is recycled') and projects future scenarios (e.g., 'plastic waste will almost triple by 2060'). However, it does not establish any specific, measurable policy targets with concrete numbers, percentages, or deadlines for reduction, collection, or recycling. The document is a proposal for a funding mechanism, not a policy document outlining specific goals."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "The document proposes a Global Plastic Pollution Fee (GPPF) to be collected from polymer producers. It specifically cites a recommendation for a 'levy on fossil-fuel polymer production' and suggests the fee could be 'eco-modulated' to incentivize more sustainable plastic production, which implies differentiating between various feedstocks.",
+        "citation": [
+          "The Minderoo Foundation, for instance, recommends, “a levy on fossil-fuel polymer production and/or consumption to generate funds for scaling plastics collection, sorting, and recycling\".",
+          "The level of the GPPF could also be eco-modulated to encourage the production of more sustainable plastics.",
+          "In terms of administration, the collection of a GPPF from polymer producers would entail considerable efficiencies because the supply chain is relatively concentrated at that stage (there are relatively few polymer producers/countries)."
+        ],
+        "reasoning": "The document explicitly targets the beginning of the value chain by proposing a fee on 'polymer producers'. The citation mentioning a levy on 'fossil-fuel polymer production' directly addresses the raw material source for virgin plastics. Furthermore, the concept of an 'eco-modulated' fee implies a mechanism to influence the type of feedstock used, encouraging sustainable alternatives over conventional ones."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document proposes a Global Plastic Pollution Fee (GPPF) applied to polymer producers as a control measure to reduce overall plastic production. It also references a 'levy on fossil-fuel polymer production' and suggests the fee could be 'eco-modulated to encourage the production of more sustainable plastics'.",
+        "citation": [
+          "Second, a GPPF would be an effective control measure that helps to reduce plastic production and consumption.",
+          "The Minderoo Foundation, for instance, recommends, “a levy on fossil-fuel polymer production and/or consumption to generate funds for scaling plastics collection, sorting, and recycling\".",
+          "In terms of administration, the collection of a GPPF from polymer producers would entail considerable efficiencies because the supply chain is relatively concentrated at that stage (there are relatively few polymer producers/countries).",
+          "The level of the GPPF could also be eco-modulated to encourage the production of more sustainable plastics."
+        ],
+        "reasoning": "The cited texts justify the finding as they explicitly state the proposed fee is a control measure to 'reduce plastic production'. The fee is specifically targeted at 'polymer producers' and the 'fossil-fuel polymer production' stage, which are core elements of the upstream production process. The suggestion to 'eco-modulate' the fee directly addresses influencing the manufacturing process to create more sustainable plastics."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document mentions designing products for circularity and proposes an eco-modulated fee to encourage the production of more sustainable plastics.",
+        "citation": [
+          "Even if ambitious “upstream” control measures were implemented to reduce plastic production and consumption, and even if plastic products are designed for circularity, plastic pollution is projected to increase.¹⁰",
+          "The level of the GPPF could also be eco-modulated to encourage the production of more sustainable plastics."
+        ],
+        "reasoning": "The document explicitly mentions 'designed for circularity' as an upstream control measure. Furthermore, it proposes that the Global Plastic Pollution Fee (GPPF) could be 'eco-modulated', which is a policy mechanism directly intended to influence product design to favor more sustainable characteristics. These points directly address the design of plastic products."
+      },
+      "product_production": {
+        "mentioned": false,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any measures related to the manufacturing of plastic products. Its focus is on a fee levied at the upstream (polymer production) stage to fund downstream activities (waste management and legacy pollution cleanup). There is no discussion of manufacturing standards, chemical additive restrictions, or intentionally added microplastics in products."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not propose any measures addressing the transportation, supply chain, or distribution phase of plastic products. Its focus is on an upstream fee on polymer production and downstream funding for waste management and legacy pollution cleanup. While the text mentions the 'supply chain' and the global movement of plastics through 'trade', these references serve only to justify the point of fee collection (at the concentrated producer level) and the need for a global solution to a transboundary problem, rather than proposing regulations or policies for the distribution stage itself."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "The document addresses the need to reduce overall plastic consumption and demand, primarily through a price-based control measure (a Global Plastic Pollution Fee) intended to make plastics more expensive.",
+        "citation": [
+          "Second, a GPPF would be an effective control measure that helps to reduce plastic production and consumption.",
+          "Yet, our unsustainable patterns of production and consumption of plastics have created an environmental and health catastrophe for the planet.",
+          "Second, as a control measure, a GPPF would also contribute to reducing plastic demand – and hence, plastic production and consumption – through a higher price."
+        ],
+        "reasoning": "The document explicitly identifies unsustainable consumption patterns as a core driver of the plastic pollution crisis. It proposes a Global Plastic Pollution Fee (GPPF) not only as a financing mechanism but also as a 'control measure' specifically designed to reduce plastic demand and overall consumption by increasing its price."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document explicitly mentions the need for waste management infrastructure to collect and sort plastic waste, scaling up plastics collection, and cites data on the percentage of plastic waste currently collected for recycling.",
+        "citation": [
+          "However, this will only be possible if, alongside other control measures, all countries have access to modern waste management infrastructure to collect and sort plastic waste, and then recycle or dispose of it in an environmentally safe and sound way.",
+          "The Minderoo Foundation, for instance, recommends, “a levy on fossil-fuel polymer production and/or consumption to generate funds for scaling plastics collection, sorting, and recycling\".",
+          "In 2019, plastic production was 460 Mt, generating 353 Mt of plastic waste (more than double the volume of plastic waste in 2000).⁷ However, just 15% of plastic waste is collected for recycling...",
+          "Environmentally safe and sound waste management is a costly business, which calls for a developed infrastructure to collect and sort the waste, and then recycle or dispose of it acceptably."
+        ],
+        "reasoning": "The cited texts directly and repeatedly mention the act of collecting plastic waste as a crucial first step in the waste management process. They refer to the need for infrastructure to 'collect and sort plastic waste', funding for 'scaling plastics collection', and provide statistics on the amount of waste 'collected for recycling'. This directly matches the code definition of measures addressing the collection or gathering of post-consumer plastic waste."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document extensively discusses the need for 'environmentally safe and sound waste management infrastructure'. Specific measures and processes mentioned include the collection and sorting of plastic waste, recycling, landfills, incineration, and other forms of disposal. It also details mismanaged waste practices such as open-pit burning and disposal in unsanitary dumpsites as issues that need to be addressed.",
+        "citation": [
+          "To close this pollution gap and implement the objective of ending plastic pollution, we must make significant investments in environmentally safe and sound waste management infrastructure, especially in Africa and other developing countries...",
+          "...all countries have access to modern waste management infrastructure to collect and sort plastic waste, and then recycle or dispose of it in an environmentally safe and sound way.",
+          "Environmentally safe and sound waste management is a costly business, which calls for a developed infrastructure to collect and sort the waste, and then recycle or dispose of it acceptably.",
+          "In 2019... just 15% of plastic waste is collected for recycling; just 9% is recycled; 49% ends up in landfills; almost 20% is incinerated; and the remaining 22% is mismanaged, which includes waste “burned in open pits, dumped into seas or open waters, or disposed of in unsanitary landfills and dumpsites.\""
+        ],
+        "reasoning": "The document repeatedly and explicitly identifies the lack of adequate waste management infrastructure as a primary driver of plastic pollution. The citations confirm this focus by detailing the specific components of waste management, including collection, sorting, recycling, and various disposal methods like landfills and incineration, which are all post-collection activities central to the code's definition."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document proposes a Global Plastic Pollution Fee (GPPF) to fund waste management infrastructure, with a specific focus on improving recycling. It mentions scaling plastic collection, sorting, and recycling, and boosting the recycling of plastic waste to promote a circular economy. The text also uses current recycling rates to highlight the scale of the problem.",
+        "citation": [
+          "However, this will only be possible if, alongside other control measures, all countries have access to modern waste management infrastructure to collect and sort plastic waste, and then recycle or dispose of it in an environmentally safe and sound way.",
+          "The Minderoo Foundation, for instance, recommends, “a levy on fossil-fuel polymer production and/or consumption to generate funds for scaling plastics collection, sorting, and recycling\".³",
+          "In 2019, plastic production was 460 Mt, generating 353 Mt of plastic waste (more than double the volume of plastic waste in 2000).⁷ However, just 15% of plastic waste is collected for recycling; just 9% is recycled...",
+          "In the first place, these infrastructure investments should aim to boost the recycling of plastic waste, so that the plastic economy becomes as circular as possible."
+        ],
+        "reasoning": "The document directly addresses recycling as a critical component of the waste management infrastructure that the proposed Global Plastic Pollution Fee would finance. The citations explicitly state that funds should be used to 'scale plastics collection, sorting, and recycling' and 'boost the recycling of plastic waste', thereby confirming that recycling measures are mentioned as a key downstream solution."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document proposes establishing a 'Legacy Fund' financed by a Global Plastic Pollution Fee (GPPF) specifically to fund the clean-up and elimination of existing legacy plastic pollution from the environment.",
+        "citation": [
+          "At the first Intergovernmental Negotiating Committee (INC) meeting, Ghana proposed the establishment of a “Legacy Fund\" to finance the clean-up of legacy plastic pollution.²",
+          "These costs also do not account for cleaning up legacy plastic pollution, which is a current and egregious source of ongoing pollution that must also be ended under the legally binding instrument.",
+          "These revenues could also fund the elimination of legacy plastic pollution, through the proposed Legacy Fund, and other aspects of implementation, e.g., finance, technology, and capacity building including research, innovation, education and development.",
+          "The GPPF will serve as an economic incentive for companies to adopt more sustainable production and disposal practices, while also generating revenue that can be used to finance environmentally safe and sound waste management and clean-up initiatives."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions the need to address 'legacy plastic pollution'. It details a specific measure—the creation of a 'Legacy Fund'—to finance 'clean-up' and 'elimination' initiatives for existing environmental pollution. The cited texts directly support this, as they describe the fund's purpose and the use of revenues for these specific clean-up activities, which aligns with the code definition."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document identifies the burning of waste in open pits and incineration as methods of plastic waste disposal, both of which are sources of emissions.",
+        "citation": [
+          "In 2019, plastic production was 460 Mt, generating 353 Mt of plastic waste (more than double the volume of plastic waste in 2000).⁷ However, just 15% of plastic waste is collected for recycling; just 9% is recycled; 49% ends up in landfills; almost 20% is incinerated; and the remaining 22% is mismanaged, which includes waste “burned in open pits, dumped into seas or open waters, or disposed of in unsanitary landfills and dumpsites.\"⁸"
+        ],
+        "reasoning": "The document explicitly states that a significant portion of mismanaged plastic waste is 'burned in open pits' and that almost 20% is 'incinerated'. Both of these end-of-life processes are direct sources of greenhouse gas emissions and air pollutants. The proposal to fund proper waste management is a measure intended to prevent these practices, thereby addressing the associated emissions."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not contain any mention of microplastics or measures specifically targeting their unintentional release. The text's focus is on macro-level 'plastic pollution', 'plastic waste', and 'legacy plastic pollution', proposing a financial mechanism to improve 'waste management infrastructure' for collection, sorting, and recycling of bulk plastic waste rather than addressing microplastic sources like tire wear or textile fibers."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The proposal suggests the fee could be implemented gradually over time, potentially with a 'phase-in period' to allow for adaptation.",
+        "citation": [
+          "The level could be adapted over time, for example, with a phase-in period or to adjust the impact on plastic demand."
+        ],
+        "reasoning": "The cited text explicitly mentions a potential 'phase-in period' and adaptation 'over time' as part of the administration of the fee. This indicates a specified, though not rigidly dated, timeline for implementation."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The proposal is for a Global Plastic Pollution Fee to be included within a legally binding international instrument, which implies mandatory obligations. The fee is described as a 'globally coordinated fee' to hold producers accountable.",
+        "citation": [
+          "UNEA Resolution 5/14 sets out the objective of ending plastic pollution, including in the marine environment, through a legally binding international instrument.",
+          "Considerable funding is, therefore, needed to implement a legally binding instrument that ends plastic pollution.",
+          "Unlike fragmented national fees, a globally coordinated fee under the instrument would ensure a level playing field for all producers, in keeping with the need to avoid market distortions under the polluter pays principle in the Rio Declaration.",
+          "The GPPF would hold polymer producers accountable for the pollution costs of all their plastics, irrespective of the country where the plastics end their useful life, and of whether the plastics are ultimately destined for recycling or disposal."
+        ],
+        "reasoning": "The document consistently and repeatedly frames the proposal within the context of a 'legally binding international instrument'. This term itself signifies a high level of stringency, indicating that the obligations would not be voluntary. The description of a 'globally coordinated fee' that holds producers 'accountable' further supports the classification of 'High' stringency, as it implies a mandatory and enforceable system rather than a flexible or optional one."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A globally coordinated fee implemented through an international legally binding instrument to address the global problem of plastic pollution.",
+        "citation": [
+          "Proposal for a Global Plastic Pollution Fee in the legally binding instrument to end plastic pollution.",
+          "UNEA Resolution 5/14 sets out the objective of ending plastic pollution, including in the marine environment, through a legally binding international instrument.",
+          "Unlike fragmented national fees, a globally coordinated fee under the instrument would ensure a level playing field for all producers, in keeping with the need to avoid market distortions under the polluter pays principle in the Rio Declaration.",
+          "A GPPF offers an international solution to this transboundary problem, extending the responsibility of producers to pay for the costs of pollution."
+        ],
+        "reasoning": "The document consistently frames the proposal at a worldwide level. The title itself calls for a 'Global Plastic Pollution Fee' within a 'legally binding instrument'. The text further clarifies this by referencing an 'international instrument' and an 'international solution'. It explicitly contrasts this 'globally coordinated fee' with 'fragmented national fees', confirming its intended scope is global, not national or sub-national."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document proposes a 'Global Plastic Pollution Fee (GPPF)' to be collected from polymer producers. It also references a 'levy on fossil-fuel polymer production' and mentions the potential role of 'producer responsibility organizations'.",
+      "citation": [
+        "The Minderoo Foundation, for instance, recommends, “a levy on fossil-fuel polymer production and/or consumption to generate funds for scaling plastics collection, sorting, and recycling\".",
+        "In terms of administration, the collection of a GPPF from polymer producers would entail considerable efficiencies because the supply chain is relatively concentrated at that stage (there are relatively few polymer producers/countries).",
+        "The GPPF will serve as an economic incentive for companies to adopt more sustainable production and disposal practices, while also generating revenue that can be used to finance environmentally safe and sound waste management and clean-up initiatives."
+      ],
+      "reasoning": "The document explicitly proposes a Global Plastic Pollution Fee (GPPF) as a primary financing mechanism. The citations clearly state that this fee would be collected from 'polymer producers' and 'companies', which are private sector entities. This fee is designed to generate revenue for waste management, making it a form of financing sourced from the private sector based on the 'polluter pays principle'."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "government budgets",
+      "citation": [
+        "By sharing the burden with polluters (not only on government budgets) to end plastic pollution, the GPPF would also provide significant and predictable financing, for environmentally safe and sound waste management infrastructure, and, through the Legacy Fund, for the elimination of legacy pollution."
+      ],
+      "reasoning": "The document explicitly mentions 'government budgets' as a source of financing, contrasting it with the proposed Global Plastic Pollution Fee. This reference acknowledges state funding as a potential, though not preferred, mechanism for addressing the issue, thereby meeting the code's definition."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document mentions that revenues could be administered by 'regional or international entities' and specifically considers the potential role of the 'Global Environment Fund' and 'development banks'.",
+      "citation": [
+        "The residual revenues could be administered through one or more regional or international entities, public and/or private.",
+        "For other aspects, Ghana is considering further the potential role of entities such as the Global Environment Fund or development banks; producer responsibility organizations; or other entities, possibly newly created."
+      ],
+      "reasoning": "The cited text explicitly names specific international organizations, such as the Global Environment Fund (a multilateral fund) and development banks, as potential administrators for the proposed funds. This directly aligns with the code definition of financing from international sources."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "The document proposes a 'Global Plastic Pollution Fee (GPPF)' to be collected from polymer producers. It also references recommendations for a 'levy on fossil-fuel polymer production and/or consumption' and a 'finance charge' as policy tools.",
+      "citation": [
+        "To raise sufficient funds, Ghana proposes that the legally binding instrument include a Global Plastic Pollution Fee (GPPF), as one of the tools to operationalise the “polluter pays principle”.",
+        "First, a GPPF would guarantee significant and predictable revenues by some estimates, more than USD 300 billion per year¹ – to finance the full implementation of the instrument, in particular, environmentally safe and sound waste management infrastructure and the elimination of legacy plastic pollution...",
+        "The Minderoo Foundation, for instance, recommends, “a levy on fossil-fuel polymer production and/or consumption to generate funds for scaling plastics collection, sorting, and recycling\".",
+        "In terms of administration, the collection of a GPPF from polymer producers would entail considerable efficiencies because the supply chain is relatively concentrated at that stage..."
+      ],
+      "reasoning": "The entire document is a proposal for a 'Global Plastic Pollution Fee (GPPF)' as a primary financing mechanism for a new legally binding instrument. The cited texts explicitly state that this fee is intended to raise significant and predictable revenues to fund waste management infrastructure and other implementation costs related to ending plastic pollution. The proposal is a clear example of financing derived from a dedicated fee."
+    },
+    "credit_schemes": {
+      "mentioned": true,
+      "details": "The document mentions considering the role of development banks in administering funds.",
+      "citation": [
+        "For other aspects, Ghana is considering further the potential role of entities such as the Global Environment Fund or development banks; producer responsibility organizations; or other entities, possibly newly created."
+      ],
+      "reasoning": "The document explicitly states that 'development banks' are being considered for a role in administering the funds. Development banks are financial institutions that provide financing for economic development, primarily through loans and other credit mechanisms. This directly aligns with the code definition of financing through loans or similar financial instruments."
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The primary responsibility mentioned is financial, through a 'Global Plastic Pollution Fee' (GPPF) collected from polymer producers. This extends their accountability for pollution costs across the plastic lifecycle. The fee is also intended as an economic incentive for companies to adopt more sustainable production practices, as the fee could be 'eco-modulated' to encourage the production of more sustainable plastics.",
+      "citation": [
+        "In terms of administration, the collection of a GPPF from polymer producers would entail considerable efficiencies because the supply chain is relatively concentrated at that stage (there are relatively few polymer producers/countries).",
+        "The GPPF would hold polymer producers accountable for the pollution costs of all their plastics, irrespective of the country where the plastics end their useful life, and of whether the plastics are ultimately destined for recycling or disposal.",
+        "A GPPF offers an international solution to this transboundary problem, extending the responsibility of producers to pay for the costs of pollution.",
+        "The level of the GPPF could also be eco-modulated to encourage the production of more sustainable plastics.",
+        "The GPPF will serve as an economic incentive for companies to adopt more sustainable production and disposal practices..."
+      ],
+      "reasoning": "The document explicitly proposes a fee to be collected directly from 'polymer producers'. The cited texts clearly state this fee is a mechanism to 'hold polymer producers accountable', 'extend[] the responsibility of producers to pay for the costs of pollution', and create an 'economic incentive for companies to adopt more sustainable production and disposal practices'. This directly assigns financial and operational responsibilities to the production sector based on the 'polluter pays principle'."
+    },
+    "consumers": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document outlines several core responsibilities for the waste management sector, including the collection and sorting of plastic waste, recycling, and the environmentally safe and sound disposal of plastic waste that cannot be recycled.",
+      "citation": [
+        "...all countries have access to modern waste management infrastructure to collect and sort plastic waste, and then recycle or dispose of it in an environmentally safe and sound way.",
+        "The Minderoo Foundation, for instance, recommends, “a levy on fossil-fuel polymer production and/or consumption to generate funds for scaling plastics collection, sorting, and recycling\".",
+        "Environmentally safe and sound waste management is a costly business, which calls for a developed infrastructure to collect and sort the waste, and then recycle or dispose of it acceptably."
+      ],
+      "reasoning": "The document explicitly states that funding is needed to build and operate waste management infrastructure. The citations directly list the key responsibilities and functions of this sector—namely, to collect, sort, recycle, and properly dispose of plastic waste—as the primary reason for establishing the proposed Global Plastic Pollution Fee."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Implementation of a legally binding instrument, investing in waste management infrastructure, strengthening national capacity to manage waste, collecting a global fee from producers, and international cooperation on implementation.",
+      "citation": [
+        "To achieve this ambitious objective, countries need to close the plastic pollution gap – that is, the gap between the volume of plastic waste that we generate globally, and our global capacity to manage that waste in an environmentally safe and sound way.",
+        "We continue to generate vast quantities of plastic waste, much of which results in pollution that can be prevented by strengthening the capacity of countries to manage that waste in an environmentally safe and sound manner.",
+        "Although the GPPF would be intended to fund the implementation of the legally binding instrument, producer countries should retain a sizeable share of the GPPF to cover the costs of collecting the GPPF from their producers.",
+        "The implementation of a GPPF will require the cooperation and support of governments, civil society, and businesses worldwide."
+      ],
+      "reasoning": "The document, a proposal submitted by the government of Ghana, repeatedly refers to the roles and obligations of 'countries' and 'governments'. The cited texts explicitly assign responsibilities such as closing the 'pollution gap', strengthening national waste management capacity, administering the collection of a proposed global fee, and cooperating internationally to implement the legally binding instrument."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Encourage the adoption of the Global Plastic Pollution Fee (GPPF); provide cooperation and support for its implementation.",
+      "citation": [
+        "Countries, civil society, and the business community should encourage the adoption of the GPPF, which supports the significant contributions needed to achieve the objective of ending plastic pollution.",
+        "The implementation of a GPPF will require the cooperation and support of governments, civil society, and businesses worldwide."
+      ],
+      "reasoning": "The document explicitly assigns roles to 'civil society,' a category that includes non-governmental organizations. The cited texts state that these groups should 'encourage the adoption' of the proposed fee and provide 'cooperation and support' for its implementation, clearly outlining their expected responsibilities in the process."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "Setting the objective for the legally binding instrument (UNEA); potential administration of revenues from a global fee; development of global infrastructure; and tackling legacy pollution through entities like the Global Environment Fund.",
+      "citation": [
+        "UNEA Resolution 5/14 sets out the objective of ending plastic pollution, including in the marine environment, through a legally binding international instrument.",
+        "The residual revenues could be administered through one or more regional or international entities, public and/or private.",
+        "These international entities could develop global infrastructure and tackle legacy pollution in a more coordinated and efficient way than countries acting individually.",
+        "For other aspects, Ghana is considering further the potential role of entities such as the Global Environment Fund or development banks; producer responsibility organizations; or other entities, possibly newly created."
+      ],
+      "reasoning": "The document explicitly grounds its proposal in the objective set by UNEA Resolution 5/14, a UN body. Furthermore, it directly proposes that \"international entities\" should be responsible for administering the revenues from the proposed fee and coordinating the development of infrastructure to combat pollution. It specifically names the \"Global Environment Fund,\" an international partnership that includes UN agencies, as a potential body to fulfill this role, clearly assigning responsibilities to international governance entities."
+    }
+  }
+}

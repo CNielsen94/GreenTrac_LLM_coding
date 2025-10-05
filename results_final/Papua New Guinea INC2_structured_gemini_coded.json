@@ -1,0 +1,574 @@
+{
+  "submission_metadata": {
+    "country": "Papua New Guinea",
+    "date": null,
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "This alarming statistic raises serious concerns for a country that manufactures and imports a significant number of plastic products and highlights the need for urgent actions to be taken at the national level including regional and global actions to address this problem.",
+        "The objectives of the instrument should be to protect human health and the environment from plastic pollution including in the marine environment.",
+        "The National Action Plans will outline the steps, baseline information and targets that a country is required to take to addressing the issue on plastics at the national level."
+      ],
+      "reasoning": "The document explicitly states that the objective of the proposed instrument is to 'address this problem' of plastic pollution and 'to protect human health and the environment from plastic pollution'. This aligns with the code definition. However, the document does not specify a global target year or a concrete timeline for achieving this objective. It mentions that national plans should have a 'timeframe' and problematic plastics could be phased out 'within a certain timeframe', but these are general suggestions, not a specific end date for the overall goal."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Finally, the core obligations and control measures of the plastic instrument will be centred around sustainable production and consumption and waste management activities.",
+        "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+      ],
+      "reasoning": "The document explicitly states that core obligations should be centered around 'sustainable production' and suggests using economic instruments like levies and taxes specifically to 'discourage production.' This directly aligns with the code definition of controlling or reducing the manufacturing of plastic."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": null,
+      "citation": [
+        "This allows for the establishment of control measures for those obligations that are of priority while leaving those plastics that are less problematic for more longer-term solutions.",
+        "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+      ],
+      "reasoning": "The document, while overwhelmingly focused on the negative impacts of plastic pollution, implicitly acknowledges that not all plastics are equally harmful. By differentiating between 'problematic' plastics and those that are 'less problematic' or 'not so problematic', the text suggests that the use of some plastics should continue, albeit with improved standards and design. This fulfills the code definition of acknowledging 'why some plastic use should continue' without explicitly listing their specific benefits."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document identifies protecting human health from the threats and potential harm of plastic pollution as a key objective for the international instrument. It also suggests phasing out plastics that are specifically harmful to human health as a control measure.",
+      "citation": [
+        "Papua New Guinea recognise the issue of plastic pollution and the potential threats plastic waste poses to human health and its pristine environment.",
+        "The objectives of the instrument should be to protect human health and the environment from plastic pollution including in the marine environment.",
+        "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+      ],
+      "reasoning": "The document explicitly states that plastic waste poses threats to human health and that a primary objective of the proposed treaty should be to protect human health. It further connects this objective to a specific control measure: phasing out plastics known to be of potential harm to human health."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "Papua New Guinea recognise the issue of plastic pollution and the potential threats plastic waste poses to human health and its pristine environment.",
+        "The objectives of the instrument should be to protect human health and the environment from plastic pollution including in the marine environment.",
+        "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+      ],
+      "reasoning": "The document explicitly states that a core objective of the legally binding instrument should be to \"protect human health and the environment from plastic pollution including in the marine environment.\" This is further supported by the initial recognition of threats to its \"pristine environment\" and the call to phase out plastics that are of \"potential harm to the environment.\" The specific mention of the \"marine environment\" confirms a marine focus."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "It is critical the global plastic treaty should have clear objectives and solutions in addressing plastics using a life cycle approach.",
+        "In addition, the objectives of the instrument should also be further broadened to address the entire life cycle of plastics including having controls and reduction measures across a range of products, process and industries where plastics is used and released as a waste material.",
+        "Finally, the core obligations and control measures of the plastic instrument will be centred around sustainable production and consumption and waste management activities."
+      ],
+      "reasoning": "The document explicitly states the need for a 'life cycle approach' and clarifies that this should cover the 'entire life cycle of plastics'. It further substantiates the full lifecycle coverage by identifying core obligations that span key stages: 'sustainable production and consumption and waste management activities'."
+    },
+    "other_objectives": {
+      "value": "Promote a just transition, international cooperation, and access to technology and scientific knowledge.",
+      "citation": [
+        "It should be based on the principles of the Rio Declaration on Environment and Development, as well as on a just transition, and on circumstances and capabilities of each Member State.",
+        "...it should foster the development and implementation of national action plans to prevent, reduce and remediate plastic pollution and support regional and international cooperation.",
+        "The instrument should also promote research and innovation, as well as awareness-raising among all relevant stakeholders.",
+        "The instrument should promote access to technology and technical and scientific cooperation."
+      ],
+      "reasoning": "The cited texts state several objectives that are distinct from the predefined categories. These objectives focus on the socio-economic and cooperative mechanisms required to implement the treaty, rather than the direct environmental or health outcomes. Specifically, they aim to ensure a 'just transition' (an equity-based socio-economic goal), foster 'international cooperation', and promote 'access to technology', 'research and innovation', and 'scientific cooperation' (capacity-building and knowledge-sharing goals)."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "levies, taxes",
+        "citation": [
+          "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+          "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+        ],
+        "reasoning": "The document explicitly mentions 'levies and taxes' as a potential control measure to discourage the production of harmful plastics and as a type of 'sustainable financing mechanism'. This aligns with the code definition which includes fiscal measures that use taxation as a mechanism."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document mentions providing financial assistance and establishing a financial mechanism to support developing countries in implementing the treaty, strengthening capacity, and fulfilling reporting obligations.",
+        "citation": [
+          "Given the different capacities of countries, the need for technical and financial assistance to developing countries in particular will be important in assisting countries to strengthen their capacity in areas of plastic management.",
+          "This should be addressed through providing financial assistance to parties to develop reports as a way forward in addressing the issue of non-compliance on reporting.",
+          "For this to occur, a robust financial mechanism is needed similar to the Multi-Lateral Fund of the Montreal Protocol."
+        ],
+        "reasoning": "The text explicitly calls for 'financial assistance' and a 'financial mechanism' like the Multi-Lateral Fund. These are forms of financial support and grants intended to aid developing nations with treaty implementation and capacity building, which aligns with the code's definition of subsidies and financial support systems."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "Punitive measures for continued non-compliance; Levies and taxes to discourage production of problematic plastics.",
+        "citation": [
+          "Punitive measures should be taken against parties for continued non-compliance and based on the severity of the offence.",
+          "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+        ],
+        "reasoning": "The document explicitly mentions taking 'Punitive measures' against parties for 'non-compliance', which is a direct reference to a penalty. Additionally, it suggests 'introducing levies and taxes to discourage production', which functions as a financial penalty to deter a specific activity, aligning with the code definition."
+      },
+      "trading_systems": {
+        "mentioned": true,
+        "details": "The document suggests using levies, taxes, and container deposit schemes as economic instruments.",
+        "citation": [
+          "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+          "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+        ],
+        "reasoning": "The document explicitly mentions the use of 'levies', 'taxes', and 'container deposit schemes'. These qualify as market-based economic instruments. The code definition includes 'tariffs' as an example, which is a price-based instrument similar to levies and taxes. Therefore, the mention of these mechanisms aligns with the provided definition."
+      },
+      "deposit_systems": {
+        "mentioned": true,
+        "details": "container deposit schemes",
+        "citation": [
+          "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes."
+        ],
+        "reasoning": "The document explicitly mentions 'container deposit schemes' as an example of a sustainable financing mechanism to support the implementation of the plastic instrument. This directly matches the code definition of a deposit system."
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document mentions sustainable financing mechanisms such as levies and container deposit schemes, which are types of EPR measures.",
+        "citation": [
+          "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes."
+        ],
+        "reasoning": "The document explicitly names 'levies and container deposit schemes' as sustainable financing mechanisms. These are well-established types of Extended Producer Responsibility (EPR) instruments where producers are made financially or operationally responsible for the end-of-life management of their products, such as beverage containers."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Phase-out of certain problematic plastics that are of potential harm to the environment and human health.",
+        "citation": [
+          "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+        ],
+        "reasoning": "The document explicitly mentions the concept of a \"phase out\" for problematic plastics as a potential control measure. A phase-out is a gradual ban, which directly aligns with the code definition."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document suggests setting standards to improve product design and establishing labelling requirements for imported plastic products.",
+        "citation": [
+          "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+          "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+        ],
+        "reasoning": "The document explicitly proposes 'setting standards to improve product design' and 'labelling requirements' as control measures for plastic products. It also lists 'standards and guidelines' as a necessary institutional arrangement for the treaty's implementation, directly matching the code's definition of regulations or criteria that products must meet."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "labelling requirements for imports",
+        "citation": [
+          "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+        ],
+        "reasoning": "The document explicitly proposes 'setting labelling requirements for imports' as a potential control measure for certain plastic products. This directly aligns with the code definition, which seeks mentions of required product labels or marking."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National Action Plans that outline the steps, baseline information, targets, resources, key stakeholders, and timeframes for addressing plastic pollution at the national level.",
+        "citation": [
+          "It is the responsibility of all parties to develop national action plans.",
+          "The National Action Plans will outline the steps, baseline information and targets that a country is required to take to addressing the issue on plastics at the national level.",
+          "The national action plans should also highlight resources including key stakeholders who are to be involved as well as the timeframe needed to address each action plan."
+        ],
+        "reasoning": "The document explicitly states that developing 'national action plans' is a 'responsibility of all parties,' which signifies a mandatory requirement under the proposed treaty. It further elaborates on the required contents of these plans, including steps, baselines, targets, resources, stakeholders, and timeframes."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "National reports to assess implementation of the instrument by parties; provision of comparable monitoring data for effectiveness evaluation.",
+        "citation": [
+          "National reporting is also an important element of the instrument as it will provide the Secretariat an opportunity to assess implementation of the instrument by parties.",
+          "For a proper and fair evaluation of the instrument to be carried out, a need for comparable monitoring data should be provided and used in the evaluation.",
+          "This should be addressed through providing financial assistance to parties to develop reports as a way forward in addressing the issue of non-compliance on reporting."
+        ],
+        "reasoning": "The document explicitly identifies 'National reporting' as a crucial element of the instrument. The purpose of this reporting is to enable the Secretariat to assess the implementation progress of the parties. Furthermore, it specifies that comparable monitoring data must be provided for the instrument's effectiveness evaluation. The mention of addressing 'non-compliance on reporting' confirms the mandatory nature of this instrument."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "Setting labelling requirements for imported plastic products is mentioned as a potential control measure.",
+        "citation": [
+          "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+        ],
+        "reasoning": "The document explicitly suggests 'setting labelling requirements for imports' as a potential control measure. This is a clear example of a measure affecting the international trade of plastic products, fitting the code's definition."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "Establishing effective monitoring tools, conducting effectiveness evaluations using comparable monitoring data, and national reporting to assess the implementation of the instrument.",
+        "citation": [
+          "This will also include establishing effective monitoring tools to monitor and evaluate the effective implementation of the plastic instrument.",
+          "Effectiveness evaluation will be a key provision of the instrument for parties to evaluate the effectiveness of the instrument over a specific time frame specified by the COP.",
+          "For a proper and fair evaluation of the instrument to be carried out, a need for comparable monitoring data should be provided and used in the evaluation.",
+          "National reporting is also an important element of the instrument as it will provide the Secretariat an opportunity to assess implementation of the instrument by parties."
+        ],
+        "reasoning": "The document explicitly calls for 'establishing effective monitoring tools' and conducting 'Effectiveness evaluation' to track the instrument's performance. It specifies the need for 'comparable monitoring data' to ensure these evaluations are fair and proper. Additionally, it highlights 'National reporting' as a mechanism for the Secretariat to 'assess implementation,' which is a core function of monitoring policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document mentions the need for 'standards and guidelines' to support implementation, guide the evaluation process, and improve product design.",
+        "citation": [
+          "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+          "This process will require establishment of standards and guidelines to guide the evaluation process.",
+          "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+        ],
+        "reasoning": "The document explicitly states that 'standards and guidelines' will be required as part of the institutional arrangements for implementation and to guide the effectiveness evaluation process. It also mentions setting standards for product design, which falls under the category of guidance to direct stakeholders towards more sustainable practices. These citations confirm the use of information and guidance as a soft instrument."
+      },
+      "education": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "Compliance Committee",
+        "citation": [
+          "While a Compliance Committee will be established as part of the institutional arrangement with the INC Secretariat, the objective would be to ensure compliance."
+        ],
+        "reasoning": "The document explicitly states the proposal to establish a 'Compliance Committee' as part of the treaty's institutional arrangement. This body is designed to provide guidance and oversight on the implementation and compliance of the instrument, directly matching the code's definition of an expert group."
+      },
+      "research_promotion": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "Comparable monitoring data, standards and guidelines for evaluation, standardized reporting formats, and standards for product design and labelling requirements.",
+        "citation": [
+          "For a proper and fair evaluation of the instrument to be carried out, a need for comparable monitoring data should be provided and used in the evaluation.",
+          "This process will require establishment of standards and guidelines to guide the evaluation process.",
+          "While reporting formats will form an important component of reporting, it is crucial parties be assisted with capacity building programs to assist with timely and accurate reports.",
+          "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+        ],
+        "reasoning": "The document explicitly calls for 'comparable monitoring data' and the 'establishment of standards and guidelines' to ensure fair and consistent evaluation across parties. It also identifies 'reporting formats' as an important component for assessing implementation and suggests 'setting standards' for product design and labelling. These proposals all aim to align or standardize methodologies and systems among parties, directly matching the definition of harmonization."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "Exchange of relevant technology",
+        "citation": [
+          "This will include exchange of relevant technology in assisting developing countries address their waste management issues."
+        ],
+        "reasoning": "The document explicitly proposes the 'exchange of relevant technology' as a means of implementation. This directly aligns with the code definition, which includes mechanisms to exchange technology or expertise among countries to build capacity, particularly for assisting developing nations."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [
+        "The National Action Plans will outline the steps, baseline information and targets that a country is required to take to addressing the issue on plastics at the national level.",
+        "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+      ],
+      "reasoning": "The document does not contain any specific, measurable targets with concrete numbers, percentages, or deadlines. It only suggests that targets should be outlined in National Action Plans and provides a conceptual example of a target (phasing out plastics 'within a certain timeframe') without specifying the timeframe or the plastics in question."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document mentions sustainable production as a core obligation and suggests using levies and taxes to discourage the production of problematic plastics.",
+        "citation": [
+          "Finally, the core obligations and control measures of the plastic instrument will be centred around sustainable production and consumption and waste management activities.",
+          "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+        ],
+        "reasoning": "The text explicitly identifies 'sustainable production' as a central theme for core obligations and control measures within the proposed plastic instrument. It provides a specific example of a production-related measure: implementing levies and taxes to actively 'discourage production' of harmful plastics, which directly addresses the manufacturing process."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "Setting standards to improve product design.",
+        "citation": [
+          "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+        ],
+        "reasoning": "The document explicitly proposes 'setting standards to improve product design' as a potential control measure for less problematic plastics. This directly matches the code's definition, which looks for measures addressing how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": "The document suggests control measures for product production, including phasing out problematic plastics, introducing levies and taxes to discourage production, and setting standards for product design and labeling.",
+        "citation": [
+          "This alarming statistic raises serious concerns for a country that manufactures and imports a significant number of plastic products and highlights the need for urgent actions to be taken at the national level...",
+          "Finally, the core obligations and control measures of the plastic instrument will be centred around sustainable production and consumption and waste management activities.",
+          "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production.",
+          "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+        ],
+        "reasoning": "The document explicitly states that Papua New Guinea 'manufactures... a significant number of plastic products' and calls for 'sustainable production' and 'control measures on products'. It details specific production-related measures like levies, taxes, and standards for product design. However, there is no specific mention of intentionally added microplastics or chemical additives in plastics, hence those fields are marked as false."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "The document mentions the high volume of plastic product imports and suggests 'setting labelling requirements for imports' as a potential control measure.",
+        "citation": [
+          "This alarming statistic raises serious concerns for a country that manufactures and imports a significant number of plastic products and highlights the need for urgent actions to be taken at the national level...",
+          "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+        ],
+        "reasoning": "The document identifies the importation of plastic products as a significant activity and proposes a specific control measure ('labelling requirements for imports') that applies directly to this phase. Importation is a core component of the distribution stage in the midstream value chain, involving the transportation and supply of goods across borders before they reach consumers."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "sustainable consumption, levies, container deposit schemes, labelling requirements",
+        "citation": [
+          "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+          "Finally, the core obligations and control measures of the plastic instrument will be centred around sustainable production and consumption and waste management activities.",
+          "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+        ],
+        "reasoning": "The document explicitly states that core obligations will be centered around 'sustainable production and consumption'. It further specifies consumption-related measures like 'levies and container deposit schemes', which are financial mechanisms designed to influence consumer behavior. Additionally, it mentions 'labelling requirements', which is a measure aimed at informing consumer choice at the point of consumption."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions 'container deposit schemes' as a sustainable financing mechanism to support implementation.",
+        "citation": [
+          "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes."
+        ],
+        "reasoning": "The citation explicitly mentions 'container deposit schemes'. These schemes are a specific type of take-back or collection system designed to facilitate the gathering and aggregation of post-consumer plastic waste (e.g., bottles), directly matching the code definition for collection."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The submission calls for integrating 'waste management activities' into the treaty's core obligations, addressing countries' 'waste management issues' through technology exchange, and using 'container deposit schemes' as a financing mechanism.",
+        "citation": [
+          "Given the complexity of plastic and waste management, a need for gradual strengthening of the global treaty overtime is recommended.",
+          "This will include exchange of relevant technology in assisting developing countries address their waste management issues.",
+          "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+          "The core obligations and control measures of the plastic instrument will be centred around sustainable production and consumption and waste management activities.",
+          "It is crucial that we prioritise putting in control measures on products and processes as well as the need to integrate waste management activities."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'waste management' as a central component of the proposed international instrument. The cited texts confirm that 'waste management activities' should be a core obligation of the treaty and that developing countries should receive assistance to address their 'waste management issues', directly aligning with the code's focus on handling post-collection plastic waste."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "container deposit schemes, waste management activities",
+        "citation": [
+          "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+          "Finally, the core obligations and control measures of the plastic instrument will be centred around sustainable production and consumption and waste management activities.",
+          "It is crucial that we prioritise putting in control measures on products and processes as well as the need to integrate waste management activities."
+        ],
+        "reasoning": "The document explicitly mentions 'container deposit schemes' as a sustainable financing mechanism. These schemes are a common policy tool designed to increase the collection rate of beverage containers for reuse and recycling. Additionally, the text identifies 'waste management activities' as a core obligation of the proposed treaty, which is the broader category that encompasses recycling, reprocessing, and recovery of plastic waste. These points directly address the management of post-consumer plastic materials, aligning with the definition for the recycling code."
+      },
+      "legacy_plastic": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document discusses 'plastic pollution' and 'plastic waste' in general terms, focusing on solid waste, particularly leakage into the marine environment. There is no specific mention of emissions, air pollution, greenhouse gases, or other atmospheric releases associated with the plastic lifecycle."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document proposes a multi-faceted temporal approach, including early implementation actions before the treaty's entry into force, a phase-out of problematic plastics 'within a certain timeframe', addressing other plastics with 'longer-term solutions', and periodic effectiveness evaluations over a 'specific time frame specified by the COP'. National Action Plans are also required to define their own timeframes.",
+        "citation": [
+          "The national action plans should also highlight resources including key stakeholders who are to be involved as well as the timeframe needed to address each action plan.",
+          "Effectiveness evaluation will be a key provision of the instrument for parties to evaluate the effectiveness of the instrument over a specific time frame specified by the COP.",
+          "This approach is recommended at the initial stages prior to the new legal instrument entering into force and as a way to building capacity at the national level.",
+          "This allows for the establishment of control measures for those obligations that are of priority while leaving those plastics that are less problematic for more longer-term solutions.",
+          "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+        ],
+        "reasoning": "The document specifies a structured, though not numerically defined, timeline. It outlines distinct temporal phases and categories of action: actions prior to entry into force, a defined phase-out period for high-priority items, longer-term measures for others, and cyclical evaluations. The requirement for National Action Plans to specify their own timeframes further supports that a timeline structure is a core component of the proposed implementation."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes a Compliance Committee to ensure compliance and suggests punitive measures for continued non-compliance. It also mandates national reporting and national action plans.",
+        "citation": [
+          "Improving compliance should be a primary focus of the new plastic instrument.",
+          "While a Compliance Committee will be established as part of the institutional arrangement with the INC Secretariat, the objective would be to ensure compliance.",
+          "Punitive measures should be taken against parties for continued non-compliance and based on the severity of the offence.",
+          "It is the responsibility of all parties to develop national action plans."
+        ],
+        "reasoning": "The proposal for a 'Compliance Committee' and explicit 'punitive measures for continued non-compliance' demonstrates a clear intention for a strict, legally binding instrument with enforcement capabilities, thus justifying the 'High' stringency level."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with national implementation through national action plans.",
+        "citation": [
+          "It is critical the global plastic treaty should have clear objectives and solutions in addressing plastics using a life cycle approach.",
+          "It is the responsibility of all parties to develop national action plans.",
+          "The National Action Plans will outline the steps, baseline information and targets that a country is required to take to addressing the issue on plastics at the national level."
+        ],
+        "reasoning": "The document consistently refers to a 'global plastic treaty' and an 'international legally binding instrument'. It specifies that the mechanism for carrying out the treaty's objectives is through 'national action plans' developed by each participating country ('party'), clearly establishing a global-scope instrument that is implemented at the national level."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document mentions sustainable financing mechanisms such as levies, taxes on production, and container deposit schemes.",
+      "citation": [
+        "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+        "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+      ],
+      "reasoning": "The document explicitly cites 'levies', 'taxes to discourage production', and 'container deposit schemes' as sustainable financing mechanisms. These mechanisms source funds from or impose costs on the private sector (producers, manufacturers) to address the issue of plastic pollution, which aligns with the definition of financing from private sector sources."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "levies, container deposit schemes, government resources, taxes",
+      "citation": [
+        "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+        "From experience at the national level, the process of ratifying to specific protocols is a lengthy process within governments requiring significant time and government resources to advance.",
+        "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+      ],
+      "reasoning": "The document explicitly mentions several state-level financial instruments. It identifies 'levies and container deposit schemes' as sustainable financing mechanisms. It also suggests 'introducing levies and taxes' as a control measure to discourage the production of harmful plastics. Furthermore, the text notes the use of 'government resources' for national-level administrative processes like ratification, which represents a form of public budgetary allocation."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document proposes a robust financial mechanism modeled after the Multi-Lateral Fund of the Montreal Protocol and calls for financial assistance to developing countries.",
+      "citation": [
+        "Given the different capacities of countries, the need for technical and financial assistance to developing countries in particular will be important in assisting countries to strengthen their capacity in areas of plastic management.",
+        "This should be addressed through providing financial assistance to parties to develop reports as a way forward in addressing the issue of non-compliance on reporting.",
+        "For this to occur, a robust financial mechanism is needed similar to the Multi-Lateral Fund of the Montreal Protocol."
+      ],
+      "reasoning": "The text explicitly mentions the need for 'financial assistance to developing countries' and proposes a 'robust financial mechanism' modeled on the 'Multi-Lateral Fund of the Montreal Protocol.' The Multi-Lateral Fund is a specific international financing mechanism established under a global treaty, clearly indicating that financing from international sources is being discussed."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "levies, container deposit schemes, taxes",
+      "citation": [
+        "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+        "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production."
+      ],
+      "reasoning": "The document explicitly identifies 'levies and container deposit schemes' as a type of 'sustainable financing mechanism' for implementing the plastic instrument. It also proposes introducing 'levies and taxes' as a control measure to discourage the production of problematic plastics, directly aligning with the code definition."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document outlines several responsibilities for the production sector, including adhering to principles of sustainable production, facing measures like levies and taxes to discourage the production of problematic plastics, and following standards to improve product design and meet labelling requirements for imports.",
+      "citation": [
+        "Finally, the core obligations and control measures of the plastic instrument will be centred around sustainable production and consumption and waste management activities.",
+        "For example, having to phase out certain plastics that are problematic within a certain timeframe and that are of potential harm to the environment and human health through introducing levies and taxes to discourage production.",
+        "On the other hand, plastics products or processes that are not so problematic could be more adequately addressed through setting standards to improve product design and requirements such as setting labelling requirements for imports."
+      ],
+      "reasoning": "The cited texts directly mention 'sustainable production' as a core obligation. They also specify control measures that impact producers, such as introducing 'levies and taxes to discourage production' and setting 'standards to improve product design' and 'labelling requirements'. These are all direct responsibilities assigned to the production sector."
+    },
+    "consumers": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document specifies that 'waste management activities' will be a central component of the core obligations and control measures within the proposed plastic instrument.",
+      "citation": [
+        "Finally, the core obligations and control measures of the plastic instrument will be centred around sustainable production and consumption and waste management activities.",
+        "It is crucial that we prioritise putting in control measures on products and processes as well as the need to integrate waste management activities."
+      ],
+      "reasoning": "The cited texts explicitly state that 'waste management activities' are to be a core part of the obligations and control measures of the international instrument. This directly assigns responsibility to the entities involved in waste management to be part of the solution."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Developing national action plans, establishing policy and legal frameworks, implementing financial mechanisms like levies and taxes, national reporting and compliance, ratifying international instruments, and setting standards for products and imports.",
+      "citation": [
+        "It is the responsibility of all parties to develop national action plans.",
+        "This will be complemented by institutional arrangements including; policy and legal frameworks; standards and guidelines and other sustainable financing mechanism such as levies and container deposit schemes.",
+        "National reporting is also an important element of the instrument as it will provide the Secretariat an opportunity to assess implementation of the instrument by parties.",
+        "Punitive measures should be taken against parties for continued non-compliance and based on the severity of the offence."
+      ],
+      "reasoning": "The document explicitly states that it is the 'responsibility of all parties' (referring to national governments in the context of an international treaty) to develop national action plans. It further details other core governmental duties such as creating 'policy and legal frameworks,' implementing financial tools like 'levies,' and fulfilling obligations related to 'national reporting' and compliance, including facing 'punitive measures' for non-compliance."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document assigns several roles to the INC Secretariat, including developing the plastic instrument, assessing parties' implementation through national reports, being part of the institutional arrangement for a Compliance Committee, and working with Parties to improve and strengthen compliance.",
+      "citation": [
+        "Papua New Guinea acknowledges the role of the INC Secretariat and the international community in taking steps to develop a plastic instrument and highlights at this infancy stage, some key options for elements towards an international legally binding instrument on plastics.",
+        "National reporting is also an important element of the instrument as it will provide the Secretariat an opportunity to assess implementation of the instrument by parties.",
+        "While a Compliance Committee will be established as part of the institutional arrangement with the INC Secretariat, the objective would be to ensure compliance.",
+        "This will require Parties working with the Secretariat in improving and strengthening compliance."
+      ],
+      "reasoning": "The text explicitly mentions the 'INC Secretariat' and the 'international community', which fall under the category of UN system actors. The citations directly describe their responsibilities, such as developing the instrument, assessing implementation, and playing a role in the compliance mechanism, which aligns perfectly with the code definition."
+    }
+  }
+}

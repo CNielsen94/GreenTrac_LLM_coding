@@ -1,0 +1,579 @@
+{
+  "submission_metadata": {
+    "country": "Republic of Mauritius",
+    "date": "2023-01-11",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "To end plastic pollution by progressively eliminating plastics that are causing harm to the terrestrial & marine ecosystems and substituting these plastic products with eco-friendly alternatives."
+      ],
+      "reasoning": "The document explicitly states 'To end plastic pollution' as the first proposed objective for the international instrument. This is a direct match with the code definition. No specific year or timeline is mentioned for achieving this objective."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "it would be important to work towards eliminating plastics that are harming both the terrestrial and marine plastic pollution through the introduction of appropriate mechanisms to control the production and consumptions of plastics."
+      ],
+      "reasoning": "The document explicitly states the objective of introducing mechanisms to 'control the production... of plastics.' This directly matches the code definition which seeks statements about decreasing, reducing, limiting, or controlling plastic production."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": null,
+      "citation": [
+        "Prior to eliminating the plastic products, available and affordable ecofriendly alternatives should be available as substitute."
+      ],
+      "reasoning": "The document implicitly acknowledges the utility of certain plastic products by stating that they cannot be eliminated until 'available and affordable ecofriendly alternatives' are ready to serve as substitutes. This condition highlights that the plastics in question are currently fulfilling a necessary function that must be replaced, thereby acknowledging their current utility."
+    },
+    "protect_human_health": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "To end plastic pollution by progressively eliminating plastics that are causing harm to the terrestrial & marine ecosystems and substituting these plastic products with eco-friendly alternatives.",
+        "Through Global effort, it would be important to work towards eliminating plastics that are harming both the terrestrial and marine plastic pollution through the introduction of appropriate mechanisms to control the production and consumptions of plastics.",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?"
+      ],
+      "reasoning": "The document explicitly states that a primary objective is to end plastic pollution due to the 'harm' it causes to 'terrestrial & marine ecosystems.' This directly aligns with the goal of protecting biodiversity. The specific and repeated mention of 'marine ecosystems' and the 'marine environment' clearly indicates a focus on protecting marine life and habitats."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+        "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+      ],
+      "reasoning": "The document explicitly uses the term 'full life cycle' when framing the question about core obligations. It then proposes the creation of panels to advise on 'life cycle approaches' and suggests training on 'life cycle analysis,' indicating a clear intention to address plastic pollution comprehensively across all stages from production to disposal."
+    },
+    "other_objectives": {
+      "value": "Promote a circular economy, provide financial support for developing countries, ensure fair burden-sharing, and promote private sector engagement and innovation.",
+      "citation": [
+        "An international legally binding instrument (ILBI) on plastic pollution is a once-in-a-generation opportunity to catalyse a global circular economy for plastics, which will have cascading benefits for climate, biodiversity, and human health.",
+        "This new instrument must be ambitious, effective, and inclusive, taking a full life cycle approach that addresses plastic pollution at its source and promotes a circular economy.",
+        "This mechanism should provide new, additional, predictable, and accessible funding to support developing countries in meeting their obligations under the instrument.",
+        "Furthermore, it should ensure fair and equitable burden-sharing among all countries.",
+        "This financial mechanism must also promote private sector engagement and innovation to scale up solutions."
+      ],
+      "reasoning": "The document explicitly states several objectives that are distinct from the excluded categories. It identifies the need to 'catalyse a global circular economy' as a primary goal. Additionally, it outlines objectives for the treaty's implementation, including the provision of 'funding to support developing countries', ensuring 'fair and equitable burden-sharing', and promoting 'private sector engagement and innovation'. These focus on the economic system, financial architecture, equity, and stakeholder involvement, which are not covered by the other specified codes."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "Polluter Pays Principle",
+        "citation": [
+          "Principles ( including Polluter Pays Principle, equity)"
+        ],
+        "reasoning": "The document explicitly lists the 'Polluter Pays Principle' as a proposed core obligation for the instrument. This principle is a foundational concept for penalties and fines, as it stipulates that those who produce pollution should bear the costs of managing it to prevent damage to human health or the environment. This directly matches the code definition."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document lists 'Research and Development' as a core obligation for the instrument. It also identifies 'Funding Mechanisms' and the 'Provision of funding' as necessary implementation measures, along with ensuring countries have the 'financial and technological means' for recycling and a circular economy.",
+        "citation": [
+          "Research and Development",
+          "Countries should have financial and technological means to manage their plastic waste generated through recycling or the adoption of a circular economy.",
+          "Funding Mechanisms",
+          "Provision of funding"
+        ],
+        "reasoning": "The document explicitly lists 'Research and Development' as a core obligation. It further supports this by mentioning the need for 'Funding Mechanisms' and the 'Provision of funding' as means of implementation. The connection between financial support and technological development is made clear by the statement that countries need 'financial and technological means' to manage plastic waste, which directly aligns with the code definition."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document proposes progressively eliminating harmful plastics and developing a protocol with a schedule for reducing or eliminating the use of plastics.",
+        "citation": [
+          "To end plastic pollution by progressively eliminating plastics that are causing harm to the terrestrial & marine ecosystems and substituting these plastic products with eco-friendly alternatives.",
+          "Development and adoption of a Protocol which defines a schedule for reducing or eliminating the use of plastics."
+        ],
+        "reasoning": "The document explicitly states an objective to 'progressively eliminate' harmful plastics and proposes a control measure to create a schedule for 'eliminating the use of plastics'. These phrases directly align with the definition of bans, which includes prohibitions, phase-outs, and eliminations."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document proposes that Technical/Scientific Assessment Panels would advise on the creation of standards, guidelines, and labelling. It also specifically mentions the need for understanding and training on eco-labelling and standards for biodegradable/compostable plastics.",
+        "citation": [
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The document explicitly identifies 'standards/guidelines/labelling' as a key area for advice from technical panels, directly fitting the definition of performance standards. The mention of 'eco-labelling' and standards for 'biodegradable/compostable plastics' further reinforces this, as these are specific criteria that products or materials must meet to be considered environmentally preferable."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "The document proposes that technical panels advise on 'standards/guidelines/labelling' and suggests 'eco-labelling' as a topic for training. It also lists a 'Reporting and verification Mechanism' as a control measure.",
+        "citation": [
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "Reporting and verification Mechanism",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The document supports the establishment of certification-related measures by proposing the development of 'standards/guidelines/labelling' and a 'verification Mechanism' as core obligations and control measures. The specific mention of 'eco-labelling' further confirms the relevance of certification systems to control plastic products and their alternatives."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "standards/guidelines/labelling, eco-labelling",
+        "citation": [
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The document explicitly lists 'standards/guidelines/labelling' as a subject for advice by technical panels under core obligations. It also specifically mentions 'eco-labelling' as a topic for training by UN bodies. This indicates that labelling is being considered as a key instrument in the international treaty."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National Action Plan/ Roadmap; National Action Plan/ strategies",
+        "citation": [
+          "National Action Plan/ Roadmap",
+          "a) At the national level: \n    *   Provide guidelines for national reporting \n    *   National Action Plan/ strategies."
+        ],
+        "reasoning": "The document explicitly lists 'National Action Plan/ Roadmap' under the heading 'A. Core Obligation:', indicating it is a required, not voluntary, element of the proposed treaty. It is also listed as a key measure for ensuring implementation 'At the national level'."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The submission proposes 'Measurement, Reporting and Verification' for targets, a 'Reporting and verification Mechanism' as a control measure, and suggests implementation through 'guidelines for national reporting' and establishing a 'reporting timeline'.",
+        "citation": [
+          "Measurable targets (Measurement, Reporting and Verification)",
+          "Reporting and verification Mechanism",
+          "How to ensure effectiveness of the instrument and have efficient national reporting?",
+          "Provide guidelines for national reporting",
+          "Reporting timeline."
+        ],
+        "reasoning": "The document explicitly identifies 'Reporting' as a core obligation and a control measure. Furthermore, it outlines specific implementation measures such as the need for guidelines and a timeline for national reporting, confirming its inclusion as a key regulatory instrument."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "No trans-boundary plastic waste dumping policy and the establishment of transboundary control mechanisms.",
+        "citation": [
+          "No trans-boundary plastic wastes dumping policy.",
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms."
+        ],
+        "reasoning": "The document explicitly proposes a 'No trans-boundary plastic wastes dumping policy' and suggests the creation of 'transboundary control mechanisms'. These are measures designed to control the international movement of plastic waste, which falls directly under the definition of trade requirements."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": true,
+        "details": "The document proposes that Technical/Scientific Assessment Panels would advise on 'standards/guidelines/labelling' and specifically suggests training on 'eco-labelling'.",
+        "citation": [
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The document explicitly mentions 'labelling' and 'eco-labelling'. Eco-labelling is a classic example of a voluntary certification instrument used to inform consumers about the environmental performance of products. The proposal for panels to 'advise' on labelling and for training to be conducted on the topic supports the inclusion of such voluntary schemes."
+      },
+      "voluntary_labelling": {
+        "mentioned": true,
+        "details": "The document mentions 'labelling' in the context of technical advice and specifically refers to 'eco-labelling' as a subject for training.",
+        "citation": [
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The document proposes establishing technical panels to 'advise on' labelling and suggests training on 'eco-labelling'. Eco-labelling is a common form of a voluntary scheme used to inform consumers about a product's environmental aspects. While the text does not explicitly state the labelling is 'voluntary', its inclusion as a topic for advice and training, rather than a mandatory control measure, strongly implies a non-compulsory, informational approach consistent with the definition of voluntary labelling."
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document suggests establishing systems for Measurement, Reporting and Verification (MRV), a specific 'Reporting and verification Mechanism', Technical/Scientific Assessment Panels for evaluation, and a framework for national reporting.",
+        "citation": [
+          "Measurable targets (Measurement, Reporting and Verification)",
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "Reporting and verification Mechanism",
+          "How to ensure effectiveness of the instrument and have efficient national reporting?"
+        ],
+        "reasoning": "The document explicitly proposes several mechanisms to track, measure, and evaluate the effectiveness of the instrument. The mention of 'Measurement, Reporting and Verification' (MRV), a 'Reporting and verification Mechanism', and 'Technical /Scientific Assessment Panels' directly corresponds to the definition of monitoring as systems to track, assess, and evaluate policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "Advice from technical/scientific assessment panels, standards/guidelines, a platform for knowledge and experience sharing, guidelines for national reporting, and training on life cycle analysis and eco-labelling.",
+        "citation": [
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "Online platform for knowledge and experience sharing.",
+          "Provide guidelines for national reporting",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The document explicitly proposes several measures that serve as informational and guidance tools. These include the establishment of technical panels to provide advice and develop standards/guidelines, a platform for sharing knowledge, the provision of guidelines for national reporting, and specific training programs. These are all examples of soft instruments aimed at informing and guiding stakeholders rather than imposing binding obligations."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Sensitisation and awareness as a core obligation; UN-led training on life cycle analysis, alternatives, and eco-labelling.",
+        "citation": [
+          "Sensitisation and awareness",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The document explicitly lists 'Sensitisation and awareness' as a core obligation for the instrument. It also proposes a specific educational measure in the 'Additional input' section, suggesting that UN bodies conduct 'training' on technical subjects related to plastic pollution. Both points directly align with the code definition of education and awareness-raising efforts."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "Technical /Scientific Assessment Panels",
+        "citation": [
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms."
+        ],
+        "reasoning": "The document explicitly lists 'Technical /Scientific Assessment Panels' as a core obligation. This directly matches the code definition, which seeks evidence of proposals for establishing scientific committees, technical panels, or expert bodies to provide guidance on implementing the treaty."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document proposes 'Research and Development' as a core obligation, the creation of 'Technical /Scientific Assessment Panels', and the establishment of platforms for sharing 'Scientific knowledge'.",
+        "citation": [
+          "Research and Development",
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "Regional cooperation and platform on technology, Scientific knowledge and data sharing."
+        ],
+        "reasoning": "The document explicitly lists 'Research and Development' as a core obligation for the instrument. It further substantiates this by suggesting the creation of scientific panels and platforms for sharing scientific knowledge, which directly aligns with the definition of encouraging scientific research and knowledge development to address plastic pollution."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "Harmonized definitions of key terms (e.g., plastics, micro-plastics), development of common standards/guidelines/labelling, and providing guidelines for national reporting.",
+        "citation": [
+          "Definitions of key terms (for e.g., plastics, micro-plastics, biodegradable plastics, etc)",
+          "Technical /Scientific Assessment Panels that would advise on ... standards/guidelines/labelling, transboundary control mechanisms.",
+          "Provide guidelines for national reporting"
+        ],
+        "reasoning": "The document explicitly proposes several harmonization efforts. It calls for common 'Definitions of key terms' to ensure a shared understanding. It also suggests technical panels to advise on 'standards/guidelines/labelling', which aims to standardize approaches. Finally, it mentions the need to 'Provide guidelines for national reporting', indicating a move towards aligned reporting mechanisms."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document proposes several knowledge sharing mechanisms, including an online platform for knowledge and experience sharing, a regional platform for technology, scientific knowledge and data sharing, and the creation of Technical/Scientific Assessment Panels to advise on best technologies and practices.",
+        "citation": [
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "Online platform for knowledge and experience sharing.",
+          "Regional cooperation and platform on technology, Scientific knowledge and data sharing.",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The document explicitly proposes several mechanisms designed for the exchange of information, experience, technology, and scientific knowledge among stakeholders. The citations mention an 'online platform for knowledge and experience sharing,' a 'regional... platform on... data sharing,' and 'Technical/Scientific Assessment Panels that would advise.' These proposals directly match the code's definition of exchanging information, best practices, and expertise to build capacity."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [
+        "Measurable targets (Measurement, Reporting and Verification)"
+      ],
+      "reasoning": "The document suggests that 'Measurable targets' should be a core obligation of the international instrument, but it does not provide any specific, quantitative targets with concrete numbers, percentages, or deadlines."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "The document mentions the promotion and use of eco-friendly alternatives, specifically citing biodegradable and compostable plastics, which relates to the feedstock used for plastic production.",
+        "citation": [
+          "To end plastic pollution by progressively eliminating plastics that are causing harm to the terrestrial & marine ecosystems and substituting these plastic products with eco-friendly alternatives.",
+          "Definitions of key terms (for e.g., plastics, micro-plastics, biodegradable plastics, etc)",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The document explicitly proposes substituting conventional plastics with 'eco-friendly alternatives' and specifically names 'biodegradable/compostable plastics' as examples. This directly addresses the type of raw materials (feedstock) used in plastic production, aligning with the code definition."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "control the production of plastics",
+        "citation": [
+          "Through Global effort, it would be important to work towards eliminating plastics that are harming both the terrestrial and marine plastic pollution through the introduction of appropriate mechanisms to control the production and consumptions of plastics."
+        ],
+        "reasoning": "The document explicitly states the need for mechanisms to 'control the production... of plastics' as part of a global effort to eliminate harmful plastics. This directly addresses the manufacturing and creation process of plastic materials, matching the code definition."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document suggests establishing technical panels to advise on standards, guidelines, and labelling. It also proposes training on life cycle analysis and eco-labelling for plastics and alternatives.",
+        "citation": [
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The cited texts justify the finding as they explicitly mention measures that influence product design. 'Standards/guidelines/labelling' and 'eco-labelling' are tools used to regulate and inform how products are designed for environmental performance. 'Life cycle analysis' is a key methodology used in the eco-design process to evaluate and improve a product's environmental impact from creation to disposal."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": "Control production of plastic products, standards/guidelines for products, eco-labelling",
+        "citation": [
+          "To end plastic pollution by progressively eliminating plastics that are causing harm to the terrestrial & marine ecosystems and substituting these plastic products with eco-friendly alternatives.",
+          "...it would be important to work towards eliminating plastics that are harming both the terrestrial and marine plastic pollution through the introduction of appropriate mechanisms to control the production and consumptions of plastics.",
+          "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+          "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+        ],
+        "reasoning": "The document mentions controlling the 'production' of 'plastic products' and implementing 'standards/guidelines/labelling' and 'eco-labelling'. These measures directly relate to the manufacturing stage of plastic products. However, the text does not specifically address intentionally added microplastics or chemical additives within these products."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "The document suggests controlling the consumption of plastics, promoting the reduction and reuse of plastics (as part of the 3Rs), and developing a protocol to reduce or eliminate the use of plastics.",
+        "citation": [
+          "Promote the 3Rs concept that is reducing, reusing and recycling of plastics.",
+          "it would be important to work towards eliminating plastics that are harming both the terrestrial and marine plastic pollution through the introduction of appropriate mechanisms to control the production and consumptions of plastics.",
+          "Development and adoption of a Protocol which defines a schedule for reducing or eliminating the use of plastics."
+        ],
+        "reasoning": "The document explicitly mentions the need to control the 'consumptions of plastics' and to promote 'reducing' and 'reusing' plastics, both of which are direct interventions in the consumer use phase. Furthermore, it proposes a protocol for 'reducing or eliminating the use of plastics,' which directly addresses the consumption stage of the plastic life cycle."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "Cleanup campaigns are mentioned as a voluntary approach.",
+        "citation": [
+          "Cleanup campaigns."
+        ],
+        "reasoning": "The document lists 'Cleanup campaigns' as a voluntary approach. Cleanup campaigns are a direct method for the gathering and aggregation of plastic waste after consumer use, specifically from the environment, which fits the definition for the collection stage."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document mentions several waste management measures, including the promotion of recycling (as part of the 3Rs), shifting to a circular economy for plastics, and establishing a 'no trans-boundary plastic wastes dumping policy'.",
+        "citation": [
+          "Promote the 3Rs concept that is reducing, reusing and recycling of plastics.",
+          "Shift from a linear to a circular economy for plastics.",
+          "No trans-boundary plastic wastes dumping policy.",
+          "Countries should have financial and technological means to manage their plastic waste generated through recycling or the adoption of a circular economy."
+        ],
+        "reasoning": "The cited texts explicitly refer to measures for handling plastic waste after collection. Mentions of 'recycling', a 'circular economy', and a policy on 'trans-boundary plastic wastes dumping' are all core components of downstream waste management, as they define how waste is processed, managed, and disposed of."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Promotion of the 3Rs concept (reducing, reusing, and recycling); shifting from a linear to a circular economy for plastics; providing financial and technological means for countries to manage plastic waste through recycling.",
+        "citation": [
+          "Promote the 3Rs concept that is reducing, reusing and recycling of plastics.",
+          "Shift from a linear to a circular economy for plastics.",
+          "Countries should have financial and technological means to manage their plastic waste generated through recycling or the adoption of a circular economy."
+        ],
+        "reasoning": "The document explicitly mentions 'recycling' as a core component of the proposed objectives for the international instrument. It is listed as part of the '3Rs concept' and is identified as a primary method for managing plastic waste, supported by financial and technological means, within the broader goal of shifting to a circular economy."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "Cleanup campaigns.",
+        "citation": [
+          "Cleanup campaigns."
+        ],
+        "reasoning": "The document explicitly lists 'Cleanup campaigns' as a voluntary approach. These campaigns are activities aimed at removing existing plastic pollution from the environment, which directly corresponds to the code's definition of addressing legacy plastic."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document proposes the development of a 'Reporting timeline' and a 'schedule for reducing or eliminating the use of plastics' but does not specify the duration or phases. It also mentions a 'progressive' elimination of harmful plastics.",
+        "citation": [
+          "To end plastic pollution by progressively eliminating plastics that are causing harm to the terrestrial & marine ecosystems and substituting these plastic products with eco-friendly alternatives.",
+          "Development and adoption of a Protocol which defines a schedule for reducing or eliminating the use of plastics.",
+          "b) Reporting timeline."
+        ],
+        "reasoning": "The document explicitly mentions the need for a 'schedule' and a 'Reporting timeline' as key implementation and control measures. The use of the term 'progressively' in the objectives also indicates a phased implementation over time, even though specific durations are not provided."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes a legally binding instrument with core obligations, control measures, measurable targets, and a reporting and verification mechanism.",
+        "citation": [
+          "Submission on an International Legally Binding Instrument on Plastic Pollution",
+          "Core Obligation:",
+          "Principles ( including Polluter Pays Principle, equity)",
+          "Measurable targets (Measurement, Reporting and Verification)",
+          "Proposed Control Measures:",
+          "Development and adoption of a Protocol which defines a schedule for reducing or eliminating the use of plastics.",
+          "Reporting and verification Mechanism"
+        ],
+        "reasoning": "The document explicitly states it is a submission for a 'Legally Binding Instrument'. It further outlines a framework of 'Core Obligation[s]' and 'Proposed Control Measures' rather than purely voluntary actions. The inclusion of 'Measurable targets', a 'Reporting and verification Mechanism', and the 'Polluter Pays Principle' all point towards a strict, enforceable, and mandatory regime, justifying the 'High' stringency level."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with national and regional implementation mechanisms.",
+        "citation": [
+          "Submission on an International Legally Binding Instrument on Plastic Pollution",
+          "Through Global effort, it would be important to work towards eliminating plastics that are harming both the terrestrial and marine plastic pollution...",
+          "a) At the national level: ... National Action Plan/ strategies.",
+          "c) Regional cooperation and platform on technology, Scientific knowledge and data sharing."
+        ],
+        "reasoning": "The document's title and the phrase 'Global effort' clearly establish the international scope of the instrument. The text then specifies that implementation is expected 'At the national level' through 'National Action Plans' and should also involve 'Regional cooperation', demonstrating a multi-level approach under a global framework."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document identifies the need for 'Funding Mechanisms' as a core obligation of the international instrument, calls for 'provision of funding' as a means of implementation, and mentions the involvement of 'United Nations bodies'.",
+      "citation": [
+        "Funding Mechanisms",
+        "Provision of funding",
+        "Facilitated access/direct access to funding",
+        "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+      ],
+      "reasoning": "The document lists 'Funding Mechanisms' as a core obligation and 'Provision of funding' as a necessary means of implementation for a new international instrument. This context strongly implies that the financing sources would be international or managed at an international level to support countries in meeting their obligations. The mention of 'United Nations bodies' further supports the involvement of international organizations in the instrument's implementation."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "The document suggests using 'appropriate economic instruments' and applying the 'Polluter Pays Principle' as core obligations.",
+      "citation": [
+        "Technical /Scientific Assessment Panels that would advise on life cycle approaches, best technologies, appropriate economic instruments, standards/guidelines/labelling, transboundary control mechanisms.",
+        "Principles ( including Polluter Pays Principle, equity)"
+      ],
+      "reasoning": "The document explicitly proposes the use of 'appropriate economic instruments' and the 'Polluter Pays Principle'. Economic instruments are a category of policy tools that commonly include taxes, fees, and levies to generate revenue and influence behavior. The Polluter Pays Principle is the foundational rationale for implementing such charges, where the costs of pollution management are borne by the polluter, often through taxes or fees."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document suggests responsibilities for the production sector through the inclusion of the 'Polluter Pays Principle' and the call to 'control the production... of plastics'.",
+      "citation": [
+        "Principles ( including Polluter Pays Principle, equity)",
+        "it would be important to work towards eliminating plastics that are harming both the terrestrial and marine plastic pollution through the introduction of appropriate mechanisms to control the production and consumptions of plastics."
+      ],
+      "reasoning": "The document lists the 'Polluter Pays Principle' as a core obligation. This principle directly assigns financial or remedial responsibility for pollution to the entity that creates it, which in this context includes the production sector. Additionally, the call for mechanisms to 'control the production' of plastics is an explicit reference to placing obligations and limitations on producers."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document highlights consumer responsibilities through the promotion of the 3Rs (reducing, reusing, recycling), the need to control plastic consumption, and participation in voluntary cleanup campaigns.",
+      "citation": [
+        "Promote the 3Rs concept that is reducing, reusing and recycling of plastics.",
+        "...control the production and consumptions of plastics.",
+        "Cleanup campaigns."
+      ],
+      "reasoning": "The document explicitly identifies key areas of consumer responsibility. The promotion of 'reducing, reusing and recycling' directly assigns a role to consumers in the waste hierarchy. The mention of controlling 'consumptions of plastics' points to the need for conscious purchasing decisions. Finally, listing 'Cleanup campaigns' as a voluntary approach indicates an expected role for the public in actively mitigating existing pollution."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document identifies key responsibilities for the waste sector, including the promotion and implementation of recycling, the management of plastic waste, and participation in the shift to a circular economy for plastics.",
+      "citation": [
+        "Promote the 3Rs concept that is reducing, reusing and recycling of plastics.",
+        "Shift from a linear to a circular economy for plastics.",
+        "Countries should have financial and technological means to manage their plastic waste generated through recycling or the adoption of a circular economy."
+      ],
+      "reasoning": "The document proposes objectives that are central to the role of the waste management sector. The explicit mention of 'recycling of plastics' and the need for countries to 'manage their plastic waste' directly assigns responsibility to the entities that handle post-consumer materials. The call for a 'circular economy' further solidifies this, as recycling and waste management are fundamental components of such a system."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines several government responsibilities, including the development of a National Action Plan, implementation of policies like 'No Plastic dumping policies', providing guidelines for national reporting, and supporting the domestication of relevant policies and programs.",
+      "citation": [
+        "National Action Plan/ Roadmap",
+        "Policies (e.g. No Plastic dumping policies)",
+        "Provide guidelines for national reporting",
+        "Support the domestication of relevant policies and programs."
+      ],
+      "reasoning": "The document is a formal submission from the Republic of Mauritius to an international body, outlining core obligations and implementation measures for a proposed treaty. The cited texts explicitly list actions and responsibilities, such as creating national plans, establishing policies, and domesticating international agreements, which are all core functions of a national government."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "Conducting training on technical topics such as life cycle analysis of plastic, eco-friendly alternatives, and eco-labelling.",
+      "citation": [
+        "United Nations bodies to conduct training on life cycle analysis of plastic, eco-friendly alternatives such as biodegradable/compostable plastics and eco-labelling"
+      ],
+      "reasoning": "The document explicitly assigns a specific responsibility—conducting training on technical subjects—to 'United Nations bodies'. This directly aligns with the code definition of assigning roles or responsibilities to UN agencies or international bodies."
+    }
+  }
+}

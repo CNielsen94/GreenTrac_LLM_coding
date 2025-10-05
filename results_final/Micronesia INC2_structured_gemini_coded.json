@@ -1,0 +1,607 @@
+{
+  "submission_metadata": {
+    "country": "Federated States of Micronesia",
+    "date": "2023-02-13",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "To end plastic pollution in all global environments, including by limiting production and consumption of plastics to sustainable levels and products; promoting a circular economy for plastics, and; remediating existing plastic pollution where possible, particularly in the marine environment.",
+        "Restrictions on the use of virgin polymers and resins will be critical for ending plastic pollution worldwide.",
+        "Ending plastic pollution worldwide will require robust support to developing countries, including provision of means of implementation for control measures and related activities through a dedicated fund, as well additional support from other complementary sources."
+      ],
+      "reasoning": "The document explicitly states its primary objective is \"To end plastic pollution in all global environments.\" This goal is mentioned multiple times throughout the submission, confirming it as a central objective. However, the document does not specify any target year or timeline for achieving this goal."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "To end plastic pollution in all global environments, including by limiting production and consumption of plastics to sustainable levels...",
+        "The extraction, refinement and use of the fossil fuels causing these interrelated global harms should be rapidly phased down across all uses, including plastics production.",
+        "Restrictions on the use of virgin polymers and resins will be critical for ending plastic pollution worldwide.",
+        "...measures taken at this phase (including phase outs of certain polymers and chemicals targeted for elimination and phase downs of other polymers and chemicals to sustainable levels) present the opportunity to eliminate and reduce the use of polymers...",
+        "Actions to phase down or phase out certain plastics, feedstocks and or additives (polymers, chemicals, etc.)"
+      ],
+      "reasoning": "The document explicitly and repeatedly calls for the reduction of plastic production. It uses terms such as 'limiting production', 'rapidly phased down', 'restrictions on the use of virgin polymers and resins', and 'phase downs of other polymers'. These citations directly support the code 'mentioned'. However, the document does not provide any specific quantitative targets, percentages, or timelines for these reductions, instead using qualitative terms like 'sustainable levels' and 'rapidly', hence 'specification_provided' is false."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document links plastic production and pollution to human health risks at multiple stages of the lifecycle. This includes health challenges from fossil fuel extraction (e.g., tropospheric ozone), the use of harmful chemical additives and polymers in production, and the impacts of legacy pollution.",
+      "citation": [
+        "...can also play an important role in limiting demand for the fossil fuels that are accelerating the global climate emergency and exacerbating food security and human health challenges.",
+        "Tropospheric ozone is also very harmful to agricultural crops and human health.",
+        "...eliminate and reduce the use of polymers and other chemical additives that are harmful to human health and ecosystems...",
+        "Policies and measures must also be put into place to address the legacy plastic pollution that already exists in the environment, prioritizing those locations and pollutants that cause the most harmful impacts on human health and ecosystems..."
+      ],
+      "reasoning": "The document explicitly and repeatedly mentions protecting human health as a key consideration. The citations directly state that the plastic lifecycle exacerbates \"human health challenges,\" that byproducts like ozone are \"harmful to... human health,\" that certain plastic components are \"harmful to human health,\" and that remediation efforts should prioritize areas with \"harmful impacts on human health.\" This directly satisfies the code definition."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "To end plastic pollution in all global environments... particularly in the marine environment.",
+        "...measures taken at this phase (including phase outs of certain polymers and chemicals targeted for elimination and phase downs of other polymers and chemicals to sustainable levels) present the opportunity to eliminate and reduce the use of polymers and other chemical additives that are harmful to human health and ecosystems...",
+        "Policies and measures must also be put into place to address the legacy plastic pollution that already exists in the environment, prioritizing those locations and pollutants that cause the most harmful impacts on human health and ecosystems, with particular attention to existing plastic pollution in the marine environment...",
+        "Impacts on marine life and ecosystems, particularly the fragile island ecosystems."
+      ],
+      "reasoning": "The document explicitly states its objective is to end plastic pollution in 'all global environments,' with a repeated and particular focus on the 'marine environment.' It proposes eliminating chemicals that are 'harmful to... ecosystems' and prioritizes remediation efforts based on the 'harmful impacts on... ecosystems' and 'marine life.' The specific mention of 'fragile island ecosystems' further confirms a clear goal to protect biodiversity with a strong marine focus."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "To ensure that plastics are addressed across their full life cycle, core obligations and control should be specifically targeted to address each stage of that life cycle, specifically:",
+        "The chemicals phase of plastics production is also the one in which the majority of greenhouse gases from the plastics life cycle are emitted.",
+        "The actions that will be necessary to achieve the proposed objective across the various stages of the life cycle of plastics described above, will likely include those listed below, among others."
+      ],
+      "reasoning": "The document explicitly and repeatedly mentions the 'life cycle' concept, including the term 'full life cycle'. It clearly outlines a comprehensive approach by structuring its core obligations along the key stages of plastics existence: Sourcing/Extraction, Chemical Phase/Polymerization, Product Design and Use, Waste Management, and Remediation, thus justifying the 'Full lifecycle' coverage."
+    },
+    "other_objectives": {
+      "value": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "taxes or levies on key actors in the plastics supply chain",
+        "citation": [
+          "Requiring support for means of implementation from key actors in the plastics supply chain, such as through taxes or levies."
+        ],
+        "reasoning": "The document explicitly proposes using 'taxes or levies' on actors within the plastics supply chain as a potential complementary method for funding implementation efforts. This directly aligns with the code definition, which includes fiscal measures like taxes."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document proposes establishing a dedicated Multilateral Fund to provide financial support to developing countries. This support would include funding on a grant basis for agreed incremental costs, access to concessional finance, and funding for specific activities such as institutional strengthening, pilot projects, licensing fees for alternative technologies, infrastructure investments, and costs associated with transitioning to substitutes.",
+        "citation": [
+          "A dedicated finance and technology transfer mechanism should provide the principal international vehicle for supporting finance, technology transfer and related assistance, including stable, predictable and additional financial assistance under the treaty for enabling activities as well as agreed incremental costs on a grant basis.",
+          "In addition, access to concessional finance should also be made available, either directly under the dedicated multilateral fund or via other multilateral financial institutions.",
+          "Activities eligible for funding under such national programmes or National Action Plans may include: ... Licensing fees of alternative technologies where technologies are held in the private sector; Incremental costs of compliance, such as transition to substitutes, infrastructure investments and associated operating costs for an agreed period"
+        ],
+        "reasoning": "The document explicitly mentions providing financial assistance on a 'grant basis' and making 'concessional finance' available to support countries in their transition away from plastics. These are direct forms of subsidies or financial incentives. The citations further detail that these funds would support activities like infrastructure investment and transitioning to substitutes, which falls squarely within the definition of providing financial support to encourage specific environmental outcomes."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document suggests requiring support from key actors in the plastics supply chain through mechanisms like taxes or levies.",
+        "citation": [
+          "Requiring support for means of implementation from key actors in the plastics supply chain, such as through taxes or levies."
+        ],
+        "reasoning": "The document explicitly mentions 'taxes or levies' as a potential complementary means of implementation. These are financial instruments that function as a penalty or disincentive for actors in the plastics supply chain, aligning with the code definition which includes the polluter-pays principle and similar punitive financial measures."
+      },
+      "trading_systems": {
+        "mentioned": true,
+        "details": "taxes or levies",
+        "citation": [
+          "Requiring support for means of implementation from key actors in the plastics supply chain, such as through taxes or levies."
+        ],
+        "reasoning": "The document explicitly mentions 'taxes or levies' on actors within the plastics supply chain as a potential means of implementation. These mechanisms are considered market-based economic instruments, aligning with the code's definition which includes similar instruments like tariffs."
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document proposes a Multilateral Fund that would provide 'technology development and transfer support' and fund 'pilot and demonstration projects' as an eligible activity for recipient countries.",
+        "citation": [
+          "A dedicated finance and technology transfer mechanism should provide the principal international vehicle for supporting finance, technology transfer and related assistance, including stable, predictable and additional financial assistance under the treaty for enabling activities as well as agreed incremental costs on a grant basis.",
+          "Finance, capacity building and technology development and transfer support provided under the regime and shall be new, additional, adequate and predictable, with priority access for SIDS, LDCs and other vulnerable countries.",
+          "Activities eligible for funding under such national programmes or National Action Plans may include: ... Undertaking pilot and demonstration projects with a vision for replication at scale internationally"
+        ],
+        "reasoning": "The document explicitly calls for a dedicated financial mechanism (a Multilateral Fund) to provide 'technology development and transfer support'. It also lists 'undertaking pilot and demonstration projects' as an activity eligible for funding. Both pilot projects and technology development are forms of R&D funding aimed at creating and testing innovative solutions for plastic pollution."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "Taxes or levies on key actors in the plastics supply chain.",
+        "citation": [
+          "Requiring support for means of implementation from key actors in the plastics supply chain, such as through taxes or levies."
+        ],
+        "reasoning": "The document proposes a mechanism for 'requiring support' from 'key actors in the plastics supply chain' via 'taxes or levies'. This aligns with the core principle of Extended Producer Responsibility, where producers are made financially responsible for the impacts of their products, including post-consumer management, through fees or other financial contributions."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "Inclusion of traditional knowledge from Indigenous Peoples and local communities in a rights-based manner.",
+        "citation": [
+          "These include a scientific advisory subsidiary body and a technical and economic assessment subsidiary body, similar to those under the Montreal Protocol, which incorporate relevant traditional knowledge, knowledge of Indigenous Peoples, and local knowledge systems, including from local communities, in a rights-based manner, as complements to science and other data and information utilized under those bodies;",
+          "a centralized institution/expert body dedicated to sharing best practices, guidelines, standards and/or other forms of effective support for those officers, including relevant practices of Indigenous Peoples and local communities."
+        ],
+        "reasoning": "The document does not explicitly use the term 'just transition' or mention support for waste pickers or industry workers. However, it explicitly calls for the incorporation of knowledge from 'Indigenous Peoples, and local knowledge systems, including from local communities, in a rights-based manner'. This meets the code definition as it is a provision addressing the social impact and inclusion of vulnerable groups during the transition."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Phase-outs and phase-downs of certain plastics, polymers, chemicals, feedstocks, and additives; restrictions on the use of virgin polymers and resins.",
+        "citation": [
+          "Restrictions on the use of virgin polymers and resins will be critical for ending plastic pollution worldwide.",
+          "...measures taken at this phase (including phase outs of certain polymers and chemicals targeted for elimination and phase downs of other polymers and chemicals to sustainable levels) present the opportunity to eliminate and reduce the use of polymers and other chemical additives that are harmful to human health and ecosystems and lead to significant greenhouse gas emissions.",
+          "Actions to phase down or phase out certain plastics, feedstocks and or additives (polymers, chemicals, etc.)"
+        ],
+        "reasoning": "The document explicitly mentions several actions that fall under the definition of a ban. It calls for 'Restrictions on the use of virgin polymers', 'phase outs of certain polymers and chemicals targeted for elimination', and lists 'Actions to phase down or phase out certain plastics, feedstocks and or additives' as necessary implementation measures. These terms directly align with the code definition of prohibitions, bans, and phase-outs."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document mentions the need for plastic product designs that allow for long-term use, durability, and recyclability to promote a circular economy.",
+        "citation": [
+          "Plastics product design and use must be tailored to minimize eventual plastics pollution and the harms that it causes. This includes avoidance of harmful chemicals and designs that allow long-term use and recyclability so as to help promote a circular economy.",
+          "Actions to promote improved design of plastics (e.g., for durability, recyclability)"
+        ],
+        "reasoning": "The cited texts explicitly refer to establishing criteria for plastic product design. They mention specific performance characteristics such as 'long-term use', 'durability', and 'recyclability', which directly align with the definition of performance standards."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document specifies the need for 'separate collection and recycling' systems and mentions 'infrastructure investments' as a key area for financial support to manage plastic waste.",
+        "citation": [
+          "In addition to reducing virgin plastic production and promoting a circular economy through means such as improved product design and use, policies and measures will also be needed to promote the environmentally sound management of plastic waste, in particular separate collection and recycling, prevention of leakage and restrictions on dumping, landfilling, etc.",
+          "Activities eligible for funding under such national programmes or National Action Plans may include: ... Incremental costs of compliance, such as transition to substitutes, infrastructure investments and associated operating costs for an agreed period",
+          "This could include support for investment in necessary infrastructure from bodies such as the Global Environment Facility (GEF), and/or;"
+        ],
+        "reasoning": "The document explicitly states the need for policies and measures to promote 'separate collection and recycling,' which are infrastructure-dependent waste management systems. It further reinforces this by identifying 'infrastructure investments' as an activity eligible for funding under the proposed Multilateral Fund and as an area for support from other bodies, confirming that the development of physical infrastructure is considered a necessary component of the treaty's implementation."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The document refers to 'national programme' and 'National Action Plans' that countries would develop to outline their objectives and measures for implementation, and which would be the basis for receiving financial support.",
+        "citation": [
+          "Countries determined eligible to receive such support would inform the mechanism or Fund of their relevant national programme or National Action Plans, which would be approved for financing by the executive body of the mechanism.",
+          "Activities eligible for funding under such national programmes or National Action Plans may include:",
+          "Preparation of country programmes or National Action Plans to set nationally appropriate objectives, regulations, policies and/or other measures",
+          "...a network of national plastics officers dedicated to carrying out country programmes and National Action Plans, such as the national ozone officers under the Montreal Protocol..."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions that countries would develop 'National Action Plans' or 'national programmes'. These plans are described as the mechanism for setting national objectives and as a prerequisite for receiving financing from the proposed Multilateral Fund, directly aligning with the definition of a mandatory action plan as a regulatory instrument for treaty implementation."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document calls for robust reporting to ensure compliance, including comprehensive data on inputs, production and consumption levels, implementation of core obligations, and support provided. It also mentions reporting related to a proposed multilateral fund, such as reporting on fund contributions and needs assessments to the Conference of the Parties.",
+        "citation": [
+          "Actions to ensure robust reporting and compliance, including provision of comprehensive data regarding inputs, levels of production and consumption, implementation of core obligations, such as the actions above, and the support provided for implementation.",
+          "At a minimum, the success of the treaty will require the provision of necessary means of implementation for small island developing States (SIDS), least developed countries (LDCS) and other vulnerable countries, including for any core obligations, along with support for enabling and monitoring and reporting activities, addressing barriers to recycling, and developing sustainable alternatives.",
+          "The Fund shall be replenished on a regular (e.g. biennial or triennial basis) through contributions that shall be measurable, reportable and verifiable.",
+          "The assessment panel would report directly to the Conference of the Parties with needs assessments and evaluations of the state-of-the-art of environmentally sound technologies available for supporting eligible Parties' obligations, commitments and/or contributions."
+        ],
+        "reasoning": "The document explicitly identifies 'robust reporting and compliance' as a necessary implementation measure. The citations detail the specific data to be reported (inputs, production, consumption, implementation progress) and mention reporting as a key activity eligible for funding. Additionally, the governance structure of the proposed fund includes mandatory reporting requirements for contributions and for an assessment panel to report to the Conference of the Parties, confirming the presence of this regulatory instrument."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document suggests monitoring through robust reporting and compliance systems, provision of comprehensive data on inputs, production, and consumption, needs assessments, and evaluations of technologies.",
+        "citation": [
+          "Actions to ensure robust reporting and compliance, including provision of comprehensive data regarding inputs, levels of production and consumption, implementation of core obligations, such as the actions above, and the support provided for implementation.",
+          "...along with support for enabling and monitoring and reporting activities, addressing barriers to recycling, and developing sustainable alternatives.",
+          "The assessment panel would report directly to the Conference of the Parties with needs assessments and evaluations of the state-of-the-art of environmentally sound technologies available for supporting eligible Parties' obligations, commitments and/or contributions."
+        ],
+        "reasoning": "The cited texts explicitly mention the need for 'monitoring and reporting activities,' 'robust reporting and compliance,' the provision of 'comprehensive data' to track material flows (inputs, production, consumption), and 'needs assessments and evaluations.' These elements are all forms of tracking, measuring, and assessing policy effectiveness and related activities, which directly aligns with the code definition."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document proposes the operation of networks and a centralized expert body for the purpose of sharing best practices, guidelines, and standards to support national implementation efforts.",
+        "citation": [
+          "Operation of networks or an institution to support national efforts and share best practices (such as Ozone Action under UNEP)",
+          "...a centralized institution/expert body dedicated to sharing best practices, guidelines, standards and/or other forms of effective support for those officers, including relevant practices of Indigenous Peoples and local communities."
+        ],
+        "reasoning": "The document explicitly proposes creating institutional mechanisms, such as networks and an expert body, with the dedicated function of sharing informational resources like 'best practices, guidelines, [and] standards'. This directly aligns with the code definition of providing guidance and informational resources to help stakeholders."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Awareness raising and training of decision-makers, capacity-building and training as activities eligible for funding under a proposed Multilateral Fund.",
+        "citation": [
+          "Activities eligible for funding under such national programmes or National Action Plans may include:",
+          "Awareness raising and training of decision-makers in coordination with other relevant initiatives",
+          "Capacity-building and training"
+        ],
+        "reasoning": "The document explicitly lists 'Awareness raising and training of decision-makers' and 'Capacity-building and training' as activities eligible for funding through the proposed Multilateral Fund. This directly corresponds to the definition of the education code, which includes awareness-raising campaigns and other efforts to inform the public (or in this case, key stakeholders like decision-makers) about plastic pollution."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The document proposes the establishment of several expert bodies, including a 'Technical and Economic Assessment subsidiary body' (also referred to as an 'assessment panel'), a 'scientific advisory subsidiary body', an 'Executive Committee' for the Multilateral Fund, and a 'centralized institution/expert body' for sharing best practices.",
+        "citation": [
+          "Contributing countries would replenish the fund as agreed by the Meeting or the Conference of Parties, based at least in part upon needs assessments undertaken by the Technical and Economic Assessment subsidiary body that is to be established by the treaty.",
+          "The assessment panel would report directly to the Conference of the Parties with needs assessments and evaluations of the state-of-the-art of environmentally sound technologies available for supporting eligible Parties' obligations, commitments and/or contributions.",
+          "A variety of important institutions will be necessary to facilitate achievement of the proposed objective. These include a scientific advisory subsidiary body and a technical and economic assessment subsidiary body, similar to those under the Montreal Protocol...",
+          "...a centralized institution/expert body dedicated to sharing best practices, guidelines, standards and/or other forms of effective support for those officers, including relevant practices of Indigenous Peoples and local communities."
+        ],
+        "reasoning": "The document explicitly proposes the establishment of multiple expert groups to support the treaty's implementation. The citations directly mention the creation of a 'Technical and Economic Assessment subsidiary body,' an 'assessment panel,' a 'scientific advisory subsidiary body,' and a 'centralized institution/expert body' to provide technical guidance, conduct needs assessments, and share best practices, which aligns perfectly with the code definition."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document proposes undertaking pilot and demonstration projects and establishing a scientific advisory subsidiary body and a technical and economic assessment subsidiary body.",
+        "citation": [
+          "Undertaking pilot and demonstration projects with a vision for replication at scale internationally",
+          "A variety of important institutions will be necessary to facilitate achievement of the proposed objective. These include a scientific advisory subsidiary body and a technical and economic assessment subsidiary body, similar to those under the Montreal Protocol..."
+        ],
+        "reasoning": "The document explicitly lists 'pilot and demonstration projects' as an eligible activity, which represents applied research and innovation. Furthermore, it calls for the creation of scientific and technical advisory bodies, which are institutions designed to promote and integrate scientific knowledge and research into the treaty's framework. These actions constitute the encouragement of research and knowledge development."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "Proposal for a centralized institution to share best practices, guidelines, and standards among national officers.",
+        "citation": [
+          "a centralized institution/expert body dedicated to sharing best practices, guidelines, standards and/or other forms of effective support for those officers, including relevant practices of Indigenous Peoples and local communities."
+        ],
+        "reasoning": "The document explicitly proposes the creation of a centralized expert body tasked with sharing 'guidelines' and 'standards'. This action directly supports the definition of harmonization, as it aims to create consistent and aligned approaches among national officers responsible for implementing the treaty."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document proposes several mechanisms for knowledge exchange, including a dedicated technology transfer mechanism, networks to share best practices, capacity-building and training, pilot projects for international replication, scientific and technical assessment bodies to incorporate diverse knowledge systems (including traditional and Indigenous), and a centralized expert body for sharing best practices, guidelines, and standards.",
+        "citation": [
+          "A dedicated finance and technology transfer mechanism should provide the principal international vehicle for supporting finance, technology transfer and related assistance...",
+          "Operation of networks or an institution to support national efforts and share best practices (such as Ozone Action under UNEP)",
+          "These include a scientific advisory subsidiary body and a technical and economic assessment subsidiary body... which incorporate relevant traditional knowledge, knowledge of Indigenous Peoples, and local knowledge systems...",
+          "a centralized institution/expert body dedicated to sharing best practices, guidelines, standards and/or other forms of effective support for those officers, including relevant practices of Indigenous Peoples and local communities."
+        ],
+        "reasoning": "The document explicitly proposes several mechanisms designed for sharing knowledge and technology. The citations mention a 'technology transfer mechanism,' an institution to 'share best practices,' and a 'centralized institution/expert body dedicated to sharing best practices, guidelines, standards.' These directly match the code's definition of exchanging information, best practices, and expertise among stakeholders to build capacity."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document outlines high-level objectives and types of actions, such as to 'end plastic pollution' and to 'phase down or phase out certain plastics'. However, it does not provide any specific, measurable, or time-bound targets with concrete numbers or percentages for reduction, collection, recycling, or other metrics."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "The document mentions several feedstock-related measures, including: phasing down the use of fossil fuels for plastics production, restricting virgin polymers and resins, addressing the unsustainable use of non-fossil fuel inputs like crops and ocean resources, and a general call to phase down or phase out certain feedstocks.",
+        "citation": [
+          "The extraction, refinement and use of the fossil fuels causing these interrelated global harms should be rapidly phased down across all uses, including plastics production.",
+          "In addition, policies and measures to address plastics sourcing can help to minimize the unsustainable use of non-fossil fuel plastics inputs, such as crops and ocean resources, as well as the use of other harmful chemical inputs.",
+          "Restrictions on the use of virgin polymers and resins will be critical for ending plastic pollution worldwide.",
+          "Actions to be taken to address virgin plastics production (supply)",
+          "Actions to phase down or phase out certain plastics, feedstocks and or additives (polymers, chemicals, etc.)"
+        ],
+        "reasoning": "The document explicitly addresses the raw materials for plastic production. The citations mention phasing down fossil fuels (a primary feedstock), addressing non-fossil fuel inputs like crops, and restricting/phasing out virgin polymers and feedstocks. This directly aligns with the code definition for the feedstock stage."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document mentions several production-related measures, including: limiting plastic production to sustainable levels, restrictions on virgin polymers and resins, phase-outs of certain polymers and chemicals, phase-downs of other polymers and chemicals, and actions to address virgin plastics production (supply).",
+        "citation": [
+          "To end plastic pollution in all global environments, including by limiting production and consumption of plastics to sustainable levels and products...",
+          "Restrictions on the use of virgin polymers and resins will be critical for ending plastic pollution worldwide.",
+          "Therefore, measures taken at this phase (including phase outs of certain polymers and chemicals targeted for elimination and phase downs of other polymers and chemicals to sustainable levels) present the opportunity to eliminate and reduce the use of polymers and other chemical additives that are harmful to human health and ecosystems...",
+          "Actions to be taken to address virgin plastics production (supply)",
+          "Actions to phase down or phase out certain plastics, feedstocks and or additives (polymers, chemicals, etc.)"
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for measures that directly control the manufacturing and creation of plastic materials. The citations mention 'limiting production', 'Restrictions on the use of virgin polymers and resins', and actions to 'phase down or phase out' polymers and feedstocks, all of which fall under the definition of addressing the polymer production stage of the value chain."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document mentions several design-related measures, including the avoidance of harmful chemicals in products, designing for long-term use (durability), and designing for recyclability to promote a circular economy.",
+        "citation": [
+          "Plastics product design and use must be tailored to minimize eventual plastics pollution and the harms that it causes. This includes avoidance of harmful chemicals and designs that allow long-term use and recyclability so as to help promote a circular economy.",
+          "Actions to promote improved design of plastics (e.g., for durability, recyclability)"
+        ],
+        "reasoning": "The document explicitly identifies 'Product Design and Use' as a key stage of the plastic life cycle. The cited texts directly mention the need to tailor plastic product design to include specific principles such as durability ('long-term use') and recyclability, which perfectly aligns with the code definition."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "avoidance of harmful chemicals, phasing out harmful additives, improved product design for durability and recyclability",
+        "citation": [
+          "Plastics product design and use must be tailored to minimize eventual plastics pollution and the harms that it causes. This includes avoidance of harmful chemicals and designs that allow long-term use and recyclability so as to help promote a circular economy.",
+          "measures taken at this phase (including phase outs of certain polymers and chemicals targeted for elimination and phase downs of other polymers and chemicals to sustainable levels) present the opportunity to eliminate and reduce the use of polymers and other chemical additives that are harmful to human health and ecosystems...",
+          "Actions to phase down or phase out certain plastics, feedstocks and or additives (polymers, chemicals, etc.)",
+          "Actions to promote improved design of plastics (e.g., for durability, recyclability)"
+        ],
+        "reasoning": "The document explicitly addresses the 'Product Design and Use' stage of the plastic lifecycle, which is synonymous with product production. The citations support this by mentioning specific measures like avoiding harmful chemicals, phasing out additives, and designing products for durability and recyclability. However, there is no mention of intentionally added microplastics."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "limiting plastic consumption, promoting long-term use, addressing demand for virgin plastics, promoting reuse of plastics, reducing overall plastics use",
+        "citation": [
+          "To end plastic pollution in all global environments, including by limiting production and consumption of plastics to sustainable levels and products...",
+          "Plastics product design and use must be tailored to minimize eventual plastics pollution...This includes...designs that allow long-term use...",
+          "Actions to be taken to address virgin plastics consumption (demand)",
+          "Actions to promote reuse of plastics",
+          "Actions to reduce plastics use and manage plastic waste, including emissions"
+        ],
+        "reasoning": "The document explicitly identifies limiting the 'consumption of plastics' as a core objective. It further details necessary implementation actions that directly target the consumption phase, such as addressing consumer demand, promoting the reuse of plastics, reducing overall plastic use, and designing products for long-term use, which directly counters the single-use model."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions the need for policies and measures to promote 'separate collection' of plastic waste.",
+        "citation": [
+          "In addition to reducing virgin plastic production and promoting a circular economy through means such as improved product design and use, policies and measures will also be needed to promote the environmentally sound management of plastic waste, in particular separate collection and recycling, prevention of leakage and restrictions on dumping, landfilling, etc."
+        ],
+        "reasoning": "The cited text, under the 'Waste Management' section, explicitly calls for measures to promote 'separate collection' of plastic waste. This directly aligns with the code definition, which includes the collection, gathering, or aggregation of plastic waste after consumer use."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document calls for policies and measures to promote the environmentally sound management of plastic waste, including separate collection, recycling, prevention of leakage, and restrictions on dumping and landfilling. It also mentions funding to address barriers to recycling.",
+        "citation": [
+          "In addition to reducing virgin plastic production and promoting a circular economy through means such as improved product design and use, policies and measures will also be needed to promote the environmentally sound management of plastic waste, in particular separate collection and recycling, prevention of leakage and restrictions on dumping, landfilling, etc.",
+          "Actions to reduce plastics use and manage plastic waste, including emissions",
+          "...the success of the treaty will require the provision of necessary means of implementation for small island developing States (SIDS), least developed countries (LDCS) and other vulnerable countries, including for any core obligations, along with support for enabling and monitoring and reporting activities, addressing barriers to recycling, and developing sustainable alternatives."
+        ],
+        "reasoning": "The document explicitly addresses waste management in a dedicated subsection, calling for policies and measures to handle plastic waste after it has been used. The cited texts list specific downstream waste management activities such as separate collection, recycling, and restrictions on landfilling and dumping, directly matching the code's definition. The topic is further reinforced as a necessary implementation action and a target for financial support."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Promoting separate collection and recycling of plastic waste, designing products for recyclability, and providing financial support to address barriers to recycling.",
+        "citation": [
+          "policies and measures will also be needed to promote the environmentally sound management of plastic waste, in particular separate collection and recycling, prevention of leakage and restrictions on dumping, landfilling, etc.",
+          "This includes avoidance of harmful chemicals and designs that allow long-term use and recyclability so as to help promote a circular economy.",
+          "At a minimum, the success of the treaty will require the provision of necessary means of implementation for small island developing States (SIDS), least developed countries (LDCS) and other vulnerable countries, including for any core obligations, along with support for enabling and monitoring and reporting activities, addressing barriers to recycling, and developing sustainable alternatives."
+        ],
+        "reasoning": "The document explicitly calls for policies to promote 'separate collection and recycling' of plastic waste. It also highlights the need for product designs that allow for 'recyclability' and mentions providing financial support for 'addressing barriers to recycling'. These are all specific measures addressing the recycling of plastic materials from waste, fitting the code definition."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document calls for remediating existing plastic pollution and addressing legacy plastic pollution, with a particular focus on the marine environment, marine areas beyond national jurisdiction, and small islands/atolls.",
+        "citation": [
+          "To end plastic pollution in all global environments, including by limiting production and consumption of plastics to sustainable levels and products; promoting a circular economy for plastics, and; remediating existing plastic pollution where possible, particularly in the marine environment.",
+          "Policies and measures must also be put into place to address the legacy plastic pollution that already exists in the environment, prioritizing those locations and pollutants that cause the most harmful impacts on human health and ecosystems, with particular attention to existing plastic pollution in the marine environment (including in marine areas beyond national jurisdiction) and focusing especially on small islands/atolls.",
+          "Actions to address and remediate existing plastics pollution, particularly in the marine environment"
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions the need to address plastic pollution that is already in the environment. The cited texts use key phrases like 'remediating existing plastic pollution' and 'address the legacy plastic pollution that already exists in the environment,' which directly match the code's definition of cleaning up already-polluted areas. This is identified as a primary objective, a core obligation under its own 'Remediation' heading, and a required implementation action."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document addresses emissions by linking plastic production to fossil fuel demand, which accelerates the climate emergency through emissions of carbon dioxide and methane. It specifically identifies the chemical/polymerization phase as the source of the majority of greenhouse gases in the plastic lifecycle and calls for actions to manage plastic waste, including associated emissions.",
+        "citation": [
+          "The two most potent climate-forcing agents globally are carbon dioxide, which is emitted from refining and burning fossil fuels, and methane, which is emitted from extracting and transporting them.",
+          "The chemicals phase of plastics production is also the one in which the majority of greenhouse gases from the plastics life cycle are emitted.",
+          "Actions to reduce plastics use and manage plastic waste, including emissions"
+        ],
+        "reasoning": "The cited texts explicitly mention specific greenhouse gases (carbon dioxide, methane) emitted from the fossil fuels used for plastics, identify the chemical production phase as a primary source of these emissions, and list the management of 'emissions' as a required action alongside plastic waste management. This demonstrates a clear focus on addressing emissions throughout the plastic lifecycle."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document proposes a 'rapidly phased down' approach for fossil fuels used in plastics production and 'phase outs'/'phase downs' for certain polymers and chemicals. A key implementation mechanism, the Multilateral Fund, is proposed to be replenished on a regular biennial or triennial basis.",
+        "citation": [
+          "The extraction, refinement and use of the fossil fuels causing these interrelated global harms should be rapidly phased down across all uses, including plastics production.",
+          "...measures taken at this phase (including phase outs of certain polymers and chemicals targeted for elimination and phase downs of other polymers and chemicals to sustainable levels) present the opportunity to eliminate and reduce the use of polymers...",
+          "The Fund shall be replenished on a regular (e.g. biennial or triennial basis) through contributions that shall be measurable, reportable and verifiable."
+        ],
+        "reasoning": "The document specifies time-related implementation measures. The terms 'rapidly phased down' and 'phase outs' indicate a scheduled reduction over time. The proposed replenishment of the fund on a 'biennial or triennial basis' provides a concrete, recurring timeline for a core implementation activity."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document calls for 'robust reporting and compliance' and models its proposed institutions on the Montreal Protocol, which is a legally binding treaty. It also ties financial support from a Multilateral Fund to countries carrying out their 'obligations, commitments and/or contributions'.",
+        "citation": [
+          "Actions to ensure robust reporting and compliance, including provision of comprehensive data regarding inputs, levels of production and consumption, implementation of core obligations, such as the actions above, and the support provided for implementation.",
+          "The treaty should establish a dedicated financial mechanism or Multilateral Fund for the provision of necessary financial resources and means of implementation to eligible countries in order to carry out their obligations, commitments and/or contributions under the agreement.",
+          "A variety of important institutions will be necessary to facilitate achievement of the proposed objective. These include a scientific advisory subsidiary body and a technical and economic assessment subsidiary body, similar to those under the Montreal Protocol..."
+        ],
+        "reasoning": "The document explicitly advocates for 'robust reporting and compliance' and the fulfillment of 'obligations'. By proposing institutions 'similar to those under the Montreal Protocol,' a famously successful and legally binding treaty, it signals an intent for a high-stringency, non-voluntary framework with strong enforcement and accountability mechanisms."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with national-level implementation, supported by an international multilateral fund.",
+        "citation": [
+          "To end plastic pollution in all global environments, including by limiting production and consumption of plastics to sustainable levels and products...",
+          "The Montreal Protocol is widely considered the most successful multilateral environmental agreement because, in large part, it addressed virgin ozone-depleting substance (ODS) production.",
+          "The treaty should establish a dedicated financial mechanism or Multilateral Fund for the provision of necessary financial resources and means of implementation to eligible countries in order to carry out their obligations, commitments and/or contributions under the agreement.",
+          "Countries determined eligible to receive such support would inform the mechanism or Fund of their relevant national programme or National Action Plans, which would be approved for financing by the executive body of the mechanism."
+        ],
+        "reasoning": "The document's objective is to address pollution in 'all global environments' and 'worldwide'. It proposes a 'treaty' and a 'Multilateral Fund' modeled on successful international agreements like the Montreal Protocol. This global framework is explicitly designed to be implemented by individual countries through 'National Action Plans', demonstrating a global scope with national execution."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document suggests requiring support from actors in the plastics supply chain through taxes or levies as a complementary source of funding.",
+      "citation": [
+        "Requiring support for means of implementation from key actors in the plastics supply chain, such as through taxes or levies.",
+        "Such programmes could complement, but would not be a substitute for, the public financial support to Parties from the Multilateral Fund and the concessional finance from bodies such as the GEF."
+      ],
+      "reasoning": "The document explicitly mentions generating financial support from 'key actors in the plastics supply chain'—which are private sector entities—through mechanisms like 'taxes or levies'. This is presented as a complementary funding source to public financial mechanisms, confirming its private sector origin."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "Contributions from countries to a Multilateral Fund, support from bodies like the Global Environment Facility (GEF), and potential taxes or levies.",
+      "citation": [
+        "Contributing countries would replenish the fund as agreed by the Meeting or the Conference of Parties, based at least in part upon needs assessments undertaken by the Technical and Economic Assessment subsidiary body that is to be established by the treaty.",
+        "This could include support for investment in necessary infrastructure from bodies such as the Global Environment Facility (GEF), and/or;",
+        "Requiring support for means of implementation from key actors in the plastics supply chain, such as through taxes or levies. Such programmes could complement, but would not be a substitute for, the public financial support to Parties from the Multilateral Fund and the concessional finance from bodies such as the GEF."
+      ],
+      "reasoning": "The document explicitly states that the proposed Multilateral Fund would be replenished by 'Contributing countries'. It also suggests complementary support from bodies like the Global Environment Facility (GEF), which is funded by national governments. Furthermore, it directly refers to the Multilateral Fund as providing 'public financial support to Parties' and mentions 'taxes or levies' as a potential financing mechanism, which are instruments of the state."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "dedicated multilateral fund, multilateral financial institutions, Global Environment Facility (GEF), concessional funding",
+      "citation": [
+        "A dedicated finance and technology transfer mechanism should provide the principal international vehicle for supporting finance, technology transfer and related assistance, including stable, predictable and additional financial assistance under the treaty for enabling activities as well as agreed incremental costs on a grant basis.",
+        "In addition, access to concessional finance should also be made available, either directly under the dedicated multilateral fund or via other multilateral financial institutions.",
+        "This could include support for investment in necessary infrastructure from bodies such as the Global Environment Facility (GEF), and/or;",
+        "Such programmes could complement, but would not be a substitute for, the public financial support to Parties from the Multilateral Fund and the concessional finance from bodies such as the GEF."
+      ],
+      "reasoning": "The document explicitly proposes the creation of a 'dedicated multilateral fund' as the 'principal international vehicle' for financing. It also specifically names the 'Global Environment Facility (GEF)' and refers generally to other 'multilateral financial institutions' as sources for concessional funding to support the treaty's implementation."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "taxes or levies on key actors in the plastics supply chain",
+      "citation": [
+        "Requiring support for means of implementation from key actors in the plastics supply chain, such as through taxes or levies."
+      ],
+      "reasoning": "The document explicitly mentions that 'taxes or levies' on actors in the plastics supply chain could be used as an additional source of funding to complement the proposed Multilateral Fund. This directly aligns with the code's definition of financing derived from fees, levies, or taxes."
+    },
+    "credit_schemes": {
+      "mentioned": true,
+      "details": "concessional finance, concessional funding",
+      "citation": [
+        "In addition, access to concessional finance should also be made available, either directly under the dedicated multilateral fund or via other multilateral financial institutions.",
+        "Concessional funding for those activities not supported by the Fund but crucial for achieving of the agreed objective(s) of the treaty. This could include support for investment in necessary infrastructure from bodies such as the Global Environment Facility (GEF), and/or;",
+        "Such programmes could complement, but would not be a substitute for, the public financial support to Parties from the Multilateral Fund and the concessional finance from bodies such as the GEF."
+      ],
+      "reasoning": "The document explicitly mentions \"concessional finance\" and \"concessional funding\" as additional means of implementation to support developing countries. Concessional finance refers to loans or credit extended on terms substantially more generous than market loans, which directly aligns with the code definition of financing through credit mechanisms or loans."
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Specific producer responsibilities include: designing products for long-term use and recyclability; avoiding harmful chemicals in product design; reducing and restricting the use of virgin polymers and resins; phasing down or phasing out certain plastics, feedstocks, polymers, and chemical additives; and contributing financially to implementation measures through mechanisms like taxes or levies.",
+      "citation": [
+        "Plastics product design and use must be tailored to minimize eventual plastics pollution and the harms that it causes. This includes avoidance of harmful chemicals and designs that allow long-term use and recyclability so as to help promote a circular economy.",
+        "Restrictions on the use of virgin polymers and resins will be critical for ending plastic pollution worldwide.",
+        "Actions to phase down or phase out certain plastics, feedstocks and or additives (polymers, chemicals, etc.)",
+        "Actions to promote improved design of plastics (e.g., for durability, recyclability)",
+        "Requiring support for means of implementation from key actors in the plastics supply chain, such as through taxes or levies."
+      ],
+      "reasoning": "The document explicitly assigns responsibilities to actors involved in the production and supply of plastics. The citations clearly state obligations regarding product design (for recyclability, durability, avoidance of harmful chemicals), the use of inputs (restricting virgin polymers, phasing out certain chemicals), and financial contributions (taxes/levies on the supply chain), all of which are core responsibilities of the production sector."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document mentions responsibilities related to limiting plastic consumption, reducing plastic use, and promoting the reuse of plastics.",
+      "citation": [
+        "To end plastic pollution in all global environments, including by limiting production and consumption of plastics to sustainable levels and products...",
+        "Actions to be taken to address virgin plastics consumption (demand)",
+        "Actions to promote reuse of plastics",
+        "Actions to reduce plastics use and manage plastic waste, including emissions"
+      ],
+      "reasoning": "The document explicitly identifies 'consumption (demand)' as a key area requiring action, which directly involves consumers. It further lists 'reuse of plastics' and 'reduce plastics use' as necessary implementation measures, which are actions and responsibilities typically undertaken by the public."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Promotion of environmentally sound management of plastic waste, including separate collection and recycling, prevention of leakage, and restrictions on dumping and landfilling.",
+      "citation": [
+        "In addition to reducing virgin plastic production and promoting a circular economy through means such as improved product design and use, policies and measures will also be needed to promote the environmentally sound management of plastic waste, in particular separate collection and recycling, prevention of leakage and restrictions on dumping, landfilling, etc."
+      ],
+      "reasoning": "The document explicitly identifies 'Waste Management' as a core area for obligations. The cited text details the specific responsibilities required, such as implementing separate collection, recycling, preventing leakage, and restricting landfilling, which are all key roles for the waste management sector."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document assigns numerous responsibilities to governments, including: upstream regulation of plastics; implementing policies and measures across the plastic lifecycle (sourcing, waste management, remediation); imposing restrictions and phase-outs on certain polymers and chemicals; promoting improved product design; ensuring robust reporting and compliance; developing national action plans; and contributing to or receiving support from a multilateral fund for implementation.",
+      "citation": [
+        "Upstream regulation of plastics has the potential to not only help minimize plastic pollution in all environments downstream, but can also play an important role in limiting demand for the fossil fuels that are accelerating the global climate emergency...",
+        "In addition, policies and measures to address plastics sourcing can help to minimize the unsustainable use of non-fossil fuel plastics inputs, such as crops and ocean resources, as well as the use of other harmful chemical inputs.",
+        "Policies and measures must also be put into place to address the legacy plastic pollution that already exists in the environment, prioritizing those locations and pollutants that cause the most harmful impacts on human health and ecosystems...",
+        "Actions to ensure robust reporting and compliance, including provision of comprehensive data regarding inputs, levels of production and consumption, implementation of core obligations, such as the actions above, and the support provided for implementation.",
+        "Countries determined eligible to receive such support would inform the mechanism or Fund of their relevant national programme or National Action Plans, which would be approved for financing by the executive body of the mechanism.",
+        "Preparation of country programmes or National Action Plans to set nationally appropriate objectives, regulations, policies and/or other measures"
+      ],
+      "reasoning": "The document is a submission for an international treaty, and its proposed obligations and implementation measures are implicitly directed at national governments as the primary actors. The cited texts explicitly mention government-led functions such as 'regulation', creating and implementing 'policies and measures', ensuring 'reporting and compliance', and developing 'national programme or National Action Plans'. These are all core responsibilities of public agencies and national governments in the context of multilateral environmental agreements."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document proposes roles for UN and international bodies including: supporting national efforts and sharing best practices (citing UNEP's Ozone Action as an example); providing secretariat functions for a multilateral fund (managing operations, developing plans, disbursing financing); providing technical and economic needs assessments through subsidiary bodies; and offering concessional funding for infrastructure through bodies like the Global Environment Facility (GEF).",
+      "citation": [
+        "Operation of networks or an institution to support national efforts and share best practices (such as Ozone Action under UNEP)",
+        "The executive committee should be supported by a Secretariat of professional staff responsible for managing the day-to-day operation of the fund, develop plans and budgets, review project applications, disburse financing, oversee implementation and report to the executive body.",
+        "The assessment panel would report directly to the Conference of the Parties with needs assessments and evaluations of the state-of-the-art of environmentally sound technologies...",
+        "This could include support for investment in necessary infrastructure from bodies such as the Global Environment Facility (GEF)..."
+      ],
+      "reasoning": "The document explicitly names a UN agency (UNEP) and an international financial body (GEF), assigning them roles in implementation support and financing. It also proposes the creation of institutions typical of UN-led multilateral environmental agreements, such as a Secretariat and a technical assessment panel, and details their specific administrative and advisory responsibilities."
+    }
+  }
+}

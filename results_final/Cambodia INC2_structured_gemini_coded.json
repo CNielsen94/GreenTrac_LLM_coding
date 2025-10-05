@@ -1,0 +1,652 @@
+{
+  "submission_metadata": {
+    "country": "Cambodia",
+    "date": "2023-02-06",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "On behalf of the Cambodia delegation, we would like to express our sincere appreciation and gratitude to the UNEP and the Government of Uruguay for hosting the important intergovernmental negotiating committee meeting to develop an international legally binding instrument to end plastic pollution.",
+        "In alignment with the global aim to end plastic pollution, Cambodia has developed and implemented several measures focusing on 4R (Refuse, Reduce, Reuse and Recycle) actions to reduce plastic waste generation and to prevent both land- and sea-based plastic leakages:",
+        "Cambodia is committed to join hands with global and regional communities to act and support the development of the international legally binding instrument to end plastic pollution by 2024.",
+        "We support the proposed overall objective: \"protect the environment and human health from plastic pollution with the ultimate goal to end plastic pollution.\"",
+        "National Action Plans (NAPs) shall be used as a key policy instrument for countries to outline national commitments, goals, and proposed sets of measures to contribute to both national and global goals to end land-and sea- based plastic pollution."
+      ],
+      "reasoning": "The document repeatedly and explicitly states the objective of ending plastic pollution. It refers to the development of an instrument 'to end plastic pollution', aligns its national measures with the 'global aim to end plastic pollution', and supports an objective with the 'ultimate goal to end plastic pollution'. However, no specific timeframe for the actual elimination of plastic pollution is provided. The mention of 'by 2024' refers to the timeline for developing the international instrument, not for achieving the goal of ending plastic pollution itself."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Particular attention should be paid to reducing the total volume of global plastic production, targeted at single-use plastics as well as supporting low- and middle- income countries to enhance plastic waste management and prevent land- and sea-based leakages.",
+        "The total volume of global plastic production shall be reduced/controlled since the current total volume far exceeds the global waste management capacity.",
+        "Hence, it is crucial to address the root cause of the problem, by controlling and minimizing the total production of plastic materials/products, especially targeted at non-essential single-use plastic items and harmful chemical additives and substances.",
+        "Controlling and reducing the overall global plastic production,"
+      ],
+      "reasoning": "The document explicitly and repeatedly calls for the reduction and control of plastic production. It identifies this as a critical objective for the international instrument, stating that 'particular attention should be paid to reducing the total volume of global plastic production' and lists it as a proposed control measure. However, it does not provide any specific quantitative targets or timelines for this reduction."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": null,
+      "citation": [
+        "Hence, it is crucial to address the root cause of the problem, by controlling and minimizing the total production of plastic materials/products, especially targeted at non-essential single-use plastic items and harmful chemical additives and substances.",
+        "Phasing out non-essential plastics including single-use plastics,",
+        "Various instruments (regulations, levies, taxes, subsidies, EPR schemes) can be used to promote environmentally friendly products and practices, and to deter the production and sale of hazardous/non-essential plastic materials/products."
+      ],
+      "reasoning": "The document implicitly acknowledges the utility of some plastics by repeatedly targeting 'non-essential' plastics for reduction and phase-out. This linguistic choice separates problematic plastics from a presumed category of 'essential' plastics, thereby acknowledging that not all plastics are harmful or unnecessary. However, the document does not specify what these essential uses or benefits are."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document expresses concern for the adverse impact of plastic pollution on public health, supports a primary objective to 'protect the environment and human health from plastic pollution', and calls for further research on the impacts of microplastics on human health.",
+      "citation": [
+        "Cambodia is gravely concerned about plastic pollution and its adverse impact on our society, environment, biodiversity, and public health.",
+        "We support the proposed overall objective: \"protect the environment and human health from plastic pollution with the ultimate goal to end plastic pollution.\"",
+        "Further research, knowledge, and technology transfer are needed in the following areas: Scientific evidence on the impacts of micro-plastics on our environment and human health"
+      ],
+      "reasoning": "The document explicitly states that protecting public and human health is a key concern and a proposed core objective of the international instrument. The citations directly mention 'public health' and 'human health' as areas negatively impacted by plastic pollution and needing protection, validating the code."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "Cambodia is gravely concerned about plastic pollution and its adverse impact on our society, environment, biodiversity, and public health.",
+        "...to prevent both land- and sea-based plastic leakages...",
+        "This is also clear from substantial amount of plastic waste (8-12 million metric tons) entering the ocean every year.",
+        "NAPs shall be used as a key policy instrument for countries to outline national commitments, goals, and proposed sets of measures to contribute to both national and global goals to end land-and sea- based plastic pollution."
+      ],
+      "reasoning": "The document explicitly states that plastic pollution has an adverse impact on 'biodiversity'. It also demonstrates a clear focus on marine environments by repeatedly mentioning the need to prevent 'sea-based plastic leakages' and citing the large volume of plastic waste 'entering the ocean every year' as a key concern."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "We support the proposed comprehensive approach of \"addressing the full life cycle of plastics,\" inter alia, covering the design, production, trade, consumption, and waste management (collection, disposal and recycling) of plastics."
+      ],
+      "reasoning": "The document explicitly states support for an approach that addresses the 'full life cycle of plastics'. It further defines this coverage to include all stages from 'design, production, trade, consumption' through to 'waste management', confirming the comprehensive, full lifecycle scope."
+    },
+    "other_objectives": {
+      "value": "Promoting a circular economy, ensuring a just transition for stakeholders (including creating decent work), and supporting innovation and research & development.",
+      "citation": [
+        "The legally binding instrument should include the objective of promoting a circular economy for plastics.",
+        "Furthermore, the instrument must ensure a just transition for all stakeholders, particularly for workers in the informal waste sector, by creating decent work opportunities and ensuring their inclusion in the new plastics economy.",
+        "Supporting research and development in these areas is a critical objective to ensure long-term success."
+      ],
+      "reasoning": "The document explicitly states several objectives that are not covered by the other categories. These include promoting a 'circular economy' as a systemic goal, ensuring a 'just transition' and creating 'decent work' which are socio-economic objectives, and supporting 'research and development' as an enabling objective for technological advancement. These goals are distinct from the predefined environmental and health-focused categories."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "The document proposes the use of 'fiscal... measures', 'levies', and 'taxes' as instruments to deter harmful plastic products and promote environmentally friendly alternatives.",
+        "citation": [
+          "Design and implementation of regulatory, fiscal, and economic measures and eco-standards,",
+          "Fiscal and economic measures are also essential to deter environmentally harmful plastic materials/products and to promote environmentally friendly alternatives and CE measures.",
+          "Various instruments (regulations, levies, taxes, subsidies, EPR schemes) can be used to promote environmentally friendly products and practices, and to deter the production and sale of hazardous/non-essential plastic materials/products."
+        ],
+        "reasoning": "The document explicitly names 'fiscal... measures', 'levies', and 'taxes' as potential instruments for managing plastic pollution. These terms directly align with the code definition, which covers tax-related mechanisms and fiscal measures."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "Subsidies are mentioned as a potential instrument to promote environmentally friendly products and practices among the private sector.",
+        "citation": [
+          "Various instruments (regulations, levies, taxes, subsidies, EPR schemes) can be used to promote environmentally friendly products and practices, and to deter the production and sale of hazardous/non-essential plastic materials/products."
+        ],
+        "reasoning": "The document explicitly lists 'subsidies' as one of the 'various instruments' that can be used to foster private sector engagement and promote environmentally friendly products and practices. This directly matches the code definition's search for mentions of subsidies or financial incentives."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document suggests using fiscal and economic measures such as levies and taxes to deter the production and sale of environmentally harmful or non-essential plastic products.",
+        "citation": [
+          "Fiscal and economic measures are also essential to deter environmentally harmful plastic materials/products and to promote environmentally friendly alternatives and CE measures.",
+          "Various instruments (regulations, levies, taxes, subsidies, EPR schemes) can be used to promote environmentally friendly products and practices, and to deter the production and sale of hazardous/non-essential plastic materials/products."
+        ],
+        "reasoning": "The document explicitly mentions the use of 'levies' and 'taxes' with the stated purpose to 'deter' the production and sale of harmful plastics. This use of financial instruments to discourage or penalize undesirable activities directly aligns with the definition of penalties."
+      },
+      "trading_systems": {
+        "mentioned": true,
+        "details": "plastic credit schemes",
+        "citation": [
+          "Best practices to engage the private sector, for innovation, finance and investments, sustainable production and consumption, EPR schemes, plastic credit schemes, etc.",
+          "Plastic credit schemes: What is the role of the emerging, voluntary plastic credit scheme under the ILBI?"
+        ],
+        "reasoning": "The document explicitly mentions 'plastic credit schemes' as an area requiring further research and knowledge transfer. It also directly questions the future role of this specific trading system within the international legally binding instrument. This directly aligns with the code definition, which includes market-based instruments like plastic credits."
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": true,
+        "details": "green procurement",
+        "citation": [
+          "Promotion/adaption of circular measures (e. g. environmentally friendly alternatives, recycling, reuse, repair of plastics, green procurement),",
+          "Besides NAP, a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling."
+        ],
+        "reasoning": "The document explicitly mentions 'green procurement' on two separate occasions. It is first listed as a suggested voluntary approach to promote circular measures and later identified as a required policy and regulatory instrument to support the implementation of the international agreement. This directly matches the code definition of 'green procurement policies' and 'public sector purchasing requirements'."
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document specifies a need for 'Research and development of bioplastic technology' and 'investment in bioplastic production'. It also generally calls for mobilizing private sector finance for 'innovation' and 'product development' for alternatives to plastics.",
+        "citation": [
+          "Innovation, finance, and business development for alternatives (such as bioplastics/compostable plastics), and Circular Economy solutions (recycling, reuse, plastic waste to energy, bricks, and asphalt production).",
+          "Mobilization of the private sector engagement for innovation, finance, and technical assistance for product development, EPR, and waste management.",
+          "Research and development of bioplastic technology and investment in bioplastic production,"
+        ],
+        "reasoning": "The document explicitly states the need for R&D and investment in bioplastic technology. It also repeatedly links finance and innovation for the development of plastic alternatives and new products, which falls directly under the definition of R&D funding as an economic instrument."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document states that Cambodia is designing a 'voluntary Extended Producer Responsibility (EPR) scheme' to fund plastic waste collection and treatment. It also proposes 'EPR obligations for global multi-national corporates' as a control measure within the international instrument to support waste management in lower-income countries. EPR is mentioned multiple times as a key instrument for private sector engagement.",
+        "citation": [
+          "Cambodia is also in the process of designing a voluntary Extended Producer Responsibility (EPR) scheme to mobilize technical and financial support to ensure effective collection and treatment of plastic waste",
+          "EPR obligations for global multi-national corporates which produce oil and plastics to support low-and middle-income countries in achieving effective collection and recycling of plastic waste",
+          "Mobilization of the private sector engagement for innovation, finance, and technical assistance for product development, EPR, and waste management.",
+          "Various instruments (regulations, levies, taxes, subsidies, EPR schemes) can be used to promote environmentally friendly products and practices..."
+        ],
+        "reasoning": "The document explicitly and repeatedly refers to 'Extended Producer Responsibility (EPR) scheme' and 'EPR obligations'. The cited texts detail Cambodia's national plan to develop a voluntary EPR scheme and its proposal for mandatory EPR for multinational corporations at the international level. This directly aligns with the code's definition, which involves making producers financially and/or operationally responsible for the post-consumer stage of their products, such as funding collection and recycling."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "The document mentions a just transition with green job-creation, engagement of the informal sector, and ensuring social and economic security for the informal sector.",
+        "citation": [
+          "We also support 4R and circular economy approaches, sustainable production and consumption, environmentally sound management of plastic waste, and a just transition with green job-creation to achieve this goal.",
+          "We also have promoted a multi-stakeholder approach and a just transition towards a circular economy and sustainable consumption and production through engaging the government, citizens, private sector, development partners, civil society, educational institution and academia, and the informal sector in jointly providing solutions to this challenge.",
+          "Best practices to engage the informal sector into CE measures to meet lifestyle interests and aspirations while also providing social and economic security,"
+        ],
+        "reasoning": "The document explicitly uses the term 'just transition' twice in the objectives section, directly linking it to 'green job-creation' and the engagement of the 'informal sector'. It further elaborates on this by identifying a need for research into best practices for engaging the informal sector in a way that provides 'social and economic security', which directly addresses the code's definition of considering the social impact of the transition on vulnerable groups."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The submission proposes several bans and phase-outs as potential core obligations and control measures for an international instrument. These include: phasing out non-essential and single-use plastics; banning and eliminating non-economically recyclable plastics, harmful substances, and additives; banning the production and trade of harmful substances and additives; and banning illegal trade, dumping, and disposal of plastic waste.",
+        "citation": [
+          "Phasing out non-essential plastics including single-use plastics,",
+          "Bans and elimination of non-economically recyclable plastic items, harmful substances and additives,",
+          "Bans and enforcement of illegal trade, dumping, and disposal of plastic waste, and",
+          "Bans on the production and trade of harmful substances and additives,"
+        ],
+        "reasoning": "The document explicitly and repeatedly uses the terms 'bans', 'phasing out', and 'elimination' when listing its proposed core obligations and control measures for an international treaty on plastic pollution. The citations directly list the specific products, materials, and activities that Cambodia suggests should be subject to these prohibitions, aligning perfectly with the code definition."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document suggests core obligations for making plastics reusable and recyclable through product standards and labelling. It also proposes voluntary eco-standards and recommends regulatory instruments like standards for recycling operations and eco-labeling as part of the implementation measures.",
+        "citation": [
+          "Making other plastics reusable and recyclable along with product standards/labelling,",
+          "Design and implementation of regulatory, fiscal, and economic measures and eco-standards,",
+          "Besides NAP, a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling.",
+          "Finance and technical support is an integral element to upgrade the related business operations, ensure environmentally sound standards, and achieve economy of scales required for the products to be competitive."
+        ],
+        "reasoning": "The document explicitly proposes the use of 'product standards/labelling', 'eco-standards', 'standards for recycling operations', and 'eco-labeling' as core obligations, voluntary approaches, and implementation measures. These are direct examples of performance standards, as they set specific requirements and criteria that products and related processes must meet."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document calls for core obligations for environmentally sound management of plastic waste and for national-level regulatory instruments to establish standards for recycling operations, which implicitly requires the creation and maintenance of waste management and recycling infrastructure.",
+        "citation": [
+          "Environmentally sound management of plastic waste including legacy waste.",
+          "Besides NAP, a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling."
+        ],
+        "reasoning": "The cited texts justify the finding because they propose treaty-level 'core obligations' and national-level 'regulatory instruments' that mandate the proper management of plastic waste. Specifically, establishing 'Environmentally sound management of plastic waste' and setting 'standards for recycling operations' are impossible without the existence of the necessary physical infrastructure, such as collection systems, sorting facilities, and recycling plants. Therefore, the document advocates for rules that would require such infrastructure to be in place."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "The document suggests required regulatory instruments for standards for recycling operations and eco-labeling, as well as making product standards and labeling a core obligation.",
+        "citation": [
+          "Making other plastics reusable and recyclable along with product standards/labelling,",
+          "Besides NAP, a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling."
+        ],
+        "reasoning": "The document lists 'product standards/labelling' under 'Core obligations', implying a mandatory requirement. It reinforces this by stating that 'policy and regulatory instruments shall be required', specifically naming 'standards for recycling operations' and 'eco-labeling'. These are forms of mandatory certification or verification schemes that control plastic product characteristics and processes."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "product standards/labelling, eco-labeling",
+        "citation": [
+          "Making other plastics reusable and recyclable along with product standards/labelling,",
+          "Besides NAP, a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling."
+        ],
+        "reasoning": "The document explicitly supports labelling as a core obligation, stating the need for 'product standards/labelling' to make plastics reusable and recyclable. It also identifies 'eco-labeling' as a required policy and regulatory instrument for national implementation, confirming the country's support for mandatory labelling measures."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The submission mentions the development of a 'draft National Action Plan & National Roadmap for plastic management' at the national level. It also proposes that 'National Action Plans (NAPs)' should be a key instrument for all countries to implement the international treaty.",
+        "citation": [
+          "Enabling policies and regulations for 4Rs, including draft National Action Plan & National Roadmap for plastic management, a draft sub decree on plastic management, and policy matrix",
+          "We support the combination of legally binding core obligations, control measures and voluntary elements, allowing for a flexible approach to implementation, by enabling countries to design and implement measures and actions outlined under a National Action Plan (NAP) that reflects national circumstances and priorities.",
+          "Similar to the Nationally Determined Contributions (NDCs) used under the Paris Agreement, National Action Plans (NAPs) shall be used as a key policy instrument for countries to outline national commitments, goals, and proposed sets of measures to contribute to both national and global goals to end land-and sea- based plastic pollution."
+        ],
+        "reasoning": "The document explicitly states that Cambodia is developing its own 'National Action Plan & National Roadmap for plastic management'. Furthermore, it strongly advocates for National Action Plans (NAPs) to serve as the 'key policy instrument' for countries to implement the international treaty, directly aligning with the code's definition of required plans or strategies."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "Reporting on progress and results towards goals set in National Action Plans (NAPs), including collection of baseline data on plastic pollution (e.g., types of plastics generated, pollution sources, treatment status) through monitoring and evaluation (M&E).",
+        "citation": [
+          "NAPs should also entail clear plans for M&E and reporting to track and report the progress and results towards the set goals with references to linkages to the NDC GHG targets (waste sector).",
+          "Due to limited capacity and finance for data collection and management, technical and financial support is required for low- and middle-income countries to be able to collect baseline data on plastic pollution (types of plastics generated, pollution sources, status of treatments) and to build adequate capacity for M&E, monitoring and reporting."
+        ],
+        "reasoning": "The document explicitly states that National Action Plans (NAPs) should include provisions for 'M&E and reporting to track and report the progress and results'. It further details the need for capacity to collect and manage data on plastic pollution for monitoring and reporting purposes, justifying the 'mentioned' and 'details' fields."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document proposes bans on the illegal trade, dumping, and disposal of plastic waste, as well as bans on the trade of harmful substances and additives.",
+        "citation": [
+          "Bans and enforcement of illegal trade, dumping, and disposal of plastic waste, and",
+          "Bans on the production and trade of harmful substances and additives,"
+        ],
+        "reasoning": "The document explicitly lists 'bans on... trade' as both a core obligation and a control measure for the international instrument. The cited texts call for prohibiting the trade of illegal plastic waste and harmful substances, which directly aligns with the definition of trade requirements affecting the international movement of plastic products."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": true,
+        "details": "The document mentions eco-standards, eco-labeling, and a voluntary plastic credit scheme.",
+        "citation": [
+          "Design and implementation of regulatory, fiscal, and economic measures and eco-standards,",
+          "Besides NAP, a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling.",
+          "Plastic credit schemes: What is the role of the emerging, voluntary plastic credit scheme under the ILBI?"
+        ],
+        "reasoning": "The document explicitly proposes 'eco-standards' under the 'Voluntary approaches' section. It also identifies 'eco-labeling' as a necessary policy instrument to support implementation. Furthermore, it directly questions the role of an 'emerging, voluntary plastic credit scheme'. Eco-standards, eco-labels, and credit schemes are all forms of optional or non-mandatory certification programs that entities can choose to adopt, which directly aligns with the code definition."
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document suggests that National Action Plans (NAPs) should include clear plans for Monitoring & Evaluation (M&E) and reporting to track progress. It also highlights the need for data collection, specifically collecting baseline data on plastic pollution (types, sources, treatment status), and building capacity for M&E, monitoring, and reporting in low- and middle-income countries.",
+        "citation": [
+          "NAPs should also entail clear plans for M&E and reporting to track and report the progress and results towards the set goals with references to linkages to the NDC GHG targets (waste sector).",
+          "Due to limited capacity and finance for data collection and management, technical and financial support is required for low- and middle-income countries to be able to collect baseline data on plastic pollution (types of plastics generated, pollution sources, status of treatments) and to build adequate capacity for M&E, monitoring and reporting."
+        ],
+        "reasoning": "The cited texts explicitly mention the need for systems to 'track and report the progress and results' and 'collect baseline data on plastic pollution.' This directly aligns with the code definition of systems designed to 'track, observe, measure, assess, or evaluate plastic pollution... or policy effectiveness.'"
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document identifies a need for clear definitions, guidelines for environmentally friendly alternatives, and best practices for engaging the private and informal sectors. It also calls for knowledge and technology transfer.",
+        "citation": [
+          "Further research, knowledge, and technology transfer are needed in the following areas:",
+          "Clear definitions and guidelines for environmentally friendly alternatives (unclarity remains about environmentally friendly alternatives, bioplastics, biodegradable and compostable plastics)",
+          "Best practices to engage the private sector, for innovation, finance and investments, sustainable production and consumption, EPR schemes, plastic credit schemes, etc.",
+          "Best practices to engage the informal sector into CE measures to meet lifestyle interests and aspirations while also providing social and economic security,"
+        ],
+        "reasoning": "The cited texts explicitly mention the need for informational resources such as 'guidelines', 'best practices', 'definitions', and 'knowledge and technology transfer'. This directly aligns with the code definition, which focuses on providing informational resources to help stakeholders implement effective measures."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "The document mentions several education and awareness initiatives, including the dissemination of videos, strategic social media-based communication, and clean-up and outreach activities specifically targeting schools, communities, and temples. These efforts are aimed at promoting behavior change towards sustainable consumption.",
+        "citation": [
+          "Environmental education and awareness raising: This includes dissemination of 100+ videos, strategic social media-based communication, and clean-up and outreach activities to schools, communities, and temples, with a reach of more than 2 million students and people in Cambodia",
+          "Awareness raising and outreach activities for behavior changes towards sustainable consumption and production,",
+          "Environmental education and awareness raising: The measures mentioned above will be effective only when adopted and implemented by target stakeholders (e. g. citizens, businesses, informal sector). This requires enhancing the knowledge of problems and solutions for plastic pollution. Systemic efforts are also required in support of behavior change."
+        ],
+        "reasoning": "The document explicitly identifies 'Environmental education and awareness raising' as a key measure already implemented by Cambodia. The citations detail specific activities undertaken, such as media campaigns and outreach to schools, and state the strategic goal of these activities, which is to enhance public knowledge and support behavior change. This directly aligns with the code definition of using education as a soft instrument to address plastic pollution."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document calls for innovation in alternatives and circular economy solutions. It specifically states a need for further research on the impacts of micro-plastics, definitions for environmentally friendly alternatives, best practices for stakeholder engagement, and the research and development of bioplastic technology.",
+        "citation": [
+          "Innovation, finance, and business development for alternatives (such as bioplastics/compostable plastics), and Circular Economy solutions (recycling, reuse, plastic waste to energy, bricks, and asphalt production).",
+          "Further research, knowledge, and technology transfer are needed in the following areas:",
+          "Scientific evidence on the impacts of micro-plastics on our environment and human health",
+          "Research and development of bioplastic technology and investment in bioplastic production,"
+        ],
+        "reasoning": "The document explicitly identifies a need for 'further research, knowledge, and technology transfer' and calls for 'innovation' and 'research and development' in specific areas like bioplastics and understanding micro-plastic impacts. These statements directly align with the definition of encouraging scientific research and knowledge development as a soft instrument."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The submission calls for clear definitions and guidelines for environmentally friendly alternatives (including bioplastics, biodegradable, and compostable plastics), as well as the implementation of product standards, eco-labeling, and standards for recycling operations.",
+        "citation": [
+          "Making other plastics reusable and recyclable along with product standards/labelling,",
+          "...a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling.",
+          "Clear definitions and guidelines for environmentally friendly alternatives (unclarity remains about environmentally friendly alternatives, bioplastics, biodegradable and compostable plastics)"
+        ],
+        "reasoning": "The document explicitly identifies a lack of clarity and requests 'clear definitions and guidelines' for key terms to ensure a common, standardized understanding across stakeholders. Furthermore, it advocates for core obligations and implementation measures that include 'product standards/labelling' and 'standards for recycling operations,' which are key elements of harmonization aimed at creating consistent rules for plastic products and waste management globally."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions several knowledge sharing initiatives, including technology and knowledge transfer, sharing of best practices for private and informal sector engagement, research collaboration, and capacity building through fellowships and internships.",
+        "citation": [
+          "In addition to finance, transfer of technology and knowledge, and institutional capacity building are another enabling factor for the leased developed and developing countries to promote environmentally sound management of plastic waste...",
+          "Further research, knowledge, and technology transfer are needed in the following areas:",
+          "Best practices to engage the private sector, for innovation, finance and investments, sustainable production and consumption, EPR schemes, plastic credit schemes, etc.",
+          "Best practices to engage the informal sector into CE measures to meet lifestyle interests and aspirations while also providing social and economic security,",
+          "Capacity building and fellowship/internship in the field of biodegradable and compostable plastic management and circular economy."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for mechanisms to exchange information, expertise, and technology. The cited texts directly mention the need for 'transfer of technology and knowledge', sharing of 'best practices', and specific capacity-building programs like 'fellowship/internship', all of which are core components of knowledge sharing as defined in the code."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document describes Cambodia's support for various measures like 4R actions, phasing out non-essential plastics, and developing a National Action Plan. However, it does not contain any specific, measurable, or time-bound targets (e.g., reduction percentages, recycling rates, or specific deadlines for implementation)."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "virgin plastic production reduction; promotion of bioplastics/compostable alternatives; research and development for bioplastic technology",
+        "citation": [
+          "Innovation, finance, and business development for alternatives (such as bioplastics/compostable plastics), and Circular Economy solutions (recycling, reuse, plastic waste to energy, bricks, and asphalt production).",
+          "Particular attention should be paid to reducing the total volume of global plastic production, targeted at single-use plastics...",
+          "Promote the use of biodegradable and compostable products to replace plastic,",
+          "Research and development of bioplastic technology and investment in bioplastic production,"
+        ],
+        "reasoning": "The document explicitly mentions reducing the total volume of global plastic production, which targets the creation of new virgin plastics from raw feedstocks. Additionally, it repeatedly promotes the development and use of alternative feedstocks, such as bioplastics and compostable materials, as a key strategy to address plastic pollution."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document calls for reducing and controlling the total volume of global plastic production, banning the production of harmful substances and additives, promoting resource-efficient production, and investing in the production of alternatives like bioplastics.",
+        "citation": [
+          "Particular attention should be paid to reducing the total volume of global plastic production, targeted at single-use plastics...",
+          "Hence, it is crucial to address the root cause of the problem, by controlling and minimizing the total production of plastic materials/products, especially targeted at non-essential single-use plastic items and harmful chemical additives and substances.",
+          "Controlling and reducing the overall global plastic production,",
+          "Bans on the production and trade of harmful substances and additives,",
+          "Measures to foster private sector engagement: the private sector plays a pivotal role in fostering innovation in product design, technology and production, and mobilizing required finances/investments for resource efficient production..."
+        ],
+        "reasoning": "The cited texts explicitly advocate for measures that directly address the manufacturing and creation stage of plastics. Phrases like 'reducing the total volume of global plastic production,' 'controlling and minimizing the total production,' and 'Bans on the production' are clear indicators of upstream production-focused policies, aligning perfectly with the code definition."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document mentions addressing the full life cycle of plastics including the design stage, making plastics reusable and recyclable, setting product standards and eco-standards, and fostering innovation in product design.",
+        "citation": [
+          "We support the proposed comprehensive approach of \"addressing the full life cycle of plastics,\" inter alia, covering the design, production, trade, consumption, and waste management (collection, disposal and recycling) of plastics.",
+          "Making other plastics reusable and recyclable along with product standards/labelling,",
+          "Design and implementation of regulatory, fiscal, and economic measures and eco-standards,",
+          "...the private sector plays a pivotal role in fostering innovation in product design, technology and production, and mobilizing required finances/investments for resource efficient production, and effective collection and treatment of plastic waste."
+        ],
+        "reasoning": "The document explicitly includes \"design\" as a key stage in the full life cycle of plastics to be addressed. It further elaborates on design-related measures by proposing core obligations for making plastics \"reusable and recyclable,\" which are design principles. It also suggests voluntary \"eco-standards\" and highlights the role of the private sector in \"innovation in product design,\" confirming a clear focus on this value chain stage."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "Bans on harmful substances and additives, product standards/labelling for reusability and recyclability, controlling/reducing plastic product production, innovation in product design.",
+        "citation": [
+          "Hence, it is crucial to address the root cause of the problem, by controlling and minimizing the total production of plastic materials/products, especially targeted at non-essential single-use plastic items and harmful chemical additives and substances.",
+          "Bans and elimination of non-economically recyclable plastic items, harmful substances and additives,",
+          "Making other plastics reusable and recyclable along with product standards/labelling,",
+          "Bans on the production and trade of harmful substances and additives,",
+          "Measures to foster private sector engagement: the private sector plays a pivotal role in fostering innovation in product design, technology and production..."
+        ],
+        "reasoning": "The document explicitly addresses the manufacturing stage of plastic products by calling for measures to control and minimize their total production volume, implement product standards and labelling for reusability/recyclability, and foster innovation in product design. It specifically targets 'harmful chemical additives and substances' for bans and elimination. While microplastics are mentioned, it is only in the context of needing research on their environmental and health impacts, not a call to address intentionally added microplastics in products."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "Bans on the trade of harmful substances and additives, and enforcement against illegal trade of plastic waste.",
+        "citation": [
+          "We support the proposed comprehensive approach of \"addressing the full life cycle of plastics,\" inter alia, covering the design, production, trade, consumption, and waste management (collection, disposal and recycling) of plastics.",
+          "Bans on the production and trade of harmful substances and additives,",
+          "Bans and enforcement of prohibition on illegal trade, dumping, and disposal of plastic waste."
+        ],
+        "reasoning": "The document explicitly includes 'trade' as a key stage in the full life cycle of plastics to be addressed by the instrument. Furthermore, it proposes specific control measures, such as bans on the trade of harmful substances and enforcement against the illegal trade of plastic waste, which are direct interventions in the distribution and supply chain of plastics and plastic-related materials."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "The document addresses consumption by including it in the full life cycle approach. Specific measures mentioned include phasing out non-essential and single-use plastics, promoting sustainable consumption and production, and using awareness-raising activities to encourage consumer behavior change.",
+        "citation": [
+          "Scope: We support the proposed comprehensive approach of \"addressing the full life cycle of plastics,\" inter alia, covering the design, production, trade, consumption, and waste management (collection, disposal and recycling) of plastics.",
+          "Cambodia has observed rapidly growing volumes of plastic waste, mainly generated by single-use packaging materials.",
+          "Phasing out non-essential plastics including single-use plastics,",
+          "Awareness raising and outreach activities for behavior changes towards sustainable consumption and production,"
+        ],
+        "reasoning": "The document explicitly identifies 'consumption' as a key stage in the plastic life cycle to be addressed. It highlights 'single-use packaging materials' as a primary source of plastic waste, demonstrating a focus on disposable products. Furthermore, it proposes specific interventions targeting consumers, such as phasing out single-use plastics and implementing awareness campaigns to drive 'behavior changes towards sustainable consumption'."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions several measures and contexts related to the collection of plastic waste, including designing a voluntary Extended Producer Responsibility (EPR) scheme to ensure effective collection, enhancing national collection capacities, and engaging the private sector to mobilize investment for effective collection.",
+        "citation": [
+          "Cambodia is also in the process of designing a voluntary Extended Producer Responsibility (EPR) scheme to mobilize technical and financial support to ensure effective collection and treatment of plastic waste",
+          "We support the proposed comprehensive approach of \"addressing the full life cycle of plastics,\" inter alia, covering the design, production, trade, consumption, and waste management (collection, disposal and recycling) of plastics.",
+          "Equally important is to provide technical and financial support to low- and middle-income countries in enhancing collection and management capacities of plastic waste and legacy plastics.",
+          "EPR obligations for global multi-national corporates which produce oil and plastics to support low-and middle-income countries in achieving effective collection and recycling of plastic waste, and",
+          "...the private sector plays a pivotal role in fostering innovation in product design, technology and production, and mobilizing required finances/investments for resource efficient production, and effective collection and treatment of plastic waste."
+        ],
+        "reasoning": "The document explicitly identifies 'collection' as a critical stage in the plastic life cycle and waste management. It proposes specific policy instruments, such as Extended Producer Responsibility (EPR) schemes and private sector engagement, as key measures to ensure the 'effective collection' of plastic waste. The citations directly support this by naming collection as a target for financial support, capacity building, and corporate obligations."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document mentions several waste management measures, including recycling, waste to energy, using plastic waste in bricks and asphalt production, banning illegal dumping and disposal, setting standards for recycling operations, and the general need for environmentally sound management and treatment of plastic waste.",
+        "citation": [
+          "Circular Economy solutions (recycling, reuse, plastic waste to energy, bricks, and asphalt production).",
+          "Bans and enforcement of illegal trade, dumping, and disposal of plastic waste, and Environmentally sound management of plastic waste including legacy waste.",
+          "Besides NAP, a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling.",
+          "In addition to finance, transfer of technology and knowledge, and institutional capacity building are another enabling factor for the leased developed and developing countries to promote environmentally sound management of plastic waste (e. g. plastic recycling, plastic waste into bricks/asphalt production, waste to energy)..."
+        ],
+        "reasoning": "The document explicitly discusses measures for handling plastic waste after collection. The citations list specific downstream activities such as recycling, waste-to-energy, and the use of plastic waste in construction materials (bricks, asphalt). Furthermore, it proposes core obligations and policy instruments focused on the proper disposal and management of waste, such as banning illegal dumping and establishing standards for recycling operations, which are all key components of the waste management stage."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Recycling is mentioned as a core component of the 4R (Refuse, Reduce, Reuse, Recycle) framework and Circular Economy solutions. Specific measures discussed include making plastics recyclable, banning non-economically recyclable items, using EPR schemes to support collection and recycling, and the need for standards for recycling operations. The document also notes the current state of recycling in Cambodia, which is primarily handled by small enterprises with limited capacity.",
+        "citation": [
+          "In alignment with the global aim to end plastic pollution, Cambodia has developed and implemented several measures focusing on 4R (Refuse, Reduce, Reuse and Recycle) actions to reduce plastic waste generation and to prevent both land- and sea-based plastic leakages:",
+          "Making other plastics reusable and recyclable along with product standards/labelling,",
+          "EPR obligations for global multi-national corporates which produce oil and plastics to support low-and middle-income countries in achieving effective collection and recycling of plastic waste...",
+          "Besides NAP, a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling.",
+          "In the case of Cambodia, most recycling business are operated by micro- and small enterprises, with limited capacity to process the rapidly growing volume of plastic waste."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'recycling' as a key strategy. The citations demonstrate this by referencing recycling within the 4R framework, proposing core obligations such as making plastics 'recyclable', suggesting EPR schemes to fund 'collection and recycling', and identifying the need for specific 'standards for recycling operations'. This directly aligns with the code's definition of addressing the recycling or reprocessing of plastic materials."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document mentions several measures related to legacy plastic, including 'environmental clean-up activities', the need for enhanced 'management capacities of... legacy plastics', and a core obligation for the 'environmentally sound management of... legacy waste'.",
+        "citation": [
+          "Environmental education and awareness raising: This includes dissemination of 100+ videos, strategic social media-based communication, and clean-up and outreach activities to schools, communities, and temples, with a reach of more than 2 million students and people in Cambodia",
+          "Equally important is to provide technical and financial support to low- and middle-income countries in enhancing collection and management capacities of plastic waste and legacy plastics.",
+          "Environmentally sound management of plastic waste including legacy waste."
+        ],
+        "reasoning": "The cited texts provide clear evidence for this code. The first citation explicitly lists 'clean-up' activities as a measure being implemented. The second and third citations directly use the terms 'legacy plastics' and 'legacy waste,' identifying the need for their management and proposing this as a core obligation. This aligns perfectly with the code definition of addressing existing plastic pollution in the environment."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document mentions linking National Action Plans (NAPs) for plastic pollution to Nationally Determined Contributions (NDC) for Greenhouse Gas (GHG) targets in the waste sector. It also promotes 'waste to energy' as a circular economy solution and calls for appropriate environmental standards for such technologies.",
+        "citation": [
+          "NAPs should also entail clear plans for M&E and reporting to track and report the progress and results towards the set goals with references to linkages to the NDC GHG targets (waste sector).",
+          "Innovation, finance, and business development for alternatives (such as bioplastics/compostable plastics), and Circular Economy solutions (recycling, reuse, plastic waste to energy, bricks, and asphalt production).",
+          "Lastly, while many innovative solutions are emerging (e. g. environmentally friendly alternatives, plastic recycling, mixing plastic waste into bricks and asphalt production, waste to energy), there is limited knowledge about the feasibility of business models, their possible environmental impacts, and appropriate environmental standards."
+        ],
+        "reasoning": "The document explicitly connects national plastic management plans to national greenhouse gas (GHG) reduction targets. It also repeatedly cites 'waste to energy'—a process directly associated with atmospheric emissions—as a potential solution, while acknowledging the need to understand its environmental impacts and establish appropriate standards. This demonstrates a clear consideration of emissions within the plastic lifecycle."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document specifies a target to develop the international legally binding instrument by 2024.",
+        "citation": [
+          "Cambodia is committed to join hands with global and regional communities to act and support the development of the international legally binding instrument to end plastic pollution by 2024."
+        ],
+        "reasoning": "The cited text provides a specific year (2024) as a deadline for developing the international instrument, which constitutes a clear implementation timeframe for a key part of the process."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document advocates for a flexible implementation approach centered around National Action Plans (NAPs), which are explicitly compared to the Nationally Determined Contributions (NDCs) from the Paris Agreement. This model allows countries to set their own commitments based on national circumstances. Compliance is framed around monitoring and reporting progress rather than enforcement or penalties.",
+        "citation": [
+          "We support the combination of legally binding core obligations, control measures and voluntary elements, allowing for a flexible approach to implementation, by enabling countries to design and implement measures and actions outlined under a National Action Plan (NAP) that reflects national circumstances and priorities.",
+          "Similar to the Nationally Determined Contributions (NDCs) used under the Paris Agreement, National Action Plans (NAPs) shall be used as a key policy instrument for countries to outline national commitments, goals, and proposed sets of measures to contribute to both national and global goals to end land-and sea- based plastic pollution.",
+          "NAPs should also entail clear plans for M&E and reporting to track and report the progress and results towards the set goals..."
+        ],
+        "reasoning": "The submission supports a 'legally binding instrument' but proposes a low-stringency implementation mechanism. The explicit comparison of National Action Plans (NAPs) to the Paris Agreement's Nationally Determined Contributions (NDCs) indicates a preference for a flexible, nationally-driven 'pledge and review' system rather than a strict, top-down enforcement model. The focus on national circumstances, M&E, and reporting, without mention of sanctions or a compliance committee, confirms the 'Low' stringency assessment."
+      },
+      "scale": {
+        "scope": "National",
+        "details": "National implementation of a global treaty, executed through National Action Plans (NAPs) with involvement from sub-national governments.",
+        "citation": [
+          "Similar to the Nationally Determined Contributions (NDCs) used under the Paris Agreement, National Action Plans (NAPs) shall be used as a key policy instrument for countries to outline national commitments, goals, and proposed sets of measures to contribute to both national and global goals to end land-and sea- based plastic pollution.",
+          "How to ensure implementation of the instrument at the national level (e. g. the role of national action plans in meeting the objectives and obligations of the instrument?)",
+          "Policy, regulatory, fiscal, and economic measures (led by national and subnational governments): Besides NAP, a range of policy and regulatory instruments shall be required..."
+        ],
+        "reasoning": "The document, a submission from Cambodia regarding a global treaty, consistently emphasizes that the primary mechanism for implementation will be at the national level. The citations explicitly name 'National Action Plans (NAPs)' as the 'key policy instrument for countries' to meet global goals. Furthermore, the text specifies that implementation measures will be led by 'national and subnational governments,' confirming the national scope of the proposed actions."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document mentions mobilizing finances and investments from the private sector, specifically through mechanisms like voluntary Extended Producer Responsibility (EPR) schemes and plastic credit schemes. It also notes the need for private sector finance for innovation, business development, and waste management.",
+      "citation": [
+        "Mobilization of the private sector engagement for innovation, finance, and technical assistance for product development, EPR, and waste management.",
+        "the private sector plays a pivotal role in fostering innovation in product design, technology and production, and mobilizing required finances/investments for resource efficient production, and effective collection and treatment of plastic waste.",
+        "Best practices to engage the private sector, for innovation, finance and investments, sustainable production and consumption, EPR schemes, plastic credit schemes, etc.",
+        "Cambodia is also in the process of designing a voluntary Extended Producer Responsibility (EPR) scheme to mobilize technical and financial support to ensure effective collection and treatment of plastic waste"
+      ],
+      "reasoning": "The cited texts explicitly state the role of the private sector in mobilizing 'finance', 'finances/investments', and 'financial support'. The document also identifies specific private sector-funded mechanisms, such as 'EPR schemes' and 'plastic credit schemes', confirming that financing from this source is mentioned."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document mentions fiscal and economic measures led by national and subnational governments, including green procurement, levies, taxes, and subsidies.",
+      "citation": [
+        "Policy, regulatory, fiscal, and economic measures (led by national and subnational governments): Besides NAP, a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling.",
+        "Fiscal and economic measures are also essential to deter environmentally harmful plastic materials/products and to promote environmentally friendly alternatives and CE measures.",
+        "Various instruments (regulations, levies, taxes, subsidies, EPR schemes) can be used to promote environmentally friendly products and practices, and to deter the production and sale of hazardous/non-essential plastic materials/products."
+      ],
+      "reasoning": "The document explicitly states that 'fiscal, and economic measures' are 'led by national and subnational governments'. It then provides specific examples of these state-led financial instruments, such as 'green procurement,' 'levies,' 'taxes,' and 'subsidies,' which are all forms of public or state financing used to influence market behavior and support policy objectives."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document calls for financial and technical assistance for low- and middle-income countries and mentions engaging with 'development partners'.",
+      "citation": [
+        "Equally important is to provide technical and financial support to low- and middle-income countries in enhancing collection and management capacities of plastic waste and legacy plastics.",
+        "We also have promoted a multi-stakeholder approach and a just transition towards a circular economy and sustainable consumption and production through engaging the government, citizens, private sector, development partners, civil society, educational institution and academia, and the informal sector in jointly providing solutions to this challenge.",
+        "Financial and technical assistance is needed for low- and middle-income countries in implementing the obligations of the ILBI."
+      ],
+      "reasoning": "The document repeatedly and explicitly calls for 'financial and technical assistance' for low- and middle-income countries to implement the proposed international instrument. Furthermore, it mentions engaging with 'development partners', a term that commonly refers to international donors, multilateral banks, and other international organizations that provide financial support."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "The document mentions the use of fiscal and economic measures, specifically listing 'levies' and 'taxes' as instruments to deter harmful plastics and promote alternatives.",
+      "citation": [
+        "Fiscal and economic measures are also essential to deter environmentally harmful plastic materials/products and to promote environmentally friendly alternatives and CE measures.",
+        "Various instruments (regulations, levies, taxes, subsidies, EPR schemes) can be used to promote environmentally friendly products and practices, and to deter the production and sale of hazardous/non-essential plastic materials/products."
+      ],
+      "reasoning": "The cited text explicitly lists 'levies' and 'taxes' as potential instruments to address plastic pollution. This directly matches the code's definition of financing derived from fees, levies, taxes, or charges dedicated to addressing plastic pollution."
+    },
+    "credit_schemes": {
+      "mentioned": true,
+      "details": "plastic credit schemes",
+      "citation": [
+        "Best practices to engage the private sector, for innovation, finance and investments, sustainable production and consumption, EPR schemes, plastic credit schemes, etc.",
+        "Plastic credit schemes: What is the role of the emerging, voluntary plastic credit scheme under the ILBI?"
+      ],
+      "reasoning": "The document explicitly mentions 'plastic credit schemes' twice. It lists them as an area where best practices are needed and poses a direct question about the role of these schemes, which directly aligns with the code definition of financing through credit mechanisms."
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "voluntary Extended Producer Responsibility (EPR) scheme; voluntary plastic credit scheme",
+      "citation": [
+        "Cambodia is also in the process of designing a voluntary Extended Producer Responsibility (EPR) scheme to mobilize technical and financial support to ensure effective collection and treatment of plastic waste",
+        "Plastic credit schemes: What is the role of the emerging, voluntary plastic credit scheme under the ILBI?"
+      ],
+      "reasoning": "The document explicitly identifies two distinct voluntary financing mechanisms. It states that Cambodia is designing a 'voluntary Extended Producer Responsibility (EPR) scheme' to 'mobilize... financial support' from the private sector. It also raises a question about the role of an 'emerging, voluntary plastic credit scheme,' which is another form of non-mandatory financial contribution."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document mentions several responsibilities for the production sector, including: Extended Producer Responsibility (EPR) schemes to provide financial and technical support for waste management; reducing the overall global volume of plastic production; making plastics reusable and recyclable; adhering to product standards and labelling; ceasing production of harmful substances and additives; and fostering innovation in product design, technology, and resource-efficient production.",
+      "citation": [
+        "Cambodia is also in the process of designing a voluntary Extended Producer Responsibility (EPR) scheme to mobilize technical and financial support to ensure effective collection and treatment of plastic waste",
+        "Particular attention should be paid to reducing the total volume of global plastic production, targeted at single-use plastics...",
+        "EPR obligations for global multi-national corporates which produce oil and plastics to support low-and middle-income countries in achieving effective collection and recycling of plastic waste...",
+        "Making other plastics reusable and recyclable along with product standards/labelling...",
+        "...the private sector plays a pivotal role in fostering innovation in product design, technology and production, and mobilizing required finances/investments for resource efficient production..."
+      ],
+      "reasoning": "The document explicitly assigns several responsibilities to the production sector. The citations directly mention designing and implementing Extended Producer Responsibility (EPR) schemes, a core producer obligation. They also call for controlling and reducing the total volume of plastic production, designing products for reusability and recyclability, and innovating in product design and production processes. These points directly address the roles and obligations of plastic producers as defined by the code."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document highlights the role of consumers through concepts like 'sustainable consumption', the need for 'behavior change', and the engagement of 'citizens' as key stakeholders in solving plastic pollution. The 4R principles (Refuse, Reduce, Reuse, Recycle) are also mentioned, which directly involve consumer actions.",
+      "citation": [
+        "We also have promoted a multi-stakeholder approach and a just transition towards a circular economy and sustainable consumption and production through engaging the government, citizens, private sector, development partners, civil society, educational institution and academia, and the informal sector in jointly providing solutions to this challenge.",
+        "Awareness raising and outreach activities for behavior changes towards sustainable consumption and production,",
+        "The measures mentioned above will be effective only when adopted and implemented by target stakeholders (e. g. citizens, businesses, informal sector). This requires enhancing the knowledge of problems and solutions for plastic pollution. Systemic efforts are also required in support of behavior change."
+      ],
+      "reasoning": "The document explicitly identifies 'citizens' as stakeholders responsible for providing solutions to plastic pollution. It suggests that voluntary approaches should include 'awareness raising' to foster 'behavior changes' towards 'sustainable consumption'. Furthermore, it states that the effectiveness of all proposed measures is dependent on their adoption and implementation by citizens, reinforcing the idea that consumers have a crucial role and responsibility in the process."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document assigns several responsibilities to the waste management sector, including the collection, disposal, and recycling of plastics; enhancing waste management capacity; ensuring the environmentally sound management of plastic and legacy waste; achieving effective collection and treatment; and adhering to specific standards for recycling operations.",
+      "citation": [
+        "We support the proposed comprehensive approach of \"addressing the full life cycle of plastics,\" inter alia, covering the design, production, trade, consumption, and waste management (collection, disposal and recycling) of plastics.",
+        "Equally important is to provide technical and financial support to low- and middle-income countries in enhancing collection and management capacities of plastic waste and legacy plastics.",
+        "Environmentally sound management of plastic waste including legacy waste.",
+        "EPR obligations for global multi-national corporates which produce oil and plastics to support low-and middle-income countries in achieving effective collection and recycling of plastic waste...",
+        "...a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling."
+      ],
+      "reasoning": "The cited texts explicitly identify key responsibilities for the waste management sector. The citations define the scope of their work (collection, disposal, recycling), outline core obligations (environmentally sound management), describe the need to improve capacity (enhancing collection and management), and specify the requirement to adhere to operational rules ('standards for recycling operations'). These points directly address the roles and obligations of entities handling post-consumer plastic, as per the code definition."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "The informal sector is identified as a key stakeholder to be engaged in providing solutions for plastic pollution. It is also mentioned as a target for awareness measures and a group for whom best practices are needed for integration into Circular Economy (CE) measures, ensuring their social and economic security.",
+      "citation": [
+        "We also have promoted a multi-stakeholder approach and a just transition towards a circular economy and sustainable consumption and production through engaging the government, citizens, private sector, development partners, civil society, educational institution and academia, and the informal sector in jointly providing solutions to this challenge.",
+        "The measures mentioned above will be effective only when adopted and implemented by target stakeholders (e. g. citizens, businesses, informal sector).",
+        "Best practices to engage the informal sector into CE measures to meet lifestyle interests and aspirations while also providing social and economic security,"
+      ],
+      "reasoning": "The document explicitly includes the 'informal sector' in its list of stakeholders for a multi-stakeholder approach to solving plastic pollution. It is also identified as a target stakeholder for the implementation of environmental measures. Furthermore, the submission calls for research into best practices for engaging the informal sector in the circular economy while providing social and economic protections, clearly indicating a recognized role and responsibility."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines several government responsibilities, including: developing and implementing policies and regulations (such as National Action Plans and sub-decrees on plastic management), environmental education and awareness campaigns, fostering innovation and private sector engagement, designing EPR schemes, enforcing bans (on illegal trade, dumping), and implementing a range of policy, regulatory, fiscal, and economic measures (like green procurement and eco-labeling) at national and subnational levels.",
+      "citation": [
+        "Enabling policies and regulations for 4Rs, including draft National Action Plan & National Roadmap for plastic management, a draft sub decree on plastic management, and policy matrix",
+        "Bans and enforcement of illegal trade, dumping, and disposal of plastic waste, and",
+        "Similar to the Nationally Determined Contributions (NDCs) used under the Paris Agreement, National Action Plans (NAPs) shall be used as a key policy instrument for countries to outline national commitments, goals, and proposed sets of measures to contribute to both national and global goals to end land-and sea- based plastic pollution.",
+        "Policy, regulatory, fiscal, and economic measures (led by national and subnational governments): Besides NAP, a range of policy and regulatory instruments shall be required such as regulations on single-use plastics, standards for recycling operations, green procurement, and eco-labeling."
+      ],
+      "reasoning": "The cited text explicitly assigns responsibility for policy-making, regulation, and implementation to governmental bodies. Phrases like 'Enabling policies and regulations', 'Bans and enforcement', 'key policy instrument for countries', and measures 'led by national and subnational governments' directly confirm that the document details the obligations and roles of government in addressing plastic pollution."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Engaged as part of a multi-stakeholder approach to jointly provide solutions to the challenge of plastic pollution.",
+      "citation": [
+        "We also have promoted a multi-stakeholder approach and a just transition towards a circular economy and sustainable consumption and production through engaging the government, citizens, private sector, development partners, civil society, educational institution and academia, and the informal sector in jointly providing solutions to this challenge."
+      ],
+      "reasoning": "The document explicitly includes 'civil society', a term that encompasses non-governmental organizations, as a key actor in a multi-stakeholder approach. Their responsibility is defined as being engaged in 'jointly providing solutions' to the challenge of plastic pollution, directly fulfilling the code's definition."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "Hosting the intergovernmental negotiating committee meeting for the development of an international legally binding instrument on plastic pollution.",
+      "citation": [
+        "On behalf of the Cambodia delegation, we would like to express our sincere appreciation and gratitude to the UNEP and the Government of Uruguay for hosting the important intergovernmental negotiating committee meeting to develop an international legally binding instrument to end plastic pollution."
+      ],
+      "reasoning": "The document explicitly names a UN agency, UNEP (United Nations Environment Programme), and assigns it the responsibility of co-hosting the intergovernmental negotiating committee meeting. This directly fulfills the code's requirement to identify roles or responsibilities assigned to UN agencies or international bodies."
+    }
+  }
+}

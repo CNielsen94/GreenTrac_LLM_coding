@@ -1,0 +1,534 @@
+{
+  "submission_metadata": {
+    "country": "Brazil",
+    "date": null,
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "End plastic pollution: towards an international legally binding instrument",
+        "Brazil supports an ambitious instrument aimed at ending plastic pollution, whose objective covers the life cycle of plastics, including their associated hazardous chemical additives, with a view to protecting the environment and human health in a sustainable manner, taking into account environmental aspects, economic and social impacts, as well as national circumstances and capabilities."
+      ],
+      "reasoning": "The document's title and the first sentence under the 'Objective of the Instrument' section explicitly state that the goal is to 'end plastic pollution,' which directly aligns with the code definition. The document does not specify any year or timeline for achieving this objective."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "In the case of production restriction measures, if any, appropriate phase-out and just transition schemes should be implemented."
+      ],
+      "reasoning": "The document explicitly mentions 'production restriction measures' as a potential core obligation for the international instrument. This directly addresses the concept of reducing or limiting the manufacturing of new plastic, even though it is framed as a possibility ('if any')."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": "The document does not contain any mention of the benefits, positive contributions, or essential uses of plastics. The text's focus is exclusively on the negative aspects, framing plastic as a source of pollution to be addressed through an international instrument covering its entire life cycle from a regulatory and control perspective."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "Protecting human health from the entire life cycle of plastics, including from hazardous chemical additives.",
+      "citation": [
+        "Brazil supports an ambitious instrument aimed at ending plastic pollution, whose objective covers the life cycle of plastics, including their associated hazardous chemical additives, with a view to protecting the environment and human health in a sustainable manner, taking into account environmental aspects, economic and social impacts, as well as national circumstances and capabilities."
+      ],
+      "reasoning": "The document explicitly states that the objective of the instrument is to end plastic pollution with the specific aim of \"protecting... human health\", directly linking the treaty's purpose to health outcomes."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": false,
+      "citation": [
+        "Brazil supports an ambitious instrument aimed at ending plastic pollution, whose objective covers the life cycle of plastics... with a view to protecting the environment and human health in a sustainable manner..."
+      ],
+      "reasoning": "The document explicitly states that a key objective of the instrument is 'protecting the environment,' which directly aligns with the code's definition of environmental preservation goals. The focus remains general, with no specific mention of marine ecosystems, oceans, or marine life, hence 'marine_focus' is false."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "Brazil supports an ambitious instrument aimed at ending plastic pollution, whose objective covers the life cycle of plastics, including their associated hazardous chemical additives...",
+        "The overall effort to report the full lifecycle of plastics prior to the production of national action plans presents a significant challenge."
+      ],
+      "reasoning": "The document explicitly states that the instrument's objective is to cover the 'life cycle of plastics' and later refers to the 'full lifecycle of plastics'. The list of core obligations, which spans from raw materials and production to consumption and waste management, confirms the intent to address the entire lifecycle."
+    },
+    "other_objectives": {
+      "value": "Advance a circular economy for plastics and promote international collaboration and support for developing countries.",
+      "citation": [
+        "To achieve this, the Government of Canada is working with partners to advance a circular economy for plastics in Canada, in line with the Greening Government Strategy...",
+        "The Government of Canada’s objectives in the negotiations are to develop an ambitious, legally binding international instrument that...is based on a circular economy approach...",
+        "The instrument should also promote international collaboration and provide for financial and technical assistance, capacity building, and technology transfer for developing countries to support implementation."
+      ],
+      "reasoning": "The document explicitly states the objective of advancing a 'circular economy for plastics' multiple times. This is a distinct economic and systemic goal that is not covered by the other categories. Additionally, the document outlines a clear objective to 'promote international collaboration' and provide specific types of support (financial, technical, capacity building, technology transfer) to developing countries, which is a distinct international policy aim."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "Financial support for developing countries to aid in the preparation of inventories and reports, and general financing as a means of implementation.",
+        "citation": [
+          "Financial and technical support to developing countries for the preparation of technically sound inventories and reports will therefore be crucial.",
+          "As for the means of implementation, Brazil is in line with the submission presented by GRULAC, which stands for the assessment of this topic from an integrated perspective, including aspects of financing, capacity building, technical assistance and technological cooperation, articulating them with the obligations and control measures under the agreement."
+        ],
+        "reasoning": "The document explicitly calls for 'Financial and technical support' and 'financing' for developing countries to help them implement the agreement, specifically for preparing inventories and reports. These terms fall directly under the code definition, which includes 'financial support' and 'grants' as examples of subsidies."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document mentions the need for financing for technological cooperation and support for a network of technical centres that could provide technological cooperation.",
+        "citation": [
+          "As for the means of implementation, Brazil is in line with the submission presented by GRULAC, which stands for the assessment of this topic from an integrated perspective, including aspects of financing, capacity building, technical assistance and technological cooperation, articulating them with the obligations and control measures under the agreement.",
+          "The new agreement would also benefit from a network of technical centres that could provide regulatory, technical and technological cooperation at national, regional and global levels."
+        ],
+        "reasoning": "The document explicitly links 'financing' with 'technological cooperation,' which constitutes financial support for technological development and innovation. This aligns with the code definition of R&D funding. The call for a network of technical centres to provide 'technological cooperation' further reinforces this by suggesting investment in infrastructure for technology development and transfer."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "Implementation of appropriate phase-out and just transition schemes in the case of production restriction measures.",
+        "citation": [
+          "In the case of production restriction measures, if any, appropriate phase-out and just transition schemes should be implemented."
+        ],
+        "reasoning": "The document explicitly calls for the implementation of 'just transition schemes' as a necessary component to accompany potential 'production restriction measures'. This directly aligns with the code's definition of addressing the social impact of the transition on potentially affected groups."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document mentions potential 'production restriction measures' and 'phase-out' schemes, without specifying the exact products or materials to be targeted.",
+        "citation": [
+          "In the case of production restriction measures, if any, appropriate phase-out and just transition schemes should be implemented."
+        ],
+        "reasoning": "The document explicitly discusses the possibility of implementing 'production restriction measures' and 'phase-out' schemes. These terms are directly aligned with the code definition of bans, which includes prohibitions and gradual eliminations."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "minimal recycled content",
+        "citation": [
+          "minimal recycled content"
+        ],
+        "reasoning": "The document explicitly lists 'minimal recycled content' as a potential core obligation or control measure. This is a direct example of a performance standard, as it sets a specific, measurable requirement that products or materials must meet."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document suggests that the agreement would benefit from the establishment of a network of technical centres to provide cooperation and support.",
+        "citation": [
+          "The new agreement would also benefit from a network of technical centres that could provide regulatory, technical and technological cooperation at national, regional and global levels."
+        ],
+        "reasoning": "The cited text explicitly proposes the creation of a specific supportive infrastructure ('a network of technical centres') to aid in the implementation of the treaty. This aligns with the code definition's requirement for 'facility establishment, or system creation to implement the treaty provisions'."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "national action plans",
+        "citation": [
+          "national action plans,",
+          "The overall effort to report the full lifecycle of plastics prior to the production of national action plans presents a significant challenge."
+        ],
+        "reasoning": "The document explicitly lists 'national action plans' as a potential core obligation or control measure. It further discusses the challenges associated with the 'production of national action plans', confirming their role as a mandatory instrument for implementation."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document discusses the need for reporting on the full lifecycle of plastics, including the preparation of technically sound inventories and reports, to assess the effectiveness of the instrument.",
+        "citation": [
+          "With regard to implementation measures, the assessment of the effectiveness of the instrument, regardless of specific reporting requirements, will depend on the collection of data that are not readily available.",
+          "The overall effort to report the full lifecycle of plastics prior to the production of national action plans presents a significant challenge.",
+          "Financial and technical support to developing countries for the preparation of technically sound inventories and reports will therefore be crucial."
+        ],
+        "reasoning": "The text explicitly mentions \"specific reporting requirements\", the action to \"report the full lifecycle of plastics\", and the need to prepare \"inventories and reports\". This indicates that reporting is a considered regulatory component of the instrument, even while acknowledging the challenges it presents."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document suggests that core obligations and control measures for the instrument could relate to domestic and international trade, including the management of illegal traffic flows.",
+        "citation": [
+          "domestic and international trade (including illegal traffic flows)"
+        ],
+        "reasoning": "The document explicitly lists 'international trade' as a potential area for core obligations and control measures in the new instrument. This directly aligns with the code definition, which looks for measures affecting the international trade of plastics."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document discusses the need for assessments of microplastics, assessing the effectiveness of the instrument, collecting data, preparing technically sound inventories and reports, and reporting on the full lifecycle of plastics.",
+        "citation": [
+          "assessments of microplastics",
+          "With regard to implementation measures, the assessment of the effectiveness of the instrument, regardless of specific reporting requirements, will depend on the collection of data that are not readily available.",
+          "The overall effort to report the full lifecycle of plastics prior to the production of national action plans presents a significant challenge.",
+          "Financial and technical support to developing countries for the preparation of technically sound inventories and reports will therefore be crucial.",
+          "This will be in the interest of all members and other stakeholders, as the data will be essential in assessing whether the agreement is achieving its objectives."
+        ],
+        "reasoning": "The document explicitly mentions the need to assess the instrument's effectiveness and gather data to see if its objectives are being met. It also lists specific monitoring-related activities, such as 'assessments of microplastics,' 'collection of data,' and the preparation of 'inventories and reports.' These activities directly align with the code's definition of tracking, measuring, and evaluating plastic pollution and policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document mentions several information and guidance measures, including a network of technical centres for regulatory, technical, and technological cooperation; technical assistance and support for creating inventories and reports; and the gathering of the best available science to support the instrument's work.",
+        "citation": [
+          "Financial and technical support to developing countries for the preparation of technically sound inventories and reports will therefore be crucial.",
+          "The new agreement would also benefit from a network of technical centres that could provide regulatory, technical and technological cooperation at national, regional and global levels.",
+          "As for the means of implementation, Brazil is in line with the submission presented by GRULAC, which stands for the assessment of this topic from an integrated perspective, including aspects of financing, capacity building, technical assistance and technological cooperation, articulating them with the obligations and control measures under the agreement.",
+          "Finally, Brazil is also in line with the position of GRULAC countries that the gathering of the best available science is fundamental to support the INC's work towards an ambitious and effective instrument on plastic pollution."
+        ],
+        "reasoning": "The cited texts explicitly advocate for mechanisms that provide information and guidance to member states. The call for 'technical support', 'technical assistance', a 'network of technical centres' to provide cooperation, and the 'gathering of the best available science' are all clear examples of informational resources and expert guidance intended to help countries implement the agreement and support the negotiation process."
+      },
+      "education": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "network of technical centres; natural, economic and social sciences experts",
+        "citation": [
+          "The new agreement would also benefit from a network of technical centres that could provide regulatory, technical and technological cooperation at national, regional and global levels.",
+          "Brazil believes that the contribution from natural, economic and social sciences experts could be requested to governments and gathered, according to geographic and gender balance."
+        ],
+        "reasoning": "The document proposes establishing a 'network of technical centres' to offer technical cooperation and also suggests gathering contributions from 'natural, economic and social sciences experts' to support the instrument's development. Both of these proposals fit the definition of an expert body providing guidance for the treaty's implementation."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "Gathering the best available science; Requesting contributions from natural, economic, and social sciences experts.",
+        "citation": [
+          "Finally, Brazil is also in line with the position of GRULAC countries that the gathering of the best available science is fundamental to support the INC's work towards an ambitious and effective instrument on plastic pollution.",
+          "In this sense, Brazil believes that the contribution from natural, economic and social sciences experts could be requested to governments and gathered, according to geographic and gender balance."
+        ],
+        "reasoning": "The document explicitly states that gathering 'the best available science' and contributions from 'natural, economic and social sciences experts' is 'fundamental' for the instrument's success. This directly aligns with the definition of encouraging scientific knowledge development to support policy-making, which is a form of research promotion."
+      },
+      "harmonization": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions several knowledge sharing mechanisms, including technical support for inventories and reports, a network of technical centres for regulatory and technological cooperation, technical assistance, technological cooperation, capacity building, and the gathering of the best available science from experts.",
+        "citation": [
+          "Financial and technical support to developing countries for the preparation of technically sound inventories and reports will therefore be crucial.",
+          "The new agreement would also benefit from a network of technical centres that could provide regulatory, technical and technological cooperation at national, regional and global levels.",
+          "As for the means of implementation, Brazil is in line with the submission presented by GRULAC, which stands for the assessment of this topic from an integrated perspective, including aspects of financing, capacity building, technical assistance and technological cooperation, articulating them with the obligations and control measures under the agreement.",
+          "Finally, Brazil is also in line with the position of GRULAC countries that the gathering of the best available science is fundamental to support the INC's work towards an ambitious and effective instrument on plastic pollution."
+        ],
+        "reasoning": "The cited texts explicitly mention mechanisms designed to exchange expertise and information to build capacity. Phrases like 'technical support', 'network of technical centres', 'technical and technological cooperation', 'technical assistance', and 'gathering of the best available science' directly align with the definition of knowledge sharing as the exchange of information, technology, or expertise among stakeholders."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document outlines Brazil's high-level position and lists potential areas for core obligations, such as 'minimal recycled content' and 'production restriction measures'. However, it does not provide any specific, measurable targets with concrete numbers, percentages, or deadlines. The text is a general statement of principles and priorities for a future agreement, not a detailed policy with established targets."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "Measures related to raw materials and minimal recycled content requirements.",
+        "citation": [
+          "Regarding core obligations, control measures and voluntary approaches to be agreed upon, they may relate to:",
+          "*   raw materials,",
+          "*   minimal recycled content, and"
+        ],
+        "reasoning": "The document explicitly lists 'raw materials' and 'minimal recycled content' as potential core obligations or control measures for the new instrument. These directly relate to the feedstock stage of the plastic value chain, aligning with the code's definition."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "production processes and outputs, production restriction measures",
+        "citation": [
+          "production processes and outputs,",
+          "In the case of production restriction measures, if any, appropriate phase-out and just transition schemes should be implemented."
+        ],
+        "reasoning": "The document explicitly lists 'production processes and outputs' as a potential area for core obligations and control measures. It further specifies the consideration of 'production restriction measures', which directly addresses the manufacturing and creation stage of plastics as per the code definition."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "regulation of chemical additives, regulation of production processes and outputs",
+        "citation": [
+          "Brazil supports an ambitious instrument aimed at ending plastic pollution, whose objective covers the life cycle of plastics, including their associated hazardous chemical additives...",
+          "Regarding core obligations, control measures and voluntary approaches to be agreed upon, they may relate to: raw materials, additives, production processes and outputs, consumption patterns..."
+        ],
+        "reasoning": "The document explicitly states that the instrument's objective covers 'hazardous chemical additives' and lists 'additives', 'production processes and outputs' as potential core obligations. This directly addresses chemical additives and the manufacturing of plastic products. While microplastics are mentioned, it is in the context of general 'assessments' and not specifically about intentionally added microplastics in products."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "domestic and international trade (including illegal traffic flows)",
+        "citation": [
+          "domestic and international trade (including illegal traffic flows)"
+        ],
+        "reasoning": "The document lists 'domestic and international trade (including illegal traffic flows)' as a potential area for core obligations. This directly refers to the transportation and supply chain phase where plastic products are moved within and between countries, which is a fundamental aspect of distribution in the midstream value chain."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "consumption patterns, environmentally friendly alternatives",
+        "citation": [
+          "Regarding core obligations, control measures and voluntary approaches to be agreed upon, they may relate to: ... consumption patterns, ... economically viable and environmentally friendly alternatives, ..."
+        ],
+        "reasoning": "The document explicitly lists 'consumption patterns' and 'economically viable and environmentally friendly alternatives' as potential areas to be addressed by core obligations, control measures, and voluntary approaches within the international instrument. This directly refers to the consumption stage of the plastic life cycle."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "waste management",
+        "citation": [
+          "Regarding core obligations, control measures and voluntary approaches to be agreed upon, they may relate to: ... waste management"
+        ],
+        "reasoning": "The document explicitly lists 'waste management' as a core area for obligations and control measures within the international instrument. The collection of post-consumer plastic waste is a foundational step in the waste management process, and therefore this citation directly addresses the collection stage of the value chain."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document lists 'waste management' as a potential area for core obligations, control measures, and voluntary approaches within the international instrument.",
+        "citation": [
+          "Regarding core obligations, control measures and voluntary approaches to be agreed upon, they may relate to: ... waste management, ..."
+        ],
+        "reasoning": "The document explicitly includes 'waste management' in a list of potential core obligations for the legally binding instrument. This directly confirms that measures addressing the handling of plastic waste after collection are being considered as part of the treaty."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "minimal recycled content; waste management",
+        "citation": [
+          "Regarding core obligations, control measures and voluntary approaches to be agreed upon, they may relate to: ... waste management, ... minimal recycled content, and ... regulation matters."
+        ],
+        "reasoning": "The document explicitly lists 'minimal recycled content' and 'waste management' as potential core obligations or control measures for the international instrument. Mandating 'minimal recycled content' is a specific measure designed to promote the use of reprocessed materials, thereby driving recycling activities. 'Waste management' is a broader category that encompasses the recycling of plastic materials from waste."
+      },
+      "legacy_plastic": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "assessments of microplastics",
+        "citation": [
+          "Regarding core obligations, control measures and voluntary approaches to be agreed upon, they may relate to: ... national action plans, assessments of microplastics, minimal recycled content, and regulation matters."
+        ],
+        "reasoning": "The document explicitly lists 'assessments of microplastics' as a potential core obligation or control measure for the international instrument. This directly refers to measures for understanding and addressing the unintentional release of microplastics, which aligns with the code definition."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document suggests that if production restriction measures are included, they should be implemented through 'appropriate phase-out and just transition schemes', indicating a gradual, time-based approach rather than an immediate one.",
+        "citation": [
+          "In the case of production restriction measures, if any, appropriate phase-out and just transition schemes should be implemented."
+        ],
+        "reasoning": "The document explicitly mentions 'phase-out... schemes' as the proposed implementation method for potential production restrictions. A 'phase-out' is a specific type of timeline that occurs over a period of time, thus fulfilling the code's definition of mentioning a timeline or schedule for implementation."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "A compliance mechanism with a facilitative and cooperative approach is proposed, rather than a punitive one.",
+        "citation": [
+          "Any compliance-related mechanism should help countries implement the new agreement through a facilitative and cooperative approach."
+        ],
+        "reasoning": "The document explicitly proposes a compliance mechanism that is 'facilitative and cooperative'. This terminology points to a low-stringency model focused on support and assistance for implementation, rather than a high-stringency model that would involve strict enforcement, sanctions, or penalties for non-compliance."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global, legally binding instrument implemented through national-level actions and plans, with cooperation envisioned at national, regional, and global levels.",
+        "citation": [
+          "End plastic pollution: towards an international legally binding instrument",
+          "The overall effort to report the full lifecycle of plastics prior to the production of national action plans presents a significant challenge.",
+          "The effectiveness and efficiency of the implementation of the future instrument will also depend on cooperation with other multilateral environmental agreements...",
+          "The new agreement would also benefit from a network of technical centres that could provide regulatory, technical and technological cooperation at national, regional and global levels."
+        ],
+        "reasoning": "The document's title and references to 'international legally binding instrument' and 'multilateral environmental agreements' clearly establish a global scope. The implementation is described as being carried out through 'national action plans' and supported by cooperation at 'national, regional, and global levels', confirming a global framework with national-level execution."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document calls for financial support to developing countries for implementation, including financing for capacity building, technical assistance, and the preparation of inventories and reports as part of a new international agreement.",
+      "citation": [
+        "It is essential to emphasize that ambitious obligations will require commensurate means of implementation for developing countries.",
+        "Financial and technical support to developing countries for the preparation of technically sound inventories and reports will therefore be crucial.",
+        "As for the means of implementation, Brazil is in line with the submission presented by GRULAC, which stands for the assessment of this topic from an integrated perspective, including aspects of financing, capacity building, technical assistance and technological cooperation, articulating them with the obligations and control measures under the agreement."
+      ],
+      "reasoning": "The document explicitly identifies 'financing' as a crucial 'means of implementation' for the international agreement. The call for 'Financial and technical support to developing countries' to fulfill national-level obligations (like preparing inventories and reports) within an inter-governmental framework clearly refers to public or state-level funding mechanisms, even if the specific instrument (e.g., grants, budget allocations) is not detailed."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "Financial support to developing countries, financing for means of implementation, cooperation with multilateral environmental agreements and entities.",
+      "citation": [
+        "ambitious obligations will require commensurate means of implementation for developing countries.",
+        "Financial and technical support to developing countries for the preparation of technically sound inventories and reports will therefore be crucial.",
+        "The effectiveness and efficiency of the implementation of the future instrument will also depend on cooperation with other multilateral environmental agreements and entities in the area of chemicals and waste...",
+        "As for the means of implementation, Brazil is in line with the submission presented by GRULAC, which stands for the assessment of this topic from an integrated perspective, including aspects of financing, capacity building, technical assistance and technological cooperation..."
+      ],
+      "reasoning": "The document, in the context of an international legally binding instrument, repeatedly emphasizes the need for 'financial...support to developing countries' and lists 'financing' as a key 'means of implementation'. This implies that financial resources will need to flow from international sources to developing nations to ensure compliance and effectiveness. The mention of cooperation with 'multilateral environmental agreements and entities' further solidifies the international nature of the required financing mechanisms."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document discusses the need for financing as a means of implementation but does not specify any sources for these funds. There is no mention of mechanisms such as fees, taxes, levies, or charges dedicated to addressing plastic pollution."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document lists potential core obligations and control measures that relate to the production sector, including those concerning raw materials, additives, production processes, outputs, minimal recycled content, and production restriction measures.",
+      "citation": [
+        "Regarding core obligations, control measures and voluntary approaches to be agreed upon, they may relate to:\n*   raw materials,\n*   additives,\n*   production processes and outputs,\n*   minimal recycled content, and\n*   regulation matters.",
+        "In the case of production restriction measures, if any, appropriate phase-out and just transition schemes should be implemented."
+      ],
+      "reasoning": "The cited texts explicitly list potential 'core obligations' and 'control measures' that directly target the production phase of the plastic lifecycle. Items such as 'production processes and outputs,' 'minimal recycled content,' and 'production restriction measures' are all direct responsibilities assigned to the production sector."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document suggests that 'consumption patterns' should be a focus for core obligations and control measures.",
+      "citation": [
+        "consumption patterns"
+      ],
+      "reasoning": "The document lists 'consumption patterns' as a potential area for core obligations, control measures, and voluntary approaches. This directly implicates the role and responsibilities of consumers in how they use and purchase plastic goods."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "waste management",
+      "citation": [
+        "Regarding core obligations, control measures and voluntary approaches to be agreed upon, they may relate to: ... waste management,"
+      ],
+      "reasoning": "The document explicitly includes 'waste management' in a list of potential 'core obligations, control measures and voluntary approaches' for the international legally binding instrument. This directly assigns a potential area of responsibility to actors involved in the waste management sector."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Responsibilities include developing national action plans, data collection and reporting, regulatory oversight of plastics (including raw materials, trade, and waste management), implementing production restrictions and phase-out schemes, assessing microplastics, and ensuring compliance with the international agreement.",
+      "citation": [
+        "waste management, national action plans, assessments of microplastics, minimal recycled content, and regulation matters.",
+        "In the case of production restriction measures, if any, appropriate phase-out and just transition schemes should be implemented.",
+        "The overall effort to report the full lifecycle of plastics prior to the production of national action plans presents a significant challenge.",
+        "Any compliance-related mechanism should help countries implement the new agreement through a facilitative and cooperative approach."
+      ],
+      "reasoning": "The document outlines Brazil's perspective on the core obligations and implementation measures for the plastic pollution treaty, which are inherently responsibilities of national governments. The cited texts explicitly list government-led activities such as creating 'national action plans,' handling 'regulation matters,' 'reporting,' and 'implementing' the agreement's measures, thus confirming the government's central role and obligations."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document mentions responsibilities including cooperation with other multilateral environmental agreements and entities, providing regulatory, technical, and technological cooperation through a network of technical centres, and supporting the Intergovernmental Negotiating Committee (INC) with scientific information.",
+      "citation": [
+        "The effectiveness and efficiency of the implementation of the future instrument will also depend on cooperation with other multilateral environmental agreements and entities in the area of chemicals and waste in order to find complementarities, thus avoiding the duplication of mandates and efforts.",
+        "The new agreement would also benefit from a network of technical centres that could provide regulatory, technical and technological cooperation at national, regional and global levels.",
+        "Finally, Brazil is also in line with the position of GRULAC countries that the gathering of the best available science is fundamental to support the INC's work towards an ambitious and effective instrument on plastic pollution."
+      ],
+      "reasoning": "The cited texts explicitly assign roles to international bodies. The first quote calls for 'cooperation with other multilateral environmental agreements and entities'. The second suggests a 'network of technical centres' to provide cooperation, a function typically managed by an international body or treaty secretariat. The third quote identifies a need to gather science to 'support the INC's work', with the INC being a UN-convened body, thus indicating a support responsibility within the international system."
+    }
+  }
+}

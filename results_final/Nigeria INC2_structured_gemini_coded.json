@@ -1,0 +1,608 @@
+{
+  "submission_metadata": {
+    "country": "Nigeria",
+    "date": "2023-02-07",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?"
+      ],
+      "reasoning": "The document explicitly outlines a series of recommendations as part of a 'comprehensive approach to addressing plastic pollution'. This phrase directly aligns with the code definition's requirement to find mentions of 'addressing' or 'tackling' the issue. The entire submission is structured to provide answers to this core objective."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Promote Sustainable Consumption and Production of Plastic and elimination of problematic polymers",
+        "National Plastic Reduction Targets",
+        "Sustainable Consumption and Production of Plastic: This is aimed towards overall reduction of plastic production particularly difficult and unnecessary single-use plastics, promotion of circular economy in the plastic value chain.",
+        "Mandatory high tax on virgin plastic production",
+        "It is essential that reduction targets are incorporated into the national action plans."
+      ],
+      "reasoning": "The document explicitly states that a proposed objective is the 'overall reduction of plastic production'. It also proposes 'National Plastic Reduction Targets' and a 'Mandatory high tax on virgin plastic production' as a control measure, which is a mechanism to decrease production. However, it does not provide any specific quantitative targets, percentages, or caps, hence 'specification_provided' is false."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document expresses concerns about hazardous chemicals, toxins, and heavy metals in plastics. It proposes measures to protect human health by eliminating these substances, ensuring transparency through chemical labeling, and promoting innovations for toxic-free and less hazardous plastic products.",
+      "citation": [
+        "The right to know, labeling of all chemical additives use in plastics and elimination of hazardous chemicals from plastic production to ensure a toxic-free plastics for all.",
+        "Replace plastic production processes that require the use of heavy metals as stabilizers.",
+        "Acceleration of toxic-free plastic innovations.",
+        "Capacity building workshops in the six Geo-political Zones of the Country aimed at training manufacturers and recyclers with improved technical processes that would ensure a smoother transmission to the production and recycling of less hazardous plastic products."
+      ],
+      "reasoning": "The document explicitly advocates for the 'elimination of hazardous chemicals' and the creation of 'toxic-free plastics for all.' It also targets specific harmful substances like 'heavy metals' and aims for the production of 'less hazardous plastic products.' These points directly and repeatedly address the objective of safeguarding human health from the risks associated with toxic substances in plastics."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?"
+      ],
+      "reasoning": "The document explicitly frames the discussion of core obligations and control measures around the need to address plastic pollution 'including in the marine environment.' This directly indicates that the protection of marine ecosystems is a key consideration and an intended outcome of the proposed policy measures, satisfying the code's definition."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "EPR scheme/Industry interventions to ensure plastics producers and manufacturers are responsible for their products throughout their lifecycle.",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "Mandatory circularity application to design out waste throughout the lifecycle of plastic"
+      ],
+      "reasoning": "The document explicitly uses the phrases 'throughout their lifecycle' and 'full life cycle' when discussing core obligations and Extended Producer Responsibility (EPR). The citations show a clear intent to address plastics from production to end-of-life, validating that the concept is mentioned and that the intended coverage is comprehensive."
+    },
+    "other_objectives": {
+      "value": "Promote a just transition and provide support for developing countries",
+      "citation": [
+        "Additionally, the instrument must promote a just transition for affected workers and communities, particularly in developing countries that face significant challenges in managing plastic waste.",
+        "This includes providing financial resources, technical assistance, and capacity-building to ensure that no one is left behind in the shift towards a circular economy for plastics."
+      ],
+      "reasoning": "The cited text outlines a clear objective to ensure a 'just transition' and provide specific support (financial, technical, capacity-building) for developing countries and affected workers. This focus on socio-economic equity and implementation support is distinct from the other specified categories, which are primarily concerned with environmental outcomes (ending pollution, protecting biodiversity), health, or the technical scope of the policy (lifecycle approach, reducing production)."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "Plastic Taxes, Mandatory high tax on virgin plastic production",
+        "citation": [
+          "- Plastic Taxes",
+          "Mandatory high tax on virgin plastic production"
+        ],
+        "reasoning": "The document explicitly lists 'Plastic Taxes' as a proposed objective for an international instrument. It also specifies a 'Mandatory high tax on virgin plastic production' as a recommended control measure, which is a direct example of a tax-based economic instrument."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document mentions providing grants to local producers and recyclers to acquire modern technologies, start-off grants for small and medium-scale plastic producers and recyclers, and incentive-based systems for waste recovery and sorting-at-source.",
+        "citation": [
+          "Train and boost local producers and recyclers by equipping them with grants and modern Technologies that would promote 1 and 2 above and at the same time cushion the cost of transition to acquire this new technology.",
+          "Effective buy-back model through incentives targeting improved sorting-at-source strategy",
+          "Incentive-based recovery system",
+          "Provisions of start off grants to small and medium scale plastic producers and recyclers who have been trained by this project in the 36 states of the country including the Federal Capital Territory (Abuja) increasing their numbers in every state and providing easily accessible plastic collection points."
+        ],
+        "reasoning": "The document explicitly uses the terms 'grants' and 'incentives', which are forms of subsidies. These are proposed to support producers/recyclers in transitioning to new technologies, to help small and medium businesses, and to encourage specific behaviors like waste sorting and recovery, directly matching the code definition."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document suggests implementing the 'Polluter pays principle', 'Plastic Taxes', and a 'Mandatory high tax on virgin plastic production'.",
+        "citation": [
+          "Plastic Taxes",
+          "Polluter pays principle through a robust national Extended Producer Responsibility programme that prioritize the most vulnerable groups to plastic pollution.",
+          "Mandatory high tax on virgin plastic production"
+        ],
+        "reasoning": "The document explicitly includes 'Plastic Taxes' as a proposed objective and the 'polluter pays principle' as a core obligation. Furthermore, it lists a 'Mandatory high tax on virgin plastic production' as a control measure. These all represent punitive financial measures designed to penalize or disincentivize certain behaviors, such as producing pollution or using virgin materials, aligning perfectly with the code definition."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": true,
+        "details": "Effective buy-back model, Incentive-based recovery system",
+        "citation": [
+          "Effective buy-back model through incentives targeting improved sorting-at-source strategy",
+          "Incentive-based recovery system"
+        ],
+        "reasoning": "The document proposes an 'Effective buy-back model' and an 'Incentive-based recovery system'. A buy-back model is functionally equivalent to a deposit-return system, where consumers receive a monetary incentive (a refund or payment) for returning used items, which directly aligns with the code definition."
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "Grants for modern technologies for producers and recyclers, start-off grants for small and medium scale plastic producers and recyclers, and support for technology research and development.",
+        "citation": [
+          "Train and boost local producers and recyclers by equipping them with grants and modern Technologies that would promote 1 and 2 above and at the same time cushion the cost of transition to acquire this new technology.",
+          "Provisions of start off grants to small and medium scale plastic producers and recyclers who have been trained by this project in the 36 states of the country including the Federal Capital Territory (Abuja) increasing their numbers in every state and providing easily accessible plastic collection points.",
+          "Technology research and development"
+        ],
+        "reasoning": "The document explicitly proposes providing 'grants' to plastic producers and recyclers to help them acquire 'modern technologies' and as 'start off' capital. It also lists 'Technology research and development' as a priority, directly aligning with the code's definition of R&D funding and financial support for technological development in the plastics value chain."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "A national EPR scheme based on the polluter pays principle, making producers responsible for their products throughout their lifecycle.",
+        "citation": [
+          "Extended Producer Responsibility scheme/Industry interventions",
+          "EPR scheme/Industry interventions to ensure plastics producers and manufacturers are responsible for their products throughout their lifecycle.",
+          "Polluter pays principle through a robust national Extended Producer Responsibility programme that prioritize the most vulnerable groups to plastic pollution."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'Extended Producer Responsibility scheme' and 'EPR scheme' as a proposed objective and a core obligation. The citations clarify that this scheme should make producers responsible for the full product lifecycle and be implemented as a national program based on the 'polluter pays principle', which directly aligns with the code definition."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "Support and social inclusion for vulnerable groups such as waste pickers and frontline communities, integration of informal waste pickers into the plastic value chain and circular economy programs, prioritization of vulnerable groups in EPR schemes, and provision of 'Train the Trainee' programs for informal workers.",
+        "citation": [
+          "Just Transition for waste pickers and frontline communities.",
+          "Just Transition Programme for waste pickers and frontline communities: This is to support and provide social inclusion for vulnerable groups such as waste pickers and frontline communities. Integration of informal waste pickers into the plastic value chain programme/ plastic circular economy programme.",
+          "Polluter pays principle through a robust national Extended Producer Responsibility programme that prioritize the most vulnerable groups to plastic pollution.",
+          "Provision of Train the Trainee programme and integration of informal waste pickers and workers into plastic circular plastic economy programme"
+        ],
+        "reasoning": "The document explicitly uses the term 'Just Transition' and lists it as a key objective for the treaty. It further details specific measures aimed at supporting vulnerable groups, such as waste pickers and frontline communities, through social inclusion, integration into the formal circular economy, and prioritization in other policy instruments like EPR. This directly aligns with the code definition of addressing the social impact of the transition on vulnerable populations."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document proposes the 'elimination of problematic polymers', the 'elimination of hazardous chemicals from plastic production', and the 'Elimination and banning of unnecessary single-use plastics and difficult plastics'.",
+        "citation": [
+          "Promote Sustainable Consumption and Production of Plastic and elimination of problematic polymers",
+          "elimination of hazardous chemicals from plastic production to ensure a toxic-free plastics for all.",
+          "Elimination and banning of unnecessary single-use plastics and difficult plastics"
+        ],
+        "reasoning": "The document explicitly uses the terms 'elimination' and 'banning' as key proposals under its objectives and control measures. The citations directly mention the prohibition and removal of specific categories of plastics and chemical additives, which aligns perfectly with the code definition."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "Mandatory circularity application to design out waste, replacing production processes using heavy metals, and standards for producing less hazardous and toxic-free plastic products.",
+        "citation": [
+          "Replace plastic production processes that require the use of heavy metals as stabilizers.",
+          "Mandatory circularity application to design out waste throughout the lifecycle of plastic",
+          "Capacity building workshops in the six Geo-political Zones of the Country aimed at training manufacturers and recyclers with improved technical processes that would ensure a smoother transmission to the production and recycling of less hazardous plastic products."
+        ],
+        "reasoning": "The document explicitly proposes specific criteria and requirements for plastic products and their production processes. The citations call for replacing processes that use heavy metals, mandating a 'design out waste' approach (a design standard), and transitioning to the production of 'less hazardous plastic products,' all of which fall under the definition of performance standards."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document mentions the need to provide easily accessible plastic collection points as a required implementation measure.",
+        "citation": [
+          "Provisions of start off grants to small and medium scale plastic producers and recyclers who have been trained by this project in the 36 states of the country including the Federal Capital Territory (Abuja) increasing their numbers in every state and providing easily accessible plastic collection points."
+        ],
+        "reasoning": "The cited text explicitly states that a required measure for implementing the instrument is the provision of 'easily accessible plastic collection points'. This is a direct reference to the establishment of physical infrastructure for waste collection to support the treaty's goals."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "Mandatory labeling of chemical additives in plastics and mandatory application of circularity in product design.",
+        "citation": [
+          "The right to know, labeling of all chemical additives use in plastics and elimination of hazardous chemicals from plastic production to ensure a toxic-free plastics for all.",
+          "The right to know and appropriate information about chemicals additives in plastic production",
+          "Mandatory circularity application to design out waste throughout the lifecycle of plastic"
+        ],
+        "reasoning": "The document proposes mandatory measures that function as approval or verification schemes. The call for 'labeling of all chemical additives' implies a verification system to ensure accuracy and transparency, controlling what information must accompany a product. Similarly, the 'Mandatory circularity application to design out waste' suggests a required standard or approval process that plastic products must meet before being produced or sold, which aligns with the definition of a mandatory certification or approval scheme."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "The document proposes transparency and the 'right to know' through the mandatory labelling of all chemical additives used in plastics.",
+        "citation": [
+          "Transparency of plastic chemicals additives",
+          "The right to know, labeling of all chemical additives use in plastics and elimination of hazardous chemicals from plastic production to ensure a toxic-free plastics for all.",
+          "The right to know and appropriate information about chemicals additives in plastic production"
+        ],
+        "reasoning": "The document explicitly proposes 'labeling of all chemical additives use in plastics' as a core objective and obligation to ensure transparency and the public's right to know about plastic composition, which directly aligns with the code's definition of required information disclosure."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The document proposes that 'national action plans' should incorporate 'reduction targets' and establish a 'science-policy-industry interface'.",
+        "citation": [
+          "It is essential that reduction targets are incorporated into the national action plans.",
+          "Establishment of science-policy-industry interface in national action plans"
+        ],
+        "reasoning": "The document explicitly mentions 'national action plans' on two separate occasions as a vehicle for implementing key treaty elements, such as reduction targets and coordination mechanisms. This aligns directly with the code definition of required plans or strategies that countries must develop."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "Transparency and disclosure of chemical additives used in plastic production.",
+        "citation": [
+          "Transparency of plastic chemicals additives",
+          "The right to know and appropriate information about chemicals additives in plastic production"
+        ],
+        "reasoning": "The document lists 'Transparency of plastic chemicals additives' as a key objective and explicitly states that a core obligation should be 'The right to know and appropriate information about chemicals additives in plastic production'. This establishes a mandatory disclosure/information sharing requirement, which falls under the definition of reporting."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document mentions 'labeling of all chemical additives' but frames this as a 'right to know' and lists it under 'Objective(s)' and 'Core obligations', which are mandatory by nature. The section explicitly discussing 'Voluntary approaches' does not mention any form of labeling. Therefore, the soft instrument of voluntary labelling is not mentioned."
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "Application of smart technology for effective data collection.",
+        "citation": [
+          "Application of smart technology for effective data collection"
+        ],
+        "reasoning": "The document explicitly proposes the 'Application of smart technology for effective data collection' as an implementation measure. This directly aligns with the code definition, as it describes a system to track and measure data related to the policy's subject matter."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document proposes several information and guidance measures, including awareness creation campaigns for the public and industry, capacity-building workshops to provide training on improved technical processes, and a general call for education and information exchange.",
+        "citation": [
+          "Awareness creation in schools and public places like markets, hospital, hotels etc using trade unions affiliated with these organizations on the need for plastic waste segregation at source in the six Geo-political Zones of the country.",
+          "Awareness creation in the six Geo-political Zones of the country targetting manufacturers and recyclers which will be aimed at inculcating technically improved plastic production and recycling processes that has identified and addressed all noted concerns associated with plastic waste management.",
+          "Capacity building workshops in the six Geo-political Zones of the Country aimed at training manufacturers and recyclers with improved technical processes that would ensure a smoother transmission to the production and recycling of less hazardous plastic products.",
+          "Education and information exchange."
+        ],
+        "reasoning": "The document clearly outlines the use of information and guidance as policy tools. The cited texts detail plans for awareness campaigns to educate the public on waste segregation and to guide manufacturers on improved technical processes. Furthermore, it explicitly mentions 'Capacity building workshops' for training and 'Education and information exchange' as priorities, all of which are forms of providing informational resources to stakeholders to help them implement effective measures, directly matching the code definition."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "The document proposes several education and awareness initiatives, including awareness creation in schools and public places (markets, hospitals), awareness campaigns targeting manufacturers and recyclers, capacity building workshops, and general calls for education, information exchange, and 'Train the Trainee' programs.",
+        "citation": [
+          "Awareness creation in schools and public places like markets, hospital, hotels etc using trade unions affiliated with these organizations on the need for plastic waste segregation at source in the six Geo-political Zones of the country.",
+          "Awareness creation in the six Geo-political Zones of the country targetting manufacturers and recyclers which will be aimed at inculcating technically improved plastic production and recycling processes that has identified and addressed all noted concerns associated with plastic waste management.",
+          "Capacity building workshops in the six Geo-political Zones of the Country aimed at training manufacturers and recyclers with improved technical processes that would ensure a smoother transmission to the production and recycling of less hazardous plastic products.",
+          "Awareness/ advocacy creation for and effective and efficient plastic management response.",
+          "Education and information exchange."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions education and awareness-raising as key implementation measures. The cited texts detail specific plans for public awareness campaigns in schools and public places, targeted awareness for industry stakeholders, capacity-building workshops, and general advocacy, all of which align with the code definition for education as a soft instrument."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "science-policy-industry interface",
+        "citation": [
+          "Establishment of science-policy-industry interface in national action plans"
+        ],
+        "reasoning": "The document proposes the 'Establishment of science-policy-industry interface in national action plans'. This proposal directly matches the code definition as it calls for the creation of a body that brings together experts from science, policy, and industry to provide guidance and coordination for the implementation of the treaty at the national level."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document encourages the acceleration of toxic-free plastic innovations, the industrialization of polymer-to-polymer technologies, and explicitly lists 'Technology research and development' as a key priority.",
+        "citation": [
+          "Acceleration of toxic-free plastic innovations.",
+          "Increased industrialization of polymer-to-polymer technologies particularly in developing countries",
+          "Establishment of science-policy-industry interface in national action plans",
+          "Technology research and development"
+        ],
+        "reasoning": "The cited texts explicitly call for the 'Acceleration of toxic-free plastic innovations' and list 'Technology research and development' as a priority. These statements directly encourage the creation of new knowledge and technologies to address plastic pollution without specifying funding, which aligns perfectly with the definition of a soft instrument for research promotion. The call to establish a 'science-policy-industry interface' further supports this by promoting the structures needed for effective research and development."
+      },
+      "harmonization": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document proposes several knowledge sharing initiatives, including 'Technology transfer', 'Technical support', 'Training for producers and recyclers', 'Capacity building workshops', 'Education and information exchange', and a 'Train the Trainee programme'.",
+        "citation": [
+          "Technology transfer.",
+          "Train and boost local producers and recyclers by equipping them with grants and modern Technologies that would promote 1 and 2 above and at the same time cushion the cost of transition to acquire this new technology.",
+          "Technical support and technology transfer to support developing countries economies transition.",
+          "Capacity building workshops in the six Geo-political Zones of the Country aimed at training manufacturers and recyclers with improved technical processes that would ensure a smoother transmission to the production and recycling of less hazardous plastic products.",
+          "Education and information exchange.",
+          "Provision of Train the Trainee programme and integration of informal waste pickers and workers into plastic circular plastic economy programme"
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for mechanisms to exchange expertise, technology, and information. The citations directly mention 'technology transfer', 'technical support', 'training' through workshops, and 'information exchange', all of which are core components of knowledge sharing aimed at building capacity among stakeholders like developing countries, manufacturers, and recyclers."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [
+        "National Plastic Reduction Targets",
+        "It is essential that reduction targets are incorporated into the national action plans."
+      ],
+      "reasoning": "The document advocates for the creation of 'National Plastic Reduction Targets' and states that they are essential. However, it does not specify any quantitative targets with concrete numbers, percentages, or deadlines. The mentions are recommendations for what should be included in policy, not existing or proposed specific targets."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "virgin plastic tax, promotion of recycled feedstock technologies",
+        "citation": [
+          "Mandatory high tax on virgin plastic production",
+          "Increased industrialization of polymer-to-polymer technologies particularly in developing countries"
+        ],
+        "reasoning": "The document explicitly proposes a control measure—a mandatory high tax—on virgin plastic, which is a primary feedstock for plastic production. It also suggests promoting 'polymer-to-polymer technologies,' which utilize recycled plastic as a feedstock for new plastic production, thus addressing the raw material source."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document mentions several production-related measures, including: promoting sustainable production, overall reduction of plastic production, elimination of problematic polymers, transparency of chemical additives, elimination of hazardous chemicals from production, replacing production processes that use heavy metals, imposing a mandatory high tax on virgin plastic production, and inculcating technically improved production processes.",
+        "citation": [
+          "Promote Sustainable Consumption and Production of Plastic and elimination of problematic polymers",
+          "This is aimed towards overall reduction of plastic production particularly difficult and unnecessary single-use plastics, promotion of circular economy in the plastic value chain.",
+          "elimination of hazardous chemicals from plastic production to ensure a toxic-free plastics for all.",
+          "Replace plastic production processes that require the use of heavy metals as stabilizers.",
+          "Mandatory high tax on virgin plastic production",
+          "Awareness creation in the six Geo-political Zones of the country targetting manufacturers and recyclers which will be aimed at inculcating technically improved plastic production and recycling processes that has identified and addressed all noted concerns associated with plastic waste management."
+        ],
+        "reasoning": "The document explicitly and repeatedly refers to the 'production of plastic'. The citations mention specific objectives and control measures targeting this stage, such as the reduction of production, changes to the chemical inputs and processes (e.g., eliminating hazardous chemicals and heavy metals), and the application of economic instruments like taxes on virgin plastic production. This directly aligns with the code definition concerning the manufacturing or creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "Mandatory circularity application to design out waste throughout the lifecycle of plastic.",
+        "citation": [
+          "Mandatory circularity application to design out waste throughout the lifecycle of plastic"
+        ],
+        "reasoning": "The document proposes a core obligation to apply circularity principles to 'design out waste'. This directly references the design stage of the value chain and aligns with the code definition of implementing eco-design principles to address plastic pollution."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "Transparency of chemical additives, labeling of all chemical additives, elimination of hazardous chemicals, replacing heavy metals as stabilizers, training manufacturers on improved technical processes for producing less hazardous products.",
+        "citation": [
+          "Transparency of plastic chemicals additives",
+          "The right to know, labeling of all chemical additives use in plastics and elimination of hazardous chemicals from plastic production to ensure a toxic-free plastics for all.",
+          "Replace plastic production processes that require the use of heavy metals as stabilizers.",
+          "Capacity building workshops in the six Geo-political Zones of the Country aimed at training manufacturers and recyclers with improved technical processes that would ensure a smoother transmission to the production and recycling of less hazardous plastic products."
+        ],
+        "reasoning": "The document explicitly addresses the manufacturing stage by calling for transparency, labeling, and elimination of chemical additives used in plastic production. It specifically mentions phasing out heavy metals used as stabilizers and proposes training for manufacturers to adopt improved technical processes for creating less hazardous products. These points directly relate to the production of plastic items, not just the raw polymer material."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document focuses on upstream elements like production, chemical transparency, and EPR, as well as downstream elements like waste management, recycling, and the role of waste pickers. It does not contain any text addressing the midstream phase of distribution, transportation, or the supply chain of plastic products before they reach the consumer."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "sustainable consumption promotion, single-use plastic reduction/elimination, promotion of reuse alternatives, consumer awareness on waste segregation",
+        "citation": [
+          "Promote Sustainable Consumption and Production of Plastic and elimination of problematic polymers",
+          "Sustainable Consumption and Production of Plastic: This is aimed towards overall reduction of plastic production particularly difficult and unnecessary single-use plastics, promotion of circular economy in the plastic value chain.",
+          "Elimination and banning of unnecessary single-use plastics and difficult plastics",
+          "Promotion of reuse alternatives particularly for packaging sector",
+          "Awareness creation in schools and public places like markets, hospital, hotels etc using trade unions affiliated with these organizations on the need for plastic waste segregation at source in the six Geo-political Zones of the country."
+        ],
+        "reasoning": "The document explicitly proposes the objective of promoting 'Sustainable Consumption' and links it directly to the reduction of 'unnecessary single-use plastics'. It further suggests control measures such as the 'elimination and banning of unnecessary single-use plastics' and the 'promotion of reuse alternatives,' which are direct interventions in the consumption phase of the plastic lifecycle. It also calls for awareness creation to influence consumer behavior regarding waste segregation."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions several collection-related measures including the integration of informal waste pickers, an effective buy-back model, improved sorting-at-source strategies, incentive-based recovery systems, plastic waste segregation at source, and the provision of easily accessible plastic collection points.",
+        "citation": [
+          "Just Transition for waste pickers and frontline communities.",
+          "Integration of informal waste pickers into the plastic value chain programme/ plastic circular economy programme.",
+          "Effective buy-back model through incentives targeting improved sorting-at-source strategy",
+          "Incentive-based recovery system",
+          "Awareness creation in schools and public places... on the need for plastic waste segregation at source...",
+          "...providing easily accessible plastic collection points."
+        ],
+        "reasoning": "The document explicitly proposes several strategies and systems for gathering and aggregating post-consumer plastic waste. The citations refer to specific mechanisms like 'buy-back models', 'sorting-at-source', 'segregation at source', and establishing physical 'collection points'. Additionally, the mention of integrating 'waste pickers' directly addresses the human element of waste collection systems."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "Just transition and integration of waste pickers, sorting-at-source, waste segregation at source.",
+        "citation": [
+          "Just Transition for waste pickers and frontline communities.",
+          "Integration of informal waste pickers into the plastic value chain programme/ plastic circular economy programme.",
+          "Effective buy-back model through incentives targeting improved sorting-at-source strategy",
+          "Awareness creation in schools and public places like markets, hospital, hotels etc using trade unions affiliated with these organizations on the need for plastic waste segregation at source in the six Geo-political Zones of the country."
+        ],
+        "reasoning": "The document explicitly addresses the management of plastic waste after its initial use by consumers. It highlights the role of waste pickers, proposing a 'Just Transition' and their integration into the circular economy. Furthermore, it details specific waste handling processes such as 'sorting-at-source' and 'waste segregation at source' as key strategies to improve waste management."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document mentions several recycling-related measures, including: training and financial support (grants) for recyclers, equipping recyclers with modern technologies, promoting polymer-to-polymer recycling technologies, creating awareness on improved recycling processes, and conducting capacity-building workshops for recyclers.",
+        "citation": [
+          "Train and boost local producers and recyclers by equipping them with grants and modern Technologies that would promote 1 and 2 above and at the same time cushion the cost of transition to acquire this new technology.",
+          "Increased industrialization of polymer-to-polymer technologies particularly in developing countries",
+          "Awareness creation in the six Geo-political Zones of the country targetting manufacturers and recyclers which will be aimed at inculcating technically improved plastic production and recycling processes that has identified and addressed all noted concerns associated with plastic waste management.",
+          "Capacity building workshops in the six Geo-political Zones of the Country aimed at training manufacturers and recyclers with improved technical processes that would ensure a smoother transmission to the production and recycling of less hazardous plastic products.",
+          "Provisions of start off grants to small and medium scale plastic producers and recyclers who have been trained by this project in the 36 states of the country..."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions measures to support 'recyclers' and improve 'recycling processes'. The cited texts detail specific proposals for financial aid (grants), technology transfer, training, and capacity building directly targeted at the recycling sector, as well as the promotion of specific recycling technologies like 'polymer-to-polymer'. This directly aligns with the code definition of addressing the recycling, reprocessing, or recovery of plastic materials."
+      },
+      "legacy_plastic": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not contain any measures, objectives, or concerns related to greenhouse gas emissions, air pollution, or other releases associated with the plastic lifecycle. The submission's focus is on reducing plastic production, eliminating hazardous chemicals, promoting a circular economy, and ensuring a just transition, without making an explicit link to emissions reduction."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "A project office is proposed to be funded and responsible for implementation measures for a period of no less than 3 years.",
+        "citation": [
+          "The Creation of a fully funded project office domiciled in the Ministry of Environment and saddled with the following responsibilities for not less than 3 years:"
+        ],
+        "reasoning": "The document explicitly states a minimum duration ('not less than 3 years') for a proposed project office tasked with key implementation activities, thereby specifying a timeline for these initial measures."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes several binding obligations and control measures, including the 'Polluter pays principle', a mandatory Extended Producer Responsibility (EPR) programme, mandatory circularity application in design, and a mandatory high tax on virgin plastic production.",
+        "citation": [
+          "Core obligations should include;",
+          "Polluter pays principle through a robust national Extended Producer Responsibility programme that prioritize the most vulnerable groups to plastic pollution.",
+          "Mandatory circularity application to design out waste throughout the lifecycle of plastic",
+          "Mandatory high tax on virgin plastic production"
+        ],
+        "reasoning": "The document explicitly uses the terms 'core obligations' and 'mandatory' when describing key control measures like taxes and design requirements. The inclusion of the 'Polluter pays principle' and a national EPR program further reinforces the intent for a legally binding and strict regulatory framework, justifying the 'High' stringency classification."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "The document proposes elements for a global treaty that is to be implemented through national action plans and specific country-level initiatives.",
+        "citation": [
+          "It is very essential that the treaty considered the following elements;",
+          "It is essential that reduction targets are incorporated into the national action plans.",
+          "Polluter pays principle through a robust national Extended Producer Responsibility programme that prioritize the most vulnerable groups to plastic pollution.",
+          "Awareness creation in the six Geo-political Zones of the country targetting manufacturers and recyclers which will be aimed at inculcating technically improved plastic production and recycling processes that has identified and addressed all noted concerns associated with plastic waste management."
+        ],
+        "reasoning": "The submission explicitly refers to a 'treaty', which indicates a global or international scope for the instrument. However, the proposed implementation mechanisms, such as 'national action plans', a 'national Extended Producer Responsibility programme', and specific awareness campaigns in Nigeria's 'six Geo-political Zones', clearly show that the execution of this global treaty is intended to occur at the national and sub-national levels."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "Extended Producer Responsibility (EPR) scheme, Industry interventions, and the Polluter Pays Principle applied to producers.",
+      "citation": [
+        "Extended Producer Responsibility scheme/Industry interventions",
+        "EPR scheme/Industry interventions to ensure plastics producers and manufacturers are responsible for their products throughout their lifecycle.",
+        "Polluter pays principle through a robust national Extended Producer Responsibility programme that prioritize the most vulnerable groups to plastic pollution."
+      ],
+      "reasoning": "The document explicitly proposes an 'Extended Producer Responsibility (EPR) scheme' and 'Industry interventions'. EPR is a policy approach where producers (the private sector) are given significant financial and/or physical responsibility for the treatment or disposal of post-consumer products. This is a form of private sector financing. The mention of the 'Polluter pays principle' through this EPR program further confirms that the industry (producers and manufacturers) is expected to fund these environmental measures."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document mentions the creation of a fully funded project office within the Ministry of Environment and the provision of grants and start-off grants for local producers and recyclers.",
+      "citation": [
+        "Train and boost local producers and recyclers by equipping them with grants and modern Technologies that would promote 1 and 2 above and at the same time cushion the cost of transition to acquire this new technology.",
+        "The Creation of a fully funded project office domiciled in the Ministry of Environment and saddled with the following responsibilities for not less than 3 years:",
+        "Provisions of start off grants to small and medium scale plastic producers and recyclers who have been trained by this project in the 36 states of the country including the Federal Capital Territory (Abuja) increasing their numbers in every state and providing easily accessible plastic collection points."
+      ],
+      "reasoning": "The text explicitly proposes a 'fully funded project office' to be located within the 'Ministry of Environment,' a state entity, which implies a national budgetary allocation. Furthermore, it directly calls for providing 'grants' and 'start off grants' to businesses, which are forms of direct public financing from the state."
+    },
+    "international": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "Plastic Taxes, Mandatory high tax on virgin plastic production",
+      "citation": [
+        "Plastic Taxes",
+        "Mandatory high tax on virgin plastic production"
+      ],
+      "reasoning": "The document explicitly proposes 'Plastic Taxes' as a substantive element for the treaty and specifies a 'Mandatory high tax on virgin plastic production' as a core control measure. These citations directly confirm the consideration of taxes as a mechanism to address plastic pollution."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Extended Producer Responsibility (EPR) for the full product lifecycle, transparency and labeling of chemical additives, elimination of hazardous chemicals from production, replacing specific production processes (e.g., those using heavy metals), designing for circularity, and adopting technically improved, less hazardous production processes.",
+      "citation": [
+        "EPR scheme/Industry interventions to ensure plastics producers and manufacturers are responsible for their products throughout their lifecycle.",
+        "...labeling of all chemical additives use in plastics and elimination of hazardous chemicals from plastic production to ensure a toxic-free plastics for all.",
+        "Replace plastic production processes that require the use of heavy metals as stabilizers.",
+        "Mandatory circularity application to design out waste throughout the lifecycle of plastic"
+      ],
+      "reasoning": "The document explicitly and repeatedly mentions responsibilities for the production sector. The core of this is the proposed 'Extended Producer Responsibility scheme' which holds 'producers and manufacturers' accountable for their products throughout the entire lifecycle. This is further detailed with specific obligations such as ensuring transparency through labeling chemical additives, eliminating hazardous substances, changing production methods, and designing products with circularity in mind."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "Waste segregation/sorting at source.",
+      "citation": [
+        "Effective buy-back model through incentives targeting improved sorting-at-source strategy",
+        "Awareness creation in schools and public places like markets, hospital, hotels etc using trade unions affiliated with these organizations on the need for plastic waste segregation at source in the six Geo-political Zones of the country."
+      ],
+      "reasoning": "The document explicitly identifies 'sorting-at-source' and 'plastic waste segregation at source' as key strategies. These actions are responsibilities placed on the general public, to be encouraged through awareness campaigns in public places and incentive programs, thereby defining a clear role for consumers in the waste management process."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document mentions several responsibilities for the waste management sector, including the integration of informal waste pickers into the circular economy, inculcating technically improved recycling processes, undergoing training for these new processes, and providing easily accessible plastic collection points.",
+      "citation": [
+        "Integration of informal waste pickers into the plastic value chain programme/ plastic circular economy programme.",
+        "Awareness creation in the six Geo-political Zones of the country targetting manufacturers and recyclers which will be aimed at inculcating technically improved plastic production and recycling processes that has identified and addressed all noted concerns associated with plastic waste management.",
+        "Capacity building workshops in the six Geo-political Zones of the Country aimed at training manufacturers and recyclers with improved technical processes that would ensure a smoother transmission to the production and recycling of less hazardous plastic products.",
+        "Provisions of start off grants to small and medium scale plastic producers and recyclers who have been trained by this project in the 36 states of the country including the Federal Capital Territory (Abuja) increasing their numbers in every state and providing easily accessible plastic collection points."
+      ],
+      "reasoning": "The document explicitly names actors in the post-consumer waste stream, such as 'waste pickers' and 'recyclers,' and assigns them specific roles and obligations. These include the formal integration of informal workers, the adoption of improved recycling technologies, participation in capacity-building workshops, and the establishment of collection infrastructure, all of which are core responsibilities of the waste management sector."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "The document proposes a 'Just Transition' for waste pickers, advocating for their social inclusion and integration into the formal plastic value chain and circular economy programs.",
+      "citation": [
+        "Just Transition for waste pickers and frontline communities.",
+        "Just Transition Programme for waste pickers and frontline communities: This is to support and provide social inclusion for vulnerable groups such as waste pickers and frontline communities. Integration of informal waste pickers into the plastic value chain programme/ plastic circular economy programme.",
+        "Provision of Train the Trainee programme and integration of informal waste pickers and workers into plastic circular plastic economy programme"
+      ],
+      "reasoning": "The document explicitly identifies 'waste pickers' as a key stakeholder group. It outlines specific objectives and implementation measures, including ensuring a 'Just Transition,' providing 'social inclusion,' and actively 'integrating' them into the plastic value and circular economy chains. These citations directly confirm a defined role and responsibility towards the informal sector in the proposed policy."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines several government responsibilities, including: incorporating reduction targets into national action plans; establishing a national Extended Producer Responsibility (EPR) program; levying mandatory taxes on virgin plastic production; creating and funding a project office within the Ministry of Environment; conducting awareness campaigns; organizing capacity-building workshops; and providing grants to producers and recyclers.",
+      "citation": [
+        "It is essential that reduction targets are incorporated into the national action plans.",
+        "Polluter pays principle through a robust national Extended Producer Responsibility programme that prioritize the most vulnerable groups to plastic pollution.",
+        "Mandatory high tax on virgin plastic production",
+        "The Creation of a fully funded project office domiciled in the Ministry of Environment and saddled with the following responsibilities for not less than 3 years:",
+        "Provisions of start off grants to small and medium scale plastic producers and recyclers who have been trained by this project in the 36 states of the country including the Federal Capital Territory (Abuja)..."
+      ],
+      "reasoning": "The document, submitted by Nigeria's Federal Ministry of Environment, explicitly assigns roles and obligations to national-level entities. The citations refer to the creation of 'national action plans,' a 'national Extended Producer Responsibility programme,' and the imposition of a 'mandatory high tax,' all of which are core government functions. Furthermore, the proposal to create a 'fully funded project office domiciled in the Ministry of Environment' directly assigns implementation responsibilities to a specific government agency."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  }
+}

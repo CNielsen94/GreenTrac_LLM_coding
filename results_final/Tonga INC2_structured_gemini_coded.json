@@ -1,0 +1,551 @@
+{
+  "submission_metadata": {
+    "country": "Tonga",
+    "date": "2023-01-09",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "To addressed and controlled the production and consumption of plastic to reduce plastic wastes",
+        "...provide a comprehensive approach to addressing plastic pollution, including in the marine environment...",
+        "...to combat the scourge of plastic pollution.",
+        "As well as prioritizing the urgent elimination of existing plastic pollution in the marine environment.",
+        "Tonga require financial assistance, Technical assistance and Capacity buildings to tackle the plastic pollution issue..."
+      ],
+      "reasoning": "The document explicitly states its objective is to 'addressed and controlled' plastic to reduce waste and repeatedly uses terminology that aligns with the code definition, such as 'addressing plastic pollution,' 'combat the scourge of plastic pollution,' 'urgent elimination of existing plastic pollution,' and 'tackle the plastic pollution issue.' This indicates a clear goal of ending plastic pollution. No specific timeline or year for achieving this objective is mentioned."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "To addressed and controlled the production and consumption of plastic to reduce plastic wastes",
+        "The Pacific therefore requests the ILBI to develop sustainable plastics production and consumption guidelines, to ensure strategies and actions are in place to address global plastic production...",
+        "The IBLI should develop mechanisms to control aggregate primary production (including establishing baselines, targets and establishing reporting similar to Montreal Protocol – production and consumption use);",
+        "establish targets to reduce production of single-use plastics with associated monitoring to track and report on reduced production;",
+        "...pushing to limit the creation of plastic upstream to reduce the impact and burden felt by those most reliant on the oceans..."
+      ],
+      "reasoning": "The document explicitly states that a core objective is to control the production of plastic. It repeatedly calls for measures to 'address global plastic production,' 'control aggregate primary production,' and 'limit the creation of plastic upstream.' While it strongly advocates for establishing targets and baselines to reduce production, it does not provide any specific quantitative targets (e.g., a percentage or a cap level), therefore 'specification_provided' is false."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": "The document does not mention any benefits or essential uses of plastics. Its entire focus is on the negative aspects, referring to plastic pollution as a 'scourge' and highlighting the problems of overabundance, waste management challenges, and environmental harm."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document expresses a general concern for the effects of plastic pollution on health throughout its life cycle.",
+      "citation": [
+        "Tonga is deeply concerned about the effects of plastic pollution at every stage of the life cycle on the environment, society, culture, economy, health, and food security."
+      ],
+      "reasoning": "The document explicitly lists \"health\" as one of the key areas of concern regarding the effects of plastic pollution, directly aligning with the objective of protecting human health."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "Tonga is deeply concerned about the effects of plastic pollution at every stage of the life cycle on the environment, society, culture, economy, health, and food security.",
+        "...the trans-boundary movement of waste through the worlds' oceans.",
+        "It must reduce and control the leakage of waste plastic and microplastics into us environment. As well as prioritizing the urgent elimination of existing plastic pollution in the marine environment.",
+        "...to ensure the legacy we leave our children is one of prosperity and environmental harmony, not pollution and destruction."
+      ],
+      "reasoning": "The document explicitly states concern for the effects of plastic pollution on the 'environment' and aims for 'environmental harmony.' It specifically and repeatedly highlights the marine context, mentioning the 'worlds' oceans' and prioritizing the elimination of pollution in the 'marine environment,' thus confirming both a general objective to protect the environment and a strong focus on marine ecosystems."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "Tonga is deeply concerned about the effects of plastic pollution at every stage of the life cycle on the environment, society, culture, economy, health, and food security.",
+        "Therefore, we need to consider the issue comprehensively from the point at which plastic is conceived as a material to the moment it finds its way to end of life.",
+        "We request the full life-cycle of plastics be considered within the IBLI scope, with a view to promoting resource-efficient circular economy approaches, with a priority focus on addressing single-use plastics."
+      ],
+      "reasoning": "The document explicitly and repeatedly uses the phrases 'life cycle' and 'full life-cycle'. It defines this comprehensive scope as covering 'every stage' from the point the material is 'conceived' to its 'end of life', clearly indicating an intent to address all stages from production to disposal."
+    },
+    "other_objectives": {
+      "value": "Enable global participation through support mechanisms, promote research and innovation, ensure a just transition for workers, and promote transparency and accountability.",
+      "citation": [
+        "The future legally binding instrument (hereinafter the instrument) should create a supportive framework to enable all countries to participate and contribute, including through financial assistance, technology transfer on mutually agreed terms, capacity building and scientific and technical cooperation.",
+        "The instrument should also promote research and innovation, including on developing and promoting alternatives to plastics.",
+        "A just transition for workers and affected communities, including in the informal sector, should also be promoted.",
+        "It should also promote transparency and accountability, for example through harmonised monitoring and reporting for all Parties."
+      ],
+      "reasoning": "The document outlines several objectives that are distinct from the pre-defined categories. These objectives focus on the implementation, socio-economic, and governance aspects of the proposed instrument. They include: creating a supportive framework for universal participation (via financial aid, technology transfer), promoting research and innovation, ensuring a socially equitable 'just transition' for affected workers and communities, and establishing transparency and accountability through monitoring and reporting."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document mentions the need for 'financial assistance' as a means of implementation to support countries in tackling plastic pollution.",
+        "citation": [
+          "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance.",
+          "Tonga require financial assistance, Technical assistance and Capacity buildings to tackle the plastic pollution issue, and is actively seeking the support of our member nations to deliver this most important of Treaties to ensure the legacy we leave our children is one of prosperity and environmental harmony, not pollution and destruction."
+        ],
+        "reasoning": "The document explicitly requests 'financial assistance' to tackle the plastic pollution issue. This aligns with the code definition which includes 'financial support' as a form of subsidy."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention deposit-return schemes, container deposit legislation, bottle bills, or any system where a deposit is paid by a consumer and refunded upon the return of an item. The submission focuses on broader strategies like controlling production, banning problematic plastics, and calls for financial and technical assistance."
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document mentions the need for access to appropriate technology and technology transfer as key implementation measures.",
+        "citation": [
+          "As Developing Nations, we lack the access to appropriate technology, the funding to appropriately address the worlds waste issues, and the capacity and training to adequately engage and implement necessary action to combat the scourge of plastic pollution.",
+          "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance."
+        ],
+        "reasoning": "The document explicitly identifies a lack of 'access to appropriate technology' and lists 'technology transfer' as a required means of implementation. Technology transfer is a form of support for technological development, which directly aligns with the code's definition."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Bans on single-use plastics and bans on problematic or hazardous polymers and other constituent chemicals.",
+        "citation": [
+          "implement bans on single use plastics (where practical), implement bans on problematic or hazardous polymers and other constituent chemicals; and establish harmonious design and labelling standards."
+        ],
+        "reasoning": "The document explicitly proposes that the international instrument should include core obligations to 'implement bans on single use plastics' and 'implement bans on problematic or hazardous polymers and other constituent chemicals', directly matching the code definition for prohibitions on specific plastic products and materials."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document advocates for establishing guidelines for sustainable product design, creating harmonious design and labelling standards, and implementing bans on specific problematic or hazardous polymers and chemicals.",
+        "citation": [
+          "...promote sustainable production and consumption of plastics (product design, environmentally sound management, resource efficiency and circular economy approach) effectively reducing the amount of plastic entering the waste stream.",
+          "The IBLI should ... implement bans on problematic or hazardous polymers and other constituent chemicals; and establish harmonious design and labelling standards."
+        ],
+        "reasoning": "The cited texts directly call for the establishment of standards that products must meet. The phrases 'product design', 'harmonious design and labelling standards', and bans on 'problematic or hazardous polymers' all refer to specific criteria, specifications, or requirements for plastic products, which aligns perfectly with the definition of performance standards."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "Infrastructure and capacity to identify chemical constituents of plastics; Waste management systems.",
+        "citation": [
+          "have challenges with phasing out problematic plastics / polymer types including infrastructure and capacity to identify chemical constituents of plastics and how to address and manage these.",
+          "The lack of technical and financial capacity, infrastructure coupled with poor waste management practices and systems in the region lead to huge quantities of plastics/plastics products waste ending up our shores."
+        ],
+        "reasoning": "The document explicitly identifies a 'lack of... infrastructure' and 'poor waste management practices and systems' as significant challenges preventing the effective management of plastic pollution. This establishes the need for developing these systems and infrastructure as a mandatory requirement to implement the treaty's objectives and address the plastic waste problem."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "harmonious design and labelling standards",
+        "citation": [
+          "...establish harmonious design and labelling standards."
+        ],
+        "reasoning": "The document explicitly requests the establishment of 'harmonious design and labelling standards'. These standards function as a mandatory approval or verification system, as products would need to conform to them to be legally produced or traded. This aligns directly with the definition of certification as a regulatory instrument controlling what types of plastics can be produced or traded."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "harmonious labelling standards",
+        "citation": [
+          "The IBLI should develop mechanisms to control aggregate primary production (including establishing baselines, targets and establishing reporting similar to Montreal Protocol – production and consumption use); establish targets to reduce production of single-use plastics with associated monitoring to track and report on reduced production; implement bans on single use plastics (where practical), implement bans on problematic or hazardous polymers and other constituent chemicals; and establish harmonious design and labelling standards."
+        ],
+        "reasoning": "The document explicitly calls for the establishment of 'harmonious design and labelling standards' as a core obligation and control measure to be developed by the international instrument to address plastic pollution."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "national action plans",
+        "citation": [
+          "a) How to ensure implementation of the instrument at the national level (eg. role national action plans contribute to meeting the objectives and obligations of the instrument?)"
+        ],
+        "reasoning": "The document explicitly mentions 'national action plans' in a prompt question regarding how to ensure implementation at the national level, indicating that this instrument is being considered as a mechanism to meet the treaty's objectives."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The submission suggests establishing a reporting mechanism for plastic production and consumption, similar to the Montreal Protocol, as well as monitoring and reporting on the reduction of single-use plastic production.",
+        "citation": [
+          "The IBLI should develop mechanisms to control aggregate primary production (including establishing baselines, targets and establishing reporting similar to Montreal Protocol – production and consumption use);",
+          "establish targets to reduce production of single-use plastics with associated monitoring to track and report on reduced production;"
+        ],
+        "reasoning": "The document explicitly proposes the creation of reporting obligations. The first citation directly calls for 'establishing reporting' on production and consumption. The second citation proposes 'monitoring to track and report' on production reduction, which falls under the definition of mandatory reporting and information sharing."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The submission identifies the role of Pacific Island Developing States as forced receivers of imported plastic materials and plastic waste that moves across borders (trans-boundary movement).",
+        "citation": [
+          "Most importantly the ILBI must recognize the forced role on Pacific Island Developing States that are the receivers of plastic either as imported materials, or through the trans-boundary movement of waste through the worlds' oceans."
+        ],
+        "reasoning": "The document explicitly mentions being receivers of 'imported materials' and 'trans-boundary movement of waste'. These terms directly relate to international trade in plastics and plastic waste, aligning with the code's definition of measures affecting international trade."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document suggests establishing baselines, targets, and reporting mechanisms for primary plastic production and consumption, as well as specific monitoring to track and report on the reduction of single-use plastic production.",
+        "citation": [
+          "The IBLI should develop mechanisms to control aggregate primary production (including establishing baselines, targets and establishing reporting similar to Montreal Protocol – production and consumption use);",
+          "establish targets to reduce production of single-use plastics with associated monitoring to track and report on reduced production;"
+        ],
+        "reasoning": "The cited text explicitly calls for establishing systems to track and assess plastic production levels. It mentions core monitoring components such as 'baselines', 'targets', 'reporting', and 'associated monitoring to track and report', which directly align with the code definition of tracking, measuring, and assessing policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The submission requests the development of 'sustainable plastics production and consumption guidelines' and 'harmonious design and labelling standards'.",
+        "citation": [
+          "The Pacific therefore requests the ILBI to develop sustainable plastics production and consumption guidelines, to ensure strategies and actions are in place to address global plastic production, to promote sustainable production and consumption of plastics (product design, environmentally sound management, resource efficiency and circular economy approach) effectively reducing the amount of plastic entering the waste stream.",
+          "The IBLI should develop mechanisms to control aggregate primary production... and establish harmonious design and labelling standards."
+        ],
+        "reasoning": "The document explicitly requests that the international legally binding instrument (ILBI) develop specific informational resources to guide stakeholders. The call for 'sustainable plastics production and consumption guidelines' and 'harmonious design and labelling standards' directly matches the code definition of providing guidelines and best practices to help implement effective measures."
+      },
+      "education": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "harmonious design and labelling standards",
+        "citation": [
+          "establish harmonious design and labelling standards."
+        ],
+        "reasoning": "The document explicitly requests the international legally binding instrument (ILBI) to 'establish harmonious design and labelling standards.' This is a direct call for the creation of consistent, aligned standards for product design and labeling across different jurisdictions, which is the core definition of harmonization."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document requests and refers to several knowledge sharing mechanisms, specifically 'capacity-building', 'technical assistance', and 'technology transfer on mutually agreed terms' to address plastic pollution.",
+        "citation": [
+          "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance.",
+          "As Developing Nations, we lack the access to appropriate technology, the funding to appropriately address the worlds waste issues, and the capacity and training to adequately engage and implement necessary action to combat the scourge of plastic pollution.",
+          "Tonga require financial assistance, Technical assistance and Capacity buildings to tackle the plastic pollution issue, and is actively seeking the support of our member nations to deliver this most important of Treaties..."
+        ],
+        "reasoning": "The document explicitly identifies a lack of 'appropriate technology', 'capacity', and 'training' as significant challenges. It directly cites and requests support through 'capacity-building', 'technical assistance', and 'technology transfer', which are all established mechanisms for exchanging expertise, information, and technology to build capacity, fitting the code's definition perfectly."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [
+        "The IBLI should develop mechanisms to control aggregate primary production (including establishing baselines, targets and establishing reporting similar to Montreal Protocol – production and consumption use); establish targets to reduce production of single-use plastics with associated monitoring to track and report on reduced production..."
+      ],
+      "reasoning": "The document calls for the future establishment of targets for plastic production and single-use plastics. However, it does not state any specific, measurable targets with concrete numbers, percentages, or deadlines itself. The cited text demonstrates a request for target-setting mechanisms rather than providing defined targets."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "virgin plastic reduction, control of primary production",
+        "citation": [
+          "is increasingly inundated by an acute overabundance of inexpensive primary (virgin) plastic, undermining secondary markets for recycled material and investments in collection and recycling.",
+          "The IBLI should develop mechanisms to control aggregate primary production (including establishing baselines, targets and establishing reporting similar to Montreal Protocol – production and consumption use);",
+          "We seek the IBLI to provide this support, whilst pushing to limit the creation of plastic upstream to reduce the impact and burden felt by those most reliant on the oceans, and least able to act to address the impacts."
+        ],
+        "reasoning": "The document explicitly mentions concerns about an 'overabundance of inexpensive primary (virgin) plastic' and proposes measures to 'control aggregate primary production' and 'limit the creation of plastic upstream.' These points directly address the raw materials used in plastic production, which corresponds to the feedstock stage of the value chain."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document calls for measures to control and reduce plastic production, including: developing sustainable production guidelines, controlling aggregate primary production through baselines and targets, reducing the production of single-use plastics, and implementing bans on problematic or hazardous polymers.",
+        "citation": [
+          "Proposed Objective: To addressed and controlled the production and consumption of plastic to reduce plastic wastes",
+          "The Pacific therefore requests the ILBI to develop sustainable plastics production and consumption guidelines, to ensure strategies and actions are in place to address global plastic production...",
+          "The IBLI should develop mechanisms to control aggregate primary production (including establishing baselines, targets and establishing reporting similar to Montreal Protocol – production and consumption use); establish targets to reduce production of single-use plastics with associated monitoring to track and report on reduced production; implement bans on problematic or hazardous polymers and other constituent chemicals...",
+          "We seek the IBLI to provide this support, whilst pushing to limit the creation of plastic upstream to reduce the impact and burden felt by those most reliant on the oceans, and least able to act to address the impacts."
+        ],
+        "reasoning": "The document explicitly states a primary objective is to control plastic production. It then elaborates on specific control measures targeting the creation of plastic, such as setting limits on 'aggregate primary production', reducing the manufacturing of single-use items, and banning certain polymers. These points directly address the manufacturing and creation stage of plastics, aligning with the code definition."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "promotion of sustainable product design, establishment of harmonious design and labelling standards",
+        "citation": [
+          "The Pacific therefore requests the ILBI to develop sustainable plastics production and consumption guidelines, to ensure strategies and actions are in place to address global plastic production, to promote sustainable production and consumption of plastics (product design, environmentally sound management, resource efficiency and circular economy approach) effectively reducing the amount of plastic entering the waste stream.",
+          "The IBLI should develop mechanisms to control aggregate primary production (including establishing baselines, targets and establishing reporting similar to Montreal Protocol – production and consumption use); establish targets to reduce production of single-use plastics with associated monitoring to track and report on reduced production; implement bans on single use plastics (where practical), implement bans on problematic or hazardous polymers and other constituent chemicals; and establish harmonious design and labelling standards."
+        ],
+        "reasoning": "The document explicitly mentions 'product design' as a key element in promoting sustainable production and consumption. It also directly calls for the establishment of 'harmonious design and labelling standards', which are core measures related to the design stage of the plastic value chain."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "Sustainable product design, labelling standards, and bans on problematic or hazardous polymers and constituent chemicals.",
+        "citation": [
+          "The Pacific therefore requests the ILBI to develop sustainable plastics production and consumption guidelines, to ensure strategies and actions are in place to address global plastic production, to promote sustainable production and consumption of plastics (product design, environmentally sound management, resource efficiency and circular economy approach) effectively reducing the amount of plastic entering the waste stream.",
+          "The IBLI should develop mechanisms to... implement bans on problematic or hazardous polymers and other constituent chemicals; and establish harmonious design and labelling standards.",
+          "have challenges with phasing out problematic plastics / polymer types including infrastructure and capacity to identify chemical constituents of plastics and how to address and manage these."
+        ],
+        "reasoning": "The document explicitly addresses the product production stage by calling for measures such as guidelines for 'sustainable production and consumption of plastics (product design...)', the establishment of 'harmonious design and labelling standards,' and the implementation of 'bans on problematic or hazardous polymers and other constituent chemicals.' These proposals directly concern the manufacturing and composition of plastic products. While the document mentions microplastics in the context of environmental leakage, it does not specifically address intentionally added microplastics in products as per the code definition."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "Recognition of the role of Pacific Island Developing States as receivers of imported plastic materials.",
+        "citation": [
+          "Most importantly the ILBI must recognize the forced role on Pacific Island Developing States that are the receivers of plastic either as imported materials, or through the trans-boundary movement of waste through the worlds' oceans."
+        ],
+        "reasoning": "The citation explicitly mentions the country's role as a receiver of 'imported materials'. This refers to the transportation and supply of plastic products into the country before they reach the consumer, which directly aligns with the definition of the midstream distribution stage of the value chain."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "The document calls for controlling the consumption of plastic, developing sustainable consumption guidelines, implementing bans on single-use plastics, and establishing targets to reduce the production of single-use plastics.",
+        "citation": [
+          "To addressed and controlled the production and consumption of plastic to reduce plastic wastes",
+          "The Pacific therefore requests the ILBI to develop sustainable plastics production and consumption guidelines, to ensure strategies and actions are in place to address global plastic production, to promote sustainable production and consumption of plastics...",
+          "establish targets to reduce production of single-use plastics with associated monitoring to track and report on reduced production; implement bans on single use plastics (where practical)...",
+          "We request the full life-cycle of plastics be considered within the IBLI scope, with a view to promoting resource-efficient circular economy approaches, with a priority focus on addressing single-use plastics."
+        ],
+        "reasoning": "The document explicitly states its objective is to control the 'consumption of plastic'. It further details specific measures aimed at this phase, such as developing 'sustainable...consumption guidelines' and implementing control measures targeting the consumer end, like 'bans on single use plastics' and establishing targets for their reduction. This directly addresses consumer behavior and the consumption phase of the plastic life cycle."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document refers to the need for investments in collection and recycling, and identifies poor waste management practices and systems as a key challenge.",
+        "citation": [
+          "is increasingly inundated by an acute overabundance of inexpensive primary (virgin) plastic, undermining secondary markets for recycled material and investments in collection and recycling.",
+          "The lack of technical and financial capacity, infrastructure coupled with poor waste management practices and systems in the region lead to huge quantities of plastics/plastics products waste ending up our shores."
+        ],
+        "reasoning": "The text explicitly states that 'investments in collection and recycling' are being undermined, which directly addresses the collection of post-consumer plastic waste. Furthermore, the mention of 'poor waste management practices and systems' inherently includes the collection phase as a critical component that is lacking or failing."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document identifies 'poor waste management practices and systems' as a key challenge. It also refers to the need for investments in 'collection and recycling' and managing plastics at their 'end of life'.",
+        "citation": [
+          "The lack of technical and financial capacity, infrastructure coupled with poor waste management practices and systems in the region lead to huge quantities of plastics/plastics products waste ending up our shores.",
+          "...inundated by an acute overabundance of inexpensive primary (virgin) plastic, undermining secondary markets for recycled material and investments in collection and recycling.",
+          "Therefore, we need to consider the issue comprehensively from the point at which plastic is conceived as a material to the moment it finds its way to end of life."
+        ],
+        "reasoning": "The document explicitly states that 'poor waste management practices and systems' contribute to plastic pollution. It further details aspects of this stage by mentioning challenges related to 'collection and recycling' and the need to address the 'end of life' of plastics, all of which fall under the definition of managing plastic waste after collection."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The submission notes that the overabundance of cheap primary (virgin) plastic is undermining secondary markets for recycled materials and investments in collection and recycling infrastructure.",
+        "citation": [
+          "is increasingly inundated by an acute overabundance of inexpensive primary (virgin) plastic, undermining secondary markets for recycled material and investments in collection and recycling."
+        ],
+        "reasoning": "The document explicitly mentions the economic challenges related to the recycling stage, citing how the prevalence of virgin plastic negatively impacts markets for 'recycled material' and discourages investment in 'collection and recycling'."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "elimination of existing plastic pollution in the marine environment",
+        "citation": [
+          "As well as prioritizing the urgent elimination of existing plastic pollution in the marine environment."
+        ],
+        "reasoning": "The document explicitly states that the instrument should prioritize the 'urgent elimination of existing plastic pollution in the marine environment.' This directly aligns with the code's definition of addressing plastic pollution that is already present in the environment."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "The document states an objective to reduce and control the leakage of microplastics into the environment.",
+        "citation": [
+          "It must reduce and control the leakage of waste plastic and microplastics into us environment."
+        ],
+        "reasoning": "The cited text explicitly mentions the need for the international instrument to 'reduce and control the leakage of... microplastics into us environment'. This directly aligns with the code definition, which seeks to identify measures addressing the unintentional release of microplastics."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any specific time periods, deadlines, timelines, or schedules for implementing measures. It uses general terms like 'urgent' but does not provide a concrete timeframe."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes several strict, binding control measures including bans, targets, and reporting obligations. It specifically requests mechanisms similar to the Montreal Protocol, a legally binding treaty known for its strong compliance and reporting framework.",
+        "citation": [
+          "The IBLI should develop mechanisms to control aggregate primary production (including establishing baselines, targets and establishing reporting similar to Montreal Protocol – production and consumption use);",
+          "establish targets to reduce production of single-use plastics with associated monitoring to track and report on reduced production;",
+          "implement bans on single use plastics (where practical), implement bans on problematic or hazardous polymers and other constituent chemicals;"
+        ],
+        "reasoning": "The proposal for bans, mandatory targets, monitoring, and reporting mechanisms indicates a preference for a legally binding instrument with strong obligations. The explicit reference to the Montreal Protocol, a highly stringent and successful international treaty, strongly supports the classification of 'High' stringency, as it implies a desire for a similarly robust and enforceable agreement."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with required national-level implementation.",
+        "citation": [
+          "The Pacific therefore requests the ILBI to develop sustainable plastics production and consumption guidelines, to ensure strategies and actions are in place to address global plastic production...",
+          "It should take a central place in the international efforts, while facilitating cooperation, coordination and complementarity among relevant regional and international conventions and instruments.",
+          "How to ensure implementation of the instrument at the national level (eg. role national action plans contribute to meeting the objectives and obligations of the instrument?)",
+          "Tonga require financial assistance, Technical assistance and Capacity buildings to tackle the plastic pollution issue, and is actively seeking the support of our member nations to deliver this most important of Treaties..."
+        ],
+        "reasoning": "The document consistently refers to a global or international instrument (referred to as ILBI) designed to address 'global plastic production' and function as part of 'international efforts'. The explicit mention of a 'Treaty' involving 'member nations' confirms the global scope. Furthermore, the text directly addresses the need for 'implementation... at the national level,' indicating that this global framework is intended to be executed by individual countries."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document mentions a need for 'financial assistance' and is 'actively seeking the support of our member nations', implying a request for public funding from other states.",
+      "citation": [
+        "As Developing Nations, we lack the access to appropriate technology, the funding to appropriately address the worlds waste issues, and the capacity and training to adequately engage and implement necessary action to combat the scourge of plastic pollution.",
+        "Tonga require financial assistance, Technical assistance and Capacity buildings to tackle the plastic pollution issue, and is actively seeking the support of our member nations to deliver this most important of Treaties to ensure the legacy we leave our children is one of prosperity and environmental harmony, not pollution and destruction."
+      ],
+      "reasoning": "The document, submitted by the state of Tonga, explicitly states a lack of 'funding' and a requirement for 'financial assistance'. It directly appeals for this support from 'member nations', which refers to other states involved in the treaty process. This is a clear call for financing from public, national government sources."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document requests financial assistance and funding support from the international legally binding instrument (IBLI), member nations, and references a UNEP document covering financial assistance.",
+      "citation": [
+        "As Developing Nations, we lack the access to appropriate technology, the funding to appropriately address the worlds waste issues... We seek the IBLI to provide this support...",
+        "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance.",
+        "Tonga require financial assistance, Technical assistance and Capacity buildings to tackle the plastic pollution issue, and is actively seeking the support of our member nations to deliver this most important of Treaties..."
+      ],
+      "reasoning": "The submission explicitly states a lack of 'funding' and directly requests 'financial assistance' and 'support' from the international body being negotiated (IBLI) and from 'member nations' to implement the treaty. The reference to a UNEP document that covers 'financial assistance' further confirms the focus on financing from international sources."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document calls for controlling and reducing the production of plastics, particularly primary (virgin) and single-use plastics. It also specifies the need for sustainable production guidelines, sustainable product design, bans on hazardous polymers, and the establishment of design and labeling standards.",
+      "citation": [
+        "The Pacific therefore requests the ILBI to develop sustainable plastics production and consumption guidelines, to ensure strategies and actions are in place to address global plastic production, to promote sustainable production and consumption of plastics (product design, environmentally sound management, resource efficiency and circular economy approach) effectively reducing the amount of plastic entering the waste stream.",
+        "The IBLI should develop mechanisms to control aggregate primary production (including establishing baselines, targets and establishing reporting similar to Montreal Protocol – production and consumption use); establish targets to reduce production of single-use plastics with associated monitoring to track and report on reduced production; implement bans on single use plastics (where practical), implement bans on problematic or hazardous polymers and other constituent chemicals; and establish harmonious design and labelling standards.",
+        "We seek the IBLI to provide this support, whilst pushing to limit the creation of plastic upstream to reduce the impact and burden felt by those most reliant on the oceans, and least able to act to address the impacts."
+      ],
+      "reasoning": "The cited text explicitly proposes core obligations that directly target the production sector. These include measures to control and reduce plastic production volumes (e.g., 'control aggregate primary production,' 'limit the creation of plastic upstream'), improve the nature of products ('product design,' 'harmonious design and labelling standards'), and eliminate harmful materials ('bans on problematic or hazardous polymers'). These are all clear responsibilities assigned to producers."
+    },
+    "consumers": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document highlights the negative consequences of 'poor waste management practices and systems' and implies a responsibility for implementing effective systems to prevent pollution. It also assigns the responsibility to 'reduce and control the leakage of waste plastic' and to eliminate existing plastic pollution.",
+      "citation": [
+        "The lack of technical and financial capacity, infrastructure coupled with poor waste management practices and systems in the region lead to huge quantities of plastics/plastics products waste ending up our shores.",
+        "It must reduce and control the leakage of waste plastic and microplastics into us environment. As well as prioritizing the urgent elimination of existing plastic pollution in the marine environment."
+      ],
+      "reasoning": "The first citation directly identifies 'poor waste management practices and systems' as a primary cause of plastic pollution, thereby establishing the sector's central role and responsibility in preventing it. The second citation explicitly tasks relevant actors with controlling the escape of waste and cleaning up existing pollution, which are core functions of the waste management sector."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Waste management, Phasing out problematic plastics, Implementing bans on specific plastics and chemicals, National implementation of international instruments, Taking action to combat plastic pollution.",
+      "citation": [
+        "have challenges with phasing out problematic plastics / polymer types including infrastructure and capacity to identify chemical constituents of plastics and how to address and manage these.",
+        "implement bans on single use plastics (where practical), implement bans on problematic or hazardous polymers and other constituent chemicals; and establish harmonious design and labelling standards.",
+        "As Developing Nations, we lack the access to appropriate technology, the funding to appropriately address the worlds waste issues, and the capacity and training to adequately engage and implement necessary action to combat the scourge of plastic pollution."
+      ],
+      "reasoning": "The document identifies several roles and obligations that fall to national governments. The citations highlight specific governmental challenges and desired actions, such as phasing out problematic materials, implementing bans, and the overall responsibility to 'implement necessary action' to fight plastic pollution, even while acknowledging a lack of capacity to do so effectively."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document requests that the international legally binding instrument (ILBI) and its associated body take on several responsibilities. These include: developing guidelines for sustainable production and consumption; creating mechanisms to control primary plastic production (including setting baselines and targets); establishing bans on problematic plastics and chemicals; setting design and labeling standards; serving as a central coordinator for international efforts and conventions; and providing support to developing nations, including access to technology, funding, capacity building, and training.",
+      "citation": [
+        "The Pacific therefore requests the ILBI to develop sustainable plastics production and consumption guidelines, to ensure strategies and actions are in place to address global plastic production, to promote sustainable production and consumption of plastics (product design, environmentally sound management, resource efficiency and circular economy approach) effectively reducing the amount of plastic entering the waste stream.",
+        "It should take a central place in the international efforts, while facilitating cooperation, coordination and complementarity among relevant regional and international conventions and instruments.",
+        "As Developing Nations, we lack the access to appropriate technology, the funding to appropriately address the worlds waste issues, and the capacity and training to adequately engage and implement necessary action to combat the scourge of plastic pollution. We seek the IBLI to provide this support, whilst pushing to limit the creation of plastic upstream to reduce the impact and burden felt by those most reliant on the oceans, and least able to act to address the impacts."
+      ],
+      "reasoning": "The document explicitly assigns numerous roles and responsibilities to the 'ILBI' (internationally legally binding instrument), which represents the future international governance entity. The cited texts detail requests for this body to develop guidelines, coordinate international efforts, and provide technical and financial assistance, which are all core functions of an international body like those within the UN system."
+    }
+  }
+}

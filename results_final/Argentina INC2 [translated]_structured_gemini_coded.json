@@ -1,0 +1,621 @@
+{
+  "submission_metadata": {
+    "country": "ARGENTINA",
+    "date": "2023-02-13",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "The objective of the future Convention should be the protection of human health and the environment of adverse effects of plastic pollution.",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "Any control measures or approaches promoted to meet the instrument's objectives of reducing plastic pollution, including in the marine environment, should be compatible with World Trade Organization rules."
+      ],
+      "reasoning": "The document explicitly states the objective is to protect against the 'adverse effects of plastic pollution' and proposes a 'comprehensive approach to addressing plastic pollution' and 'reducing plastic pollution'. These phrases directly align with the code definition for mentioning the goal. However, the document does not specify a target year or timeline for achieving this objective. The references to the '2030 Agenda' are for alignment with broader international goals, not for setting a specific deadline for ending plastic pollution."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "The Convention should address the entire life cycle of plastic, understanding this from raw materials, production, product completion and waste generation.",
+        "control of the source of supply and marketing, with respect to the plastic product and its raw material (including additives);",
+        "restrictions and prohibitions on the use, manufacture and international trade of certain plastics that may be listed in an Annex, in particular those plastics that may be considered dangerous and potentially hazardous."
+      ],
+      "reasoning": "The document explicitly proposes core obligations to control and restrict the manufacturing of plastics. It suggests measures like 'control of the source of supply' for raw materials and direct 'restrictions and prohibitions on the... manufacture... of certain plastics'. This aligns with the code definition of addressing the reduction of plastic production. However, the document does not offer any specific quantitative targets, percentages, or caps for this reduction."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "Plastics are described as resources that are recyclable and can be converted into new products within a circular economy model.",
+      "citation": [
+        "The commitment should be to integrate plastics into a circular economy model: they are resources and, being entirely recyclable, they can be converted into new products, thus keeping them in the economic circuit and avoiding their disposal, in favor of the environment and the preservation of resources. natural."
+      ],
+      "reasoning": "The document acknowledges the utility and positive contribution of plastics by explicitly framing them as 'resources' that have value within a circular economy. The text highlights their recyclability and potential to be converted into new products, which is a clear mention of their benefits beyond their initial use."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document states that the objective of the future convention should be the protection of human health from the adverse effects of plastic pollution. It suggests achieving this through measures like restricting 'dangerous and potentially hazardous' plastics.",
+      "citation": [
+        "The objective of the future Convention should be the protection of human health and the environment of adverse effects of plastic pollution.",
+        "...restrictions and prohibitions on the use, manufacture and international trade of certain plastics that may be listed in an Annex, in particular those plastics that may be considered dangerous and potentially hazardous."
+      ],
+      "reasoning": "The document explicitly states the protection of human health as a primary objective for the instrument in its opening sentence. It further supports this by proposing control measures aimed at restricting plastics that are dangerous and hazardous, which directly relates to mitigating risks to human health."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "The objective of the future Convention should be the protection of human health and the environment of adverse effects of plastic pollution.",
+        "Plastics do not belong to the environment and should not, under any circumstances, be discarded or abandoned in the environment to prevent them from affecting the natural cycles of species and ecosystems.",
+        "The presence of plastics in water courses or in places where fauna gathers food is a consequence of bad consumption and disposal habits on the part of consumers and the ineffectiveness of waste management, collection and recovery systems.",
+        "Likewise, it should strengthen the capacities of coastal municipalities, civil society organizations and artisanal fishermen on the issue of marine litter and its impact on biodiversity."
+      ],
+      "reasoning": "The document explicitly states that a primary objective is the 'protection of... the environment' from plastic pollution. It further details that plastics should not be in the environment to avoid 'affecting the natural cycles of species and ecosystems' and harming 'fauna'. The submission specifically highlights a marine focus by calling to address 'marine litter and its impact on biodiversity'."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "The Convention should address the entire life cycle of plastic, understanding this from raw materials, production, product completion and waste generation.",
+        "Therefore, it is relevant that it has broad wording that refers to the life cycle of plastics, not just waste.",
+        "...addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "The transition to a circular economy model must make use of the application of ecodesign through which products are thought and designed covering the entire life cycle, consumed responsibly and managed at the end of their useful life in order to integrate recovery streams."
+      ],
+      "reasoning": "The document explicitly and repeatedly mentions the need to address the 'entire life cycle' and 'full life cycle' of plastics. The citations confirm this by defining the scope from 'raw materials' to 'waste generation', explicitly stating the approach should not be limited to waste, and connecting it to concepts like ecodesign, which inherently covers all stages from design to end-of-life."
+    },
+    "other_objectives": {
+      "value": "Transition to a circular economy, provide international technical and financial assistance, promote innovation, and create jobs and economic growth.",
+      "citation": [
+        "Canada’s vision is to transition to a circular economy for plastics.",
+        "Canada is also committed to working with international partners, including developing countries, to provide technical and financial assistance to support the implementation of the treaty.",
+        "Canada supports provisions in the treaty that promote innovation and investment in sustainable alternatives and new business models that will create jobs and economic growth."
+      ],
+      "reasoning": "The cited texts state several clear policy objectives that are not covered by the other specified categories. These include the broad economic goal of transitioning to a 'circular economy,' a commitment to 'international... assistance' (a process/support objective), and specific economic development aims like promoting 'innovation,' creating 'jobs,' and fostering 'economic growth.' These are distinct from the primary goals of ending pollution, protecting health/biodiversity, or adopting a lifecycle approach."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document proposes 'incentives for the circular economy and waste management system', the 'transfer of financial resources' to developing countries, the creation of a 'specific fund' to aid implementation, financing to 'support the development of reconversion policies', and 'support for local recycling systems'.",
+        "citation": [
+          "- incentives for the circular economy and waste management system, minimizing pollution from single-use plastics and hazardous plastics;",
+          "The inclusion of operational provisions to support developing countries in the transfer of financial resources, technologies and capacity building should be ensured...",
+          "Consideration should be given to creating a specific fund to cooperate with the application of the obligations arising from the Convention.",
+          "The available financing should also support the development of reconversion policies that are necessary to adapt to what is established by the new instrument.",
+          "...support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems..."
+        ],
+        "reasoning": "The document explicitly calls for various forms of financial support, including 'incentives,' the 'transfer of financial resources,' and the establishment of a 'specific fund.' These mechanisms are designed to encourage and support the implementation of the treaty's objectives, such as promoting a circular economy and aiding developing nations, which directly aligns with the definition of subsidies and financial incentives."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document suggests the 'punishment of illicit trafficking' as a core obligation under the instrument.",
+        "citation": [
+          "- punishment of illicit trafficking;"
+        ],
+        "reasoning": "The document explicitly lists 'punishment of illicit trafficking' as a potential core obligation. This is a punitive measure for a prohibited action, which falls squarely within the definition of penalties and fines for non-compliance."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document mentions general support for research and development as a core obligation and specifically notes the development of new recycling technologies, such as 'advanced recycling'.",
+        "citation": [
+          "- support for research and development;",
+          "It is necessary that the productive private sector be involved in the projects so that it collaborates in improving waste management through the development of new recycling technologies, such as “advanced recycling”, recovery and Extended Producer Responsibility schemes (REP)."
+        ],
+        "reasoning": "The document explicitly lists 'support for research and development' as a potential core obligation for the international instrument. It further specifies an area for this R&D by stating the private sector should collaborate on 'the development of new recycling technologies', directly matching the code's definition of R&D funding or innovation investments in the plastic value chain."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document mentions considering 'extended producer responsibility' as a core obligation, developing 'Extended Producer Responsibility schemes (REP)', and specifically notes the producer's responsibility in financing local recycling systems.",
+        "citation": [
+          "- measures to support States to promote sustainable consumption, sustainable production and intelligent and efficient product design, taking into account extended producer responsibility;",
+          "It is necessary that the productive private sector be involved in the projects so that it collaborates in improving waste management through the development of new recycling technologies, such as “advanced recycling”, recovery and Extended Producer Responsibility schemes (REP).",
+          "Likewise, it must include provisions to strengthen the action of grassroots recyclers, support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems -, and marketing networks, and the valorization of special waste streams."
+        ],
+        "reasoning": "The document explicitly and repeatedly names 'extended producer responsibility' (EPR) as a measure to address plastic pollution. The citations show it is considered as a core obligation, a scheme for private sector collaboration, and a mechanism for producers to finance recycling systems, which directly aligns with the code's definition."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "The document specifies several just transition measures, including: the integration of a just transition into the treaty's objective, including recyclers in the plastic value chain, the inclusion of reclaimers in the design and implementation of local programs, promoting plastic waste management programs with social inclusion, and strengthening the action of grassroots recyclers and local recycling systems.",
+        "citation": [
+          "In this sense, the objective must include the integration of the just transition, including recyclers in the plastic value chain.",
+          "promotion of the development and strengthening of local governance of co-management of plastic waste; from the inclusion of reclaimers in the design and implementation of local programs;",
+          "The future Convention should promote the development of plastic waste management programs with social inclusion...",
+          "Likewise, it must include provisions to strengthen the action of grassroots recyclers, support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems -, and marketing networks, and the valorization of special waste streams."
+        ],
+        "reasoning": "The document explicitly mentions the 'just transition' and repeatedly calls for the integration and support of informal and grassroots waste workers (referred to as 'recyclers' and 'reclaimers') into the formal value chain and waste management programs. This directly addresses the social impact of the transition on a vulnerable group, aligning perfectly with the code definition."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Restrictions and prohibitions on the use, manufacture, and international trade of certain plastics, particularly those considered dangerous and potentially hazardous, which could be listed in an Annex.",
+        "citation": [
+          "- restrictions and prohibitions on the use, manufacture and international trade of certain plastics that may be listed in an Annex, in particular those plastics that may be considered dangerous and potentially hazardous."
+        ],
+        "reasoning": "The document explicitly proposes 'restrictions and prohibitions on the use, manufacture and international trade of certain plastics' as a potential core obligation for the international instrument. This directly aligns with the code definition, which includes looking for prohibitions or bans on specific plastic products or materials."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document suggests measures to promote 'intelligent and efficient product design' and the application of 'ecodesign' for products throughout their life cycle.",
+        "citation": [
+          "- measures to support States to promote sustainable consumption, sustainable production and intelligent and efficient product design, taking into account extended producer responsibility;",
+          "The transition to a circular economy model must make use of the application of ecodesign through which products are thought and designed covering the entire life cycle, consumed responsibly and managed at the end of their useful life in order to integrate recovery streams."
+        ],
+        "reasoning": "The document explicitly proposes measures related to product design, such as 'intelligent and efficient product design' and 'ecodesign'. These concepts directly align with the definition of performance standards, as they involve establishing criteria and requirements for how products are designed to improve their environmental performance throughout their lifecycle."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not explicitly mention or propose mandatory product or process certification, approval schemes, or verification systems as a regulatory instrument. While it discusses related concepts such as control measures for supply, international standards, and compliance with regulations for methodologies like Life Cycle Analysis, it does not detail a certification mechanism to control what plastics can be produced or traded. The proposed control measures focus on restrictions, prohibitions, and extended producer responsibility rather than certification."
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The submission suggests the use of national action plans, national implementation plans, and national plans, programs and strategies to implement the treaty's obligations.",
+        "citation": [
+          "Reporting every 6 years, as Minamata requires, could be promoted, interspersing reporting with national action plans, to have a progress update every 3 years.",
+          "Support for the development of national plans, programs and strategies can also be considered or of application to carry out the implementation of some of the obligations that may arise from the new agreement.",
+          "Another voluntary commitment that could be related to national implementation plans is the preparation of plastics inventories, which should be encouraged by this Convention."
+        ],
+        "reasoning": "The document explicitly proposes the use of 'national action plans' as a tool for national implementation, suggesting a reporting cycle. It further broadens this concept by mentioning 'national plans, programs and strategies' and 'national implementation plans' as mechanisms for countries to fulfill their obligations under the agreement."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document proposes a system for national reporting, including reporting every 6 years, with progress updates every 3 years. It recommends a system of short and long reports, with the long report being biannual. It also suggests the preparation of plastics inventories.",
+        "citation": [
+          "Reporting every 6 years, as Minamata requires, could be promoted, interspersing reporting with national action plans, to have a progress update every 3 years.",
+          "Regarding the national report, the possibility of carrying out a short and a long report is recommended. The latter is considered to be biannual, as is the case with the Minamata Convention.",
+          "Another voluntary commitment that could be related to national implementation plans is the preparation of plastics inventories, which should be encouraged by this Convention."
+        ],
+        "reasoning": "The cited texts explicitly discuss and recommend specific mechanisms for 'national reporting' as a tool for ensuring the effectiveness of the instrument. They detail the proposed frequency (every 6 years, biannually), format (short and long reports), and content (progress updates, plastics inventories), directly aligning with the definition of a mandatory reporting instrument."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document suggests restrictions, prohibitions, and control measures on the international trade of certain plastics, particularly those deemed dangerous or hazardous. It also mentions the punishment of illicit trafficking.",
+        "citation": [
+          "- restrictions and prohibitions on the use, manufacture and international trade of certain plastics that may be listed in an Annex, in particular those plastics that may be considered dangerous and potentially hazardous.",
+          "- punishment of illicit trafficking;"
+        ],
+        "reasoning": "The document explicitly proposes core obligations for the future instrument that include 'restrictions and prohibitions on the... international trade of certain plastics' and the 'punishment of illicit trafficking.' These are direct examples of measures affecting the international trade of plastic products."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document suggests several monitoring measures, including: evaluation of effectiveness, national reporting (biannual and every 6 years), development of compliance indicators, preparation of plastics inventories, identification of contaminated sites, and the use of geographic information systems (GIS) for traceability. It also explicitly mentions designing monitoring and evaluation systems for both public and private sectors.",
+        "citation": [
+          "identification of contaminated and potentially plastic-contaminated sites to promote environmental restoration and prevention measures.",
+          "In relation to the evaluation of effectiveness, it is important to consider the framework of the Convention Minamata regarding this type of tool, to promote collaboration between the States Parties and the Secretariat.",
+          "To prepare the effectiveness evaluation, the development of clear objectives, goals that are related to them, and indicators that demonstrate compliance with the obligations of the Convention, including at the local level, must be taken into account.",
+          "Another voluntary commitment that could be related to national implementation plans is the preparation of plastics inventories, which should be encouraged by this Convention.",
+          "The future Convention should promote the development of plastic waste management programs with... the development of efficient and linked geographic information systems (GIS) and traceability of plastic waste.",
+          "Capacity building should also aim to strengthen local governance, regulation and preparation of studies throughout the life cycle of plastics, on the plastic footprint, the amount and type of plastics recycled by country, and the design of recycling systems. monitoring and evaluation of the public and private sector."
+        ],
+        "reasoning": "The document explicitly discusses the need for an 'evaluation of effectiveness' for the instrument, supported by national reporting, the development of specific indicators to demonstrate compliance, and the creation of 'plastics inventories'. Furthermore, it calls for the use of GIS for 'traceability' and directly mentions the need to support the 'design of recycling systems. monitoring and evaluation'. These cited texts directly align with the code definition of establishing systems to track, measure, assess, or evaluate plastic pollution and policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document suggests several information and guidance measures, including the promotion of public information, awareness, and training campaigns; technical assistance for best available techniques and practices; promotion of responsible practices for fishing vessels; and local environmental education.",
+        "citation": [
+          "promotion of information, awareness and training campaigns for the public;",
+          "The Convention should support capacity building in developing States Parties, enabling technical assistance for best available techniques and practices.",
+          "Education is the key to building a world without waste. It is necessary to promote local environmental education regarding information and the impact of plastics on the environment and citizen participation.",
+          "The future Convention should be able to address the problems caused by fishing gear, and promote responsible practices on board vessels, with an ecosystem perspective."
+        ],
+        "reasoning": "The cited texts directly mention the need for various forms of information and guidance as part of the instrument's approach. These include public campaigns, sharing of best practices and techniques, environmental education, and promoting responsible practices, all of which are non-binding, informational tools designed to guide behavior and support implementation."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Public information, awareness, and training campaigns; promotion of local environmental education on the impact of plastics; and capacity building for coastal municipalities, civil society, and fishermen regarding marine litter.",
+        "citation": [
+          "- promotion of information, awareness and training campaigns for the public;",
+          "Education is the key to building a world without waste.",
+          "It is necessary to promote local environmental education regarding information and the impact of plastics on the environment and citizen participation.",
+          "Likewise, it should strengthen the capacities of coastal municipalities, civil society organizations and artisanal fishermen on the issue of marine litter and its impact on biodiversity."
+        ],
+        "reasoning": "The document explicitly identifies the 'promotion of information, awareness and training campaigns for the public' as a core obligation. It further emphasizes that 'Education is the key to building a world without waste' and calls for specific actions like promoting local environmental education and strengthening the capacities of targeted groups, clearly validating the inclusion of education as a soft instrument."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "Scientific Committee, scientific panel",
+        "citation": [
+          "Likewise, it is recommended to have a Scientific Committee, similar to the Stockholm Convention, as a subsidiary body, which could collaborate with the Secretariat and the States Parties, with the development and analysis of scientific documents.",
+          "For this reason, it is considered necessary to form a scientific panel that is in charge of resolving doubts and concerns that arise throughout the process of forming the instrument, as well as in its subsequent application."
+        ],
+        "reasoning": "The document explicitly recommends the establishment of two expert bodies: a 'Scientific Committee' to collaborate on the development and analysis of scientific documents, and a 'scientific panel' to resolve scientific doubts and concerns during the instrument's formation and application. These proposals directly match the code definition for expert groups."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document mentions general 'support for research and development' as well as the specific 'development of new recycling technologies', including 'advanced recycling'.",
+        "citation": [
+          "- support for research and development;",
+          "It is necessary that the productive private sector be involved in the projects so that it collaborates in improving waste management through the development of new recycling technologies, such as “advanced recycling”, recovery and Extended Producer Responsibility schemes (REP)."
+        ],
+        "reasoning": "The document explicitly lists 'support for research and development' as a core obligation for the instrument. It also specifies the need for the private sector to develop new recycling technologies. These statements directly align with the code definition of encouraging scientific research and innovation without attaching specific funding commitments."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes aligning control measures with international standards, harmonizing national reporting structures with the Minamata Convention, and standardizing scientific methodologies (like Life Cycle Analysis) according to international practices.",
+        "citation": [
+          "...ensuring that measures are based on scientific evidence and international standards of reference international organizations.",
+          "Reporting every 6 years, as Minamata requires, could be promoted, interspersing reporting with national action plans, to have a progress update every 3 years.",
+          "Regarding the national report, the possibility of carrying out a short and a long report is recommended. The latter is considered to be biannual, as is the case with the Minamata Convention.",
+          "The methodologies to be applied, such as Life Cycle Analysis, should be conducted by independent teams in accordance with international, public and recognized practices and regulations."
+        ],
+        "reasoning": "The cited texts explicitly advocate for aligning national approaches with established international frameworks. This includes basing control measures on 'international standards', modeling reporting requirements on the existing Minamata Convention to create consistency, and conducting scientific analysis according to 'international, public and recognized practices'. These proposals are clear efforts to standardize and align methodologies and systems across countries, directly matching the definition of harmonization."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions several knowledge sharing mechanisms, including: technology transfer systems, capacity building initiatives, technical assistance for best available techniques and practices, and the creation of a Scientific Committee to collaborate on the development and analysis of scientific documents.",
+        "citation": [
+          "The need to have an effective technology transfer system is highlighted in order to improve the installed capacities of developing States.",
+          "The Convention should support capacity building in developing States Parties, enabling technical assistance for best available techniques and practices.",
+          "Cooperation can be carried out through regional, subregional, national arrangements, and even, although not exclusively, through existing regional and subregional centers.",
+          "Likewise, it is recommended to have a Scientific Committee, similar to the Stockholm Convention, as a subsidiary body, which could collaborate with the Secretariat and the States Parties, with the development and analysis of scientific documents."
+        ],
+        "reasoning": "The document explicitly calls for the transfer of technologies, capacity building, and technical assistance to support developing countries. It also proposes institutional arrangements like a Scientific Committee and cooperation through regional centers. These are all clear mechanisms for exchanging information, expertise, and best practices among stakeholders to build capacity, which directly aligns with the definition of the code."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document does not contain any specific, measurable policy targets with concrete numbers, percentages, or deadlines, such as reduction or recycling goals. The submission focuses on high-level objectives, principles, potential core obligations in general terms, and implementation frameworks rather than proposing quantitative targets for the instrument to achieve."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "The document proposes that the convention should address the entire life cycle of plastic, starting from raw materials. It suggests a core obligation to control the source of supply and marketing of plastic raw materials.",
+        "citation": [
+          "The Convention should address the entire life cycle of plastic, understanding this from raw materials, production, product completion and waste generation.",
+          "- control of the source of supply and marketing, with respect to the plastic product and its raw material (including additives);"
+        ],
+        "reasoning": "The citations explicitly mention 'raw materials' as the starting point of the plastic life cycle that the instrument should address. A core obligation is proposed to 'control of the source of supply and marketing' of the 'raw material,' which is a direct measure related to the feedstock stage of the value chain."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document suggests core obligations that include 'control of the source of supply' for plastic raw materials and 'restrictions and prohibitions on the manufacture' of certain plastics. It also repeatedly mentions the promotion of 'sustainable production' patterns.",
+        "citation": [
+          "The Convention should address the entire life cycle of plastic, understanding this from raw materials, production, product completion and waste generation.",
+          "- control of the source of supply and marketing, with respect to the plastic product and its raw material (including additives);",
+          "- restrictions and prohibitions on the use, manufacture and international trade of certain plastics that may be listed in an Annex, in particular those plastics that may be considered dangerous and potentially hazardous."
+        ],
+        "reasoning": "The document explicitly states that the convention should address plastic's entire life cycle, including 'production' starting from 'raw materials'. It then proposes specific core obligations, such as controlling the supply of raw materials and implementing restrictions or prohibitions on the 'manufacture' of certain plastics. These points directly align with the code definition of addressing the manufacturing or creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "intelligent and efficient product design, ecodesign",
+        "citation": [
+          "measures to support States to promote sustainable consumption, sustainable production and intelligent and efficient product design, taking into account extended producer responsibility;",
+          "The transition to a circular economy model must make use of the application of ecodesign through which products are thought and designed covering the entire life cycle, consumed responsibly and managed at the end of their useful life in order to integrate recovery streams."
+        ],
+        "reasoning": "The document explicitly identifies 'intelligent and efficient product design' as a potential core obligation for the instrument. Furthermore, it highlights 'ecodesign' as a critical component for transitioning to a circular economy, defining it as designing products with their entire life cycle in mind. These points directly match the code's definition of addressing how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "control of raw material supply (including additives), restrictions and prohibitions on manufacture of certain plastics, promotion of sustainable production, promotion of intelligent and efficient product design (ecodesign)",
+        "citation": [
+          "- control of the source of supply and marketing, with respect to the plastic product and its raw material (including additives);",
+          "- restrictions and prohibitions on the use, manufacture and international trade of certain plastics that may be listed in an Annex, in particular those plastics that may be considered dangerous and potentially hazardous.",
+          "- measures to support States to promote sustainable consumption, sustainable production and intelligent and efficient product design, taking into account extended producer responsibility;"
+        ],
+        "reasoning": "The document explicitly addresses the product production stage by calling for measures that control the supply and marketing of the final plastic product and its raw materials, including chemical 'additives'. It also suggests 'restrictions and prohibitions on the... manufacture' of certain hazardous plastics and promotes 'sustainable production' and 'intelligent and efficient product design'. While microplastics are mentioned generally, there is no specific reference to intentionally added microplastics in products, so that field is marked as false."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "The document proposes several measures related to the distribution and supply chain, including: control of the source of supply and marketing of plastic products and raw materials, restrictions on international trade for certain plastics, punishment of illicit trafficking, and support for marketing networks for recycled materials.",
+        "citation": [
+          "control of the source of supply and marketing, with respect to the plastic product and its raw material (including additives);",
+          "restrictions and prohibitions on the use, manufacture and international trade of certain plastics that may be listed in an Annex, in particular those plastics that may be considered dangerous and potentially hazardous.",
+          "punishment of illicit trafficking;",
+          "...support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems -, and marketing networks, and the valorization of special waste streams."
+        ],
+        "reasoning": "The cited texts explicitly mention measures to control the 'supply', 'marketing', and 'international trade' of plastic products and their raw materials. These terms directly relate to the distribution stage of the value chain. Additionally, the mention of punishing 'illicit trafficking' and supporting 'marketing networks' further confirms the focus on controlling the movement and sale of plastic materials and products within the supply chain."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "The document addresses consumption through multiple measures, including the promotion of sustainable consumption patterns, minimizing pollution from single-use plastics, public information and awareness campaigns, and addressing poor consumer consumption and disposal habits.",
+        "citation": [
+          "Likewise, the goal could have a particular link with the Sustainable Development Goals, in particular with SDG 12 of promoting sustainable consumption and production patterns.",
+          "measures to support States to promote sustainable consumption, sustainable production and intelligent and efficient product design, taking into account extended producer responsibility;",
+          "incentives for the circular economy and waste management system, minimizing pollution from single-use plastics and hazardous plastics;",
+          "promotion of information, awareness and training campaigns for the public;",
+          "The presence of plastics in water courses or in places where fauna gathers food is a consequence of bad consumption and disposal habits on the part of consumers and the ineffectiveness of waste management, collection and recovery systems.",
+          "Consequently, the incorporation of the concept of sustainable consumption and its derived policies is key to achieve effective application of the future instrument."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions the need to promote 'sustainable consumption' and links this to SDG 12. It directly identifies 'minimizing pollution from single-use plastics' as a core obligation. Furthermore, it attributes plastic pollution directly to 'bad consumption and disposal habits on the part of consumers' and calls for public awareness campaigns, clearly indicating that measures addressing the consumption phase and consumer behavior are central to its proposal."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions the need for effective waste management, collection, and recovery systems. It specifically suggests promoting co-management of plastic waste, strengthening the action of grassroots recyclers, and supporting local recycling systems.",
+        "citation": [
+          "promotion of the development and strengthening of local governance of co-management of plastic waste; from the inclusion of reclaimers in the design and implementation of local programs;",
+          "The presence of plastics in water courses or in places where fauna gathers food is a consequence of bad consumption and disposal habits on the part of consumers and the ineffectiveness of waste management, collection and recovery systems.",
+          "Likewise, it must include provisions to strengthen the action of grassroots recyclers, support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems -, and marketing networks, and the valorization of special waste streams."
+        ],
+        "reasoning": "The document explicitly identifies the \"ineffectiveness of waste management, collection and recovery systems\" as a root cause of plastic pollution. Furthermore, it proposes specific measures to improve this stage, such as promoting \"co-management of plastic waste\" and strengthening the role of \"grassroots recyclers\" and \"local recycling systems,\" all of which are core components of the post-consumer waste collection process."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "incentives for waste management systems; co-management of plastic waste; environmental restoration of contaminated sites; development of plastic waste management programs with social inclusion, GIS, and traceability; development of new recycling technologies such as 'advanced recycling'; recovery schemes; strengthening grassroots recyclers and local recycling systems; valorization of special waste streams.",
+        "citation": [
+          "incentives for the circular economy and waste management system, minimizing pollution from single-use plastics and hazardous plastics;",
+          "identification of contaminated and potentially plastic-contaminated sites to promote environmental restoration and prevention measures.",
+          "The future Convention should promote the development of plastic waste management programs with social inclusion, taking into account local diagnoses, objectives and goals with annual compliance, the development of efficient and linked geographic information systems (GIS) and traceability of plastic waste.",
+          "It is necessary that the productive private sector be involved in the projects so that it collaborates in improving waste management through the development of new recycling technologies, such as “advanced recycling”, recovery and Extended Producer Responsibility schemes (REP).",
+          "Likewise, it must include provisions to strengthen the action of grassroots recyclers, support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems -, and marketing networks, and the valorization of special waste streams."
+        ],
+        "reasoning": "The document explicitly and repeatedly proposes measures for the management of plastic waste after its generation and collection. The citations mention the need for 'waste management systems', 'plastic waste management programs', and specific actions such as 'environmental restoration', developing 'new recycling technologies', and strengthening 'local recycling systems'. This directly addresses the handling, processing, and management of plastic waste, aligning with the code's definition."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document mentions several recycling-related measures, including: integrating recyclers into the value chain, tracking the amount and type of plastics recycled by country, designing recycling systems, developing new recycling technologies like 'advanced recycling', strengthening grassroots recyclers, and supporting local recycling systems through financing mechanisms such as Extended Producer Responsibility (EPR).",
+        "citation": [
+          "In this sense, the objective must include the integration of the just transition, including recyclers in the plastic value chain.",
+          "Capacity building should also aim to strengthen local governance, regulation and preparation of studies throughout the life cycle of plastics, on the plastic footprint, the amount and type of plastics recycled by country, and the design of recycling systems.",
+          "It is necessary that the productive private sector be involved in the projects so that it collaborates in improving waste management through the development of new recycling technologies, such as “advanced recycling”, recovery and Extended Producer Responsibility schemes (REP).",
+          "Likewise, it must include provisions to strengthen the action of grassroots recyclers, support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems -, and marketing networks, and the valorization of special waste streams."
+        ],
+        "reasoning": "The cited texts explicitly mention 'recyclers', 'recycled' materials, and 'recycling' systems and technologies. They detail specific actions such as integrating recycling workers, measuring recycling rates, promoting advanced recycling technologies, and providing structural and financial support for local recycling systems, directly aligning with the code definition for the recycling stage."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document proposes the identification of contaminated sites for environmental restoration and strengthening capacities to address marine litter.",
+        "citation": [
+          "identification of contaminated and potentially plastic-contaminated sites to promote environmental restoration and prevention measures.",
+          "Likewise, it should strengthen the capacities of coastal municipalities, civil society organizations and artisanal fishermen on the issue of marine litter and its impact on biodiversity."
+        ],
+        "reasoning": "The citations directly support the code as they refer to measures for addressing plastic that is already in the environment. 'Environmental restoration' of 'contaminated sites' is a clear reference to cleaning up existing pollution. Similarly, addressing the 'issue of marine litter' involves managing plastic waste that has already polluted marine ecosystems."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document suggests capacity building for the preparation of studies on the 'plastic footprint' across the product lifecycle.",
+        "citation": [
+          "Capacity building should also aim to strengthen local governance, regulation and preparation of studies throughout the life cycle of plastics, on the plastic footprint, the amount and type of plastics recycled by country, and the design of recycling systems."
+        ],
+        "reasoning": "The term 'plastic footprint' is a comprehensive metric that typically includes the quantification of greenhouse gas emissions associated with the entire lifecycle of plastics. By proposing capacity building for studies on this topic, the document addresses the need to measure and understand emissions related to plastic."
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "The document states the instrument should consider the problems associated with microplastics, but does not specify measures like addressing tire wear or textile fibers.",
+        "citation": [
+          "On the other hand, the future instrument should consider the particularities of plastic pollution in bodies of water and the problems associated with microplastics."
+        ],
+        "reasoning": "The document explicitly mentions that the future instrument should address 'the problems associated with microplastics,' which directly aligns with the code definition concerning the unintentional release of microplastics into the environment."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document proposes specific, recurring time intervals for reporting and compliance, suggesting a 6-year cycle for effectiveness evaluations, 3-year progress updates, biannual national reports, and annual compliance goals for waste management programs.",
+        "citation": [
+          "Reporting every 6 years, as Minamata requires, could be promoted, interspersing reporting with national action plans, to have a progress update every 3 years.",
+          "Regarding the national report, the possibility of carrying out a short and a long report is recommended. The latter is considered to be biannual, as is the case with the Minamata Convention.",
+          "The future Convention should promote the development of plastic waste management programs with social inclusion, taking into account local diagnoses, objectives and goals with annual compliance, the development of efficient and linked geographic information systems (GIS) and traceability of plastic waste."
+        ],
+        "reasoning": "The cited texts provide clear, specific time periods for implementation and monitoring activities. Phrases such as 'every 6 years,' 'every 3 years,' 'biannual,' and 'annual compliance' directly refer to a defined schedule and timeline for key components of the instrument's implementation, justifying the 'specified' a'nd 'details' fields."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document advocates for a flexible approach, allowing individual governments to find locally relevant solutions. It suggests core obligations but also voluntary commitments like plastics inventories. While it proposes a structured reporting and evaluation framework similar to the Minamata Convention and a Scientific Committee, it lacks proposals for specific international enforcement mechanisms or sanctions for non-compliance, emphasizing instead the need to consider national capacities and development priorities.",
+        "citation": [
+          "Another voluntary commitment that could be related to national implementation plans is the preparation of plastics inventories, which should be encouraged by this Convention.",
+          "At the same time, it should be remembered that there is no single model of sustainable production and that national circumstances and capacities, as well as development priorities, particularly of developing countries, should be taken into account.",
+          "There should not be a one-size-fits-all solution for all regions and countries and therefore flexibility is needed so that each government within the framework of the Global Agreement can apply and find locally relevant solutions."
+        ],
+        "reasoning": "The document is coded as 'Low' stringency due to its explicit and repeated calls for flexibility, consideration of national circumstances, and the inclusion of voluntary measures. The citations directly support this by highlighting a 'voluntary commitment', the rejection of a 'single model', and the need for 'flexibility' over a rigid, universally enforced system. The absence of proposed punitive or strong enforcement measures further reinforces this assessment."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global treaty that requires national-level implementation through national action plans, programs, and strategies, which are then expected to incorporate and support local-level solutions and governance.",
+        "citation": [
+          "Argentina's Submission on the International Legally Binding Instrument on Plastic Pollution",
+          "How to ensure implementation of the instrument at the national level (eg. role national action plans contribute to meeting the objectives and obligations of the instrument?)",
+          "There should not be a one-size-fits-all solution for all regions and countries and therefore flexibility is needed so that each government within the framework of the Global Agreement can apply and find locally relevant solutions."
+        ],
+        "reasoning": "The document is a submission for an 'International Legally Binding Instrument,' explicitly referred to as a 'Global Agreement.' This establishes the global scope. The citations then clarify that implementation is expected to occur 'at the national level' through 'national action plans,' and that these plans should be flexible enough for each government to apply 'locally relevant solutions.' This demonstrates a clear global-to-national-to-local implementation framework."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "Extended Producer Responsibility (EPR) schemes where producers finance local recycling systems.",
+      "citation": [
+        "It is necessary that the productive private sector be involved in the projects so that it collaborates in improving waste management through the development of new recycling technologies, such as “advanced recycling”, recovery and Extended Producer Responsibility schemes (REP).",
+        "Likewise, it must include provisions to strengthen the action of grassroots recyclers, support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems -, and marketing networks, and the valorization of special waste streams."
+      ],
+      "reasoning": "The document explicitly mentions \"Extended Producer Responsibility schemes (REP)\" as a way for the \"productive private sector\" to be involved. A subsequent citation reinforces this by directly linking \"the extended responsibility of the producer\" to \"the financing of these systems,\" confirming that this is a private sector financing mechanism."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document mentions financial resources from developed countries, the creation of a specific fund supported by donor commitments, and access to other public financing mechanisms like the Global Environment Facility (GEF) and the Special Programme.",
+      "citation": [
+        "...there is a commitment by developed countries to support developing countries with financial resources, technologies and capacity building.",
+        "Consideration should be given to creating a specific fund to cooperate with the application of the obligations arising from the Convention.",
+        "Having a specific fund requires donors who commit to integrating that Fund.",
+        "Without prejudice to this, access to other sources of financing could also be ensured, such as the Global Environment Facility (GEF) and the Special Programme."
+      ],
+      "reasoning": "The cited texts explicitly identify developed countries (states) as a source of financial resources and name established intergovernmental public financing bodies like the GEF as potential funding sources. The call to create a new 'specific fund' requiring donor commitments also falls under public financing in the context of an international treaty."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document proposes creating a specific fund that would require international donors, and also ensuring access to other financing sources like the Global Environment Facility (GEF) and the Special Programme.",
+      "citation": [
+        "Consideration should be given to creating a specific fund to cooperate with the application of the obligations arising from the Convention.",
+        "Having a specific fund requires donors who commit to integrating that Fund.",
+        "Without prejudice to this, access to other sources of financing could also be ensured, such as the Global Environment Facility (GEF) and the Special Programme."
+      ],
+      "reasoning": "The document explicitly names the Global Environment Facility (GEF) and the Special Programme as potential international financing sources. It also describes the creation of a 'specific fund' that would be supported by 'donors,' implying international contributions. This directly aligns with the code definition of financing from international sources."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "The document mentions financing through Extended Producer Responsibility (EPR/REP) schemes, where producers contribute to the cost of managing post-consumer products.",
+      "citation": [
+        "Likewise, it must include provisions to strengthen the action of grassroots recyclers, support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems -, and marketing networks, and the valorization of special waste streams."
+      ],
+      "reasoning": "The cited text directly proposes that the instrument include provisions for 'the extended responsibility of the producer in the financing of these systems'. This explicitly links the concept of Extended Producer Responsibility (EPR), which is a fee-based system for producers, to the financing of local recycling systems for plastic waste, aligning with the code definition."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document discusses financing through the transfer of financial resources, the creation of a 'specific fund', and accessing existing mechanisms like the Global Environment Facility (GEF) and the Special Programme. However, it does not explicitly mention any financing mechanisms based on credit, bonds, or loans."
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "A specific fund requiring donors, Global Environment Facility (GEF), Special Programme",
+      "citation": [
+        "Having a specific fund requires donors who commit to integrating that Fund.",
+        "Without prejudice to this, access to other sources of financing could also be ensured, such as the Global Environment Facility (GEF) and the Special Programme."
+      ],
+      "reasoning": "The document proposes creating a 'specific fund' that explicitly 'requires donors who commit to integrating that Fund.' The term 'donors' signifies voluntary financial contributions. Furthermore, it suggests leveraging existing mechanisms like the GEF, which are financed through voluntary contributions from member countries."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Responsibilities include sustainable production, intelligent and efficient product design (ecodesign), adhering to restrictions on manufacturing certain plastics, and implementing Extended Producer Responsibility (EPR) schemes, which involves financing local recycling systems and collaborating on the development of new recycling technologies.",
+      "citation": [
+        "measures to support States to promote sustainable consumption, sustainable production and intelligent and efficient product design, taking into account extended producer responsibility;",
+        "It is necessary that the productive private sector be involved in the projects so that it collaborates in improving waste management through the development of new recycling technologies, such as “advanced recycling”, recovery and Extended Producer Responsibility schemes (REP).",
+        "The transition to a circular economy model must make use of the application of ecodesign through which products are thought and designed covering the entire life cycle, consumed responsibly and managed at the end of their useful life in order to integrate recovery streams.",
+        "...support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems..."
+      ],
+      "reasoning": "The document explicitly assigns several responsibilities to the production sector. The citations mention the roles of producers and the 'productive private sector' in areas like 'sustainable production', 'intelligent and efficient product design' (also termed 'ecodesign'), and implementing 'Extended Producer Responsibility' (EPR). A key detail of EPR mentioned is the 'financing' of local recycling systems, which is a direct obligation on producers."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document highlights consumer responsibilities related to sustainable consumption, avoiding bad consumption and disposal habits, and engaging in citizen participation through environmental education.",
+      "citation": [
+        "promotion of information, awareness and training campaigns for the public;",
+        "The presence of plastics in water courses or in places where fauna gathers food is a consequence of bad consumption and disposal habits on the part of consumers and the ineffectiveness of waste management, collection and recovery systems.",
+        "Consequently, the incorporation of the concept of sustainable consumption and its derived policies is key to achieve effective application of the future instrument.",
+        "It is necessary to promote local environmental education regarding information and the impact of plastics on the environment and citizen participation."
+      ],
+      "reasoning": "The document explicitly attributes plastic pollution in the environment to the \"bad consumption and disposal habits on the part of consumers.\" It further identifies the promotion of \"sustainable consumption\" and public \"awareness and training campaigns\" as key measures, directly assigning a role and responsibility to the general public in mitigating plastic pollution."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Responsibilities include: implementing plastic waste management programs with social inclusion and traceability; ensuring the effectiveness of collection and recovery systems; strengthening the actions of grassroots recyclers; supporting local recycling systems and marketing networks; and valorizing special waste streams.",
+      "citation": [
+        "The future Convention should promote the development of plastic waste management programs with social inclusion, taking into account local diagnoses, objectives and goals with annual compliance, the development of efficient and linked geographic information systems (GIS) and traceability of plastic waste.",
+        "The presence of plastics in water courses or in places where fauna gathers food is a consequence of bad consumption and disposal habits on the part of consumers and the ineffectiveness of waste management, collection and recovery systems.",
+        "Likewise, it must include provisions to strengthen the action of grassroots recyclers, support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems -, and marketing networks, and the valorization of special waste streams."
+      ],
+      "reasoning": "The document explicitly assigns responsibilities to the waste management sector. It calls for the development of specific programs, highlights the sector's current 'ineffectiveness' as a problem to be solved, and details obligations to support and strengthen recyclers and local recycling systems."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "Integration of recyclers into the plastic value chain, inclusion of reclaimers in the design and implementation of local programs, and strengthening the action of grassroots recyclers through support for local systems, financing, and marketing networks.",
+      "citation": [
+        "In this sense, the objective must include the integration of the just transition, including recyclers in the plastic value chain.",
+        "promotion of the development and strengthening of local governance of co-management of plastic waste; from the inclusion of reclaimers in the design and implementation of local programs;",
+        "Likewise, it must include provisions to strengthen the action of grassroots recyclers, support for local recycling systems - including support for the development of regulations associated with the extended responsibility of the producer in the financing of these systems -, and marketing networks, and the valorization of special waste streams."
+      ],
+      "reasoning": "The document explicitly and repeatedly mentions the informal sector through terms like 'recyclers', 'reclaimers', and 'grassroots recyclers'. The citations confirm that Argentina's submission advocates for their formal integration into the plastic value chain, inclusion in the design of local waste management programs, and strengthening their role through financial and structural support."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines numerous government responsibilities, including: policy implementation (through national plans, programs, and strategies), regulatory oversight (controlling supply, marketing, and trade of plastics), enforcement (punishing illicit trafficking), environmental management (identifying contaminated sites, promoting restoration, and developing waste management programs), international reporting, creating public awareness campaigns, and developing regulations (such as for extended producer responsibility).",
+      "citation": [
+        "Among the main obligations that the future Agreement may contain, the following can be mentioned: - control of the source of supply and marketing, with respect to the plastic product and its raw material (including additives); - restrictions and prohibitions on the use, manufacture and international trade of certain plastics... - punishment of illicit trafficking; - identification of contaminated and potentially plastic-contaminated sites to promote environmental restoration and prevention measures.",
+        "Support for the development of national plans, programs and strategies can also be considered or of application to carry out the implementation of some of the obligations that may arise from the new agreement.",
+        "The future Convention should promote the development of plastic waste management programs with social inclusion, taking into account local diagnoses, objectives and goals with annual compliance...",
+        "...flexibility is needed so that each government within the framework of the Global Agreement can apply and find locally relevant solutions."
+      ],
+      "reasoning": "The document is a submission for an international treaty, which by its nature defines the obligations of signatory States (national governments). The citations explicitly list core governmental functions such as creating and enforcing regulations ('restrictions and prohibitions', 'punishment of illicit trafficking'), implementing national policy ('national plans, programs and strategies'), and managing environmental issues ('identification of contaminated sites'), directly assigning these roles to the governments that will be party to the agreement."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Participation in national implementation plans; capacity strengthening on the issue of marine litter and its impact on biodiversity.",
+      "citation": [
+        "Additionally, these plans could encourage the participation of interested and non-governmental actors.",
+        "Likewise, it should strengthen the capacities of coastal municipalities, civil society organizations and artisanal fishermen on the issue of marine litter and its impact on biodiversity."
+      ],
+      "reasoning": "The document explicitly proposes two roles for non-governmental actors and civil society. Firstly, it suggests their participation in the development of national implementation plans. Secondly, it recommends strengthening the capacities of civil society organizations to address marine litter, directly assigning them a role in implementation and capacity-building efforts."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document proposes roles for a treaty Secretariat (promoting collaboration), a Scientific Committee/Panel (a subsidiary body for developing/analyzing scientific documents and resolving doubts), existing regional/subregional centers (providing cooperation and technical assistance), and international financing mechanisms like the Global Environment Facility (GEF).",
+      "citation": [
+        "In relation to the evaluation of effectiveness, it is important to consider the framework of the Convention Minamata regarding this type of tool, to promote collaboration between the States Parties and the Secretariat.",
+        "Likewise, it is recommended to have a Scientific Committee, similar to the Stockholm Convention, as a subsidiary body, which could collaborate with the Secretariat and the States Parties, with the development and analysis of scientific documents.",
+        "Cooperation can be carried out through regional, subregional, national arrangements, and even, although not exclusively, through existing regional and subregional centers.",
+        "Without prejudice to this, access to other sources of financing could also be ensured, such as the Global Environment Facility (GEF) and the Special Programme."
+      ],
+      "reasoning": "The cited texts explicitly mention roles for a treaty 'Secretariat,' a 'Scientific Committee' as a subsidiary body, 'regional and subregional centers,' and the 'Global Environment Facility (GEF).' These entities are integral parts of international environmental governance and the UN system. The text assigns them specific responsibilities, including promoting collaboration, providing scientific analysis, delivering technical cooperation, and serving as a financing mechanism for the treaty's implementation."
+    }
+  }
+}

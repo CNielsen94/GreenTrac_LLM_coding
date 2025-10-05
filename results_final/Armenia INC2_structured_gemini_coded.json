@@ -1,0 +1,578 @@
+{
+  "submission_metadata": {
+    "country": "Republic of Armenia",
+    "date": "2022-12-20",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "global elimination of plastic pollution",
+        "The instrument should set the following measures to addressing plastic pollution.",
+        "strengthen national capabilities for the management of plastic pollution and to promote the effective implementation of the Instrument."
+      ],
+      "reasoning": "The document explicitly lists 'global elimination of plastic pollution' as a primary objective for the international instrument. It also repeatedly refers to 'addressing plastic pollution' and the 'management of plastic pollution' as core goals. However, while it mentions achieving goals 'within specified timeframes', it does not propose a specific year or timeline to achieve this objective."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "restricting and reducing the overall production and use of plastics"
+      ],
+      "reasoning": "The document explicitly lists 'restricting and reducing the overall production and use of plastics' as a key objective for the international instrument. This statement directly matches the code definition concerning the reduction of plastic manufacturing. However, the submission does not provide any specific quantitative targets, percentages, or caps for this reduction."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": "The document is entirely focused on the negative aspects of plastic pollution. It outlines objectives and measures for the global elimination, reduction, and management of plastic and its waste, without acknowledging any of its positive contributions, utility, or essential uses."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "Raising public awareness of plastic pollution's impact on human health.",
+      "citation": [
+        "The public must be aware of plastic pollution's impact on human health and the environment and adapt to its consequences."
+      ],
+      "reasoning": "The document explicitly states that the public needs to be made aware of the 'impact on human health' from plastic pollution. This directly identifies human health as an area of concern that needs to be addressed as part of the instrument's implementation, thus meeting the code's definition."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "The public must be aware of plastic pollution's impact on human health and the environment and adapt to its consequences."
+      ],
+      "reasoning": "The document explicitly includes the 'marine environment' within the scope of measures needed to address plastic pollution, indicating a specific focus on protecting marine ecosystems. It also refers more broadly to the 'impact on... the environment,' which is a clear environmental preservation goal that encompasses biodiversity protection."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "The instrument should cover the all life-cycle of plastics and consider strong obligations related to the substances and materials, which will include the transparency requirements on chemicals in plastics."
+      ],
+      "reasoning": "The document explicitly states that the instrument should cover the 'all life-cycle of plastics'. This statement is a direct response to a question about addressing plastic pollution 'throughout the full life cycle', confirming the intent for comprehensive coverage from production through disposal."
+    },
+    "other_objectives": {
+      "value": "Provide means of implementation for developing countries (including capacity building, technical/financial assistance, and technology transfer); promote transparency, tracking, and reporting; and foster cooperation, awareness, education, and research.",
+      "citation": [
+        "The instrument should include provisions on capacity building, technical assistance and technology transfer, as well as financial assistance, as these are essential to support implementation of the new instrument in developing countries, in particular small island developing States and least developed countries.",
+        "In line with the principle of common but differentiated responsibilities and respective capabilities, in light of national circumstances, the instrument should ensure the provision of sufficient, predictable, and accessible means of implementation for developing countries to meet their obligations.",
+        "Further, the instrument should promote transparency measures across the life cycle of plastics, including for tracking and reporting throughout the supply chains.",
+        "It should also promote cooperation at the global, regional, national, and local levels, as well as awareness raising, education, and research."
+      ],
+      "reasoning": "The cited text identifies several enabling objectives that are distinct from the excluded categories. These objectives focus on the mechanisms and support structures necessary for effective policy implementation, such as providing financial and technical assistance to developing nations, ensuring transparency in supply chains, and promoting cooperation and education. They are not about the primary goals of ending pollution or protecting health/biodiversity, but rather the essential means to achieve those ends equitably and effectively."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "taxes and fees for consumption reduction, privileges for companies reducing waste generation, tax privileges for local government bodies",
+        "citation": [
+          "granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law.",
+          "The instrument should contain obligations related to the plastic products, which will include the Market-based instruments such as taxes and fees for consumption reduction and harmonized product labelling.",
+          "In order to create appropriate opportunities for waste management by local government bodies, they need to be supported with financial instruments (subsidies, loans, tax privileges, national and international funds)"
+        ],
+        "reasoning": "The document explicitly mentions several tax-related economic instruments. It proposes using 'taxes and fees' as market-based instruments to reduce consumption. It also suggests 'granting privileges' to companies that reduce waste, which is a form of tax incentive, and lists 'tax privileges' as a financial instrument to support local government bodies in waste management."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document mentions several subsidy mechanisms, including: economic and financial incentives for environmental control; granting privileges to companies that reduce waste or introduce low-waste technologies; and providing financial instruments such as subsidies, loans, and tax privileges to local government bodies for waste management.",
+        "citation": [
+          "provide economic and financial incentives while enhancing environmental control,",
+          "granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law.",
+          "In order to create appropriate opportunities for waste management by local government bodies, they need to be supported with financial instruments (subsidies, loans, tax privileges, national and international funds)"
+        ],
+        "reasoning": "The document explicitly uses the term 'subsidies' and related concepts like 'financial incentives' and 'privileges' as tools to encourage waste reduction and support waste management activities by both private companies and local governments. These direct quotes clearly align with the code definition of subsidies as a financial support mechanism."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "Taxes and fees for consumption reduction are mentioned as potential market-based instruments.",
+        "citation": [
+          "The instrument should contain obligations related to the plastic products, which will include the Market-based instruments such as taxes and fees for consumption reduction and harmonized product labelling."
+        ],
+        "reasoning": "The cited text explicitly proposes using 'taxes and fees for consumption reduction' as a market-based instrument. These function as financial disincentives or penalties to discourage the use of plastic products, directly matching the code definition which includes financial penalties, fines, and fees for non-compliance."
+      },
+      "trading_systems": {
+        "mentioned": true,
+        "details": "The document suggests introducing flexible mechanisms similar to the Clean Development Mechanism (CDM), which is a form of trading system.",
+        "citation": [
+          "The component related to means of implementation should serve for introductions of flexible mechanisms similar to clean development mechanisms in order to balance the institutional and technological gaps between developed and developing countries."
+        ],
+        "reasoning": "The document explicitly references creating mechanisms 'similar to clean development mechanisms'. The Clean Development Mechanism (CDM) is a well-established international emissions trading system under the Kyoto Protocol, which allows for the creation and trading of credits. By analogy, this suggests the implementation of a similar credit-based trading system for plastic pollution."
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document suggests a scientific and technical cooperation component to support the identification of reliable alternatives for plastic products and materials.",
+        "citation": [
+          "Scientific & technical cooperation component among others should serve for identification of reliable alternatives for plastic products and materials."
+        ],
+        "reasoning": "The document explicitly proposes a 'Scientific & technical cooperation component' aimed at the 'identification of reliable alternatives for plastic products and materials'. This directly corresponds to funding or supporting research and development (R&D) to innovate and find new materials, which is a key aspect of R&D funding in the context of the plastic value chain."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document suggests granting privileges (incentives) to companies that reduce waste generation, introduce low-waste technologies, and are involved in the collection, storage, and delivery of waste for use as secondary raw materials.",
+        "citation": [
+          "granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law."
+        ],
+        "reasoning": "This citation directly aligns with the definition of EPR by describing a mechanism that places responsibility on producers ('companies and organizations') for the post-consumer stage of their products. It incentivizes them to manage waste ('collection, storage and delivery') and design for sustainability ('reduce the volumes of waste generation and introduce low-waste technologies'), which are core principles of EPR schemes."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The submission proposes that the international instrument should include 'Bunning actions' (interpreted as 'Banning actions') as a core measure to address plastic pollution. It also sets a high-level objective for the 'global elimination of plastic pollution'.",
+        "citation": [
+          "global elimination of plastic pollution",
+          "The instrument should set the following measures to addressing plastic pollution. [...] - Bunning actions"
+        ],
+        "reasoning": "The document explicitly lists 'Bunning actions', a clear typographical error for 'Banning actions', as a core measure the instrument should contain. This directly indicates the proposal to use bans as a regulatory instrument to control plastic pollution."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The submission mentions transparency requirements for chemicals in plastics, the re-design of plastic products, and harmonized product labelling.",
+        "citation": [
+          "The instrument should cover the all life-cycle of plastics and consider strong obligations related to the substances and materials, which will include the transparency requirements on chemicals in plastics.",
+          "re-design and re-use of plastic products and materials,",
+          "The instrument should contain obligations related to the plastic products, which will include the Market-based instruments such as taxes and fees for consumption reduction and harmonized product labelling."
+        ],
+        "reasoning": "The document explicitly calls for specific requirements and criteria that products must meet. These include 'transparency requirements on chemicals in plastics', standards for the 're-design' of products, and 'harmonized product labelling', all of which fall under the definition of performance standards as they set specifications for products and materials."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document calls for strengthening capacity for waste management, including the need for sorting, collection, storage, and landfill operations infrastructure.",
+        "citation": [
+          "sorting of plastic waste as a prerequisite for the most efficient use,",
+          "there is a need to strengthen capacity for sustainable waste management, including waste management and landfill operations and management planning.",
+          "Technical and financial support is very important because of the waste generated the amount exceeds the existing technical and financial possibilities of collection and storage."
+        ],
+        "reasoning": "The submission explicitly identifies a need to strengthen physical infrastructure for waste management. It cites specific components like 'sorting', 'landfill operations', and notes that existing 'collection and storage' capabilities are insufficient, thereby mandating the development or improvement of this infrastructure to handle plastic waste."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "harmonized product labelling, transparency requirements on chemicals in plastics",
+        "citation": [
+          "The instrument should contain obligations related to the plastic products, which will include the Market-based instruments such as taxes and fees for consumption reduction and harmonized product labelling.",
+          "The instrument should cover the all life-cycle of plastics and consider strong obligations related to the substances and materials, which will include the transparency requirements on chemicals in plastics."
+        ],
+        "reasoning": "The document explicitly recommends that the international instrument should contain obligations for 'harmonized product labelling'. It also calls for 'transparency requirements on chemicals in plastics,' which constitutes a form of mandatory information disclosure or labelling regarding product composition, directly matching the code definition."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The document proposes a mandatory 'national action plan' for countries to implement control measures. These plans should include measures such as increasing collection and recycling rates, re-designing and re-using plastic products, avoiding unnecessary plastic use, providing economic and financial incentives, improving legal instruments, and granting privileges to companies that reduce waste generation.",
+        "citation": [
+          "Set the obligation related to the development and implementation of a national action plan to stimulate the implementation of the control measures agreed upon in the plastics convention at the national level, and towards achieving the global goals outlined in the convention within specified timeframes.",
+          "Training, information, and support services which will help countries build the national capacity of strategic stakeholders to create the necessary enabling environment for the effective implementation of National Action plans."
+        ],
+        "reasoning": "The document explicitly calls to 'Set the obligation related to the development and implementation of a national action plan'. This phrasing directly aligns with the code definition of a required plan that countries must develop to implement the treaty. The text further specifies the required components of these plans."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The submission calls for transparency requirements regarding the chemical composition of plastics.",
+        "citation": [
+          "The instrument should cover the all life-cycle of plastics and consider strong obligations related to the substances and materials, which will include the transparency requirements on chemicals in plastics."
+        ],
+        "reasoning": "The document explicitly proposes that the instrument should include 'transparency requirements on chemicals in plastics'. This is a form of mandatory disclosure or reporting, requiring information about the chemical content of plastic materials to be made available, which directly aligns with the code definition."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document suggests establishing several information and guidance measures, including a 'Capacity building component' which provides training, information, and support services. It also calls for a 'global information, communication, and education service' to offer stakeholders publications, e-services, and other tools for national campaigns. Additionally, it mentions a component for awareness raising and education should contain a 'big spectrum of toolbars' (likely meaning toolkits).",
+        "citation": [
+          "Capacity building component. Training, information, and support services which will help countries build the national capacity of strategic stakeholders to create the necessary enabling environment for the effective implementation of National Action plans.",
+          "Establishment of global information, communication, and education service that will provide the stakeholders with publications, e-services, and other tools that can be used for a national information and awareness campaigns in support of plastic reduction objectives.",
+          "The component related to awareness raising, education & exchange of information should be very strong and contain big spectrum of toolbars."
+        ],
+        "reasoning": "The cited texts explicitly propose the creation of services and components dedicated to providing stakeholders with informational resources. The mention of 'Training, information, and support services', 'publications, e-services, and other tools', and 'toolbars' (interpreted as toolkits) directly aligns with the definition of the information and guidance code, which includes guidelines, toolkits, and informational resources."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "public awareness mechanisms, targeted initiatives at educational institutions, teaching higher education students about new technologies, establishment of a global information communication and education service, national information and awareness campaigns, training through government programs",
+        "citation": [
+          "application of public awareness mechanisms,",
+          "Awareness raising and Education are important elements in sustaining plastic pollution reduction success. Targeted initiatives at Educational institutions will inspire both collective and individual involvement in this global environmental challenge.",
+          "The public must be aware of plastic pollution's impact on human health and the environment and adapt to its consequences. Higher education students pursuing science and engineering degrees need to be taught about new technologies and practices in dedicated fields.",
+          "Establishment of global information, communication, and education service that will provide the stakeholders with publications, e-services, and other tools that can be used for a national information and awareness campaigns in support of plastic reduction objectives.",
+          "Environmental awareness and proper training through government programs, local bodies and the public are of utmost importance for further development."
+        ],
+        "reasoning": "The document explicitly and repeatedly identifies education and awareness-raising as critical components for addressing plastic pollution. The citations directly mention a range of specific initiatives, including public awareness mechanisms, programs within educational institutions from schools to higher education, and the establishment of global and national information services, confirming a strong emphasis on this soft instrument."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document suggests that a scientific and technical cooperation component should be used to identify reliable alternatives to plastic. It also encourages the introduction of low-waste technologies through incentives and calls for teaching new technologies and practices to higher education students.",
+        "citation": [
+          "granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law.",
+          "Higher education students pursuing science and engineering degrees need to be taught about new technologies and practices in dedicated fields.",
+          "Scientific & technical cooperation component among others should serve for identification of reliable alternatives for plastic products and materials."
+        ],
+        "reasoning": "The document explicitly calls for scientific cooperation to identify alternatives to plastic, which is a direct form of research promotion. Furthermore, it proposes granting privileges to companies that introduce 'low-waste technologies,' thereby encouraging innovation. The mention of teaching students about 'new technologies and practices' also falls under promoting knowledge development, a key aspect of this code."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "harmonized product labelling",
+        "citation": [
+          "The instrument should contain obligations related to the plastic products, which will include the Market-based instruments such as taxes and fees for consumption reduction and harmonized product labelling."
+        ],
+        "reasoning": "The document explicitly proposes 'harmonized product labelling' as a required obligation within the international instrument. This represents a clear effort to standardize and align the approach to product labelling across different countries, directly matching the definition of harmonization."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document calls for capacity building through training and information services, the establishment of a global information and communication service, scientific and technical cooperation, and the exchange of information.",
+        "citation": [
+          "Capacity building component. Training, information, and support services which will help countries build the national capacity of strategic stakeholders to create the necessary enabling environment for the effective implementation of National Action plans.",
+          "Establishment of global information, communication, and education service that will provide the stakeholders with publications, e-services, and other tools that can be used for a national information and awareness campaigns in support of plastic reduction objectives.",
+          "Scientific & technical cooperation component among others should serve for identification of reliable alternatives for plastic products and materials.",
+          "The component related to awareness raising, education & exchange of information should be very strong and contain big spectrum of toolbars."
+        ],
+        "reasoning": "The document explicitly proposes several mechanisms for sharing knowledge and expertise. It calls for a 'capacity building component' with 'training, information, and support services', a 'global information, communication, and education service' to provide tools and publications, and a 'scientific & technical cooperation component'. These proposals directly match the code's definition of exchanging information and expertise to build capacity among stakeholders."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document outlines broad objectives and desired actions, such as 'drastic reduction of plastic waste volumes' and 'increasing collection and recycling rates,' but it does not specify any concrete, measurable targets with numbers, percentages, or deadlines as required by the code definition."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "promotion of the use of secondary raw materials (recycled content) through financial incentives",
+        "citation": [
+          "granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law."
+        ],
+        "reasoning": "The document explicitly proposes granting privileges to companies that handle 'waste considered as secondary raw materials.' In the context of plastic waste management, 'secondary raw materials' refers to recycled materials intended for use as feedstock in new production, directly addressing the raw material stage of the value chain."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "restricting and reducing the overall production of plastics; introducing low-waste technologies in production.",
+        "citation": [
+          "restricting and reducing the overall production and use of plastics",
+          "granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law."
+        ],
+        "reasoning": "The document explicitly states an objective to restrict and reduce plastic production. It also proposes a specific implementation measure to grant privileges to companies that adopt low-waste technologies in their production processes, which directly addresses the manufacturing stage of the plastic lifecycle."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "re-design and re-use of plastic products and materials",
+        "citation": [
+          "- re-design and re-use of plastic products and materials,"
+        ],
+        "reasoning": "The document explicitly states that national action plans should include measures for the 're-design and re-use of plastic products and materials'. This directly addresses the design stage of the value chain, aligning with the code definition which includes measures addressing how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "transparency requirements for chemicals, avoiding plastic-containing chemicals, low-waste production technologies, product re-design, harmonized product labelling",
+        "citation": [
+          "The instrument should cover the all life-cycle of plastics and consider strong obligations related to the substances and materials, which will include the transparency requirements on chemicals in plastics.",
+          "re-design and re-use of plastic products and materials,",
+          "avoiding the unnecessary use of plastic and plastic-containing chemicals,",
+          "granting privileges to companies and organizations that ... introduce low-waste technologies in production,",
+          "The instrument should contain obligations related to the plastic products, which will include the... harmonized product labelling."
+        ],
+        "reasoning": "The document calls for measures directly related to the manufacturing of plastic products. These include establishing transparency for chemicals used in plastics, avoiding certain 'plastic-containing chemicals,' incentivizing 'low-waste technologies in production,' and implementing 're-design' and 'harmonized product labelling.' These actions are all integral to the product production stage. However, there is no specific mention of intentionally added microplastics."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "The document suggests measures such as restricting and reducing the overall use of plastics, promoting the re-use of plastic products, avoiding unnecessary plastic use, and implementing market-based instruments like taxes and fees for consumption reduction.",
+        "citation": [
+          "restricting and reducing the overall production and use of plastics",
+          "re-design and re-use of plastic products and materials,",
+          "avoiding the unnecessary use of plastic and plastic-containing chemicals,",
+          "The instrument should contain obligations related to the plastic products, which will include the Market-based instruments such as taxes and fees for consumption reduction and harmonized product labelling."
+        ],
+        "reasoning": "The document explicitly mentions several measures aimed at the consumption phase of the plastic lifecycle. The citations directly call for reducing the 'use' of plastics, promoting 're-use', and implementing economic tools like 'taxes and fees for consumption reduction', all of which target consumer behavior and the use phase. However, the document does not specifically mention 'single-use' or 'disposable' items, addressing plastics in a more general sense."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions measures such as 'increasing collection and recycling rates of plastic waste', providing privileges to companies 'engaged in the collection, storage and delivery of waste', and the need for technical and financial support to improve 'collection and storage' capabilities.",
+        "citation": [
+          "increasing collection and recycling rates of plastic waste,",
+          "granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law.",
+          "Technical and financial support is very important because of the waste generated the amount exceeds the existing technical and financial possibilities of collection and storage."
+        ],
+        "reasoning": "The cited texts explicitly refer to the 'collection' of plastic waste as a critical measure to be included in national action plans and as an activity that requires support and incentives. This directly aligns with the code definition, which focuses on the gathering and aggregation of plastic waste after consumer use."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "Environmentally sound management and recycling of plastic waste, waste sorting, increasing collection and recycling rates, improving the waste management system, waste collection and storage, and landfill operations and management planning.",
+        "citation": [
+          "environmentally sound management and recycling of plastic waste",
+          "sorting of plastic waste as a prerequisite for the most efficient use,",
+          "increasing collection and recycling rates of plastic waste,",
+          "improve plastic waste reduction targeted legal, economic, organizational and other instruments as the most important component of the waste management system,",
+          "there is a need to strengthen capacity for sustainable waste management, including waste management and landfill operations and management planning."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for measures related to the handling and processing of plastic waste after collection. The citations mention key waste management activities such as 'environmentally sound management', 'recycling', 'sorting', 'collection', and 'landfill operations', which directly align with the code definition for managing plastic waste at the end of its life cycle."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "environmentally sound management and recycling of plastic waste; recycling actions; sorting of plastic waste; increasing collection and recycling rates",
+        "citation": [
+          "environmentally sound management and recycling of plastic waste",
+          "development of conceptual approaches to plastic waste management (aimed at preventing or reducing the generation, recycling and utilization of these wastes),",
+          "Recycling actions",
+          "sorting of plastic waste as a prerequisite for the most efficient use,",
+          "environmentally safe recycling and reuse",
+          "increasing collection and recycling rates of plastic waste,"
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'recycling' as a core objective and a necessary action. The cited texts list 'recycling' as a substantive element, a core obligation, and a key measure to be included in national action plans, including specific related activities like 'sorting' and setting 'recycling rates'."
+      },
+      "legacy_plastic": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The instrument should obligate countries to develop and implement national action plans that work towards achieving global goals within specified timeframes.",
+        "citation": [
+          "Set the obligation related to the development and implementation of a national action plan to stimulate the implementation of the control measures agreed upon in the plastics convention at the national level, and towards achieving the global goals outlined in the convention within specified timeframes."
+        ],
+        "reasoning": "The document explicitly requires that national action plans be implemented to achieve convention goals 'within specified timeframes'. This directly confirms that a timeline is a required component of implementation, even though the specific length of that timeframe is not defined in this submission."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document advocates for a legally binding instrument with strong, core obligations, mandatory national action plans, and market-based control measures like taxes and fees.",
+        "citation": [
+          "Republic of Armenia: Submission on an International Legally Binding Instrument on Plastic Pollution",
+          "The instrument should cover the all life-cycle of plastics and consider strong obligations related to the substances and materials, which will include the transparency requirements on chemicals in plastics.",
+          "Set the obligation related to the development and implementation of a national action plan to stimulate the implementation of the control measures agreed upon in the plastics convention at the national level...",
+          "The instrument should contain obligations related to the plastic products, which will include the Market-based instruments such as taxes and fees for consumption reduction and harmonized product labelling."
+        ],
+        "reasoning": "The document's title explicitly refers to a 'Legally Binding Instrument'. The text repeatedly uses the terms 'strong obligations' and 'obligation' when describing the core requirements of the treaty, such as creating national action plans and implementing market-based instruments. This indicates a preference for a mandatory, high-stringency approach rather than a voluntary one."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global, legally binding instrument designed to be implemented at the national level through the development of national action plans.",
+        "citation": [
+          "Submission on an International Legally Binding Instrument on Plastic Pollution",
+          "global elimination of plastic pollution",
+          "Set the obligation related to the development and implementation of a national action plan to stimulate the implementation of the control measures agreed upon in the plastics convention at the national level, and towards achieving the global goals outlined in the convention within specified timeframes."
+        ],
+        "reasoning": "The document's title explicitly refers to an 'International Legally Binding Instrument' and a primary objective is the 'global elimination of plastic pollution,' which clearly defines the scope as Global. The implementation mechanism is detailed as requiring national-level action, with countries needing to create 'national action plans' to meet the 'global goals' of the convention."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "Granting privileges to companies and organizations that reduce waste generation and introduce low-waste technologies.",
+      "citation": [
+        "granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law."
+      ],
+      "reasoning": "The document explicitly mentions granting 'privileges' as a financial incentive to 'companies and organizations' (the private sector) to encourage specific behaviors like waste reduction and technology adoption. This is a clear reference to a financial mechanism involving the private sector to achieve environmental goals."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "subsidies, loans, tax privileges, national funds, economic and financial incentives, granting privileges prescribed by law",
+      "citation": [
+        "provide economic and financial incentives while enhancing environmental control,",
+        "granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law.",
+        "In order to create appropriate opportunities for waste management by local government bodies, they need to be supported with financial instruments (subsidies, loans, tax privileges, national and international funds)"
+      ],
+      "reasoning": "The document explicitly states that local government bodies require support through various financial instruments, specifically listing 'subsidies', 'loans', 'tax privileges', and 'national funds'. Additionally, it calls for national action plans to provide 'economic and financial incentives' and grant 'privileges... prescribed by law', all of which are forms of state-level financing or financial support."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "international funds; flexible mechanisms similar to clean development mechanisms",
+      "citation": [
+        "In order to create appropriate opportunities for waste management by local government bodies, they need to be supported with financial instruments (subsidies, loans, tax privileges, national and international funds)",
+        "Creation of financial, technical, and technological mechanisms for developing countries, and countries with economies in transition, in order to strengthen national capabilities for the management of plastic pollution and to promote the effective implementation of the Instrument.",
+        "The component related to means of implementation should serve for introductions of flexible mechanisms similar to clean development mechanisms in order to balance the institutional and technological gaps between developed and developing countries."
+      ],
+      "reasoning": "The document explicitly mentions 'international funds' as a required financial instrument to support waste management. It also calls for the creation of financial mechanisms for developing countries and mechanisms similar to the 'clean development mechanisms,' which are international in nature, thereby confirming the reference to international financing sources."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "Market-based instruments such as taxes and fees for consumption reduction.",
+      "citation": [
+        "The instrument should contain obligations related to the plastic products, which will include the Market-based instruments such as taxes and fees for consumption reduction and harmonized product labelling.",
+        "In order to create appropriate opportunities for waste management by local government bodies, they need to be supported with financial instruments (subsidies, loans, tax privileges, national and international funds)"
+      ],
+      "reasoning": "The document explicitly proposes the use of 'taxes and fees' as market-based instruments to reduce consumption. It also mentions 'tax privileges' as a financial instrument to support local government bodies, further confirming the role of tax-based mechanisms in the proposed framework. This directly aligns with the code definition."
+    },
+    "credit_schemes": {
+      "mentioned": true,
+      "details": "loans, national and international funds",
+      "citation": [
+        "In order to create appropriate opportunities for waste management by local government bodies, they need to be supported with financial instruments (subsidies, loans, tax privileges, national and international funds)"
+      ],
+      "reasoning": "The cited text explicitly lists 'loans' and 'funds' as types of 'financial instruments' that should be used to support local government bodies in waste management. Loans are a direct form of a credit mechanism, which aligns perfectly with the code's definition."
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document suggests responsibilities for companies and organizations including re-designing plastic products for re-use, reducing waste generation volumes, introducing low-waste technologies in production, and engaging in the collection, storage, and delivery of waste as secondary raw materials.",
+      "citation": [
+        "re-design and re-use of plastic products and materials,",
+        "granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law."
+      ],
+      "reasoning": "The cited texts explicitly mention roles and obligations for the production sector. The first citation points to product design responsibilities ('re-design'). The second citation directly names 'companies and organizations' and assigns them the responsibility to reduce waste during 'production' and to adopt 'low-waste technologies', which clearly falls under the scope of producer obligations."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document assigns responsibilities to the public (consumers) to be aware of the impacts of plastic pollution, to adapt to its consequences, and to be involved in awareness and education initiatives.",
+      "citation": [
+        "The public must be aware of plastic pollution's impact on human health and the environment and adapt to its consequences.",
+        "Targeted initiatives at Educational institutions will inspire both collective and individual involvement in this global environmental challenge.",
+        "Environmental awareness and proper training through government programs, local bodies and the public are of utmost importance for further development."
+      ],
+      "reasoning": "The document directly assigns responsibilities by stating what 'The public must' do. It also emphasizes the importance of 'individual involvement' and lists 'the public' as a key actor in training and awareness, clearly indicating an expected role and obligation for consumers in addressing the plastic pollution problem."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Environmentally sound management and recycling of plastic waste, sorting of plastic waste, increasing collection and recycling rates, sustainable waste management, landfill operations and management planning, collection, storage, and delivery of waste.",
+      "citation": [
+        "environmentally sound management and recycling of plastic waste",
+        "sorting of plastic waste as a prerequisite for the most efficient use,",
+        "increasing collection and recycling rates of plastic waste,",
+        "improve plastic waste reduction targeted legal, economic, organizational and other instruments as the most important component of the waste management system,",
+        "there is a need to strengthen capacity for sustainable waste management, including waste management and landfill operations and management planning."
+      ],
+      "reasoning": "The document explicitly assigns multiple responsibilities to the waste management sector. The citations refer directly to the 'waste management system' and detail core obligations such as the environmentally sound management, recycling, sorting, collection, and landfilling of plastic waste, clearly defining the sector's role in addressing plastic pollution."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines several government responsibilities, including the development and implementation of national action plans, providing economic and financial incentives, improving legal and organizational instruments for waste reduction, granting legal privileges to companies, running awareness and training programs, and providing financial support to local government bodies.",
+      "citation": [
+        "Set the obligation related to the development and implementation of a national action plan to stimulate the implementation of the control measures agreed upon in the plastics convention at the national level, and towards achieving the global goals outlined in the convention within specified timeframes.",
+        "National plans should include the following measures. - ...provide economic and financial incentives while enhancing environmental control, - improve plastic waste reduction targeted legal, economic, organizational and other instruments as the most important component of the waste management system...",
+        "...granting privileges to companies and organizations that reduce the volumes of waste generation and introduce low-waste technologies in production, as well as those engaged in the collection, storage and delivery of waste considered as secondary raw materials, in the case and in the manner prescribed by law.",
+        "It is important that local authorities and communities are involved in the planning process,",
+        "Environmental awareness and proper training through government programs, local bodies and the public are of utmost importance for further development.",
+        "In order to create appropriate opportunities for waste management by local government bodies, they need to be supported with financial instruments (subsidies, loans, tax privileges, national and international funds)"
+      ],
+      "reasoning": "The document explicitly assigns the 'obligation' for the 'development and implementation of a national action plan' at the 'national level'. It further details specific governmental roles such as providing economic incentives, improving legal instruments, and granting privileges 'prescribed by law'. The text also mentions 'government programs' and the responsibility to support 'local government bodies' and 'local authorities,' all of which are clear duties of public agencies."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "Establishment of a global information, communication, and education service; provision of capacity building (training, information, support services); introduction of flexible mechanisms similar to the UN's Clean Development Mechanism; facilitation of scientific and technical cooperation.",
+      "citation": [
+        "Establishment of global information, communication, and education service that will provide the stakeholders with publications, e-services, and other tools that can be used for a national information and awareness campaigns in support of plastic reduction objectives.",
+        "Training, information, and support services which will help countries build the national capacity of strategic stakeholders to create the necessary enabling environment for the effective implementation of National Action plans.",
+        "The component related to means of implementation should serve for introductions of flexible mechanisms similar to clean development mechanisms in order to balance the institutional and technological gaps between developed and developing countries.",
+        "Scientific & technical cooperation component among others should serve for identification of reliable alternatives for plastic products and materials."
+      ],
+      "reasoning": "The document calls for the establishment of global-level services and mechanisms, such as a 'global information, communication, and education service' and 'flexible mechanisms similar to clean development mechanisms.' These functions, which include capacity building, information exchange, and facilitating cooperation, are characteristic roles of international bodies or treaty secretariats, which typically operate within the UN system to support the implementation of a global instrument."
+    }
+  }
+}

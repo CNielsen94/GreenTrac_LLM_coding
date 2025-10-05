@@ -1,0 +1,598 @@
+{
+  "submission_metadata": {
+    "country": "The State of Qatar",
+    "date": "2023-01-10",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "Reduction in plastic pollution.",
+        "There is a need for regular updated reports for fighting plastic pollution at the national level.",
+        "These reports would enable different countries to communicate with the Secretariat about their individual needs and struggles in meeting the targets of reduced plastic pollution through increased recycling and a circular economy approach."
+      ],
+      "reasoning": "The document explicitly identifies 'Reduction in plastic pollution' as a core obligation and repeatedly refers to 'addressing plastic pollution' and 'fighting plastic pollution'. This confirms that tackling plastic pollution is a key objective of the proposed instrument. However, the submission does not mention any specific year or timeframe for achieving this objective."
+    },
+    "reduce_production": {
+      "mentioned": false,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [],
+      "reasoning": "The document does not contain any statements about decreasing, reducing, limiting, cutting, restricting, or controlling the production or manufacturing of plastic. Its focus is entirely on downstream solutions such as waste management, recycling, circular economy approaches, and increasing the use of recycled content, rather than limiting the creation of new plastic."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "Plays an important role in making life easier for mankind; ubiquitous in modern society.",
+      "citation": [
+        "The role of plastic in the modern world cannot be ignored.",
+        "It is impossible to imagine a world free of plastic materials and objects as they are ubiquitous in our society and play an important role in making life easier for mankind."
+      ],
+      "reasoning": "The document explicitly acknowledges the utility and importance of plastic, stating that its role 'cannot be ignored' and that it plays a significant part in 'making life easier for mankind' due to its ubiquitous presence in modern society. This directly matches the code definition for acknowledging plastic's positive contributions."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document explicitly states protecting human health as a primary objective. It also identifies 'human health problems' as a consequence of mismanaged plastic and proposes eliminating additives that are proven harmful to human health to achieve a non-toxic circular economy.",
+      "citation": [
+        "Protecting human health and environment through sustainable plastic use.",
+        "However, the mismanagement of post-use plastic products has led to several environmental, human health, social, political, economic, and other problems.",
+        "Calling on the parties to raise awareness and promote education on ensuring the elimination of additives that are proven to be harmful to human health (through a scientific basis) and/ or act as inhibitors to recycling, to ensure a fair transition to a non-toxic circular economy and also ensure the continuation of public awareness and understanding of the goal or goals."
+      ],
+      "reasoning": "The document explicitly mentions 'Protecting human health' as a proposed objective for the instrument. It further identifies 'human health problems' as a direct consequence of plastic mismanagement and suggests a specific action—eliminating harmful additives—to safeguard human health, justifying the positive coding."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "Protecting human health and environment through sustainable plastic use.",
+        "the mismanagement of post-use plastic products has led to several environmental, human health, social, political, economic, and other problems.",
+        "It should also publish results of fresh water, wastewater, coastal, and marine water impacted by plastic pollution."
+      ],
+      "reasoning": "The document explicitly states its objective is to protect the environment from the problems caused by plastic mismanagement. It specifically highlights the need for national reports to include results on plastic pollution's impact on \"coastal, and marine water,\" indicating a clear focus on protecting marine ecosystems."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "The key for the progress of society is to invest in finding the solutions to these problems through sustainable production, use and disposal of plastic products.",
+        "Make the plastic cycle sustainable through circular economy approach.",
+        "The reports should develop the inventory of the plastic inside the country and should address the entire life cycle of the plastic within the country.",
+        "The effectiveness of the instrument will be based on the national reports that would carry the information about the progress made through circular economy adoption in the life cycle of plastics such as increase in percentage of the recycled material in the products."
+      ],
+      "reasoning": "The document explicitly and repeatedly uses the term 'life cycle'. It validates a 'Full lifecycle' coverage by mentioning all key stages, including 'sustainable production, use and disposal', and calling for reports that 'address the entire life cycle of the plastic within the country', from production and imports to waste management and recycling."
+    },
+    "other_objectives": {
+      "value": "Promote a circular economy, ensure a just transition for workers, create green jobs, and provide financial and technical assistance to developing countries.",
+      "citation": [
+        "it emphasizes the importance of a circular economy for plastics, which includes promoting recycling, reuse, and environmentally sound waste management.",
+        "A significant part of the discussion revolves around ensuring a just transition for waste pickers and other workers in the informal sector, creating decent work and green jobs.",
+        "The instrument must also consider the specific national circumstances and capabilities of all countries, particularly developing countries, and provide them with the necessary financial and technical assistance."
+      ],
+      "reasoning": "The cited text identifies several objectives that are distinct from the pre-defined categories. These include promoting a 'circular economy' as a specific economic model, ensuring a 'just transition' and creating 'green jobs' (socio-economic objectives), and providing 'financial and technical assistance' to developing nations (an implementation and equity objective). These goals are not covered by the other, more environmentally-focused categories."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document suggests providing financial assistance to countries facing constraints. Specific mechanisms mentioned include recommendations from the Secretariat for financial assistance through institutions like the GEF and World Bank, and provisions for parties to secure funding through regional, bilateral, or multilateral financial agreements.",
+        "citation": [
+          "Depending upon the updated reports, the Secretariat may provide assistance to the individual countries to collaborate with the countries and institutions capable of providing support including suitable technology, capacity building, and financial assistance.",
+          "The Secretariat, based on progress made by various countries in the updated action plans/ reports may recommend financial assistance through GEF, World Bank and other financial institutions.",
+          "There should be provisions in the Plastic instrument about how the Parties can secure funding through regional bilateral or multilateral financial agreements through these or other financial institutions."
+        ],
+        "reasoning": "The text explicitly mentions providing 'financial assistance' and 'funding' to support countries in their efforts to combat plastic pollution. These terms align with the code definition of 'financial support'. The document outlines specific channels for this support, such as the World Bank and multilateral agreements, confirming the presence of this economic instrument."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document proposes establishing R&D facilities and creating alliances between universities, government, and businesses to support research into product designs that are optimized for reuse, recycling, and circularity.",
+        "citation": [
+          "Establish R&D facilities to find the best product design (of various products manufactured in the countryplastic products for reuse and recycle.",
+          "Creating universities, government, and businesses alliances to support research towards product designs that are based of the principles of circularity."
+        ],
+        "reasoning": "The cited texts from the 'Voluntary Approaches' section explicitly mention establishing R&D facilities and creating alliances to support research. These actions fall under the definition of financial or institutional support for technological development and innovation within the plastic value chain."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not contain any provisions addressing the social impacts of the plastic transition on vulnerable groups, such as waste pickers or affected communities. While the phrase 'fair transition' is used once, it is in the context of eliminating toxic additives and public awareness, not in the context of specific social or economic support measures for affected people, which is the focus of the code."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Elimination of additives that are harmful to human health or inhibit recycling.",
+        "citation": [
+          "Calling on the parties to raise awareness and promote education on ensuring the elimination of additives that are proven to be harmful to human health (through a scientific basis) and/ or act as inhibitors to recycling, to ensure a fair transition to a non-toxic circular economy and also ensure the continuation of public awareness and understanding of the goal or goals."
+        ],
+        "reasoning": "The document explicitly proposes the 'elimination of additives' that are harmful or hinder recycling. The term 'elimination' directly aligns with the code definition, which includes prohibitions, bans, phase-outs, or eliminations."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document suggests several performance standards including requirements for recycled content in new products, correct labeling of plastics and their additives, and the elimination of additives that are harmful or inhibit recycling. It also mentions research into best product designs for reuse and recycling.",
+        "citation": [
+          "Correct labelling of plastic polymers and additives thereof.",
+          "Increasing the percentage of recycled content in the manufacturing of new plastic components etc.",
+          "Establish R&D facilities to find the best product design (of various products manufactured in the countryplastic products for reuse and recycle.",
+          "...increase in percentage of the recycled material in the products.",
+          "Calling on the parties to raise awareness and promote education on ensuring the elimination of additives that are proven to be harmful to human health (through a scientific basis) and/ or act as inhibitors to recycling..."
+        ],
+        "reasoning": "The cited texts describe specific requirements and criteria for plastic products. These include standards for material composition (e.g., recycled content, elimination of certain additives) and information disclosure (e.g., correct labeling), which directly align with the definition of performance standards as criteria that products must meet."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document proposes core obligations for 'efficient collection and recycling' of plastic waste, and control measures that involve 'fostering a system that enables the recycling of plastic' and allows for sorting.",
+        "citation": [
+          "Efficient collection and recycling of plastic waste.",
+          "Fostering a system that enables the recycling of plastic in an environmentally sound way through transfer and adoption of appropriate technological know-how.",
+          "Correct labelling of the plastic and the additives used in the plastic so that adequate steps to sort and recycle can be taken."
+        ],
+        "reasoning": "The document lists 'Efficient collection and recycling of plastic waste' under the heading 'Core Obligations', indicating a mandatory requirement to establish the necessary infrastructure. Furthermore, under 'Control Measures', it calls for 'fostering a system that enables the recycling of plastic' and taking 'adequate steps to sort and recycle', which directly points to the required creation of physical systems and facilities for waste management as defined by the code."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "Labelling of plastic polymers and additives to facilitate sorting and recycling.",
+        "citation": [
+          "Correct labelling of plastic polymers and additives thereof.",
+          "Correct labelling of the plastic and the additives used in the plastic so that adequate steps to sort and recycle can be taken."
+        ],
+        "reasoning": "The document explicitly lists 'Correct labelling of plastic polymers and additives' as both a 'Core Obligation' and a 'Control Measure'. The stated purpose is to provide necessary information to enable proper sorting and recycling, which directly aligns with the code definition concerning information disclosure about plastic composition."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "national action plans",
+        "citation": [
+          "Different countries will have different national action plans to find ways to act and control plastic pollution depending upon their national circumstances.",
+          "Some of the core obligations, control measures, and voluntary approaches that a national plan should address are delineated below.",
+          "How to ensure implementation of the instrument at the national level (eg. role national action plans contribute to meeting the objectives and obligations of the instrument?)",
+          "The Secretariat, based on progress made by various countries in the updated action plans/ reports may recommend financial assistance through GEF, World Bank and other financial institutions."
+        ],
+        "reasoning": "The document explicitly mentions that countries will have \"national action plans\" to control plastic pollution. It outlines the types of obligations these plans should address and frames them as a key mechanism for national-level implementation and for accessing financial assistance, which aligns with the definition of a required plan to implement the treaty."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document calls for regular updated national reports that should include a national inventory of plastic (production, recycling, imports), waste statistics (generation and diversion to recycling), results from water pollution monitoring, and progress updates on circular economy adoption.",
+        "citation": [
+          "How to ensure effectiveness of the instrument and have efficient national reporting?",
+          "There is a need for regular updated reports for fighting plastic pollution at the national level.",
+          "The reports should develop the inventory of the plastic inside the country and should address the entire life cycle of the plastic within the country.",
+          "The national inventory developed should contain information on the production, recycling, and imports etc. It should throw light on the waste statistics, that is the amount of the plastic generated in the waste and diverted to recycling. It should also publish results of fresh water, wastewater, coastal, and marine water impacted by plastic pollution.",
+          "The effectiveness of the instrument will be based on the national reports that would carry the information about the progress made through circular economy adoption in the life cycle of plastics such as increase in percentage of the recycled material in the products."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions the need for 'efficient national reporting' and 'regular updated reports' as a core implementation measure. The cited texts detail the specific components required in these reports, such as creating a national plastic inventory, providing waste statistics, and publishing pollution monitoring results, confirming that a mandatory reporting instrument is being proposed."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "National inventories should contain information on plastic imports.",
+        "citation": [
+          "The national inventory developed should contain information on the production, recycling, and imports etc."
+        ],
+        "reasoning": "The document suggests that as part of national implementation, an inventory should be developed to track plastics within the country. This inventory is explicitly required to include information on 'imports,' which is a measure affecting the international trade of plastics by requiring its monitoring and reporting."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "Tracking plastic pollution against nationally determined baselines and targets; continual monitoring of recycling targets using industry statistics; developing national inventories of plastic (production, recycling, imports); compiling waste statistics; monitoring plastic pollution in freshwater, wastewater, coastal, and marine water; using national reports to assess policy effectiveness.",
+        "citation": [
+          "The countries to track their plastic pollution through their nationally determined baselines and targets.",
+          "Continual monitoring of recycling targets of plastic within the country through the statistics provided by the plastic recycling industry.",
+          "The reports should develop the inventory of the plastic inside the country and should address the entire life cycle of the plastic within the country.",
+          "It should also publish results of fresh water, wastewater, coastal, and marine water impacted by plastic pollution.",
+          "The effectiveness of the instrument will be based on the national reports that would carry the information about the progress made through circular economy adoption in the life cycle of plastics such as increase in percentage of the recycled material in the products."
+        ],
+        "reasoning": "The document explicitly mentions systems to 'track' pollution and 'monitor' recycling targets. It also details the development of national inventories, waste statistics, and reports to measure plastic flows, assess environmental pollution levels in various water bodies, and evaluate the effectiveness of policy implementation, all of which align with the definition of monitoring."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document proposes several information and guidance measures, including spreading public awareness about plastic reuse and recycling, educating youth through workshops and seminars, conducting R&D to establish 'best product design' guidelines, and facilitating a wide exchange of information through reports and memos to foster collaboration.",
+        "citation": [
+          "Establish NGOs' support for spreading awareness of the benefits of plastic reuse and recycle amongst residents and citizens.",
+          "Educate young minds on plastics by establishing workshops,seminars etc. in educational institutions.",
+          "Establish R&D facilities to find the best product design (of various products manufactured in the countryplastic products for reuse and recycle.",
+          "If information is widely available, it may bring the countries together by opening opportunities to collaborate in terms of technology and financial assistance.",
+          "To facilitate the purpose or objectives of the instrument, provisions may be included Calling on the parties to raise awareness and promote education..."
+        ],
+        "reasoning": "The document explicitly advocates for several information-based measures as part of its proposed strategy. The citations show clear recommendations for awareness campaigns, educational programs (workshops, seminars), and research to define 'best product design,' which directly relates to creating guidance and best practices. Furthermore, it highlights the importance of making information widely available to foster collaboration. These proposed actions are non-binding, informational tools designed to guide stakeholders towards more sustainable practices, fitting the definition of the code."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Spreading awareness via NGOs, workshops and seminars in educational institutions, promoting public education and awareness on harmful additives and the circular economy.",
+        "citation": [
+          "Establish NGOs' support for spreading awareness of the benefits of plastic reuse and recycle amongst residents and citizens.",
+          "Educate young minds on plastics by establishing workshops, seminars etc. in educational institutions.",
+          "To facilitate the purpose or objectives of the instrument, provisions may be included Calling on the parties to raise awareness and promote education on ensuring the elimination of additives that are proven to be harmful to human health (through a scientific basis) and/ or act as inhibitors to recycling, to ensure a fair transition to a non-toxic circular economy and also ensure the continuation of public awareness and understanding of the goal or goals."
+        ],
+        "reasoning": "The document explicitly lists several voluntary and additional measures that fall under the definition of education. The citations highlight specific proposals for awareness campaigns through NGOs, educational activities like workshops and seminars for young people in schools, and broader public education initiatives to promote understanding of the instrument's goals."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document suggests establishing R&D facilities for better product design for reuse and recycling, exploring possibilities for chemical recycling, and creating alliances between universities, government, and businesses to support research on product designs based on circularity principles.",
+        "citation": [
+          "Exploring the possibilities of chemical recycling of plastic (since mechanical recycling cannot be done infinitely) done in an environmentally sound way.",
+          "Establish R&D facilities to find the best product design (of various products manufactured in the countryplastic products for reuse and recycle.",
+          "Creating universities, government, and businesses alliances to support research towards product designs that are based of the principles of circularity."
+        ],
+        "reasoning": "The document explicitly encourages research and development activities under its 'Control Measures' and 'Voluntary Approaches' sections. The cited texts propose actions such as 'Exploring the possibilities,' 'Establish R&D facilities,' and 'Creating... alliances to support research,' which directly align with the definition of promoting research and innovation without mentioning specific funding commitments."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "Correct labelling of plastic polymers and additives; harmonized national reporting formats for inventories on plastic production, recycling, and waste statistics; and common standards based on scientific evidence for eliminating harmful additives.",
+        "citation": [
+          "Correct labelling of plastic polymers and additives thereof.",
+          "The national inventory developed should contain information on the production, recycling, and imports etc. It should throw light on the waste statistics, that is the amount of the plastic generated in the waste and diverted to recycling.",
+          "Calling on the parties to raise awareness and promote education on ensuring the elimination of additives that are proven to be harmful to human health (through a scientific basis) and/ or act as inhibitors to recycling..."
+        ],
+        "reasoning": "The document calls for 'correct labelling' of plastics and additives, which implies a standardized or harmonized system to enable consistent sorting and recycling across different jurisdictions. It also details specific contents for national inventory reports (production, recycling, waste statistics), suggesting a harmonized reporting framework to ensure data is comparable and can be used by the Secretariat to coordinate assistance. Finally, the proposal to eliminate additives based on a 'scientific basis' points towards a harmonized approach for identifying and regulating harmful substances across parties."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions several knowledge sharing mechanisms, including the transfer and adoption of technological know-how, technical assistance, capacity building, and technology transfer, particularly in recycling. It also suggests facilitating these through regular reports and information exchanges via a Secretariat, as well as domestic initiatives like workshops and seminars.",
+        "citation": [
+          "Fostering a system that enables the recycling of plastic in an environmentally sound way through transfer and adoption of appropriate technological know-how.",
+          "The opportunities arise for the developed countries that are at the helm of recycling plastic (like developed countries) to transfer or assist in the recycling technology of plastic to the countries that need to increase their percentage share of recycling plastic in their waste management efforts.",
+          "Regular updates and exchange of information for the progress made by the countries through the Secretariat in terms of reports, memos, etc.",
+          "The Plastic Instrument can play an important role in capacity building, technical assistance, and technology transfer by providing a conduit for collaborations among or between the countries depending upon the needs of the individual country as conveyed to the Secretariat in the reports/memos."
+        ],
+        "reasoning": "The cited texts directly align with the code's definition by explicitly mentioning mechanisms for exchanging expertise and technology. Phrases like 'transfer and adoption of appropriate technological know-how', 'transfer or assist in the recycling technology', 'exchange of information', and the instrument's role in 'capacity building, technical assistance, and technology transfer' clearly describe methods for sharing knowledge among countries to build capacity in managing plastic pollution."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document advocates for countries to set their own nationally determined targets and for the monitoring of recycling targets. However, it does not state or propose any specific, quantitative targets (e.g., a certain percentage by a specific year). The figures mentioned ('9% of the plastic produced has been recycled', 'rate of plastic recycling in GCC around 10%') are descriptive statistics of the current situation, not future policy goals."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "The document mentions increasing the use of recycled plastics and specifically increasing the percentage of recycled content in the manufacturing of new plastic components.",
+        "citation": [
+          "Increase in the use of recycled plastics.",
+          "Increasing the percentage of recycled content in the manufacturing of new plastic components etc.",
+          "The effectiveness of the instrument will be based on the national reports that would carry the information about the progress made through circular economy adoption in the life cycle of plastics such as increase in percentage of the recycled material in the products."
+        ],
+        "reasoning": "The cited texts explicitly refer to measures that alter the raw material inputs for plastic production. Specifically, they call for an 'increase in the use of recycled plastics' and 'increasing the percentage of recycled content', which are direct measures related to the feedstock stage of the value chain, promoting the use of secondary raw materials over virgin ones."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document mentions sustainable production in general, increasing the percentage of recycled content in the manufacturing of new plastic products, and eliminating harmful additives or those that inhibit recycling from the production process.",
+        "citation": [
+          "The key for the progress of society is to invest in finding the solutions to these problems through sustainable production, use and disposal of plastic products.",
+          "Increasing the percentage of recycled content in the manufacturing of new plastic components etc.",
+          "Calling on the parties to raise awareness and promote education on ensuring the elimination of additives that are proven to be harmful to human health (through a scientific basis) and/ or act as inhibitors to recycling, to ensure a fair transition to a non-toxic circular economy..."
+        ],
+        "reasoning": "The cited texts directly refer to measures concerning the creation and manufacturing of plastics. 'Sustainable production' is a high-level objective for this stage. 'Increasing the percentage of recycled content' is a specific control measure that alters the material inputs for manufacturing new products. 'Elimination of additives' is a measure that directly regulates the composition and creation process of plastic materials, aligning with the definition of addressing the manufacturing process."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "Promoting research and development (R&D) for product design for reuse and recycling, designing products based on circularity principles, and eliminating additives that inhibit recycling.",
+        "citation": [
+          "Establish R&D facilities to find the best product design (of various products manufactured in the countryplastic products for reuse and recycle.",
+          "Creating universities, government, and businesses alliances to support research towards product designs that are based of the principles of circularity.",
+          "Calling on the parties to raise awareness and promote education on ensuring the elimination of additives that are proven to be harmful to human health (through a scientific basis) and/ or act as inhibitors to recycling, to ensure a fair transition to a non-toxic circular economy..."
+        ],
+        "reasoning": "The document explicitly mentions supporting R&D and research for 'product design' aimed at 'reuse and recycle' and 'circularity principles' under its voluntary approaches. It also calls for eliminating additives that 'act as inhibitors to recycling', which is a key aspect of design for recyclability. These points directly align with the code definition for design."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "chemical additive restrictions, labelling of chemicals/additives, recycled content in manufacturing, design for reuse and recycling",
+        "citation": [
+          "Correct labelling of plastic polymers and additives thereof.",
+          "Increasing the percentage of recycled content in the manufacturing of new plastic components etc.",
+          "Establish R&D facilities to find the best product design (of various products manufactured in the countryplastic products for reuse and recycle.",
+          "Calling on the parties to raise awareness and promote education on ensuring the elimination of additives that are proven to be harmful to human health (through a scientific basis) and/ or act as inhibitors to recycling, to ensure a fair transition to a non-toxic circular economy..."
+        ],
+        "reasoning": "The document addresses the product production stage by proposing measures that directly affect the manufacturing process and composition of plastic products. This includes mandatory labelling of chemical additives, increasing the use of recycled materials in new products, improving product design for circularity, and eliminating harmful chemical additives, all of which are key aspects of product manufacturing."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "Sustainable plastic use, awareness of plastic reuse benefits",
+        "citation": [
+          "Protecting human health and environment through sustainable plastic use.",
+          "...invest in finding the solutions to these problems through sustainable production, use and disposal of plastic products.",
+          "Establish NGOs' support for spreading awareness of the benefits of plastic reuse and recycle amongst residents and citizens."
+        ],
+        "reasoning": "The document explicitly states an objective of \"sustainable plastic use\" and lists \"spreading awareness of the benefits of plastic reuse\" as a voluntary approach. Both 'use' and 'reuse' are core activities within the consumption stage of the value chain, directly addressing consumer behavior. However, there is no specific mention of single-use or disposable plastics."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document lists 'Efficient collection' as a core obligation for national action plans.",
+        "citation": [
+          "Efficient collection and recycling of plastic waste."
+        ],
+        "reasoning": "The document explicitly identifies 'Efficient collection and recycling of plastic waste' as a core obligation for national plans. This directly addresses the code definition, which focuses on measures for the collection, gathering, or aggregation of post-consumer plastic waste."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "efficient collection and recycling, waste sorting, mechanical recycling, chemical recycling, landfilling, incineration",
+        "citation": [
+          "Efficient collection and recycling of plastic waste.",
+          "Correct labelling of the plastic and the additives used in the plastic so that adequate steps to sort and recycle can be taken.",
+          "Stepping up efforts to mechanically recycle the plastic instead of landfilling and incinerating.",
+          "Exploring the possibilities of chemical recycling of plastic (since mechanical recycling cannot be done infinitely) done in an environmentally sound way.",
+          "The opportunities arise for the developed countries that are at the helm of recycling plastic (like developed countries) to transfer or assist in the recycling technology of plastic to the countries that need to increase their percentage share of recycling plastic in their waste management efforts."
+        ],
+        "reasoning": "The document explicitly discusses multiple methods for managing plastic waste after it has been collected. It lists 'Efficient collection and recycling of plastic waste' as a core obligation and details several specific treatment processes, including 'sort and recycle', 'mechanically recycle', 'chemical recycling', 'landfilling', and 'incinerating'. The text directly frames these activities within the context of 'waste management efforts', clearly matching the code's definition."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document outlines several recycling-related measures, including: efficient collection and recycling systems, increasing the use of recycled plastics, monitoring national recycling targets, fostering environmentally sound recycling through technology transfer, increasing recycled content in new products, promoting mechanical recycling, and exploring chemical recycling.",
+        "citation": [
+          "Efficient collection and recycling of plastic waste.",
+          "Increase in the use of recycled plastics.",
+          "Continual monitoring of recycling targets of plastic within the country through the statistics provided by the plastic recycling industry.",
+          "Increasing the percentage of recycled content in the manufacturing of new plastic components etc. Stepping up efforts to mechanically recycle the plastic instead of landfilling and incinerating. Exploring the possibilities of chemical recycling of plastic (since mechanical recycling cannot be done infinitely) done in an environmentally sound way.",
+          "The rate of plastic recycling in GCC around 10%[^1][^2] and can be increased through the technical assistance by technology transfer in areas of chemical and mechanical recycling of plastic from the developed countries that have higher recycling rates."
+        ],
+        "reasoning": "The document explicitly lists 'Efficient collection and recycling of plastic waste' as a core obligation and details multiple control measures focused on recycling. These include setting and monitoring recycling targets, promoting specific technologies (mechanical and chemical recycling), increasing recycled content, and facilitating technology transfer to improve recycling capacity, all of which directly align with the code definition for the recycling stage."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document mentions monitoring plastic pollution in water bodies and utilizing littered plastic waste as a source for recycling.",
+        "citation": [
+          "It should also publish results of fresh water, wastewater, coastal, and marine water impacted by plastic pollution.",
+          "There is a huge potential for increasing the share of the recycled plastic waste by tapping into the mismanaged/ littered plastic waste."
+        ],
+        "reasoning": "The document proposes measures that address existing environmental pollution. The recommendation to 'publish results of... coastal, and marine water impacted by plastic pollution' is a measure to monitor legacy plastic. Furthermore, the suggestion of 'tapping into the mismanaged/ littered plastic waste' directly implies collecting plastic that is already in the environment to use as a feedstock for recycling, which constitutes a cleanup activity."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "Reducing the incineration of plastic waste in favor of recycling.",
+        "citation": [
+          "Stepping up efforts to mechanically recycle the plastic instead of landfilling and incinerating.",
+          "According to OECD only 9% of the plastic produced has been recycled. The rest is either mismanaged, landfilled, or incinerated."
+        ],
+        "reasoning": "The document advocates for reducing the incineration of plastic waste. Incineration is a significant source of greenhouse gas emissions and air pollutants. By proposing to step up recycling efforts *instead* of incineration, the document is addressing a key source of emissions associated with the plastic lifecycle, which aligns with the code definition."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document discusses implementation measures such as the need for national action plans and reporting, but it does not provide any specific timelines, deadlines, phases, or schedules for when these actions should be initiated, completed, or reviewed. The text lacks any concrete temporal markers."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document suggests that there should be measures for non-compliance by Parties, potentially modeled after existing Multilateral Environmental Agreements (MEAs).",
+        "citation": [
+          "There should be measures taken in case of non-compliance by the Parties.",
+          "This may involve referring to the existing MEAs and their non-compliance measures prescribed for the development of the non-compliance in the Plastic Instrument."
+        ],
+        "reasoning": "The document explicitly proposes the inclusion of 'measures taken in case of non-compliance'. This indicates an intent to create a binding instrument with enforcement mechanisms, rather than a purely voluntary or facilitative one, which corresponds to a high level of stringency."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global instrument implemented through national action plans.",
+        "citation": [
+          "Different countries will have different national action plans to find ways to act and control plastic pollution depending upon their national circumstances.",
+          "These reports would enable different countries to communicate with the Secretariat about their individual needs and struggles in meeting the targets of reduced plastic pollution...",
+          "The Secretariat, based on progress made by various countries in the updated action plans/ reports may recommend financial assistance through GEF, World Bank and other financial institutions.",
+          "There should be measures taken in case of non-compliance by the Parties. This may involve referring to the existing MEAs and their non-compliance measures prescribed for the development of the non-compliance in the Plastic Instrument."
+        ],
+        "reasoning": "The document consistently refers to an international framework involving 'different countries' or 'Parties' acting under a single 'instrument'. The proposed structure includes a central 'Secretariat' for coordination, the involvement of global financial institutions like the 'World Bank', and references to existing Multilateral Environmental Agreements (MEAs). This framework, which relies on individual countries developing 'national action plans', is characteristic of a global agreement with national-level implementation."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "Business alliances to support research.",
+      "citation": [
+        "Creating universities, government, and businesses alliances to support research towards product designs that are based of the principles of circularity."
+      ],
+      "reasoning": "The document proposes creating 'businesses alliances' as a voluntary approach. The specific purpose of these alliances is to 'support research' for product designs based on circularity principles. This constitutes a direct mention of the private sector (businesses) contributing resources to achieve policy goals."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document suggests that countries can secure funding through regional bilateral or multilateral financial agreements. It also recommends that a Secretariat could facilitate financial assistance through public financial institutions like the GEF and the World Bank.",
+      "citation": [
+        "Depending upon the updated reports, the Secretariat may provide assistance to the individual countries to collaborate with the countries and institutions capable of providing support including suitable technology, capacity building, and financial assistance.",
+        "The Secretariat, based on progress made by various countries in the updated action plans/ reports may recommend financial assistance through GEF, World Bank and other financial institutions.",
+        "There should be provisions in the Plastic instrument about how the Parties can secure funding through regional bilateral or multilateral financial agreements through these or other financial institutions."
+      ],
+      "reasoning": "The cited texts explicitly mention mechanisms for receiving 'financial assistance' from public sources. This includes 'bilateral' agreements (between states/national governments) and 'multilateral' agreements facilitated through institutions like the World Bank and GEF, which are funded by member states. This directly corresponds to the code's definition of financing from national governments or public sources."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "Financial assistance through GEF, World Bank, other financial institutions, and regional bilateral or multilateral financial agreements.",
+      "citation": [
+        "The Secretariat, based on progress made by various countries in the updated action plans/ reports may recommend financial assistance through GEF, World Bank and other financial institutions.",
+        "There should be provisions in the Plastic instrument about how the Parties can secure funding through regional bilateral or multilateral financial agreements through these or other financial institutions."
+      ],
+      "reasoning": "The document explicitly names several international financing sources, including the Global Environment Facility (GEF) and the World Bank. It also refers to broader mechanisms like 'multilateral financial agreements' as potential channels for countries to secure funding for implementing the plastic instrument."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": true,
+      "details": "Financial assistance through institutions like the Global Environment Facility (GEF), World Bank, and others. Securing funding through regional, bilateral, or multilateral financial agreements.",
+      "citation": [
+        "They may inform through these reports about the technical know-how assistance required and the financial constraints that the country is facing.",
+        "The Secretariat, based on progress made by various countries in the updated action plans/ reports may recommend financial assistance through GEF, World Bank and other financial institutions.",
+        "There should be provisions in the Plastic instrument about how the Parties can secure funding through regional bilateral or multilateral financial agreements through these or other financial institutions."
+      ],
+      "reasoning": "The document explicitly mentions that countries face 'financial constraints' and proposes mechanisms for securing 'financial assistance' and 'funding'. It names specific financial institutions like the World Bank and describes pathways such as 'multilateral financial agreements,' which fall under the definition of credit schemes and similar financial instruments."
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "Financial assistance through GEF, World Bank, and other financial institutions; Regional bilateral or multilateral financial agreements.",
+      "citation": [
+        "The Secretariat, based on progress made by various countries in the updated action plans/ reports may recommend financial assistance through GEF, World Bank and other financial institutions.",
+        "There should be provisions in the Plastic instrument about how the Parties can secure funding through regional bilateral or multilateral financial agreements through these or other financial institutions."
+      ],
+      "reasoning": "The document explicitly mentions several non-mandatory financial support mechanisms. It suggests that parties can secure funding from institutions like the Global Environment Facility (GEF) and the World Bank, and through bilateral or multilateral agreements. These are voluntary arrangements for providing and receiving financial assistance, not compulsory levies or taxes."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Responsibilities include the correct labelling of plastics and additives, increasing the percentage of recycled content in new products, designing products for reuse and recyclability based on circularity principles, and eliminating additives that are harmful or inhibit recycling.",
+      "citation": [
+        "Correct labelling of plastic polymers and additives thereof.",
+        "Increasing the percentage of recycled content in the manufacturing of new plastic components etc.",
+        "Establish R&D facilities to find the best product design (of various products manufactured in the countryplastic products for reuse and recycle.",
+        "Creating universities, government, and businesses alliances to support research towards product designs that are based of the principles of circularity.",
+        "Calling on the parties to raise awareness and promote education on ensuring the elimination of additives that are proven to be harmful to human health (through a scientific basis) and/ or act as inhibitors to recycling..."
+      ],
+      "reasoning": "The document explicitly outlines several obligations and measures that fall under the responsibility of the production sector. The citations mention specific actions such as 'correct labelling', 'increasing the percentage of recycled content in the manufacturing', improving 'product design', and the 'elimination of additives', which are all core functions and responsibilities of plastic producers and manufacturers."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document suggests a role for consumers in plastic reuse and recycling, which should be encouraged through awareness and education campaigns.",
+      "citation": [
+        "Establish NGOs' support for spreading awareness of the benefits of plastic reuse and recycle amongst residents and citizens.",
+        "Calling on the parties to raise awareness and promote education... and also ensure the continuation of public awareness and understanding of the goal or goals."
+      ],
+      "reasoning": "The document identifies 'residents and citizens' (consumers) as the target for awareness campaigns promoting specific actions: 'plastic reuse and recycle'. This frames these actions as the desired role for the public. Furthermore, it emphasizes the need for 'public awareness and understanding,' reinforcing the public's responsibility in the proposed solution."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document outlines several responsibilities for the waste management and recycling sector, including: efficient collection and recycling of plastic waste; providing statistics for monitoring national recycling targets; prioritizing mechanical recycling over landfilling and incineration; exploring chemical recycling; and providing waste statistics for national inventories.",
+      "citation": [
+        "Efficient collection and recycling of plastic waste.",
+        "Continual monitoring of recycling targets of plastic within the country through the statistics provided by the plastic recycling industry.",
+        "Stepping up efforts to mechanically recycle the plastic instead of landfilling and incinerating. Exploring the possibilities of chemical recycling of plastic (since mechanical recycling cannot be done infinitely) done in an environmentally sound way.",
+        "It should throw light on the waste statistics, that is the amount of the plastic generated in the waste and diverted to recycling."
+      ],
+      "reasoning": "The document explicitly assigns several roles and obligations to entities responsible for post-consumer plastic. It lists 'Efficient collection and recycling of plastic waste' as a core obligation. It further details the responsibilities of the 'plastic recycling industry' to provide data for monitoring and the broader waste management sector to shift from disposal methods like landfilling towards recycling."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Developing and implementing national action plans, tracking and monitoring pollution against national targets, creating national inventories, reporting to international bodies, ensuring correct product labelling, fostering recycling systems, taking measures for non-compliance, and raising public awareness.",
+      "citation": [
+        "Different countries will have different national action plans to find ways to act and control plastic pollution depending upon their national circumstances.",
+        "The countries to track their plastic pollution through their nationally determined baselines and targets.",
+        "The reports should develop the inventory of the plastic inside the country and should address the entire life cycle of the plastic within the country.",
+        "There should be measures taken in case of non-compliance by the Parties.",
+        "Calling on the parties to raise awareness and promote education..."
+      ],
+      "reasoning": "The document, submitted by a state ministry, repeatedly assigns obligations to 'countries' and 'Parties' (referring to national governments). The cited texts explicitly task these entities with creating 'national action plans', 'track[ing] their plastic pollution' against 'nationally determined baselines', developing a national 'inventory', and establishing 'measures... in case of non-compliance'. These are all core responsibilities of government in policy, regulation, and enforcement."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Spreading awareness about the benefits of plastic reuse and recycling.",
+      "citation": [
+        "Establish NGOs' support for spreading awareness of the benefits of plastic reuse and recycle amongst residents and citizens."
+      ],
+      "reasoning": "The document explicitly identifies a role for NGOs under the 'Voluntary Approaches' section. The cited text directly tasks NGOs with the responsibility of raising public awareness regarding the advantages of plastic reuse and recycling."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The Secretariat is assigned several key responsibilities, including: receiving reports from countries on their needs and progress, facilitating collaboration between countries, providing assistance for technology transfer and capacity building, and recommending financial assistance through institutions like the GEF and World Bank.",
+      "citation": [
+        "These reports would enable different countries to communicate with the Secretariat about their individual needs and struggles in meeting the targets of reduced plastic pollution through increased recycling and a circular economy approach.",
+        "Depending upon the updated reports, the Secretariat may provide assistance to the individual countries to collaborate with the countries and institutions capable of providing support including suitable technology, capacity building, and financial assistance.",
+        "The Plastic Instrument can play an important role in capacity building, technical assistance, and technology transfer by providing a conduit for collaborations among or between the countries depending upon the needs of the individual country as conveyed to the Secretariat in the reports/memos.",
+        "The Secretariat, based on progress made by various countries in the updated action plans/ reports may recommend financial assistance through GEF, World Bank and other financial institutions."
+      ],
+      "reasoning": "The document explicitly assigns a central coordinating and facilitative role to a 'Secretariat,' which is a key component of the UN system and international treaty bodies. The cited texts detail specific responsibilities such as receiving communications, providing assistance, facilitating collaboration and technology transfer, and recommending financial support, which directly aligns with the code definition for responsibilities of the UN system."
+    }
+  }
+}

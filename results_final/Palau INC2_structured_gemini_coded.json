@@ -1,0 +1,624 @@
+{
+  "submission_metadata": {
+    "country": "Palau",
+    "date": "2023-02-08",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "- End plastic pollution.",
+        "- Turn it off at the tap: develop a strong foundation to end plastic pollution by stopping the production of single use and unnecessary plastics;"
+      ],
+      "reasoning": "The document explicitly lists 'End plastic pollution' as the first proposed objective for the international instrument. It further reinforces this goal by stating the need to 'develop a strong foundation to end plastic pollution'. However, no specific target year or timeline for achieving this objective is mentioned anywhere in the submission."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Turn it off at the tap: develop a strong foundation to end plastic pollution by stopping the production of single use and unnecessary plastics;",
+        "Eliminate problematic and unnecessary plastics: chemicals added makes recycling a challenge;"
+      ],
+      "reasoning": "The document explicitly states an objective to 'turn it off at the tap' by 'stopping the production of single use and unnecessary plastics.' This directly aligns with the code's definition of reducing or controlling plastic manufacturing. However, it does not provide any specific quantitative targets, percentages, or caps for this reduction."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "Utilization for various functions and activities.",
+      "citation": [
+        "\"While plastic bags will still be utilized for various functions and activities, the Olbiil Era Kelulau or National Congress believes this bill is an important first step towards total freedom from plastic consumption and a vital measure to protect \\\"Pristine Paradise. Palau\\\".\""
+      ],
+      "reasoning": "The document, while overwhelmingly focused on the negative impacts of plastics, includes a direct acknowledgment that plastic bags have utility and are used for 'various functions and activities.' This statement concedes that some plastic use is functional, even as the legislation aims to reduce it, thereby meeting the code's definition of acknowledging plastic's utility."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The submission calls for strict control measures to protect human health, specifically by eliminating toxic and unnecessary chemicals in plastics. It references studies showing that 2,400 of the 10,000 chemicals in plastics are toxic to human health and calls for a ban on chemicals of concern to promote a non-toxic circular economy.",
+      "citation": [
+        "Develop strict control measures to protect human health, the climate system, and the environment;",
+        "Eliminate unnecessary chemicals in plastics (studies show that over 10,000 chemicals are found in plastics of which 2,400 are toxic to human health);",
+        "Ban chemicals of concern;",
+        "In addition, Palauans have grave concerns about the environmental, social, cultural, economic, human health and, food security impacts, of plastics pollution.",
+        "Adverse impacts of plastics on human health, the environment, economy, and food security will be highlighted to support the urgency of implementation."
+      ],
+      "reasoning": "The document explicitly and repeatedly states that a key objective of the instrument should be to 'protect human health'. It substantiates this by identifying the specific threat of toxic chemicals within plastics and expresses the 'grave concerns' of its citizens regarding the 'human health... impacts' of plastic pollution."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "Develop strict control measures to protect human health, the climate system, and the environment;",
+        "Climate change is the biggest threat to our environment, biodiversity, and our economy.",
+        "Address legacy waste: manage plastics that have not been reused or recycled, including existing pollution plus marine plastic pollution;",
+        "Financial and technical support for scientific studies to identify the source of marine litter that washes up on the shores of Palau."
+      ],
+      "reasoning": "The document explicitly states that a core objective should be to 'protect...the environment' and directly identifies plastic pollution as a threat to Palau's 'biodiversity'. The submission consistently emphasizes the marine context, framing Palau as a 'large ocean nation' and repeatedly calling for measures to address 'marine plastic pollution' and 'marine litter that washes up on the shores'."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "Clearly define mandatory obligations of plastic producing countries to address the whole life cycle of plastics including upstream, midstream, and downstream;",
+        "We cannot manage this challenge without looking at this issue comprehensively, from sourcing of plastics to the end-of-life cycle management, and remediation of releases.",
+        "As a non-producing country, we are downstream in the plastics lifecycle as we import many products in plastic containers."
+      ],
+      "reasoning": "The document explicitly and repeatedly refers to the 'whole life cycle' and 'full life cycle' of plastics. The citations demonstrate a comprehensive perspective, calling for obligations that cover plastics from 'sourcing' and 'upstream' production stages all the way through 'downstream' and 'end-of-life cycle management'."
+    },
+    "other_objectives": {
+      "value": "Promote a circular economy, support international climate and development goals, and ensure a just and inclusive transition.",
+      "citation": [
+        "...including through the promotion of a circular economy...",
+        "...supporting the goals of the Paris Agreement and the Kunming-Montreal Global Biodiversity Framework, and contributing to the achievement of the 2030 Agenda for Sustainable Development and its Sustainable Development Goals.",
+        "...and ensure a just and inclusive transition for all affected workers and communities."
+      ],
+      "reasoning": "The document explicitly states several objectives that are distinct from the other categories. These include promoting a specific economic model ('circular economy'), aligning with broader international frameworks on climate change ('Paris Agreement') and sustainable development ('2030 Agenda'), and addressing the social and economic impacts on people ('just and inclusive transition'). These objectives focus on economic systems, climate policy, and social equity, which are not covered by the pre-defined codes."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "beverage container deposit fee",
+        "citation": [
+          "The Palau Recycling Act, better known as the CDL or Container Deposit Law was passed in 2006 followed by implementation in 2009.",
+          "The CDL established a recycling program and a beverage container deposit fee as well as created the Recycling Fund to financially sustain the recycling program."
+        ],
+        "reasoning": "The document explicitly mentions a 'beverage container deposit fee' established under the Container Deposit Law (CDL). A deposit fee is a fiscal measure designed to incentivize the return of containers for recycling, which falls under the code's broad definition of 'similar fiscal measures that use taxation as a mechanism'."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document calls for funding and financial support for several specific mechanisms, including: studies and development of recycling technologies, incentives for retrieving lost fishing gear, special funds to assist SIDS, exportation of marine litter, development of natural plastic alternatives, design of waste management facilities, and the implementation of National Action Plans.",
+        "citation": [
+          "Mandate marking and tracking of fishing gears to incentivize retrieval of lost gears;",
+          "A Finance Committee must also be established to designate a special funds to assist SIDS in the implementation pre/post entry into force.",
+          "Develop clear mechanisms for funding, technical support, and transfer of technology to: - Develop natural alternatives to plastics (in the Islands); ... - Funding for the development/design of facilities to address plastic pollution;"
+        ],
+        "reasoning": "The cited texts explicitly mention the need for financial mechanisms such as 'incentives', 'special funds', and direct 'funding' for a range of activities. These include promoting specific behaviors (retrieving fishing gear) and supporting the development of infrastructure, alternatives to plastic, and implementation plans. These all fall under the definition of subsidies, grants, or financial support."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The submission calls for the establishment of global rules that include defined 'penalties' and for the development of 'Polluter Pay schemes' to manage plastic waste.",
+        "citation": [
+          "Develop clear global rules with defined targets, responsibilities, penalties, and actions;",
+          "Develop clear mechanisms for small islands to participate in EPR and Polluter Pay schemes to address plastic waste and marine plastic pollution;"
+        ],
+        "reasoning": "The document explicitly requests that the international instrument include 'penalties' as part of its framework. It also specifically mentions the need for 'Polluter Pay schemes', which directly aligns with the 'polluter-pays principle' outlined in the code definition, serving as a financial penalty or cost-recovery mechanism for pollution."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": true,
+        "details": "The document mentions Palau's 'Container Deposit Law (CDL)' and the associated 'beverage container deposit fee'.",
+        "citation": [
+          "The Palau Recycling Act, better known as the CDL or Container Deposit Law was passed in 2006 followed by implementation in 2009.",
+          "The CDL established a recycling program and a beverage container deposit fee as well as created the Recycling Fund to financially sustain the recycling program.",
+          "Among other things, the CDL defined \"deposit beverage container\" to include polyethylene terephthalate and high-density polyethylene and the size of container of \"less than or equal to thirty-two (32) fluid ounces\"."
+        ],
+        "reasoning": "The document explicitly names and describes its national 'Container Deposit Law (CDL)'. It details the law's function, which includes establishing a 'beverage container deposit fee' to fund recycling efforts. This is a direct and clear example of a deposit system as defined in the code."
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document mentions funding for studies and development of non-polluting recycling technologies, financial support for scientific studies on marine litter sources, and funding for the development of natural alternatives to plastics.",
+        "citation": [
+          "Fund studies and development of recycling technologies that do not result in more pollutants or greenhouse gas emissions;",
+          "Financial and technical support for scientific studies to identify the source of marine litter that washes up on the shores of Palau.",
+          "Develop clear mechanisms for funding, technical support, and transfer of technology to: - Develop natural alternatives to plastics (in the Islands);"
+        ],
+        "reasoning": "The cited texts explicitly call for funding to support research ('scientific studies') and the development of new technologies ('development of recycling technologies') and materials ('develop natural alternatives to plastics'). These calls directly match the code definition for R&D funding as an economic instrument to address plastic pollution."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document calls for the development of clear mechanisms for small island nations to participate in EPR and Polluter Pay schemes. It also advocates for mandatory obligations for plastic-producing countries to manage the entire lifecycle of plastics.",
+        "citation": [
+          "Develop clear mechanisms for small islands to participate in EPR and Polluter Pay schemes to address plastic waste and marine plastic pollution;",
+          "Clearly define mandatory obligations of plastic producing countries to address the whole life cycle of plastics including upstream, midstream, and downstream;"
+        ],
+        "reasoning": "The document explicitly uses the term 'EPR' and its associated concept, 'Polluter Pay schemes'. Furthermore, it describes the core principle of EPR by calling for mandatory obligations on producing countries to manage the product's entire life cycle, which directly aligns with the code definition."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The submission proposes several bans and eliminations as objectives for the international instrument, including: stopping the production of single-use and unnecessary plastics, eliminating problematic and unnecessary plastics, and banning chemicals of concern. It also cites an existing national law, the Plastic Bag Use Reduction Act, which prohibits the import and distribution of plastic bags.",
+        "citation": [
+          "Turn it off at the tap: develop a strong foundation to end plastic pollution by stopping the production of single use and unnecessary plastics;",
+          "Eliminate problematic and unnecessary plastics: chemicals added makes recycling a challenge;",
+          "Ban chemicals of concern;",
+          "This new law prohibits businesses from importing or distributing plastic bags to customers..."
+        ],
+        "reasoning": "The document explicitly uses terms such as 'stopping the production', 'eliminate', and 'ban' when outlining proposed objectives and control measures for the treaty. It also provides a concrete example of an existing national law that 'prohibits' plastic bags. These terms directly align with the code definition, which includes prohibitions, bans, and eliminations as regulatory instruments."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document calls for establishing design criteria and material requirements for plastic products, such as designing plastics to be recyclable without greenhouse gas emissions, eliminating unnecessary and toxic chemicals, banning chemicals of concern, and mandating the marking and tracking of fishing gear.",
+        "citation": [
+          "Design plastics that can be recycled minus greenhouse gas emissions;",
+          "Eliminate unnecessary chemicals in plastics (studies show that over 10,000 chemicals are found in plastics of which 2,400 are toxic to human health);",
+          "Ban chemicals of concern;",
+          "Develop/design plastics with the downstream in mind, i.e., understanding of the capacity of Island nations to address plastic waste;",
+          "Mandate marking and tracking of fishing gears to incentivize retrieval of lost gears;"
+        ],
+        "reasoning": "The document explicitly proposes several design and material requirements that plastic products must meet. These proposals, including criteria for recyclability, the elimination of specific chemicals, and mandatory product marking, are clear examples of performance standards as defined by the code."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document proposes developing clear downstream measures for waste management, including systems for collection, sorting, transfer, and recycling. It also identifies the need to address infrastructure gaps and calls for funding for the development and design of facilities to manage plastic pollution.",
+        "citation": [
+          "End-of-life management of plastics: develop clear downstream measures to address collection, sorting and transfer, recycling, export of plastic waste for final disposal;",
+          "Gaps in national level policies, infrastructure, and human capacity will be identified and incorporated into the NAP.",
+          "Funding for the development/design of facilities to address plastic pollution;"
+        ],
+        "reasoning": "The document explicitly proposes that the treaty should develop 'clear downstream measures to address collection, sorting and transfer, recycling'. It also highlights that National Action Plans will need to identify and address 'gaps in... infrastructure'. Finally, it directly calls for 'Funding for the development/design of facilities' as a required implementation measure, clearly indicating the need for mandatory infrastructure development to fulfill the treaty's objectives."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "Mandatory marking and tracking of fishing gears.",
+        "citation": [
+          "Mandate marking and tracking of fishing gears to incentivize retrieval of lost gears;"
+        ],
+        "reasoning": "The document explicitly proposes to 'mandate marking and tracking of fishing gears'. This represents a mandatory verification system for a specific type of plastic product, which falls under the definition of a certification or approval scheme intended to control plastic products."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "marking and tracking of fishing gear",
+        "citation": [
+          "Mandate marking and tracking of fishing gears to incentivize retrieval of lost gears;"
+        ],
+        "reasoning": "The document explicitly proposes a mandate for the 'marking and tracking of fishing gears'. This 'marking' requirement is a form of labelling designed for identification to facilitate retrieval and assign responsibility, directly matching the code's definition of required product marking."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National Action Plan (NAP), community action plans",
+        "citation": [
+          "The development of a National Action Plan (NAP) will proceed the implementation of the instrument. The NAP will be a working document that articulates Palau's priorities and actions to be adopted to meet the objectives and obligations of the instrument.",
+          "The NAP will direct the planning, implementation, and monitoring of plastic pollution through a clear vision and strategic actions.",
+          "Capacity building to support the development of community action plans to address marine plastic litter.",
+          "Funding for the development and implementation of a National Action Plans (NAP) to address plastic pollution and marine plastic pollution for SIDS and other developing countries;"
+        ],
+        "reasoning": "The document explicitly and repeatedly refers to the development and implementation of a National Action Plan (NAP) as a primary mechanism for countries to meet the treaty's objectives and obligations. It describes the NAP as a foundational document that will precede implementation and direct national efforts. The submission also mentions the need for 'community action plans' and calls for specific funding for the development of NAPs, confirming they are seen as a core, required instrument."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document outlines plans for data collection on marine plastic litter through surveys and cleanups. This data is to be reported to the national Environmental Quality Protection Board (EQPB), incorporated into a national database, and used to generate reports to fulfill obligations under the international instrument and other conventions. The text also mentions the need to manage 'burdensome reporting' linked to monitoring and evaluation.",
+        "citation": [
+          "Methods for data collection will be defined to meet reporting obligations.",
+          "Additional subsidiary bodies under COP must be established to address potential duplication of efforts and burdensome reporting linked with monitoring and evaluation.",
+          "Data collected will be reported to the Environmental Quality Protection Board (EQPB) and incorporated into a national chemical and waste database to populate reports to meet Palau's obligations to conventions and the instrument."
+        ],
+        "reasoning": "The document explicitly refers to 'reporting obligations' and details a specific national mechanism for data collection and submission. It describes a clear process where data on marine litter will be gathered, reported to a national authority (EQPB), and used to create reports that satisfy the country's obligations to the international instrument, which confirms the presence of mandatory reporting as a regulatory measure."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document mentions developing measures for the export of plastic waste, a national law prohibiting the import of plastic bags, and the need for funding for the exportation of marine litter plastics.",
+        "citation": [
+          "End-of-life management of plastics: develop clear downstream measures to address collection, sorting and transfer, recycling, export of plastic waste for final disposal;",
+          "This new law prohibits businesses from importing or distributing plastic bags to customers...",
+          "Funding for the exportation of marine litter plastics and other chemical wastes from islands with limited landfill capacity;"
+        ],
+        "reasoning": "The cited texts directly mention measures affecting the international trade of plastic products and waste. The document refers to the 'export of plastic waste' as a management measure and cites a specific national law that 'prohibits businesses from importing... plastic bags,' which are clear examples of trade requirements."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document mentions several monitoring measures, including: mandating the marking and tracking of fishing gear; monitoring plastic pollution through a National Action Plan; defining methods for data collection to meet reporting obligations; conducting regular surveys and beach cleanups to collect data; and establishing a national chemical and waste database to manage and report collected data.",
+        "citation": [
+          "Mandate marking and tracking of fishing gears to incentivize retrieval of lost gears;",
+          "The NAP will direct the planning, implementation, and monitoring of plastic pollution through a clear vision and strategic actions.",
+          "Methods for data collection will be defined to meet reporting obligations.",
+          "Activities must include regular survey and beach cleanups to identify and sort plastics to enable data collection.",
+          "Data collected will be reported to the Environmental Quality Protection Board (EQPB) and incorporated into a national chemical and waste database to populate reports to meet Palau's obligations to conventions and the instrument."
+        ],
+        "reasoning": "The document explicitly refers to various systems and activities for tracking, observing, and measuring plastic pollution. It mentions the need to 'track' fishing gear, the 'monitoring of plastic pollution' through a national plan, and specific 'data collection' methods like surveys and beach cleanups. Furthermore, it describes a system for managing this data through a national database for reporting purposes, all of which aligns directly with the code definition."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document mentions a 'plastics education program' and a call for a study that would include 'options of best management practices'.",
+        "citation": [
+          "This new law prohibits businesses from importing or distributing plastic bags to customers and authorized a plastics education program to inform the public on the destructive effects of plastic use as well as practical ways to reduce dependence on plastics.",
+          "Study will include options of best management practices to address marine litter resulting in reduced pressure on Palau's national landfill."
+        ],
+        "reasoning": "The text explicitly mentions two forms of information and guidance. First, it refers to a legislatively authorized 'plastics education program' designed to inform the public on reducing plastic dependency. Second, it calls for a study that will identify and provide 'options of best management practices' for addressing marine litter. Both of these fall under the definition of providing informational resources and guidance to help stakeholders implement effective measures."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "A plastics education program was authorized by law to inform the public about the negative impacts of plastic use and methods for reducing plastic dependence.",
+        "citation": [
+          "This new law prohibits businesses from importing or distributing plastic bags to customers and authorized a plastics education program to inform the public on the destructive effects of plastic use as well as practical ways to reduce dependence on plastics."
+        ],
+        "reasoning": "The document explicitly states that the 'Plastic Bag Use Reduction Act' of 2017 authorized a 'plastics education program'. The program's purpose is to inform the public, which directly matches the code definition of a public education initiative aimed at raising awareness about plastic pollution."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The document proposes the establishment of 'Capacity Building and Technology Transfer Committees', a 'Finance Committee', and 'subsidiary bodies under the COP'.",
+        "citation": [
+          "Furthermore, there is a need to establish Capacity Building and Technology Transfer Committees to ensure SIDS needs are met. A Finance Committee must also be established to designate a special funds to assist SIDS in the implementation pre/post entry into force.",
+          "As well, subsidiary bodies under the COP must be established to address potential duplication of efforts and burdensome reporting linked with monitoring and evaluation.",
+          "The establishment of a Capacity Building and Technology Transfer Committee must be established to ensure SIDS needs, including limited capacity, resources, and funding are met. A Finance Committee must be established to designate special funds for SIDS to assist in implementation pre/post entry into force. Additional subsidiary bodies under COP must be established to address potential duplication of efforts and burdensome reporting linked with monitoring and evaluation."
+        ],
+        "reasoning": "The document explicitly calls for the establishment of several specific committees and subsidiary bodies to provide guidance and support for the implementation of the treaty, particularly focusing on the needs of Small Island Developing States (SIDS). This directly matches the code's definition of establishing expert or advisory groups."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "Funding studies and development of non-polluting recycling technologies, scientific studies to identify sources of marine litter, and development of natural alternatives to plastics.",
+        "citation": [
+          "Fund studies and development of recycling technologies that do not result in more pollutants or greenhouse gas emissions;",
+          "Financial and technical support for scientific studies to identify the source of marine litter that washes up on the shores of Palau.",
+          "Develop clear mechanisms for funding, technical support, and transfer of technology to: - Develop natural alternatives to plastics (in the Islands);"
+        ],
+        "reasoning": "The document explicitly calls for funding, financial support, and the development of mechanisms to support scientific studies and the development of new technologies. This includes research into recycling technologies, identifying pollution sources, and creating natural alternatives to plastic, which directly aligns with the definition of research promotion."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document calls for the development of clear global rules with defined targets and responsibilities, a mandated marking and tracking system for fishing gear, and defined methods for data collection to meet reporting obligations.",
+        "citation": [
+          "Develop clear global rules with defined targets, responsibilities, penalties, and actions;",
+          "Mandate marking and tracking of fishing gears to incentivize retrieval of lost gears;",
+          "Methods for data collection will be defined to meet reporting obligations."
+        ],
+        "reasoning": "The cited texts explicitly call for the creation of 'clear global rules' and defined methodologies ('methods for data collection', 'marking and tracking'). These proposals aim to standardize approaches and systems across countries to ensure consistent implementation, action, and reporting under the instrument, which directly aligns with the definition of harmonization."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document calls for the establishment of 'Capacity Building and Technology Transfer Committees' and clear mechanisms for 'technology transfer', 'technical support', and 'technical assistance' to support Small Island Developing States (SIDS).",
+        "citation": [
+          "Furthermore, there is a need to establish Capacity Building and Technology Transfer Committees to ensure SIDS needs are met.",
+          "The design of the instrument must include clear means of implementation, that will enable Pacific SIDS like Palau, to fully implement the objectives of the instrument. This includes clear mechanisms for capacity building, technology transfer and funding support for plastic pollution prevention.",
+          "The establishment of a Capacity Building and Technology Transfer Committee must be established to ensure SIDS needs, including limited capacity, resources, and funding are met.",
+          "Develop clear mechanisms for funding, technical support, and transfer of technology..."
+        ],
+        "reasoning": "The document explicitly and repeatedly advocates for the creation of formal mechanisms, such as 'Technology Transfer Committees,' and other means for 'technology transfer' and 'technical support.' These proposals directly align with the code's definition of exchanging expertise and technology to build capacity, particularly for SIDS."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document outlines broad objectives such as 'End plastic pollution' and calls for 'clear global rules with defined targets'. However, it does not specify any quantitative or time-bound targets (e.g., percentages, specific amounts, or deadlines) for plastic reduction, recycling, or collection."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "Development of natural alternatives to plastics",
+        "citation": [
+          "Develop natural alternatives to plastics (in the Islands);"
+        ],
+        "reasoning": "The cited text explicitly calls for the development of 'natural alternatives to plastics'. This measure directly addresses the raw materials or feedstock used for production by promoting a shift away from conventional fossil-fuel-based feedstocks to other sources, such as bio-based materials."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document calls for stopping the production of single-use and unnecessary plastics and defining mandatory obligations for plastic producing countries to address the entire lifecycle of plastics.",
+        "citation": [
+          "Turn it off at the tap: develop a strong foundation to end plastic pollution by stopping the production of single use and unnecessary plastics;",
+          "Clearly define mandatory obligations of plastic producing countries to address the whole life cycle of plastics including upstream, midstream, and downstream;"
+        ],
+        "reasoning": "The cited texts directly mention measures targeting the creation of plastics, such as 'stopping the production' and assigning 'mandatory obligations' to 'plastic producing countries,' which aligns with the code definition of addressing the manufacturing or creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document calls for several design-related measures, including designing plastics for recyclability (without greenhouse gas emissions), eliminating problematic and unnecessary plastics and chemicals of concern, and designing products with the downstream waste management capacity of island nations in mind.",
+        "citation": [
+          "Design plastics that can be recycled minus greenhouse gas emissions;",
+          "Eliminate problematic and unnecessary plastics: chemicals added makes recycling a challenge;",
+          "Develop/design plastics with the downstream in mind, i.e., understanding of the capacity of Island nations to address plastic waste;"
+        ],
+        "reasoning": "The document explicitly lists 'Design' as a key objective and a core obligation. The cited texts detail specific design requirements, such as designing for recyclability, eliminating harmful chemicals from the material composition, and considering the end-of-life management capabilities of small island nations in the product design phase."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "chemical additive restrictions, ban on chemicals of concern, elimination of problematic and unnecessary plastics, design for non-toxic circularity",
+        "citation": [
+          "Eliminate problematic and unnecessary plastics: chemicals added makes recycling a challenge;",
+          "Eliminate unnecessary chemicals in plastics (studies show that over 10,000 chemicals are found in plastics of which 2,400 are toxic to human health);",
+          "Ban chemicals of concern;",
+          "Promote a non-toxic circular economy for plastics;"
+        ],
+        "reasoning": "The document explicitly calls for measures to control the composition of plastic products, specifically by eliminating unnecessary and problematic chemical additives and banning chemicals of concern. These proposals directly address the manufacturing and design phase of plastic products to promote a non-toxic circular economy."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "Prohibition on importing and distributing plastic bags; mandating the marking and tracking of fishing gear.",
+        "citation": [
+          "Mandate marking and tracking of fishing gears to incentivize retrieval of lost gears;",
+          "This new law prohibits businesses from importing or distributing plastic bags to customers and authorized a plastics education program to inform the public on the destructive effects of plastic use as well as practical ways to reduce dependence on plastics."
+        ],
+        "reasoning": "The document mentions measures that directly address the supply chain and transportation of plastic products before they reach the consumer. The prohibition on 'importing or distributing' plastic bags is a clear control measure on the distribution phase. Similarly, mandating the 'marking and tracking of fishing gears' is a supply chain traceability measure applied to products during their lifecycle, including the distribution stage."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "single-use plastic reduction, prohibition of single-use plastic bags, consumer education on reducing plastic dependence",
+        "citation": [
+          "Turn it off at the tap: develop a strong foundation to end plastic pollution by stopping the production of single use and unnecessary plastics;",
+          "In November 2017, RPPL 10-14 or the Plastic Bag Use Reduction Act was passed into law to be implemented in 2019. This new law prohibits businesses from importing or distributing plastic bags to customers and authorized a plastics education program to inform the public on the destructive effects of plastic use as well as practical ways to reduce dependence on plastics.",
+          "While plastic bags will still be utilized for various functions and activities, the Olbiil Era Kelulau or National Congress believes this bill is an important first step towards total freedom from plastic consumption and a vital measure to protect \"Pristine Paradise. Palau\"."
+        ],
+        "reasoning": "The document explicitly states an objective to stop the production of 'single use and unnecessary plastics.' It also details national legislation, the 'Plastic Bag Use Reduction Act,' which directly targets the consumption phase by prohibiting the distribution of plastic bags to customers. This act is coupled with a 'plastics education program' aimed at influencing consumer behavior and reducing plastic dependency, with the stated goal of achieving 'total freedom from plastic consumption.' These measures clearly address consumer use and specifically target single-use plastics."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document explicitly proposes developing clear downstream measures to address collection. It also describes a national 'Container Deposit Law' (CDL), which functions as a take-back scheme for beverage containers, and suggests 'beach cleanups' as a method for gathering marine plastic litter.",
+        "citation": [
+          "End-of-life management of plastics: develop clear downstream measures to address collection, sorting and transfer, recycling, export of plastic waste for final disposal;",
+          "The Palau Recycling Act, better known as the CDL or Container Deposit Law was passed in 2006 followed by implementation in 2009.",
+          "Activities must include regular survey and beach cleanups to identify and sort plastics to enable data collection."
+        ],
+        "reasoning": "The document directly identifies 'collection' as a crucial end-of-life management stage that needs to be addressed. It provides specific examples of collection mechanisms, including a legislated take-back system (Container Deposit Law) and physical gathering activities (beach cleanups), both of which align with the definition of collecting or gathering plastic waste after consumer use or from the environment."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document mentions several waste management measures, including: collection, sorting and transfer of waste; recycling programs and facilities; a national landfill for disposal; management of legacy waste; and the exportation of plastic waste.",
+        "citation": [
+          "End-of-life management of plastics: develop clear downstream measures to address collection, sorting and transfer, recycling, export of plastic waste for final disposal;",
+          "Address legacy waste: manage plastics that have not been reused or recycled, including existing pollution plus marine plastic pollution;",
+          "Palau has a sophisticated waste management system and a newly opened national landfill (2021).",
+          "We have a robust national agenda that includes legislations; and recycling and solid waste management facilities.",
+          "Funding for the exportation of marine litter plastics and other chemical wastes from islands with limited landfill capacity;"
+        ],
+        "reasoning": "The document explicitly proposes and describes various measures for handling plastic waste after collection. The citations directly mention key waste management activities such as 'collection, sorting and transfer', 'recycling', 'export of plastic waste', and the existence of infrastructure like a 'national landfill' and 'solid waste management facilities'. This aligns perfectly with the code's definition of addressing the handling, processing, or management of plastic waste."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document mentions designing plastics for recyclability, developing new recycling technologies, establishing recycling as a key downstream end-of-life management measure, acknowledging challenges to recycling from chemical additives, and referencing existing national recycling programs and legislation (the Palau Recycling Act).",
+        "citation": [
+          "End-of-life management of plastics: develop clear downstream measures to address collection, sorting and transfer, recycling, export of plastic waste for final disposal;",
+          "Design plastics that can be recycled minus greenhouse gas emissions;",
+          "Fund studies and development of recycling technologies that do not result in more pollutants or greenhouse gas emissions;",
+          "Eliminate problematic and unnecessary plastics: chemicals added makes recycling a challenge;",
+          "The Palau Recycling Act, better known as the CDL or Container Deposit Law was passed in 2006 followed by implementation in 2009. The CDL established a recycling program and a beverage container deposit fee as well as created the Recycling Fund to financially sustain the recycling program."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'recycling' as a crucial measure for managing plastic waste. The citations demonstrate that recycling is considered a key downstream, end-of-life management stage. They also include specific proposals like designing plastics for better recyclability, funding the development of recycling technologies, and reference Palau's existing national Recycling Act, all of which directly align with the code definition."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "Managing legacy waste, including existing pollution and marine plastic pollution; remediation of releases; exportation of marine litter; and community action plans involving regular surveys and beach cleanups.",
+        "citation": [
+          "Address legacy waste: manage plastics that have not been reused or recycled, including existing pollution plus marine plastic pollution;",
+          "we cannot manage this challenge without looking at this issue comprehensively, from sourcing of plastics to the end-of-life cycle management, and remediation of releases.",
+          "Funding for the exportation of marine litter plastics and other chemical wastes from islands with limited landfill capacity;",
+          "Capacity building to support the development of community action plans to address marine plastic litter. Activities must include regular survey and beach cleanups to identify and sort plastics to enable data collection."
+        ],
+        "reasoning": "The document explicitly mentions the objective to 'Address legacy waste' and 'existing pollution plus marine plastic pollution.' It further details specific measures aimed at cleaning up already-polluted areas, such as 'remediation of releases,' 'exportation of marine litter,' and implementing community 'beach cleanups.' These points directly align with the code's definition of addressing existing plastic pollution in the environment."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document proposes designing plastics that can be recycled without greenhouse gas emissions and funding the development of recycling technologies that do not result in more pollutants or greenhouse gas emissions.",
+        "citation": [
+          "Design plastics that can be recycled minus greenhouse gas emissions;",
+          "Fund studies and development of recycling technologies that do not result in more pollutants or greenhouse gas emissions;"
+        ],
+        "reasoning": "The document explicitly mentions measures to address greenhouse gas emissions and other pollutants as a core objective for the international instrument. The cited texts are direct proposals for designing plastics and developing recycling technologies with the specific goal of avoiding emissions, which directly aligns with the code definition."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document specifies that financial assistance for Small Island Developing States (SIDS) should be available both before and after the instrument officially enters into force.",
+        "citation": [
+          "A Finance Committee must also be established to designate a special funds to assist SIDS in the implementation pre/post entry into force.",
+          "A Finance Committee must be established to designate special funds for SIDS to assist in implementation pre/post entry into force."
+        ],
+        "reasoning": "The document explicitly mentions a timeline for financial assistance relative to a key milestone of the instrument: 'pre/post entry into force'. This indicates a phased approach to funding implementation, distinguishing the period before the treaty is legally binding from the period after."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes a legally binding instrument with strict, mandatory obligations, clear rules, and penalties for non-compliance. It specifically calls for banning certain chemicals and mandating tracking for specific items.",
+        "citation": [
+          "Develop strict control measures to protect human health, the climate system, and the environment;",
+          "Ban chemicals of concern;",
+          "Develop clear global rules with defined targets, responsibilities, penalties, and actions;",
+          "Clearly define mandatory obligations of plastic producing countries to address the whole life cycle of plastics including upstream, midstream, and downstream;",
+          "Mandate marking and tracking of fishing gears to incentivize retrieval of lost gears;"
+        ],
+        "reasoning": "The submission repeatedly uses language indicating a desire for a high-stringency instrument, such as 'strict control measures,' 'mandatory obligations,' 'ban,' and 'mandate.' The explicit call for 'clear global rules with defined... penalties' confirms the preference for a legally binding treaty with robust enforcement mechanisms rather than a voluntary one."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global treaty with clear international rules, requiring implementation at the national level through National Action Plans (NAPs).",
+        "citation": [
+          "Palau's Submission on the International Legally Binding Instrument on Plastic Pollution",
+          "We need an ambitious and comprehensive global treaty, that includes control measures to protect our human health; the climate system and the environment; and to promote a non-toxic circular economy for plastics.",
+          "Develop clear global rules with defined targets, responsibilities, penalties, and actions;",
+          "The development of a National Action Plan (NAP) will proceed the implementation of the instrument. The NAP will be a working document that articulates Palau's priorities and actions to be adopted to meet the objectives and obligations of the instrument."
+        ],
+        "reasoning": "The document is a submission for an 'International Legally Binding Instrument' and explicitly calls for a 'global treaty' with 'global rules', which clearly establishes the scope as 'Global'. The citations also demonstrate that this global instrument is intended to be implemented at the country level through 'National Action Plans (NAPs)', detailing the mechanism for translating global obligations into national actions."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document mentions 'Polluter Pay schemes' and a 'Container Deposit Law' (CDL) which establishes a beverage container deposit fee to fund recycling.",
+      "citation": [
+        "Develop clear mechanisms for small islands to participate in EPR and Polluter Pay schemes to address plastic waste and marine plastic pollution;",
+        "The Palau Recycling Act, better known as the CDL or Container Deposit Law was passed in 2006 followed by implementation in 2009. The CDL established a recycling program and a beverage container deposit fee as well as created the Recycling Fund to financially sustain the recycling program."
+      ],
+      "reasoning": "The cited texts explicitly mention 'Polluter Pay schemes' and a 'beverage container deposit fee'. Both are mechanisms where private sector entities (producers/polluters and beverage companies) are the source of funds designated for managing plastic waste and sustaining recycling programs, thus meeting the code's definition."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document describes national legislation, specifically the 'Palau Recycling Act' (also known as the Container Deposit Law or CDL), which established a 'Recycling Fund' to financially sustain the country's recycling program. It also mentions the 'Plastic Bag Use Reduction Act' which authorized a plastics education program.",
+      "citation": [
+        "The Palau Recycling Act, better known as the CDL or Container Deposit Law was passed in 2006 followed by implementation in 2009.",
+        "The CDL established a recycling program and a beverage container deposit fee as well as created the Recycling Fund to financially sustain the recycling program.",
+        "In November 2017, RPPL 10-14 or the Plastic Bag Use Reduction Act was passed into law to be implemented in 2019.",
+        "This new law prohibits businesses from importing or distributing plastic bags to customers and authorized a plastics education program to inform the public on the destructive effects of plastic use as well as practical ways to reduce dependence on plastics."
+      ],
+      "reasoning": "The document explicitly states that Palau's national government passed legislation (the Palau Recycling Act) which created a 'Recycling Fund'. This fund is a public financing mechanism designed to sustain the national recycling program, clearly indicating a financing source from the state. The mention of the National Congress passing these laws further validates the state-level origin."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document calls for the establishment of a 'Finance Committee' to designate 'special funds' to assist Small Island Developing States (SIDS). It also repeatedly requests 'funding support' and 'financial assistance' as part of the international instrument's implementation mechanisms.",
+      "citation": [
+        "A Finance Committee must also be established to designate a special funds to assist SIDS in the implementation pre/post entry into force.",
+        "The design of the instrument must include clear means of implementation, that will enable Pacific SIDS like Palau, to fully implement the objectives of the instrument. This includes clear mechanisms for capacity building, technology transfer and funding support for plastic pollution prevention.",
+        "Financial and technical support for scientific studies to identify the source of marine litter that washes up on the shores of Palau.",
+        "Develop clear mechanisms for funding, technical support, and transfer of technology to: ... Funding for the development and implementation of a National Action Plans (NAP)... Funding for capacity building to implement NAP; Funding for the development/design of facilities to address plastic pollution;"
+      ],
+      "reasoning": "The cited texts explicitly state the need for international financial mechanisms, such as a dedicated Finance Committee and special funds, to be established under the proposed global treaty. These mechanisms are requested to provide funding and support to Small Island Developing States (SIDS) for various implementation activities, confirming the mention of international financing sources."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "beverage container deposit fee, Recycling Fund",
+      "citation": [
+        "The Palau Recycling Act, better known as the CDL or Container Deposit Law was passed in 2006 followed by implementation in 2009.",
+        "The CDL established a recycling program and a beverage container deposit fee as well as created the Recycling Fund to financially sustain the recycling program."
+      ],
+      "reasoning": "The document explicitly states that Palau's Container Deposit Law (CDL) established a 'beverage container deposit fee'. This fee is directly used to create and sustain a 'Recycling Fund', which is a clear example of financing derived from a dedicated fee to address waste management, including plastic containers."
+    },
+    "credit_schemes": {
+      "mentioned": true,
+      "details": "EPR and Polluter Pay schemes",
+      "citation": [
+        "Develop clear mechanisms for small islands to participate in EPR and Polluter Pay schemes to address plastic waste and marine plastic pollution;"
+      ],
+      "reasoning": "The document explicitly calls for mechanisms to allow participation in 'EPR and Polluter Pay schemes'. These are financial instruments that hold producers or polluters financially responsible for waste management, fitting the code's definition of 'similar financial instruments' used for financing, akin to the provided example of 'plastic credits'."
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Responsibilities include stopping the production of single-use and unnecessary plastics; designing plastics for recyclability without greenhouse gas emissions; eliminating problematic plastics and unnecessary/concerning chemicals; designing products with the waste management capacities of island nations in mind; funding studies and development of non-polluting recycling technologies; and addressing the entire lifecycle of plastics.",
+      "citation": [
+        "Turn it off at the tap: develop a strong foundation to end plastic pollution by stopping the production of single use and unnecessary plastics;",
+        "Clearly define mandatory obligations of plastic producing countries to address the whole life cycle of plastics including upstream, midstream, and downstream;",
+        "Design plastics that can be recycled minus greenhouse gas emissions;",
+        "Develop/design plastics with the downstream in mind, i.e., understanding of the capacity of Island nations to address plastic waste;",
+        "Fund studies and development of recycling technologies that do not result in more pollutants or greenhouse gas emissions;"
+      ],
+      "reasoning": "The document explicitly assigns responsibilities to the entities responsible for creating plastics. The citations call for actions that are inherently part of the production and design process, such as 'stopping the production,' 'design plastics that can be recycled,' and designing with downstream capacity in mind. It also clearly calls for 'mandatory obligations of plastic producing countries,' which directly implicates the production sector within those nations."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document describes a public education program on ways to reduce dependence on plastics and outlines community participation in activities like surveys, beach cleanups, and waste sorting.",
+      "citation": [
+        "This new law prohibits businesses from importing or distributing plastic bags to customers and authorized a plastics education program to inform the public on the destructive effects of plastic use as well as practical ways to reduce dependence on plastics.",
+        "Capacity building to support the development of community action plans to address marine plastic litter. Activities must include regular survey and beach cleanups to identify and sort plastics to enable data collection."
+      ],
+      "reasoning": "The cited texts confirm that responsibilities are assigned to the public and communities. The first quote mentions a formal education program to teach the public how to 'reduce dependence on plastics,' implying a responsibility to learn and change consumption habits. The second quote explicitly details community roles and obligations, such as participating in beach cleanups and sorting plastic waste, which are direct consumer-level actions to manage pollution."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document outlines several responsibilities for the waste management sector, including the development of clear downstream measures for the collection, sorting, transfer, and recycling of plastic waste, as well as the export of plastic waste for final disposal. It also includes the responsibility to manage legacy waste, which encompasses plastics that have not been reused or recycled and existing marine pollution.",
+      "citation": [
+        "End-of-life management of plastics: develop clear downstream measures to address collection, sorting and transfer, recycling, export of plastic waste for final disposal;",
+        "Address legacy waste: manage plastics that have not been reused or recycled, including existing pollution plus marine plastic pollution;",
+        "The huge quantities of plastics that wash up on our shores are not traceable. There is no one to take responsibility for the pollution, but us. We must put it in our landfill, shortening the lifespan of the facility."
+      ],
+      "reasoning": "The provided citations explicitly outline key responsibilities for the waste management sector as part of Palau's proposed objectives for the international instrument. The text calls for defining clear 'downstream measures' which encompass the entire end-of-life process from collection and sorting to recycling and final disposal. Furthermore, it highlights the current, de facto responsibility of the national waste management system (i.e., the landfill) to manage un-traceable marine plastic pollution, reinforcing the theme of waste sector obligations."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document does not contain any mention of the informal waste sector, waste pickers, or informal recyclers. The submission's focus is on formal, state-led waste management systems, including national legislation (e.g., Recycling Act, Plastic Bag Use Reduction Act), infrastructure (national landfill), and the roles of government bodies and international support."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Passing and implementing legislation (e.g., Palau Recycling Act, Plastic Bag Use Reduction Act), developing and implementing National Action Plans, creating regulations, planning and monitoring pollution, meeting international obligations, and managing national waste infrastructure.",
+      "citation": [
+        "We have a robust national agenda that includes legislations; and recycling and solid waste management facilities.",
+        "The development of a National Action Plan (NAP) will proceed the implementation of the instrument. The NAP will be a working document that articulates Palau's priorities and actions to be adopted to meet the objectives and obligations of the instrument.",
+        "In November 2017, RPPL 10-14 or the Plastic Bag Use Reduction Act was passed into law to be implemented in 2019.",
+        "The NAP will direct the planning, implementation, and monitoring of plastic pollution through a clear vision and strategic actions."
+      ],
+      "reasoning": "The cited texts explicitly describe actions and roles undertaken by the national government of Palau. These include creating a \"national agenda\", passing specific laws (\"Plastic Bag Use Reduction Act\"), and the commitment to develop a \"National Action Plan (NAP)\" for planning, implementation, and monitoring. These are all core responsibilities of a government entity in managing environmental policy and meeting its obligations."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document proposes the establishment of specific international treaty bodies with defined responsibilities, including a Capacity Building and Technology Transfer Committee to ensure SIDS' needs are met, a Finance Committee to designate special funds for SIDS, and subsidiary bodies under the Conference of the Parties (COP) to address duplication of efforts and burdensome reporting.",
+      "citation": [
+        "Furthermore, there is a need to establish Capacity Building and Technology Transfer Committees to ensure SIDS needs are met. A Finance Committee must also be established to designate a special funds to assist SIDS in the implementation pre/post entry into force.",
+        "As well, subsidiary bodies under the COP must be established to address potential duplication of efforts and burdensome reporting linked with monitoring and evaluation.",
+        "The establishment of a Capacity Building and Technology Transfer Committee must be established to ensure SIDS needs, including limited capacity, resources, and funding are met. A Finance Committee must be established to designate special funds for SIDS to assist in implementation pre/post entry into force. Additional subsidiary bodies under COP must be established to address potential duplication of efforts and burdensome reporting linked with monitoring and evaluation."
+      ],
+      "reasoning": "The cited texts explicitly call for the creation of international governance entities (Committees, subsidiary bodies under the COP) as part of the treaty's institutional arrangements. These entities are assigned specific responsibilities such as capacity building, financial assistance for SIDS, and managing reporting burdens, which directly aligns with the code's definition of roles for international bodies or treaty secretariats."
+    }
+  }
+}

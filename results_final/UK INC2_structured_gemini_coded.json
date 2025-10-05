@@ -1,0 +1,644 @@
+{
+  "submission_metadata": {
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "date": "2023-02-13",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "The objectives of this convention are to end plastic pollution from all sources to protect the environment and minimise the risk to human health.",
+        "The high-level objective must include an overall commitment to end plastic pollution, in accordance with the title of UNEA Resolution 5/14.",
+        "The instrument should contain a time-bound commitment to ending plastic pollution, to be contained in the ILBI annex."
+      ],
+      "reasoning": "The document explicitly states that the primary objective of the convention is to 'end plastic pollution'. While it also states that the instrument 'should contain a time-bound commitment to ending plastic pollution,' it does not specify a particular year or timeline, instead suggesting it be contained in an annex."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Parties should adopt legally binding targets to restrain plastic production and consumption.",
+        "A high-level objective enables a broad scope for the ILBI and includes the whole lifecycle of plastics, from the production and design of plastics to their use, consumption and disposal.",
+        "The full lifecycle of plastics should be considered when developing these plans, including the restraining of production and consumption as well as improving value retention across the lifecycle."
+      ],
+      "reasoning": "The document explicitly mentions that the instrument should address the entire lifecycle of plastics, including production. It specifically calls for parties to adopt legally binding targets to 'restrain plastic production and consumption'. While it calls for the creation of targets, it does not provide any specific quantitative goals, such as percentage reductions or production caps."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "Strength, versatility, medical uses, water distribution, food security",
+      "citation": [
+        "Exemptions may be agreed by the parties for some applications, such as medical uses.",
+        "The strength and versatility of plastics make them valuable materials in many areas of life.",
+        "The benefits of plastic for medicine, water distribution and food security should be balanced against the potential risks to the environment or health as well as the availability of sustainable alternatives."
+      ],
+      "reasoning": "The document explicitly acknowledges the positive attributes of plastics, citing their 'strength and versatility' as making them 'valuable materials'. It then lists specific essential applications, including medicine, water distribution, and food security, and even suggests potential exemptions for 'medical uses' from bans or restrictions, thereby confirming their necessity."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document identifies specific health concerns related to plastic pollution, including the leaching of hazardous chemicals and additives into the human body, the ingestion and inhalation of microplastics, and pollution from unsafe waste disposal practices like open burning. It proposes that a scientific body investigate these issues to inform action and that capacity be built for hazard and risk assessments.",
+      "citation": [
+        "The objectives of this convention are to end plastic pollution from all sources to protect the environment and minimise the risk to human health.",
+        "While evidence on the harm to human health caused by plastic and plastic pollution is emerging, it is essential that the ETB, working closely with the WHO, makes a concerted effort to understand and resolve evidence gaps in the effects of plastic pollution on human health, so that the committee can take informed action to mitigate these risks.",
+        "The UK proposes that the ETB focus on 3 key areas of the plastic life cycle where plastic production, use and disposal could negatively impact human health: - The regulatory testing of polymers and use of certain chemical additives, both during the use and disposal of plastic products, or any other stage where chemicals may leach into the human body or wider environment. - The presence of microplastics in the human body as a result of-ingestion and/or inhaling microplastics. - Pollution caused by unsafe disposal and waste management practices, such as open burning.",
+        "We also recognize the importance of building the capacity to conduct hazard and risk assessments of chemicals of concern in developing countries, to protect against the potential risks to human health and the environment."
+      ],
+      "reasoning": "The document explicitly establishes the protection of human health as a primary objective for the legally binding instrument. The citations show that this objective is supported by detailed proposals, including a call for an evidence-based approach to understand and mitigate specific health risks like chemical leaching and microplastic ingestion, and a focus on building capacity for health risk assessments. This demonstrates a clear and consistent emphasis on protecting human health throughout the submission."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "The objectives of this convention are to end plastic pollution from all sources to protect the environment and minimise the risk to human health.",
+        "The ILBI should include obligations to address sea-based sources of plastic pollution, such as fishing and aquaculture gear, whilst taking into account existing multilateral agreements and internationally recognized schemes...",
+        "Parties should consider the establishment of a comprehensive global monitoring framework...in complement to other monitoring frameworks, for example under the Convention on Biological Diversity, that meets the needs of policy to make informed decisions.",
+        "The existing work of the IMO, including on marine plastic litter from ships, fishing gear marking and retrieval, and plastic pellets."
+      ],
+      "reasoning": "The document explicitly states its objective is to 'protect the environment'. It demonstrates a clear marine focus by highlighting the need to address 'sea-based sources of plastic pollution' such as fishing gear, and references several marine-specific organizations and agreements (e.g., IMO, Regional Seas Conventions). The mention of complementing the 'Convention on Biological Diversity' further solidifies the intent to protect biodiversity."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "A high-level objective enables a broad scope for the ILBI and includes the whole lifecycle of plastics, from the production and design of plastics to their use, consumption and disposal.",
+        "The UK supports a combination of international obligations and national measures across the whole lifecycle of plastic to ensure that the ILBI can adequately address the transboundary nature of plastic pollution.",
+        "Together, these obligations cover the entire plastics lifecycle and should be viewed as an integrated framework rather than standalone policies. The obligations have been grouped under each lifecycle stage for ease of reference.",
+        "The full lifecycle of plastics should be considered when developing these plans, including the restraining of production and consumption as well as improving value retention across the lifecycle."
+      ],
+      "reasoning": "The document explicitly and repeatedly uses the terms 'whole lifecycle', 'entire plastics lifecycle', and 'full life cycle' to frame its proposed objectives and core obligations. The citations show that this concept is central to the UK's position, covering all stages from production and design through to consumption and disposal. The document further structures its proposed obligations into upstream (production) and downstream (waste management) stages, confirming a comprehensive, full lifecycle approach."
+    },
+    "other_objectives": {
+      "value": "Promote a just transition for workers, establish a financial mechanism for developing countries, and foster international cooperation.",
+      "citation": [
+        "For the treaty to be effective, it must support a just transition for waste pickers and other workers in the informal and cooperative waste sectors.",
+        "Additionally, it should establish a dedicated financial mechanism to support implementation in developing countries, including access to technology and capacity building.",
+        "The treaty must also promote international cooperation on research and development for new materials and reuse systems."
+      ],
+      "reasoning": "The cited text outlines specific socio-economic and procedural objectives that are not covered by the other categories. A 'just transition' is a social and economic equity goal focused on workers. The 'dedicated financial mechanism' and 'international cooperation' are enabling objectives that describe how the treaty will be implemented through financial support, capacity building, and collaborative research, rather than being direct environmental or health outcomes themselves."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "plastic packaging tax",
+        "citation": [
+          "The ILBI should require parties to put in place clear economic incentives for businesses to use recycled plastic in the manufacture of plastic packaging, which will create greater demand for this material, for example through a plastic packaging tax."
+        ],
+        "reasoning": "The document explicitly proposes that the international instrument should require parties to implement economic incentives, providing 'a plastic packaging tax' as a direct example. This is a clear reference to a tax-related measure used as an economic instrument."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document proposes implementing 'economic incentives for businesses to use recycled plastic' and 'minimum recycled content incentives' to create greater demand for recycled materials.",
+        "citation": [
+          "The ILBI should require parties to put in place clear economic incentives for businesses to use recycled plastic in the manufacture of plastic packaging, which will create greater demand for this material, for example through a plastic packaging tax.",
+          "The INC could consider the need for the ILBI to introduce minimum recycled content incentives."
+        ],
+        "reasoning": "The document explicitly proposes the use of 'economic incentives' and 'incentives' as control measures. These terms directly align with the code definition, which includes looking for mentions of financial incentives or reward systems."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document suggests a polluter-pays principle through Extended Producer Responsibility (EPR) schemes, where producers would be obligated to pay the full net costs for managing their plastic waste at its end of life.",
+        "citation": [
+          "The INC may wish to consider whether the ILBI should include an obligation to ensure that producers pay the full net costs of managing plastic waste at end of life, for example through extended producer responsibility schemes."
+        ],
+        "reasoning": "The cited text directly proposes a mechanism where producers are financially responsible for the waste they create. This aligns with the 'polluter-pays principle', which is explicitly listed as a type of penalty in the code definitions."
+      },
+      "trading_systems": {
+        "mentioned": true,
+        "details": "The document suggests a 'plastic packaging tax' as an economic incentive.",
+        "citation": [
+          "The ILBI should require parties to put in place clear economic incentives for businesses to use recycled plastic in the manufacture of plastic packaging, which will create greater demand for this material, for example through a plastic packaging tax."
+        ],
+        "reasoning": "The document explicitly proposes a 'plastic packaging tax' as an economic incentive. The code definition includes 'tariffs,' a form of tax, as an example of a relevant market-based instrument. Therefore, the suggestion of a plastic packaging tax falls under the scope of this code."
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document suggests stimulating private sector investment into the development of technologies for sustainable production and waste management as a means of implementation for the ILBI.",
+        "citation": [
+          "For example, private sector investment into sustainable production practices, waste management infrastructure and the development of technologies will be stimulated by the establishment of common standards and agreed waste management principles under the ILBI."
+        ],
+        "reasoning": "The cited text explicitly mentions that the ILBI should stimulate 'private sector investment into... the development of technologies'. This directly aligns with the code's definition, which includes 'innovation investments, or financial support for technological development'."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document suggests an obligation for producers to pay the full net costs of managing plastic waste at its end of life through 'extended producer responsibility schemes' and mentions a domestic goal to 'make producers responsible for the plastic they produce'.",
+        "citation": [
+          "The UK will continue to legislate domestically to design out avoidable plastic waste and make producers responsible for the plastic they produce, ensuring to be in line with the relevant WTO rules and obligations.",
+          "The INC may wish to consider whether the ILBI should include an obligation to ensure that producers pay the full net costs of managing plastic waste at end of life, for example through extended producer responsibility schemes."
+        ],
+        "reasoning": "The document explicitly names 'extended producer responsibility schemes' as a potential obligation to be included in the international instrument. Furthermore, it states the UK's domestic commitment to 'make producers responsible for the plastic they produce,' which is the core principle of EPR."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "Support for a just transition for workers in the informal waste sector, integration of the informal waste sector into formal waste management schemes, addressing poverty and gender inequality.",
+        "citation": [
+          "The Committee should consider how the ILBI will support a just transition for workers in the informal waste sector to address poverty and gender inequality, and explore fora through which COP can continue to engage with and support the informal waste sector as critical stakeholders in tackling plastic pollution and encourage their integration into formal waste management schemes in just and equitable way."
+        ],
+        "reasoning": "The document explicitly uses the term 'just transition' and identifies a specific vulnerable group ('workers in the informal waste sector'). It also details specific measures, such as their integration into formal schemes and addressing poverty and inequality, which directly aligns with the code definition."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document proposes that the international instrument should include global bans or restrictions on specific avoidable plastic items, intentionally added microplastics, hazardous or difficult-to-recycle polymers, chemicals, and additives. It also suggests a review to identify priority primary microplastics to be phased out or phased down.",
+        "citation": [
+          "The ILBI should include global bans or restrictions on specific avoidable plastic items¹, which could include intentionally added microplastics, hazardous or difficult-to-recycle polymers, chemicals and additives to plastics that should be listed in the annexes of the instrument.",
+          "The ETB should undertake a review of intentionally added micro- and nano-plastics and the risks they pose (both to human health and the environment) to identify priority primary microplastics to include in a list of products to be phased out or phased down under the ILBI."
+        ],
+        "reasoning": "The document explicitly proposes the inclusion of 'global bans or restrictions' and 'phased out or phased down' measures. The cited texts specify the targets for these measures, such as 'avoidable plastic items', 'intentionally added microplastics', and 'hazardous or difficult-to-recycle polymers', directly matching the code's definition of prohibitions, bans, or phase-outs of specific plastic products, materials, or additives."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document proposes internationally agreed standards for the production of plastic products and polymers. These standards would form a regulatory framework to ensure products are designed to be durable, reusable, recyclable, safe, and to minimize the release of microplastics. It also mentions the potential for minimum recycled content incentives.",
+        "citation": [
+          "The INC should consider whether to include internationally agreed standards for the production of plastic products and plastic polymers through the adoption of legal and/or administrative measures.",
+          "Evidence should inform a harmonised regulatory framework to ensure polymers and plastic products are appropriately labelled and designed to be durable, reusable, recyclable, safe and minimise the release of secondary microplastics, in accordance with circular economy principles.",
+          "The INC could consider the need for the ILBI to introduce minimum recycled content incentives.",
+          "The ETB should also assess the key sources, pathways and fates of secondary micro- and nano-plastics... in order to inform the development of standards or design criteria that can prevent the release of microplastics by abrasion or other forms of fragmentation..."
+        ],
+        "reasoning": "The cited texts directly propose the inclusion of 'internationally agreed standards' and a 'harmonised regulatory framework' that dictate specific performance characteristics for plastic products. These characteristics—'durable, reusable, recyclable, safe'—are explicit examples of performance standards. Furthermore, the mention of 'minimum recycled content incentives' and 'design criteria' to prevent microplastic release directly aligns with the code definition of setting requirements that products must meet."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document proposes that parties be required to establish systems for environmentally sound management of plastic waste, specifically mentioning systems for collection, sorting, and recycling.",
+        "citation": [
+          "Parties should be required to establish systems for the environmentally sound management of plastic waste, including measures to facilitate and promote prevention, reduction, reuse and recycling.",
+          "Parties should ensure that systems are in place to enable environmentally sound collection, sorting and recycling of all plastic designed for recycling within an ambitious timeframe and respecting local, regional social and economic conditions"
+        ],
+        "reasoning": "The cited texts explicitly state that parties 'should be required to establish systems' and 'should ensure that systems are in place' for waste management. These systems are further detailed to include 'collection, sorting and recycling,' which directly aligns with the definition of mandatory infrastructure for waste handling."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "The document proposes considering internationally agreed standards for the production of plastic products and polymers, and taking into account existing schemes such as the European Committee for Standardization (CEN) standard for lifecycle management and circular design for fishing gear.",
+        "citation": [
+          "The INC should consider whether to include internationally agreed standards for the production of plastic products and plastic polymers through the adoption of legal and/or administrative measures.",
+          "The ILBI should include obligations to address sea-based sources of plastic pollution, such as fishing and aquaculture gear, whilst taking into account existing multilateral agreements and internationally recognized schemes, including, inter alia: ... Regional initiatives, such as the European Committee for Standardization (CEN) standard for lifecycle management and circular design for aquaculture and fishing gear."
+        ],
+        "reasoning": "The document directly proposes the consideration of 'internationally agreed standards for the production of plastic products and plastic polymers' to be implemented via 'legal and/or administrative measures'. This aligns with the definition of a mandatory certification or approval scheme. Furthermore, it references an existing 'CEN standard' as a model, which is a clear example of a system that controls product design and production."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "The document proposes a harmonised regulatory framework to ensure plastic products are appropriately labelled. It also mentions fishing gear marking as a relevant measure.",
+        "citation": [
+          "Evidence should inform a harmonised regulatory framework to ensure polymers and plastic products are appropriately labelled and designed to be durable, reusable, recyclable, safe and minimise the release of secondary microplastics, in accordance with circular economy principles.",
+          "The existing work of the IMO, including on marine plastic litter from ships, fishing gear marking and retrieval, and plastic pellets."
+        ],
+        "reasoning": "The text explicitly suggests that an international instrument should include provisions for plastic products to be 'appropriately labelled'. Additionally, it references 'fishing gear marking' as a control measure, which is a specific form of product labelling or marking. Both fall under the code's definition."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National Action Plan",
+        "citation": [
+          "The ILBI should include an obligation for parties to adapt existing, or to develop and implement, a National Action Plan that supports the achievement of the objectives of the ILBI whilst considering national contexts and capabilities.",
+          "The UK recognises the importance of the instrument taking into consideration different countries' circumstances and that national action plans will be an important element of the ILBI.",
+          "UNEA resolution 5/14 OP3 (d) & (e) specifies that the instrument should include provisions to develop and implement a national action plan to contribute to commitments under the instrument."
+        ],
+        "reasoning": "The document explicitly and repeatedly proposes a mandatory requirement for parties to the treaty to develop and implement National Action Plans. The citations refer to this as an \"obligation\" and an \"important element\" of the legally binding instrument, confirming it as a required action."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document supports a mechanism for regular reporting on National Action Plans, implementation of core obligations, control measures, and globally agreed targets. It also suggests the development of plastic pollution emission inventories and a formal process for submitting reports to a secretariat for public record.",
+        "citation": [
+          "The UK would support a mechanism for regular reporting on any National Action Plans and the implementation of other core obligations, control measures and any globally agreed targets.",
+          "Parties should consider developing plastic pollution emission inventories, similar to the emission inventories on Greenhouse Gases in the Paris Agreement, within an agreed timeframe once the ILBI enters into force, which may focus on material flows and leakage of plastic pollution into the environment.",
+          "Reporting under the instrument should be submitted to the secretariat and published on the ILBI website, and a permanent public record maintained."
+        ],
+        "reasoning": "The cited texts explicitly propose a formal, mandatory reporting system as a core part of the international instrument. The language used, such as supporting a \"mechanism for regular reporting,\" requiring that reports \"should be submitted to the secretariat and published,\" and suggesting the creation of \"emission inventories,\" clearly indicates a mandatory regulatory requirement for parties to provide data and information on their implementation progress, rather than a voluntary approach."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document suggests that the new instrument should complement and take into account the work of the Basel, Rotterdam, and Stockholm conventions, which regulate the transboundary movement of hazardous wastes and chemicals. It also notes that domestic legislation should align with WTO rules and that the instrument could help tackle illegal waste crime, which often involves illicit trade.",
+        "citation": [
+          "The UK will continue to legislate domestically to design out avoidable plastic waste and make producers responsible for the plastic they produce, ensuring to be in line with the relevant WTO rules and obligations.",
+          "The polymers, chemicals and additives in these lists should complement the work of the Basel, Rotterdam and Stockholm conventions in the sustainable management of chemicals, whilst also addressing any barriers they pose to reuse and recycling of plastic products.",
+          "The ILBI should take into account the work of the Basel Convention on the environmentally sound management of waste.",
+          "The ILBI could facilitate the ability of countries to tackle illegal waste crime activity."
+        ],
+        "reasoning": "The document explicitly references international conventions (Basel, Rotterdam) that govern the international trade and transboundary movement of hazardous materials, including plastic waste and associated chemicals. Mentioning alignment with WTO rules and tackling illegal waste crime further solidifies the connection to regulatory instruments affecting international trade, as defined by the code."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": true,
+        "details": "The document mentions several voluntary approaches, including: The FAO's voluntary guidelines on gear marking, internationally recognized schemes, Plastics Pacts for industries, the Ellen McArthur Foundation Global Commitment and reporting program, the Global Plastic Action Partnership, and the Global Ghost Gear Initiative.",
+        "citation": [
+          "The ILBI could include provisions that encourage voluntary actions to go above and beyond the ILBI obligations.",
+          "The ILBI should include obligations to address sea-based sources of plastic pollution, such as fishing and aquaculture gear, whilst taking into account existing multilateral agreements and internationally recognized schemes, including, inter alia: ... The FAO's voluntary guidelines on gear marking.",
+          "The instrument may take inspiration from, align with and ultimately go beyond existing voluntary approaches, to increase ambition over time. Some examples that may be considered are: - Initiatives such as the Plastics Pacts for industries to minimize plastic usage in their production, - Ellen McArthur Foundation Global Commitment and reporting program. ... - Membership of programs such as the Global Plastic Action Partnership and the Global Ghost Gear Initiative."
+        ],
+        "reasoning": "The document explicitly uses the terms 'voluntary actions,' 'voluntary approaches,' and 'voluntary guidelines.' It then lists several specific, non-mandatory programs, pacts, and initiatives that entities can choose to join to combat plastic pollution, which directly matches the code definition of optional certification programs or schemes."
+      },
+      "voluntary_labelling": {
+        "mentioned": true,
+        "details": "The FAO's voluntary guidelines on gear marking.",
+        "citation": [
+          "The ILBI should include obligations to address sea-based sources of plastic pollution, such as fishing and aquaculture gear, whilst taking into account existing multilateral agreements and internationally recognized schemes, including, inter alia: ... The FAO's voluntary guidelines on gear marking."
+        ],
+        "reasoning": "The document explicitly references 'The FAO's voluntary guidelines on gear marking.' This is a clear example of a voluntary labelling scheme, as 'marking' is a form of labelling and the term 'voluntary guidelines' signifies a non-mandatory, optional approach, which directly matches the code definition."
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document suggests several monitoring measures, including: reporting on National Action Plans, developing harmonised global monitoring methodologies and indicators, creating plastic pollution emission inventories, establishing a comprehensive global monitoring framework with harmonised protocols, and monitoring the effectiveness of funding.",
+        "citation": [
+          "The ETB could coordinate the development of harmonised global monitoring methodologies and indicators to inform the evaluation of measures implemented under the ILBI.",
+          "Parties should consider developing plastic pollution emission inventories, similar to the emission inventories on Greenhouse Gases in the Paris Agreement, within an agreed timeframe once the ILBI enters into force, which may focus on material flows and leakage of plastic pollution into the environment. Inventories will enhance monitoring progress under the instrument and aid in the assessment of financial needs.",
+          "Parties should consider the establishment of a comprehensive global monitoring framework, in collaboration with the proposed ETB and in complement to other monitoring frameworks... that meets the needs of policy to make informed decisions.",
+          "This framework should promote harmonised monitoring protocols that can be used to inform global level assessments and evaluation of the sufficiency of the obligations in the instrument to end plastic pollution in all environments, minimise the risk to human health and protect the environment from all sources of plastic pollution."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for systems to track, measure, and evaluate plastic pollution and policy effectiveness. The cited texts detail specific proposals such as a 'comprehensive global monitoring framework,' 'harmonised monitoring methodologies and indicators,' and 'plastic pollution emission inventories' to assess progress and evaluate the sufficiency of measures, directly aligning with the code definition."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document proposes the creation and use of several informational and guidance measures, including 'Guidelines for the development, implementation and reporting of National Action Plans', 'harmonised global monitoring methodologies and indicators', 'guiding principles for the instrument', and references existing resources like the 'FAO's voluntary guidelines on gear marking' and an OECD report with recommendations.",
+        "citation": [
+          "Guidelines for the development, implementation and reporting of National Action Plans should be agreed by the Contracting Parties.",
+          "The FAO's voluntary guidelines on gear marking.",
+          "For specific priority plastic products, parties could consider existing recommendations when developing their national action plans such as those included in the OECD report ‘Towards G7 Action to Combat Ghost Fishing Gear'.",
+          "The ETB could coordinate the development of harmonised global monitoring methodologies and indicators to inform the evaluation of measures implemented under the ILBI.",
+          "The UK proposes the following guiding principles to help achieve the objectives of the treaty in a way that is both environmentally sound and equitable."
+        ],
+        "reasoning": "The cited texts explicitly mention the development of new guidelines, the use of existing voluntary guidelines and recommendations, and the establishment of guiding principles. These are all non-binding informational resources designed to assist and direct stakeholders in implementing effective measures, which directly aligns with the definition of the information and guidance soft instrument."
+      },
+      "education": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "Evidence and Technical Body (ETB), sub-groups of the ETB, compliance and implementation committee.",
+        "citation": [
+          "Therefore, the UK sees the value in considering the establishment of an Evidence and Technical Body (ETB) that takes into consideration any potential interactions with the new Science Policy Panel on chemicals, waste and pollution prevention, once this has been established.",
+          "The ETB could be a subsidiary body, established by the ILBI, with rules of procedure and further detail to be adopted by the first COP.",
+          "Members would include scientific and technical experts, as well as social scientists and economists.",
+          "The ETB could have the power to establish sub-groups to work on particular issues and evidence gaps that need special expertise.",
+          "The committee should consider establishing a compliance and implementation committee."
+        ],
+        "reasoning": "The document explicitly proposes the establishment of an 'Evidence and Technical Body (ETB)' to serve as a science-policy interface. It specifies that this body would be composed of 'scientific and technical experts' and could form 'sub-groups' for specialized issues. Additionally, it suggests a 'compliance and implementation committee' as another subsidiary body. These proposals directly match the code definition of establishing expert bodies to provide guidance."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document proposes establishing a dedicated 'Evidence and Technical Body' (ETB) to create a robust science-policy interface. This body would be tasked with assessing the effectiveness of interventions, resolving evidence gaps on the human health impacts of plastics, developing harmonized monitoring methodologies, assessing the sources and pathways of microplastics to inform the development of new standards, and stimulating the development of new technologies through common standards.",
+        "citation": [
+          "An effective instrument will require a robust science-policy interface to help assess the effectiveness of our interventions, support in measuring progress against the ILBI's objectives and ensure future decisions are based on the best available evidence.",
+          "While evidence on the harm to human health caused by plastic and plastic pollution is emerging, it is essential that the ETB, working closely with the WHO, makes a concerted effort to understand and resolve evidence gaps in the effects of plastic pollution on human health, so that the committee can take informed action to mitigate these risks.",
+          "The ETB should also assess the key sources, pathways and fates of secondary micro- and nano-plastics that originate during the use of plastic products... in order to inform the development of standards or design criteria that can prevent the release of microplastics by abrasion or other forms of fragmentation...",
+          "...private sector investment into sustainable production practices, waste management infrastructure and the development of technologies will be stimulated by the establishment of common standards and agreed waste management principles under the ILBI."
+        ],
+        "reasoning": "The document strongly advocates for an evidence-based approach by proposing a dedicated scientific body (the ETB) to generate, coordinate, and assess scientific information. The cited texts explicitly call for resolving 'evidence gaps,' assessing environmental and health impacts, and using this scientific understanding to inform policy, standards, and stimulate technological development. This constitutes a clear promotion of research and innovation as a soft instrument to guide the treaty's implementation."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes several areas for harmonization, including: a harmonized regulatory framework for plastic products and polymers; harmonized global monitoring methodologies, indicators, and protocols; common definitions and metrics for reporting; common standards for production and waste management; and harmonization with other relevant international regulatory bodies like the IMO.",
+        "citation": [
+          "Evidence should inform a harmonised regulatory framework to ensure polymers and plastic products are appropriately labelled and designed to be durable, reusable, recyclable, safe and minimise the release of secondary microplastics, in accordance with circular economy principles.",
+          "The ETB could coordinate the development of harmonised global monitoring methodologies and indicators to inform the evaluation of measures implemented under the ILBI.",
+          "Such reporting should use common definitions and metrics to allow parties to coordinate and measure actions, with further metrics to be developed by COPs, as required.",
+          "This framework should promote harmonised monitoring protocols that can be used to inform global level assessments and evaluation of the sufficiency of the obligations in the instrument to end plastic pollution in all environments...",
+          "Harmonisation with other relevant international regulatory bodies, such as the conventions under the International Maritime Organization, to promote effective management of plastics throughout the lifecycle and supply chain to reduce leakage to the environment."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for the creation of 'harmonised' frameworks, methodologies, and protocols. It also advocates for 'common definitions and metrics' and 'common standards' to ensure consistency and comparability across parties. This directly aligns with the code's definition of seeking to standardize, align, or make consistent the approaches, definitions, and methodologies across countries."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document proposes several mechanisms for knowledge sharing, including: the establishment of a scientific and technical cooperation body (ETB) to create a science-policy interface; a global monitoring framework with harmonized protocols; and bilateral and multilateral support mechanisms for capacity building, technical assistance, and technology transfer.",
+        "citation": [
+          "An effective instrument will require a robust science-policy interface to help assess the effectiveness of our interventions, support in measuring progress against the ILBI's objectives and ensure future decisions are based on the best available evidence.",
+          "An approach that matches funding, capacity-building and technical assistance to where it is needed will be the most effective way to implement the Treaty.",
+          "The UK would suggest discussions on developing mechanisms that allow for bilateral support by which one member state supports another with capacity building, technical assistance or technology transfer on mutually agreed terms."
+        ],
+        "reasoning": "The document explicitly proposes the creation of formal mechanisms and support systems for the exchange of scientific information, technical expertise, and best practices among nations. The citations directly name 'capacity building,' 'technical assistance,' and 'technology transfer' as crucial components for treaty implementation, which are core elements of knowledge sharing as defined by the code."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document strongly advocates for the inclusion of targets within the future international instrument. For example, it states that 'Parties should adopt legally binding targets to restrain plastic production and consumption' and that measures could be 'underpinned by targets, for example for the reduction of avoidable plastic waste and the recycling of plastic waste'. However, the document does not mention any specific, measurable targets with concrete numbers, percentages, or deadlines. It only proposes the concept and types of targets that should be considered."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "The document suggests measures to promote the use of recycled plastic as a feedstock, including economic incentives like a plastic packaging tax and the potential for minimum recycled content incentives.",
+        "citation": [
+          "The ILBI should require parties to put in place clear economic incentives for businesses to use recycled plastic in the manufacture of plastic packaging, which will create greater demand for this material, for example through a plastic packaging tax.",
+          "The INC could consider the need for the ILBI to introduce minimum recycled content incentives."
+        ],
+        "reasoning": "The cited texts explicitly mention control measures aimed at increasing the use of 'recycled plastic' in manufacturing and establishing 'minimum recycled content incentives'. These directly address the raw materials (feedstock) used in plastic production, which aligns with the code definition."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "legally binding targets to restrain plastic production; internationally agreed standards for the production of plastic products and polymers; global bans/restrictions on specific polymers, chemicals, and additives; economic incentives for using recycled plastic in manufacturing; minimum recycled content incentives; sustainable production practices.",
+        "citation": [
+          "Parties should adopt legally binding targets to restrain plastic production and consumption.",
+          "The INC should consider whether to include internationally agreed standards for the production of plastic products and plastic polymers through the adoption of legal and/or administrative measures.",
+          "The ILBI should include global bans or restrictions on specific avoidable plastic items¹, which could include intentionally added microplastics, hazardous or difficult-to-recycle polymers, chemicals and additives to plastics that should be listed in the annexes of the instrument."
+        ],
+        "reasoning": "The document explicitly proposes core obligations to control the production stage of the plastic lifecycle. The citations suggest implementing 'legally binding targets to restrain plastic production,' creating 'internationally agreed standards for the production of... plastic polymers,' and establishing 'global bans or restrictions on... hazardous or difficult-to-recycle polymers'. These are direct measures addressing the manufacturing and creation process as defined by the code."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "design out avoidable plastic waste, design for durability, reusability, recyclability, and safety, design to minimise the release of secondary microplastics, circular design, design criteria to prevent microplastic release",
+        "citation": [
+          "The UK will continue to legislate domestically to design out avoidable plastic waste and make producers responsible for the plastic they produce, ensuring to be in line with the relevant WTO rules and obligations.",
+          "Evidence should inform a harmonised regulatory framework to ensure polymers and plastic products are appropriately labelled and designed to be durable, reusable, recyclable, safe and minimise the release of secondary microplastics, in accordance with circular economy principles.",
+          "Regional initiatives, such as the European Committee for Standardization (CEN) standard for lifecycle management and circular design for aquaculture and fishing gear.",
+          "The ETB should also assess the key sources, pathways and fates of secondary micro- and nano-plastics that originate during the use of plastic products ... in order to inform the development of standards or design criteria that can prevent the release of microplastics by abrasion or other forms of fragmentation..."
+        ],
+        "reasoning": "The document explicitly discusses measures related to the design of plastic products. The citations clearly mention principles such as 'design out avoidable plastic waste', designing products to be 'durable, reusable, recyclable, safe', implementing 'circular design', and developing 'design criteria' to prevent microplastic release. These points directly match the code definition for the design stage."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": true,
+        "chemicals_addressed": true,
+        "details": "manufacturing standards; bans or restrictions on intentionally added microplastics; bans or restrictions on hazardous chemicals and additives; product design standards (e.g., durability, reusability, recyclability, safety, minimising microplastic release); product labelling; incentives for using recycled content in manufacturing.",
+        "citation": [
+          "The INC should consider whether to include internationally agreed standards for the production of plastic products and plastic polymers through the adoption of legal and/or administrative measures.",
+          "The ILBI should include global bans or restrictions on specific avoidable plastic items¹, which could include intentionally added microplastics, hazardous or difficult-to-recycle polymers, chemicals and additives to plastics that should be listed in the annexes of the instrument.",
+          "Evidence should inform a harmonised regulatory framework to ensure polymers and plastic products are appropriately labelled and designed to be durable, reusable, recyclable, safe and minimise the release of secondary microplastics, in accordance with circular economy principles.",
+          "The ILBI should require parties to put in place clear economic incentives for businesses to use recycled plastic in the manufacture of plastic packaging, which will create greater demand for this material, for example through a plastic packaging tax."
+        ],
+        "reasoning": "The document explicitly proposes measures targeting the production of plastic products. It calls for international standards for manufacturing, specific design criteria (e.g., durability, reusability, safety), and labelling. It also suggests global bans or restrictions on certain product components, specifically mentioning 'intentionally added microplastics' and hazardous 'chemicals and additives'. Furthermore, it advocates for economic incentives to promote the use of recycled content in the manufacturing of new plastic products."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "The document refers to measures addressing the supply chain, including promoting traceability, managing plastic pellets during shipping, and harmonizing with international bodies like the IMO for effective management of plastics throughout the supply chain.",
+        "citation": [
+          "The framework should also promote transparency, traceability, consistency, and drive-up investment across the plastic lifecycle, providing long term assurances to businesses.",
+          "The ILBI should include obligations to address sea-based sources of plastic pollution... The existing work of the IMO, including on marine plastic litter from ships, fishing gear marking and retrieval, and plastic pellets.",
+          "Harmonisation with other relevant international regulatory bodies, such as the conventions under the International Maritime Organization, to promote effective management of plastics throughout the lifecycle and supply chain to reduce leakage to the environment."
+        ],
+        "reasoning": "The cited texts justify the 'mentioned' decision by explicitly referencing key aspects of the distribution stage. The terms 'traceability' and 'supply chain' directly relate to the movement and tracking of products. Furthermore, the specific mention of managing 'plastic pellets' during shipping via the International Maritime Organization (IMO) is a clear example of addressing pollution during the transportation phase of plastic materials before they become consumer products."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "Restraining plastic consumption through legally binding targets; global bans or restrictions on specific avoidable plastic items; promotion of reuse.",
+        "citation": [
+          "A high-level objective enables a broad scope for the ILBI and includes the whole lifecycle of plastics, from the production and design of plastics to their use, consumption and disposal.",
+          "Parties should adopt legally binding targets to restrain plastic production and consumption.",
+          "The ILBI should include global bans or restrictions on specific avoidable plastic items¹, which could include intentionally added microplastics, hazardous or difficult-to-recycle polymers, chemicals and additives to plastics that should be listed in the annexes of the instrument."
+        ],
+        "reasoning": "The document explicitly identifies 'use' and 'consumption' as a key stage in the plastic lifecycle to be addressed by the international instrument. It proposes specific core obligations to address this stage, including legally binding targets to restrain consumption and implementing global bans or restrictions on 'avoidable plastic items,' which directly relates to addressing single-use or disposable products."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document suggests that parties should implement systems for environmentally sound collection and sorting of plastic waste. It also mentions supporting the informal waste sector and integrating them into formal waste management schemes.",
+        "citation": [
+          "Parties should ensure that systems are in place to enable environmentally sound collection, sorting and recycling of all plastic designed for recycling within an ambitious timeframe and respecting local, regional social and economic conditions",
+          "The Committee should consider how the ILBI will support a just transition for workers in the informal waste sector to address poverty and gender inequality, and explore fora through which COP can continue to engage with and support the informal waste sector as critical stakeholders in tackling plastic pollution and encourage their integration into formal waste management schemes in just and equitable way."
+        ],
+        "reasoning": "The cited texts directly support the coding decision. The first quote explicitly mentions an obligation for parties to establish systems for 'environmentally sound collection, sorting and recycling'. The second quote addresses the role of the 'informal waste sector' in waste management, which is a critical component of post-consumer plastic collection, and suggests integrating them into 'formal waste management schemes'."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document proposes several waste management measures, including: establishing systems for the environmentally sound management of plastic waste; setting targets for recycling; implementing extended producer responsibility (EPR) schemes; ensuring environmentally sound collection, sorting, and recycling systems; tackling illegal waste crime; investing in waste management infrastructure; addressing unsafe disposal practices like open burning; and integrating the informal waste sector into formal waste management schemes.",
+        "citation": [
+          "Parties should be required to establish systems for the environmentally sound management of plastic waste, including measures to facilitate and promote prevention, reduction, reuse and recycling.",
+          "The INC may wish to consider whether the ILBI should include an obligation to ensure that producers pay the full net costs of managing plastic waste at end of life, for example through extended producer responsibility schemes.",
+          "Parties should ensure that systems are in place to enable environmentally sound collection, sorting and recycling of all plastic designed for recycling within an ambitious timeframe and respecting local, regional social and economic conditions",
+          "Pollution caused by unsafe disposal and waste management practices, such as open burning.",
+          "The Committee should consider how the ILBI will support a just transition for workers in the informal waste sector... and encourage their integration into formal waste management schemes in just and equitable way."
+        ],
+        "reasoning": "The document explicitly addresses the 'Downstream: Environmentally sound management of waste' stage. The citations confirm a focus on creating comprehensive systems for managing plastic waste after use. They detail specific proposed obligations and control measures, including the establishment of systems for collection, sorting, and recycling, the implementation of financial mechanisms like EPR to cover end-of-life costs, and the need to prevent unsafe disposal practices, thereby directly matching the code's definition."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Designing products to be recyclable; addressing difficult-to-recycle polymers; incentives for using recycled plastic (e.g., plastic packaging tax); minimum recycled content incentives; establishing systems to promote recycling; recycling rate targets; establishing environmentally sound collection, sorting, and recycling systems.",
+        "citation": [
+          "Our goal is to maximize resource efficiency and minimize plastic waste, by following the principles of the waste hierarchy: Prevention, reuse, recycling and recovery (including energy recovery), moving away from a take, make, waste model and towards a circular economy for plastic.",
+          "Parties should be required to establish systems for the environmentally sound management of plastic waste, including measures to facilitate and promote prevention, reduction, reuse and recycling.",
+          "These measures could be underpinned by targets, for example for the reduction of avoidable plastic waste and the recycling of plastic waste",
+          "Parties should ensure that systems are in place to enable environmentally sound collection, sorting and recycling of all plastic designed for recycling within an ambitious timeframe and respecting local, regional social and economic conditions",
+          "The ILBI should require parties to put in place clear economic incentives for businesses to use recycled plastic in the manufacture of plastic packaging, which will create greater demand for this material, for example through a plastic packaging tax."
+        ],
+        "reasoning": "The document explicitly identifies 'recycling' as a key principle of the waste hierarchy. It proposes core obligations and control measures focused on the downstream management of plastic waste, including establishing systems to promote recycling, setting specific recycling targets, ensuring environmentally sound collection and sorting, and creating economic incentives like a packaging tax to increase the use of recycled materials."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "Measures to address sea-based sources of plastic pollution, specifically through fishing gear retrieval and combatting ghost fishing gear.",
+        "citation": [
+          "The ILBI should include obligations to address sea-based sources of plastic pollution, such as fishing and aquaculture gear, whilst taking into account existing multilateral agreements and internationally recognized schemes, including, inter alia: The existing work of the IMO, including on marine plastic litter from ships, fishing gear marking and retrieval, and plastic pellets.",
+          "For specific priority plastic products, parties could consider existing recommendations when developing their national action plans such as those included in the OECD report ‘Towards G7 Action to Combat Ghost Fishing Gear'.",
+          "Membership of programs such as the Global Plastic Action Partnership and the Global Ghost Gear Initiative."
+        ],
+        "reasoning": "The document explicitly proposes measures targeting plastic pollution that is already in the environment. The citations refer to the 'retrieval' of fishing gear and actions to 'Combat Ghost Fishing Gear,' which are clear examples of cleaning up or managing legacy plastic, rather than solely preventing future waste."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The document suggests addressing pollution from unsafe waste management practices like open burning and recommends the development of 'plastic pollution emission inventories' modeled on the Greenhouse Gas inventories from the Paris Agreement.",
+        "citation": [
+          "Pollution caused by unsafe disposal and waste management practices, such as open burning.",
+          "Parties should consider developing plastic pollution emission inventories, similar to the emission inventories on Greenhouse Gases in the Paris Agreement, within an agreed timeframe once the ILBI enters into force, which may focus on material flows and leakage of plastic pollution into the environment."
+        ],
+        "reasoning": "The text explicitly mentions addressing pollution from 'open burning,' a direct source of air emissions. Furthermore, it proposes the creation of 'plastic pollution emission inventories,' directly analogizing them to the established inventories for 'Greenhouse Gases in the Paris Agreement.' This indicates a clear intent to measure and manage emissions related to the plastic lifecycle."
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "The document suggests several measures to address unintentional microplastic release, including: designing products to minimize the release of secondary microplastics, implementing measures to prevent spillage of plastics (including pellets), assessing the sources and pathways of secondary microplastics from product use and degradation (abrasion/fragmentation), developing standards or design criteria to prevent this release, and creating plastic pollution emission inventories to monitor leakage.",
+        "citation": [
+          "Evidence should inform a harmonised regulatory framework to ensure polymers and plastic products are appropriately labelled and designed to be durable, reusable, recyclable, safe and minimise the release of secondary microplastics, in accordance with circular economy principles.",
+          "The ILBI should require parties to implement measures to prevent spillage of plastics or their additives to the environment, at all stages of the life cycle.",
+          "The ETB should also assess the key sources, pathways and fates of secondary micro- and nano-plastics that originate during the use of plastic products and secondary micro- and nano-plastics that originate from the degradation of macroplastics after their disposal or loss to the environment, in order to inform the development of standards or design criteria that can prevent the release of microplastics by abrasion or other forms of fragmentation, as well as measures that could prevent or reduce loss to the environment.",
+          "Parties should consider developing plastic pollution emission inventories... which may focus on material flows and leakage of plastic pollution into the environment."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions measures to address the unintentional release of microplastics. The citations refer to minimizing the release of 'secondary microplastics' through product design, preventing 'spillage' at all life cycle stages, and assessing and developing standards to prevent release from 'abrasion or other forms of fragmentation' during product use and degradation. These points directly align with the code's definition of addressing unintentional microplastic leakage from sources like tire wear, textile washing, or plastic degradation."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document calls for a 'time-bound commitment' to end plastic pollution, suggests an 'ambitious timeframe' for establishing waste management systems, and proposes an 'agreed timeframe' for developing emission inventories after the instrument is in force.",
+        "citation": [
+          "The instrument should contain a time-bound commitment to ending plastic pollution, to be contained in the ILBI annex.",
+          "Parties should ensure that systems are in place to enable environmentally sound collection, sorting and recycling of all plastic designed for recycling within an ambitious timeframe and respecting local, regional social and economic conditions",
+          "Parties should consider developing plastic pollution emission inventories, similar to the emission inventories on Greenhouse Gases in the Paris Agreement, within an agreed timeframe once the ILBI enters into force..."
+        ],
+        "reasoning": "The document explicitly uses phrases such as 'time-bound commitment', 'ambitious timeframe', and 'agreed timeframe' to describe the expected schedule for implementing key objectives and measures of the instrument, thus specifying the need for a defined timeline, even if the exact dates or years are not yet determined."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes legally binding targets, regular reporting on National Action Plans and core obligations, and the establishment of a compliance and implementation committee. This committee is intended to be facilitative and supportive rather than punitive.",
+        "citation": [
+          "Parties should adopt legally binding targets to restrain plastic production and consumption.",
+          "The committee should consider establishing a compliance and implementation committee.",
+          "We would suggest that the committee aims to be facilitative, not punitive and that it aims to support states to return to compliance, rather than punish states for non-compliance.",
+          "The UK would support a mechanism for regular reporting on any National Action Plans and the implementation of other core obligations, control measures and any globally agreed targets."
+        ],
+        "reasoning": "The document consistently refers to the instrument as an 'International Legally Binding Instrument' (ILBI) and proposes 'legally binding targets' and 'core obligations,' which justifies a 'High' stringency level. The proposed implementation framework includes a 'compliance and implementation committee' and 'regular reporting' to ensure accountability. Although the compliance mechanism is described as 'facilitative, not punitive,' this specifies the approach to enforcement rather than diminishing the binding nature of the obligations."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with national implementation. The instrument sets international obligations and global rules, which are then to be implemented by individual nations through National Action Plans.",
+        "citation": [
+          "The title of this submission is “Submission on Potential Options for an International Legally Binding Instrument on Plastic Pollution”.",
+          "Plastic pollution is an international and transboundary issue, requiring global rules to have a systemic impact.",
+          "The UK supports a combination of international obligations and national measures across the whole lifecycle of plastic to ensure that the ILBI can adequately address the transboundary nature of plastic pollution.",
+          "The ILBI should include an obligation for parties to adapt existing, or to develop and implement, a National Action Plan that supports the achievement of the objectives of the ILBI whilst considering national contexts and capabilities."
+        ],
+        "reasoning": "The document consistently refers to an 'International Legally Binding Instrument' (ILBI) with 'global rules' and 'international obligations' to address a 'transboundary issue', establishing its global scope. The implementation mechanism is explicitly described as a combination of these international rules and 'national measures,' primarily through the development and execution of 'National Action Plans' by each party state."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "Private sector investment, public-private partnerships, and philanthropy are identified as crucial for funding the implementation of the legally binding instrument.",
+      "citation": [
+        "The UK sees a crucial role for private sector investment, public-private partnerships, and philanthropy in funding the ILBI's implementation, including through innovative approaches.",
+        "For example, private sector investment into sustainable production practices, waste management infrastructure and the development of technologies will be stimulated by the establishment of common standards and agreed waste management principles under the ILBI."
+      ],
+      "reasoning": "The document explicitly states that private sector sources have a 'crucial role' in financing the implementation of the instrument. It specifically names 'private sector investment', 'public-private partnerships', and 'philanthropy' as mechanisms and provides examples of what this investment would support."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document discusses mobilizing support from various sources, including bilateral support (one member state supporting another), multilateral support, and public-private partnerships.",
+      "citation": [
+        "The UK sees a crucial role for private sector investment, public-private partnerships, and philanthropy in funding the ILBI's implementation, including through innovative approaches.",
+        "As part of these discussions on bilateral and multilateral support, consideration should be given to establishing a mechanism by which member states identify priorities for funding, needs are assessed, and funding is distributed in accordance with those priorities and needs...",
+        "The UK would suggest discussions on developing mechanisms that allow for bilateral support by which one member state supports another with capacity building, technical assistance or technology transfer on mutually agreed terms."
+      ],
+      "reasoning": "The document explicitly refers to financing mechanisms that involve states (national governments). The citations mention 'public-private partnerships,' which include a public/state component, as well as 'bilateral' and 'multilateral support,' which directly involve funding and assistance from member states to other member states."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "bilateral support, multilateral support, centrally organized support",
+      "citation": [
+        "As part of these discussions on bilateral and multilateral support, consideration should be given to establishing a mechanism by which member states identify priorities for funding, needs are assessed, and funding is distributed in accordance with those priorities and needs, and effectiveness of funding is monitored and reported to member states, such as through national inventories as outlined previously.",
+        "The UK would suggest discussions on developing mechanisms that allow for bilateral support by which one member state supports another with capacity building, technical assistance or technology transfer on mutually agreed terms.",
+        "We would also support discussions on developing mechanisms that allow for centrally organized support, such as capacity building and technical assistance, enabled via a financial mechanism."
+      ],
+      "reasoning": "The document explicitly mentions 'bilateral and multilateral support' as potential funding sources for the implementation of the instrument. It further details 'bilateral support' as one member state supporting another and 'centrally organized support' which implies a multilateral mechanism. These are direct references to international financing sources."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "The document suggests a 'plastic packaging tax' and 'extended producer responsibility schemes' as potential measures.",
+      "citation": [
+        "The ILBI should require parties to put in place clear economic incentives for businesses to use recycled plastic in the manufacture of plastic packaging, which will create greater demand for this material, for example through a plastic packaging tax.",
+        "The INC may wish to consider whether the ILBI should include an obligation to ensure that producers pay the full net costs of managing plastic waste at end of life, for example through extended producer responsibility schemes."
+      ],
+      "reasoning": "The cited texts explicitly mention a 'plastic packaging tax' as an economic incentive and 'extended producer responsibility schemes' as a way for producers to pay for waste management. Both are clear examples of financing mechanisms derived from taxes and fees dedicated to addressing plastic pollution, as defined by the code."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "private sector investment, public-private partnerships, and philanthropy",
+      "citation": [
+        "The UK sees a crucial role for private sector investment, public-private partnerships, and philanthropy in funding the ILBI's implementation, including through innovative approaches."
+      ],
+      "reasoning": "The document explicitly lists 'philanthropy' as a crucial funding source. Philanthropy is by definition a voluntary financial contribution. The citation also includes 'private sector investment' and 'public-private partnerships' as key funding mechanisms, which are forms of non-mandatory financial support."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document outlines several responsibilities for producers, including: a general responsibility for the plastic they produce, designing products to be durable, reusable, recyclable, and safe, minimizing the release of microplastics, using recycled plastic in manufacturing, meeting minimum recycled content targets, and paying the full net costs of managing plastic waste at its end-of-life through Extended Producer Responsibility (EPR) schemes.",
+      "citation": [
+        "The UK will continue to legislate domestically to design out avoidable plastic waste and make producers responsible for the plastic they produce, ensuring to be in line with the relevant WTO rules and obligations.",
+        "Evidence should inform a harmonised regulatory framework to ensure polymers and plastic products are appropriately labelled and designed to be durable, reusable, recyclable, safe and minimise the release of secondary microplastics, in accordance with circular economy principles.",
+        "The ILBI should require parties to put in place clear economic incentives for businesses to use recycled plastic in the manufacture of plastic packaging, which will create greater demand for this material, for example through a plastic packaging tax.",
+        "The INC may wish to consider whether the ILBI should include an obligation to ensure that producers pay the full net costs of managing plastic waste at end of life, for example through extended producer responsibility schemes."
+      ],
+      "reasoning": "The document explicitly states the intent to 'make producers responsible for the plastic they produce.' The citations further detail these responsibilities across the product lifecycle, from upstream design considerations (design for recyclability, durability) and material inputs (use of recycled content) to downstream financial obligations for end-of-life waste management through Extended Producer Responsibility (EPR). This clearly assigns a set of obligations and roles to the production sector."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document mentions the responsibility of consumers to ensure the correct disposal of plastics. It also refers to the need to restrain consumption, which is a consumer-driven activity.",
+      "citation": [
+        "When used in the right way and disposed of correctly, plastics can, sometimes, help secure the best environmental outcome.",
+        "Parties should adopt legally binding targets to restrain plastic production and consumption."
+      ],
+      "reasoning": "The document directly points to the action of 'disposed of correctly' as a way to achieve positive environmental outcomes, which is a clear responsibility for the end-user of a product. Furthermore, the call for governments ('Parties') to adopt targets to restrain 'consumption' frames the act of consuming plastic as a key area for control, implicitly placing a role on consumers to reduce their consumption as part of national efforts."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document outlines several responsibilities for the waste management sector, including establishing systems for the environmentally sound management of plastic waste, implementing environmentally sound collection, sorting, and recycling of plastics, promoting waste prevention, reduction, and reuse, and ensuring safe disposal practices to avoid pollution from methods like open burning. It also mentions the need to integrate the informal waste sector into formal schemes.",
+      "citation": [
+        "Parties should be required to establish systems for the environmentally sound management of plastic waste, including measures to facilitate and promote prevention, reduction, reuse and recycling.",
+        "Parties should ensure that systems are in place to enable environmentally sound collection, sorting and recycling of all plastic designed for recycling within an ambitious timeframe and respecting local, regional social and economic conditions",
+        "Pollution caused by unsafe disposal and waste management practices, such as open burning.",
+        "The Committee should consider how the ILBI will support a just transition for workers in the informal waste sector to address poverty and gender inequality, and explore fora through which COP can continue to engage with and support the informal waste sector as critical stakeholders in tackling plastic pollution and encourage their integration into formal waste management schemes in just and equitable way."
+      ],
+      "reasoning": "The document explicitly assigns responsibilities in the section titled 'Downstream: Environmentally sound management of waste'. The citations directly reference the core obligations for parties to create systems for collection, sorting, recycling, and the overall management of plastic waste. The mention of 'unsafe disposal and waste management practices' and the role of the 'informal waste sector' further confirms that the roles and obligations of entities handling waste are a key consideration of the proposed instrument."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "The document suggests that the ILBI should support a 'just transition' for workers in the informal waste sector, address poverty and gender inequality, engage with and support them as critical stakeholders, and encourage their integration into formal waste management schemes.",
+      "citation": [
+        "The Committee should consider how the ILBI will support a just transition for workers in the informal waste sector to address poverty and gender inequality, and explore fora through which COP can continue to engage with and support the informal waste sector as critical stakeholders in tackling plastic pollution and encourage their integration into formal waste management schemes in just and equitable way."
+      ],
+      "reasoning": "The document explicitly mentions the 'informal waste sector' and details several responsibilities and considerations towards them, including ensuring a 'just transition' and their 'integration into formal waste management schemes', which validates the 'mentioned' and 'details' fields."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Domestic legislation, adopting legally binding targets, developing and implementing National Action Plans, creating economic incentives, establishing systems for waste management, ensuring producer responsibility schemes, regular reporting on implementation, developing pollution emission inventories, providing bilateral support and capacity building, and implementing preventative measures.",
+      "citation": [
+        "The UK will continue to legislate domestically to design out avoidable plastic waste and make producers responsible for the plastic they produce, ensuring to be in line with the relevant WTO rules and obligations.",
+        "Parties should adopt legally binding targets to restrain plastic production and consumption.",
+        "The ILBI should include an obligation for parties to adapt existing, or to develop and implement, a National Action Plan that supports the achievement of the objectives of the ILBI whilst considering national contexts and capabilities.",
+        "The UK would support a mechanism for regular reporting on any National Action Plans and the implementation of other core obligations, control measures and any globally agreed targets."
+      ],
+      "reasoning": "The document consistently uses the term 'Parties' to refer to the signatory governments of the proposed legally binding instrument. The cited texts clearly outline specific obligations for these governments, such as creating domestic laws ('legislate domestically'), setting national policy ('develop and implement, a National Action Plan'), committing to international goals ('adopt legally binding targets'), and being accountable for progress ('regular reporting'). These are all core responsibilities of a national government within an international treaty framework."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "The document suggests a role for stakeholders (which includes NGOs) in participating in and informing decision-making and policy development. Specific mechanisms mentioned include making submissions to the Conference of the Parties (COP) and participating in stakeholder committees. It also highlights existing NGO-led initiatives, like the Ellen MacArthur Foundation's Global Commitment, as examples to learn from.",
+      "citation": [
+        "Stakeholders across the lifecycle of plastics should be able to actively participate in and inform decisions and other policy development under the ILBI after it has been adopted.",
+        "Therefore, the ILBI should consider a mechanism for stakeholder engagement between COPs that could include stakeholder submissions to the COP or national or regional stakeholder committees.",
+        "The instrument may take inspiration from, align with and ultimately go beyond existing voluntary approaches, to increase ambition over time. Some examples that may be considered are: ... Ellen McArthur Foundation Global Commitment and reporting program."
+      ],
+      "reasoning": "The document assigns clear responsibilities to 'stakeholders,' a term that encompasses NGOs and civil society, to be active participants in the policy process of the legally binding instrument. The citations show a proposed formal role in informing decisions, policy development, and making submissions. Additionally, the reference to the Ellen MacArthur Foundation, a prominent NGO, as an exemplary voluntary approach further confirms the recognized role and responsibility of such organizations."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document outlines several roles for international governance bodies associated with the proposed treaty, including: secretariat functions (receiving and publishing reports, managing funds), establishment of an Evidence and Technical Body (ETB) for scientific assessment and monitoring coordination, creation of a facilitative compliance committee, governing body functions for the Conference of the Parties (COP) to update the instrument, and coordination with existing UN agencies and conventions (e.g., WHO, IMO, FAO, Basel, Rotterdam, Stockholm).",
+      "citation": [
+        "Reporting under the instrument should be submitted to the secretariat and published on the ILBI website, and a permanent public record maintained.",
+        "the UK sees the value in considering the establishment of an Evidence and Technical Body (ETB) that takes into consideration any potential interactions with the new Science Policy Panel on chemicals, waste and pollution prevention, once this has been established.",
+        "The committee should consider establishing a compliance and implementation committee. This committee would be a subsidiary body, with rules of procedure and further detail to be adopted by first COP.",
+        "While evidence on the harm to human health caused by plastic and plastic pollution is emerging, it is essential that the ETB, working closely with the WHO, makes a concerted effort to understand and resolve evidence gaps in the effects of plastic pollution on human health...",
+        "The ILBI should take into account the work of the Basel, Stockholm and Rotterdam Conventions when considering measures to manage chemicals and waste."
+      ],
+      "reasoning": "The provided citations clearly demonstrate that the document assigns specific responsibilities to international governance entities that are characteristic of the UN system. These include the creation of a secretariat for administrative tasks, a scientific advisory body (ETB) for technical guidance, a compliance committee for implementation support, and a mandate to coordinate with existing international conventions and organizations. These proposed bodies and their functions fall directly under the definition of roles and responsibilities for 'UN agencies, international bodies, [or] treaty secretariats'."
+    }
+  }
+}

@@ -1,0 +1,550 @@
+{
+  "submission_metadata": {
+    "country": "The Russian Federation",
+    "date": "2023-02-17",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "The objective of this Agreement is to protect the environment, including the marine environment, from plastic pollution.",
+        "...the goal of the Agreement is not to eliminate the production or use of plastic or impede international trade, but to resolve the issue of polluting the environment with plastic waste.",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "National action plans is a universal instrument of implementation of MEAs, therefore we consider it applicable in the case of combatting plastic pollution.",
+        "Measures under the Agreement aimed to tackle the problem of plastic pollution should be developed taking into account national circumstances and capacities of the Parties."
+      ],
+      "reasoning": "The document explicitly states that the primary objective is to protect the environment from plastic pollution and to resolve the issue of pollution from plastic waste. It consistently uses terms aligned with the code definition, such as 'addressing', 'combatting', and 'tackling' the problem of plastic pollution. While the goal of addressing plastic pollution is central to the submission, no specific target year or timeline for its achievement is mentioned."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "It is important to emphasize that the goal of the Agreement is not to eliminate the production or use of plastic or impede international trade, but to resolve the issue of polluting the environment with plastic waste."
+      ],
+      "reasoning": "The document explicitly mentions the concept of eliminating plastic production. However, it does so to firmly reject it as an objective of the agreement, clarifying that the focus should be on managing plastic waste, not on controlling production itself."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": null,
+      "citation": [
+        "It is important to emphasize that the goal of the Agreement is not to eliminate the production or use of plastic or impede international trade, but to resolve the issue of polluting the environment with plastic waste."
+      ],
+      "reasoning": "The document explicitly states that the goal of the international agreement should not be the elimination of plastic production or use. This statement serves as a direct acknowledgment of the utility and necessity of plastics, arguing that the focus should be on waste management rather than banning the material itself, which aligns with the code definition."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document suggests evaluating risks and threats to human health from plastic pollution as a core obligation and a focus for scientific cooperation. It also proposes the protection of human health as a potential, optional objective for the agreement.",
+      "citation": [
+        "(optional additional point to be discussed: The goal of the Agreement is to protect human health and the environment, including the marine environment, from plastic pollution.)",
+        "The Russian Federation reserves the right to alter the goal by adding protection of human health after broader internal discussions.",
+        "To evaluate risks caused by plastic pollution for human health and the environment.",
+        "Creating favorable conditions for the development of international scientific cooperation in the fields of: ... - evaluation of threats for human health and the environment as a result of plastic pollution,"
+      ],
+      "reasoning": "The document explicitly and repeatedly mentions human health. It is cited as a potential, optional addition to the main objective, a core obligation to evaluate risks to human health, and a key area for international scientific cooperation, clearly meeting the code's criteria."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "The objective of this Agreement is to protect the environment, including the marine environment, from plastic pollution.",
+        "(optional additional point to be discussed: The goal of the Agreement is to protect human health and the environment, including the marine environment, from plastic pollution.)",
+        "To evaluate risks caused by plastic pollution for human health and the environment.",
+        "evaluation of threats for human health and the environment as a result of plastic pollution,"
+      ],
+      "reasoning": "The document explicitly states that the primary objective is to 'protect the environment' from plastic pollution. It consistently and specifically includes 'the marine environment' in its objective statements, indicating a clear marine focus. Further proposed obligations and implementation measures, such as evaluating risks and threats to the environment, reinforce this core protective goal."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?"
+      ],
+      "reasoning": "The document explicitly uses the term 'full life cycle' in a framing question that sets the context for the proposed core obligations. This demonstrates that an approach considering all stages of plastic existence is a key element being addressed in the development of the legally binding instrument."
+    },
+    "other_objectives": {
+      "value": "Provide financial and technical support; ensure a just transition for affected populations; promote transparency and accountability.",
+      "citation": [
+        "The international legally binding instrument should include provisions on capacity building, technical assistance, technology transfer, and financial assistance to support implementation in all countries, particularly developing country Parties.",
+        "The objective is to promote a just transition for affected populations, including workers in the informal waste sector, ensuring their inclusion and protection.",
+        "It is also critical to promote transparency through mechanisms for reporting on progress, which would enhance accountability and allow for a global stocktake of collective progress towards the instrument’s objectives."
+      ],
+      "reasoning": "The cited texts outline several key objectives that are distinct from the excluded categories. These include establishing mechanisms for financial and technical support (e.g., capacity building, technology transfer), ensuring a 'just transition' with a focus on social and economic equity for affected populations, and promoting transparency and accountability through reporting. These are procedural, financial, and social objectives rather than purely environmental or health-related goals."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document proposes mechanisms for 'extended responsibility of producers and importers' (EPR), which is a direct application of the polluter-pays principle. It also makes an indirect reference to the polluter-pays principle through its support for the Rio Declaration of 1992.",
+        "citation": [
+          "To develop and promote mechanisms of extended responsibility of producers and importers for their goods and packaging.",
+          "Secondly, extended responsibility of producers and importers for their goods and packaging is needed, and currently this is the trend that the Russian Federation follows.",
+          "The Russian Federation will strive to implement the principles indicated in the Rio Declaration of 1992..."
+        ],
+        "reasoning": "The document includes 'extended responsibility of producers and importers' (EPR) as a proposed core obligation. EPR is a well-established policy approach that operationalizes the 'polluter-pays principle,' which is explicitly listed in the code definition. The reference to implementing the principles of the Rio Declaration of 1992, which contains the polluter-pays principle, further validates this finding."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document proposes the development and promotion of 'extended responsibility of producers and importers for their goods and packaging' as a core obligation.",
+        "citation": [
+          "To develop and promote mechanisms of extended responsibility of producers and importers for their goods and packaging.",
+          "Secondly, extended responsibility of producers and importers for their goods and packaging is needed, and currently this is the trend that the Russian Federation follows."
+        ],
+        "reasoning": "The document explicitly lists 'extended responsibility of producers and importers for their goods and packaging' as a proposed core obligation for the international instrument. This directly matches the definition of Extended Producer Responsibility (EPR), which makes producers responsible for the post-consumer stage of their products."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [
+          "It is important to emphasize that the goal of the Agreement is not to eliminate the production or use of plastic or impede international trade, but to resolve the issue of polluting the environment with plastic waste."
+        ],
+        "reasoning": "The document does not mention or propose any bans, prohibitions, or phase-outs of plastic products. In fact, it explicitly states that the goal is *not* to eliminate the production or use of plastic, which directly contradicts the concept of a ban. The focus is on downstream measures like waste management and pollution control."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document calls for the creation and improvement of 'plastic collection and recycling infrastructure' and the implementation of 'modern/ innovative wastewater treatment mechanisms'.",
+        "citation": [
+          "To implement modern/ innovative wastewater treatment mechanisms.",
+          "Facilitating the creation and improvement of plastic collection and recycling infrastructure."
+        ],
+        "reasoning": "The document lists 'Facilitating the creation and improvement of plastic collection and recycling infrastructure' as a required 'Means of Implementation'. It also includes the obligation 'To implement modern/ innovative wastewater treatment mechanisms' under the 'core obligations' section. Both of these points refer to the mandatory establishment or enhancement of physical systems and facilities to manage plastic waste and pollution."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "national action plans",
+        "citation": [
+          "Development of national action plans, as well as guidelines for the development of national action plans taking into account national circumstances",
+          "National action plans is a universal instrument of implementation of MEAs, therefore we consider it applicable in the case of combatting plastic pollution."
+        ],
+        "reasoning": "The document explicitly lists the \"Development of national action plans\" as a required measure to support the implementation of the instrument. The explanatory text further validates this by describing national action plans as a 'universal instrument of implementation', directly aligning with the code definition of required plans for treaty implementation."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "Periodic reports on the domestic implementation of the Agreement, submitted every three years.",
+        "citation": [
+          "Submission of periodic reports on the domestic implementation of the Agreement (once every three years)",
+          "As for national reports on the domestic policies and other measures to implement the Agreement, we propose three-year intervals."
+        ],
+        "reasoning": "The document explicitly proposes a mandatory reporting requirement for parties to the agreement. It specifies the content of these reports (domestic implementation) and the frequency (every three years), which directly aligns with the code's definition of mandatory reporting and information sharing about implementation progress."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document explicitly states that the agreement should not impede international trade. It also proposes extended responsibility mechanisms for importers.",
+        "citation": [
+          "It is important to emphasize that the goal of the Agreement is not to eliminate the production or use of plastic or impede international trade, but to resolve the issue of polluting the environment with plastic waste.",
+          "To develop and promote mechanisms of extended responsibility of producers and importers for their goods and packaging."
+        ],
+        "reasoning": "The document directly addresses the topic of international trade by stating that the agreement's goal is not to impede it. Additionally, it proposes a core obligation that includes 'importers' in extended responsibility schemes, which is a regulatory instrument that directly affects actors involved in the international trade of plastic-containing goods and packaging."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document proposes several monitoring measures, including: monitoring plastic pollution using agreed-upon qualitative and quantitative methods, evaluating risks to human health and the environment, submitting periodic reports on domestic implementation, and evaluating the scale of plastic pollution.",
+        "citation": [
+          "To monitor plastic pollution based on the methods of qualitative and quantitative determination of the amount of plastic in the environment, agreed upon by the Parties to this Agreement.",
+          "To evaluate risks caused by plastic pollution for human health and the environment.",
+          "Submission of periodic reports on the domestic implementation of the Agreement (once every three years)",
+          "evaluation of the scale of plastic pollution,"
+        ],
+        "reasoning": "The document explicitly outlines core obligations and implementation measures that fall under the definition of monitoring. The cited texts propose systems to 'monitor plastic pollution', 'evaluate risks', and assess policy effectiveness through 'periodic reports', directly matching the code's definition of tracking, measuring, and evaluating pollution and policy."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document proposes raising public awareness, developing guidelines for national action plans, and organizing events for the exchange of best practices.",
+        "citation": [
+          "To raise public awareness about the dangers of uncontrolled disposal of plastics and the methods of effective management of plastic waste.",
+          "Development of national action plans, as well as guidelines for the development of national action plans taking into account national circumstances",
+          "Organization of events on the sidelines of the Conference of the Parties to the Agreement on the exchange of best practices."
+        ],
+        "reasoning": "The document explicitly proposes several measures that function as information and guidance. These include a core obligation to raise public awareness, the development of 'guidelines' to assist parties in creating their national action plans, and the organization of events specifically for the 'exchange of best practices'. These are all examples of providing informational resources and guidance to help stakeholders implement effective measures."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "public awareness campaigns",
+        "citation": [
+          "To raise public awareness about the dangers of uncontrolled disposal of plastics and the methods of effective management of plastic waste."
+        ],
+        "reasoning": "The document explicitly proposes 'To raise public awareness...' as a core obligation under the agreement. This directly matches the code definition, which includes awareness-raising campaigns and efforts to inform the public about plastic pollution and its management."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document proposes developing best available technologies for plastic waste disposal and recycling, promoting development of plastic collection technologies, and creating favorable conditions for international scientific cooperation. Specific areas for cooperation include evaluating the scale and threats of plastic pollution and developing new environmental cleaning technologies.",
+        "citation": [
+          "To develop the best available technologies for the disposal and recycling of plastic waste.",
+          "To cooperate in and promote the development and distribution of plastic collection and recycling technologies.",
+          "Creating favorable conditions for the development of international scientific cooperation in the fields of: - evaluation of the scale of plastic pollution, - evaluation of threats for human health and the environment as a result of plastic pollution, - development of new technologies for cleaning the environment from plastic pollution."
+        ],
+        "reasoning": "The document explicitly proposes core obligations and implementation measures that center on the development of new technologies and the promotion of international scientific cooperation. These citations directly call for research and innovation to address various aspects of the plastic pollution problem, fulfilling the criteria for the research promotion code."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "Proposed the development of mutually agreed scientific methods for monitoring plastic pollution, including the qualitative and quantitative determination of plastic in the environment.",
+        "citation": [
+          "To monitor plastic pollution based on the methods of qualitative and quantitative determination of the amount of plastic in the environment, agreed upon by the Parties to this Agreement.",
+          "The Russian Federation is of the view that the Parties to the Agreement must elaborate mutually agreed scientific methods for the identification of plastic and its elements in the components of the environment, because currently there are no universally recognized methods of such identification."
+        ],
+        "reasoning": "The document explicitly calls for methods 'agreed upon by the Parties' and the elaboration of 'mutually agreed scientific methods' for monitoring and identifying plastic pollution. This directly addresses the need to standardize and make methodologies consistent across countries, which is the core definition of harmonization. The text justifies this by pointing out the current lack of 'universally recognized methods'."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions several knowledge sharing mechanisms, including the distribution of recycling technologies, providing technical assistance to least developed countries, facilitating technological exchange, promoting international scientific cooperation, and organizing events for the exchange of best practices.",
+        "citation": [
+          "To cooperate in and promote the development and distribution of plastic collection and recycling technologies.",
+          "To take into account the needs of the least developed countries and to provide them with necessary technical assistance.",
+          "Thirdly, we must ensure that the needs of the least developed countries are taken into consideration, and to that end we must provide them with technical assistance and facilitate technological exchange.",
+          "Creating favorable conditions for the development of international scientific cooperation in the fields of: - evaluation of the scale of plastic pollution, - evaluation of threats for human health and the environment as a result of plastic pollution, - development of new technologies for cleaning the environment from plastic pollution.",
+          "Organization of events on the sidelines of the Conference of the Parties to the Agreement on the exchange of best practices."
+        ],
+        "reasoning": "The document explicitly includes several core obligations and implementation measures centered on sharing expertise and technology. The citations show clear proposals for distributing technology, providing technical assistance to developing nations, facilitating technological exchange, fostering scientific cooperation, and organizing events specifically for exchanging best practices, all of which directly align with the definition of knowledge sharing."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document outlines high-level objectives and proposed core obligations, such as monitoring pollution and developing technologies, but does not specify any quantitative targets (e.g., reduction percentages, collection rates, or specific deadlines for environmental outcomes). The submission explicitly states that the Russian Federation reserves the right to add control measures at a later stage, confirming their absence in this document."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "production": {
+        "mentioned": false,
+        "details": null,
+        "citation": [
+          "It is important to emphasize that the goal of the Agreement is not to eliminate the production or use of plastic or impede international trade, but to resolve the issue of polluting the environment with plastic waste."
+        ],
+        "reasoning": "The document explicitly states that the objective is not to address the production of plastic. Instead, its focus is on the downstream issue of pollution from plastic waste, thereby excluding any measures related to the manufacturing or polymer creation stage."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": "extended producer responsibility",
+        "citation": [
+          "To develop and promote mechanisms of extended responsibility of producers and importers for their goods and packaging.",
+          "Secondly, extended responsibility of producers and importers for their goods and packaging is needed, and currently this is the trend that the Russian Federation follows."
+        ],
+        "reasoning": "The document addresses the product production stage by proposing Extended Producer Responsibility (EPR) as a core obligation. This directly involves the producers of plastic goods and packaging. However, the submission does not mention specific controls over the manufacturing process itself, such as restrictions on intentionally added microplastics or chemical additives."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "public awareness on plastic waste management",
+        "citation": [
+          "To raise public awareness about the dangers of uncontrolled disposal of plastics and the methods of effective management of plastic waste."
+        ],
+        "reasoning": "The document proposes a core obligation to raise public awareness. This directly addresses consumer behavior regarding the disposal and management of plastic products after their use, which is a key aspect of the consumption phase of the value chain. However, it does not specifically mention single-use plastics."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions the development and distribution of plastic collection technologies and the creation and improvement of plastic collection infrastructure.",
+        "citation": [
+          "To cooperate in and promote the development and distribution of plastic collection and recycling technologies.",
+          "Facilitating the creation and improvement of plastic collection and recycling infrastructure."
+        ],
+        "reasoning": "The document explicitly lists the promotion of 'plastic collection... technologies' as a core obligation and facilitating the 'creation and improvement of plastic collection... infrastructure' as a means of implementation. These statements directly address measures for gathering and aggregating plastic waste after consumer use, which aligns with the code definition."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "Effective management of plastic waste, development of technologies for disposal and recycling, creation and improvement of plastic collection and recycling infrastructure, and implementation of modern wastewater treatment mechanisms.",
+        "citation": [
+          "To raise public awareness about the dangers of uncontrolled disposal of plastics and the methods of effective management of plastic waste.",
+          "To develop the best available technologies for the disposal and recycling of plastic waste.",
+          "To implement modern/ innovative wastewater treatment mechanisms.",
+          "Facilitating the creation and improvement of plastic collection and recycling infrastructure."
+        ],
+        "reasoning": "The document explicitly proposes core obligations and implementation measures that fall under waste management. The citations refer to the 'disposal', 'recycling', and 'collection' of plastic waste, as well as the 'infrastructure' required to do so. These terms directly relate to the handling, processing, and management of plastic waste after it has been used and collected, fitting the code definition."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "development of technologies for recycling of plastic waste; promotion of the development and distribution of plastic collection and recycling technologies; facilitating the creation and improvement of plastic collection and recycling infrastructure",
+        "citation": [
+          "To develop the best available technologies for the disposal and recycling of plastic waste.",
+          "To cooperate in and promote the development and distribution of plastic collection and recycling technologies.",
+          "Facilitating the creation and improvement of plastic collection and recycling infrastructure."
+        ],
+        "reasoning": "The document explicitly lists several measures focused on recycling. These include developing technologies for recycling plastic waste, promoting the distribution of these technologies, and creating and improving the necessary infrastructure for plastic collection and recycling. These points directly address the recovery and reprocessing of plastic materials from waste, as defined by the code."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "development of new technologies for cleaning the environment from plastic pollution",
+        "citation": [
+          "Creating favorable conditions for the development of international scientific cooperation in the fields of: ... development of new technologies for cleaning the environment from plastic pollution."
+        ],
+        "reasoning": "The document explicitly proposes fostering international scientific cooperation to develop technologies aimed at 'cleaning the environment from plastic pollution'. This directly addresses the removal of existing pollution, which is the core definition of the legacy plastic code."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "modern/ innovative wastewater treatment mechanisms",
+        "citation": [
+          "To implement modern/ innovative wastewater treatment mechanisms."
+        ],
+        "reasoning": "The document proposes the implementation of 'modern/ innovative wastewater treatment mechanisms' as a core obligation. Wastewater is a significant pathway for the unintentional release of microplastics, such as microfibers from washing textiles, into the environment. Advanced wastewater treatment is a key strategy to capture these particles, thereby directly addressing microplastic leakage at the end-of-pipe stage."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "Periodic reports on domestic implementation are to be submitted every three years.",
+        "citation": [
+          "Submission of periodic reports on the domestic implementation of the Agreement (once every three years)",
+          "As for national reports on the domestic policies and other measures to implement the Agreement, we propose three-year intervals."
+        ],
+        "reasoning": "The document explicitly proposes a specific timeline for one of the implementation measures, stating that national reports should be submitted on a three-year cycle. This constitutes a specified timeframe."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document suggests implementation through national action plans and periodic reporting. It explicitly advocates for national discretion in choosing measures, with no mention of binding obligations, sanctions, or strong compliance mechanisms.",
+        "citation": [
+          "Development of national action plans, as well as guidelines for the development of national action plans taking into account national circumstances",
+          "Submission of periodic reports on the domestic implementation of the Agreement (once every three years)",
+          "The Parties to the Agreement must be free to choose the appropriate measures for the implementation of this Agreement provided that such measures are not discriminatory.",
+          "Measures under the Agreement aimed to tackle the problem of plastic pollution should be developed taking into account national circumstances and capacities of the Parties."
+        ],
+        "reasoning": "The proposed implementation relies on flexible, nationally determined approaches. The emphasis on parties being 'free to choose' their measures and the need to take 'national circumstances and capacities' into account, combined with the absence of any enforcement mechanisms like penalties or compliance committees, points to a low level of stringency."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with national-level implementation through domestic action plans and reporting.",
+        "citation": [
+          "Submission from The Russian Federation on the potential options for elements towards an international legally binding instrument on plastic pollution",
+          "To take into account the needs of the least developed countries and to provide them with necessary technical assistance.",
+          "Development of national action plans, as well as guidelines for the development of national action plans taking into account national circumstances",
+          "Submission of periodic reports on the domestic implementation of the Agreement (once every three years)",
+          "The Agreement should promote cooperation, coordination and complementarity of relevant regional and international conventions and treaties aimed at resolving the issue of plastic pollution..."
+        ],
+        "reasoning": "The document is a submission for an 'international legally binding instrument' and consistently refers to 'Parties' (countries) and cooperation with other 'international conventions and treaties.' The implementation mechanism described is for individual nations to create 'national action plans' and submit reports on their 'domestic implementation,' which is a standard model for a global treaty being put into practice at the national level."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document proposes 'extended responsibility of producers and importers' (EPR) as a core obligation, which is a mechanism where the private sector financially contributes to the management of post-consumer goods and packaging.",
+      "citation": [
+        "To develop and promote mechanisms of extended responsibility of producers and importers for their goods and packaging.",
+        "Secondly, extended responsibility of producers and importers for their goods and packaging is needed, and currently this is the trend that the Russian Federation follows."
+      ],
+      "reasoning": "The cited texts explicitly propose 'extended responsibility of producers and importers' as a core obligation. This policy approach (EPR) directly involves the private sector (producers, importers) taking on financial responsibility for the lifecycle of their products, particularly waste management. This constitutes a form of financing from the private sector to address plastic pollution."
+    },
+    "state": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "international": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document specifies the need for extended responsibility of producers and importers for their goods and packaging.",
+      "citation": [
+        "To develop and promote mechanisms of extended responsibility of producers and importers for their goods and packaging.",
+        "Secondly, extended responsibility of producers and importers for their goods and packaging is needed, and currently this is the trend that the Russian Federation follows."
+      ],
+      "reasoning": "The document explicitly lists 'extended responsibility of producers and importers for their goods and packaging' as one of the proposed core obligations for the agreement. This is further emphasized in the explanatory text, directly assigning a role and obligation to the production and import sectors for the lifecycle of their products."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document mentions a core obligation to raise public awareness about the dangers of uncontrolled plastic disposal and the methods for effective plastic waste management, which implies a responsibility for the public to act on this knowledge.",
+      "citation": [
+        "To raise public awareness about the dangers of uncontrolled disposal of plastics and the methods of effective management of plastic waste."
+      ],
+      "reasoning": "This quoted text identifies a core obligation to educate the 'public'. While the obligation is on the Parties (governments), the target of the awareness campaign is the general populace or consumers. This implies that consumers have a corresponding responsibility to understand the issues and participate in the 'effective management of plastic waste' once they are made aware."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Responsibilities mentioned include the effective management of plastic waste, development of technologies for disposal and recycling, promotion and distribution of collection and recycling technologies, implementation of wastewater treatment, and the creation and improvement of plastic collection and recycling infrastructure.",
+      "citation": [
+        "To raise public awareness about the dangers of uncontrolled disposal of plastics and the methods of effective management of plastic waste.",
+        "To develop the best available technologies for the disposal and recycling of plastic waste.",
+        "To cooperate in and promote the development and distribution of plastic collection and recycling technologies.",
+        "To implement modern/ innovative wastewater treatment mechanisms.",
+        "Facilitating the creation and improvement of plastic collection and recycling infrastructure."
+      ],
+      "reasoning": "The document explicitly lists several core obligations and implementation measures that fall under the purview of the waste management sector. The citations directly refer to the management, disposal, collection, recycling, and infrastructure required to handle plastic waste after consumer use, which are all key responsibilities of this sector."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines numerous government responsibilities, referred to as 'core obligations' for the 'Parties to the Agreement'. These include: monitoring plastic pollution, raising public awareness, evaluating risks, developing waste disposal technologies, promoting extended producer responsibility mechanisms, international cooperation and technology sharing, providing technical assistance to least developed countries, implementing wastewater treatment, developing national action plans, submitting periodic implementation reports, and facilitating collection/recycling infrastructure.",
+      "citation": [
+        "To monitor plastic pollution based on the methods of qualitative and quantitative determination of the amount of plastic in the environment, agreed upon by the Parties to this Agreement.",
+        "To develop and promote mechanisms of extended responsibility of producers and importers for their goods and packaging.",
+        "To implement modern/ innovative wastewater treatment mechanisms.",
+        "Development of national action plans, as well as guidelines for the development of national action plans taking into account national circumstances",
+        "Submission of periodic reports on the domestic implementation of the Agreement (once every three years)"
+      ],
+      "reasoning": "The document, a submission for an international treaty, explicitly lists 'core obligations' and 'means of implementation' for the 'Parties to the Agreement', which are national governments. The cited quotes are direct examples of these proposed governmental duties, covering monitoring, policy development (extended producer responsibility), infrastructure implementation (wastewater), planning (national action plans), and reporting obligations."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document assigns roles to the institutional arrangements of the treaty, such as a secretariat, including organizing cooperation and communication with other Multilateral Environmental Agreements (MEAs), promoting coordination between international conventions, avoiding duplication of obligations, and organizing events for the Conference of the Parties.",
+      "citation": [
+        "Organization of cooperation with other international multilateral agreements.",
+        "The Agreement should promote cooperation, coordination and complementarity of relevant regional and international conventions and treaties aimed at resolving the issue of plastic pollution...",
+        "Organization of events on the sidelines of the Conference of the Parties to the Agreement on the exchange of best practices.",
+        "It is important in our view to organize proper communication and cooperation with the secretariats of other Multilateral Environmental Agreements and to avoid duplication of obligations."
+      ],
+      "reasoning": "The cited texts describe responsibilities typically carried out by a treaty secretariat, an international governance body. Specifically, the document calls for organizing communication and cooperation with the 'secretariats of other Multilateral Environmental Agreements' and organizing events for the 'Conference of the Parties,' directly assigning roles to international bodies as defined by the code."
+    }
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "submission_metadata": {
+    "country": "AOSIS",
+    "date": "2023-02-16",
+    "type": "Organization"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "The UNEA mandate resolution is clear. The purpose of the new internationally legally-binding instrument is to “end plastic pollution.\"",
+        "With the ambitious goal of concluding this Instrument by the end of 2024, this next INC will be critical in charting our path toward completing our work and solving the plastic crisis.",
+        "Proposed Objective: The ultimate objective of the ILBI should be to prevent, reduce and eventually eliminate plastic pollution...",
+        "The objective must also take into account the goal articulated by the title of the mandate resolution: to “end plastic pollution.”"
+      ],
+      "reasoning": "The document explicitly and repeatedly states that the primary purpose and ultimate objective of the international instrument is to \"end plastic pollution\" and \"eliminate plastic pollution\". While a timeframe is mentioned (\"end of 2024\"), it refers to the deadline for concluding the negotiation of the instrument itself, not for achieving the environmental goal of ending plastic pollution. No specific target year or timeline for eliminating plastic pollution is provided in the text."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Sustainable design, production and consumption of plastics broadly;",
+        "Periodic reporting on national sources and levels of plastic being produced, exported, imported and recycled."
+      ],
+      "reasoning": "The document explicitly identifies 'production' as a key area for action within National Action Plans and establishes a need for reporting on the 'levels of plastic being produced.' This confirms that controlling plastic production is a considered objective. However, the submission does not provide any specific quantitative targets, percentages, or caps for production reduction, proposing instead a framework where such targets could be developed in the future."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document proposes that the objective of the legally binding instrument should be to avoid risks to human health and adverse effects on human well-being. It also suggests eliminating hazardous chemicals, additives, and polymers that are harmful to human health as a core obligation.",
+      "citation": [
+        "The ultimate objective of the ILBI should be to prevent, reduce and eventually eliminate plastic pollution, in order to avoid its related risks to human health and adverse effects on human well-being and the environment, particularly the marine environment...",
+        "The elimination of hazardous chemicals, additives and polymers which are harmful to the environment and human health and unfavourable to recycling (the ILBI could identify these substances based on a scientific criteria);"
+      ],
+      "reasoning": "The document explicitly states that a primary objective of the international instrument is to 'avoid its related risks to human health'. It further identifies a core obligation to eliminate chemicals and polymers known to be 'harmful to... human health', directly validating the objective of protecting human health from plastic pollution."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "The ultimate objective of the ILBI should be to prevent, reduce and eventually eliminate plastic pollution, in order to avoid its related risks to human health and adverse effects on human well-being and the environment, particularly the marine environment, in a progressive and strategic manner that covers the full life-cycle of plastic, within the context of promoting circularity and sustainable development, taking into account the disproportionate impacts of plastic pollution.",
+        "The elimination of hazardous chemicals, additives and polymers which are harmful to the environment and human health and unfavourable to recycling (the ILBI could identify these substances based on a scientific criteria);",
+        "The elimination of ghost gear pollution in the environment, particularly the marine environment;",
+        "The remediation of plastic pollution in the environment, including the marine environment and areas beyond national jurisdiction."
+      ],
+      "reasoning": "The document explicitly states that the objective of the proposed instrument is to avoid 'adverse effects on... the environment.' It further demonstrates a clear and repeated marine focus by specifically highlighting the need to protect 'particularly the marine environment' in the main objective, as well as in core obligations like eliminating ghost gear and remediating existing pollution."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "A high level of initial ambition for all stakeholders across the full-life cycle of plastics, including remediation;",
+        "Global collective actions should include measures across the full plastic life-cycle, including global goals or targets based on best available scientific and environmental information, that States must work towards.",
+        "The ultimate objective of the ILBI should be to prevent, reduce and eventually eliminate plastic pollution...in a progressive and strategic manner that covers the full life-cycle of plastic, within the context of promoting circularity and sustainable development...",
+        "In order to effectively address the plastic pollution issue, ensure the highest attainable level of ambition, and promote consistency in actions by all Parties for the purpose of monitoring global progress, the ILBI must set out the core global collective actions targeting the life-cycle of plastics and the action areas of high priority to States, particularly SIDS."
+      ],
+      "reasoning": "The document explicitly and repeatedly uses the phrase 'full life-cycle' or 'full plastic life-cycle' to describe the necessary scope of the proposed international instrument. The citations confirm that this concept is central to the instrument's ambition, its ultimate objective, and the core global actions it should contain, clearly indicating a comprehensive, 'cradle-to-grave' (and beyond, with remediation) approach."
+    },
+    "other_objectives": {
+      "value": "Promote a just, fair, and equitable transition, protecting human rights, including those of workers and Indigenous Peoples.",
+      "citation": [
+        "The legally binding instrument should include obligations to promote and protect the rights to information, public participation, and access to justice.",
+        "Promoting a just transition for waste pickers and other workers in the plastic value chain is crucial.",
+        "Additionally, we must prioritize the rights and knowledge of Indigenous Peoples in the fight against plastic pollution.",
+        "The instrument needs to ensure that the transition to a circular economy is fair and equitable for all stakeholders involved."
+      ],
+      "reasoning": "The cited texts state clear policy objectives focused on social equity, human rights, and a just transition. These goals are distinct from the pre-defined categories, which focus on environmental outcomes (ending pollution, protecting biodiversity), health, production levels, or a specific methodological approach (lifecycle). The objectives identified here are centered on ensuring the process of addressing plastic pollution is fair and respects the rights of affected communities, workers, and Indigenous Peoples."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "incentive schemes",
+        "citation": [
+          "Encouragement and development of innovative instruments and tools, including incentive schemes and private sector programmes, to prevent, reduce, and eliminate plastic pollution;"
+        ],
+        "reasoning": "The document suggests that National Action Plans could include the development of 'incentive schemes'. Incentive schemes are a form of financial incentive, which is explicitly listed in the code definition as a concept related to subsidies."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document mentions the 'polluter pays' principle, 'liability and compensation for pollution and environmental damage', and 'Extended Producer Responsibility/Liability (EPR/L)' mechanisms.",
+        "citation": [
+          "Extended Producer Responsibility/Liability (EPR/L) mechanism(s);",
+          "Finally, AOSIS continues to explore the potential options for a linkage between extended producer responsibility (EPR) and financing for developing countries, in particular SIDS, to implement the Instrument. This linkage may be grounded in, among other things, Rio principles 2 (transboundary harm), 13 (liability and compensation for pollution and environmental damage), and 16 (polluter pays)."
+        ],
+        "reasoning": "The document explicitly references the 'polluter pays' principle, which is a core penalty-based economic instrument mentioned in the code definition. It also discusses 'liability and compensation for pollution' and 'Extended Producer Responsibility/Liability (EPR/L)', which are mechanisms that assign financial responsibility and potential punitive costs to producers for environmental damage caused by their products, directly aligning with the concept of financial penalties for non-compliance or environmental harm."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document mentions the need for technology development and transfer, particularly for SIDS, in areas like waste management, recycling, and the development of alternatives. It also proposes the creation of platforms or hubs for technology development and the use of innovative instruments and incentive schemes to address plastic pollution.",
+        "citation": [
+          "Encouragement and development of innovative instruments and tools, including incentive schemes and private sector programmes, to prevent, reduce, and eliminate plastic pollution;",
+          "Technology development and transfer will, therefore, be essential for SIDS to meet their targets and obligations and meet SIDS needs in relation to, inter alia, waste management, recycling, and the development of alternatives and substitutes.",
+          "The ILBI should also seek to develop national, regional and/or international hubs or platform(s) for the development, dissemination of, and access to technology, science, data and information on plastics, sustainability and circularity."
+        ],
+        "reasoning": "The cited texts explicitly call for the 'development of innovative instruments and tools' and 'technology development' in key areas like recycling and alternatives. The proposals for 'incentive schemes' and the creation of 'hubs or platform(s) for the development... of technology' are clear mechanisms for providing financial support for research and technological development, directly matching the code's definition."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document lists 'Extended Producer Responsibility/Liability (EPR/L) mechanism(s)' as a potential core obligation and control measure. It also explores linking EPR to financing mechanisms for developing countries, grounding it in the 'polluter pays' principle.",
+        "citation": [
+          "Extended Producer Responsibility/Liability (EPR/L) mechanism(s);",
+          "Finally, AOSIS continues to explore the potential options for a linkage between extended producer responsibility (EPR) and financing for developing countries, in particular SIDS, to implement the Instrument. This linkage may be grounded in, among other things, Rio principles 2 (transboundary harm), 13 (liability and compensation for pollution and environmental damage), and 16 (polluter pays)."
+        ],
+        "reasoning": "The document explicitly lists 'Extended Producer Responsibility/Liability (EPR/L) mechanism(s)' as a core obligation for the instrument. It further elaborates on its potential application by linking EPR to financing for developing countries, which directly aligns with the definition of making producers financially responsible for the post-consumer stage of their products."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "Incorporating action by the informal plastics waste sector and waste pickers, promoting and developing green jobs in a circular economy, and using capacity building to ensure a just transition.",
+        "citation": [
+          "Promoting, encouraging and incorporating action, by all stakeholders to address plastic pollution, including the private sector, informal plastics waste sector, waste pickers, indigenous peoples and local communities to, among other things, facilitate pro-environment behaviour and regulate consumption patterns through non-regulatory and non-price means;",
+          "Promoting/developing green technology and green jobs in a circular economy in sectors related to plastic recycling;",
+          "Capacity building is a key element in ensuring that there is a just transition to a plastic pollution free future in which SIDS are not left behind."
+        ],
+        "reasoning": "The document explicitly uses the term 'just transition' and identifies key measures and vulnerable groups central to this concept. The citations call for the inclusion of the 'informal plastics waste sector' and 'waste pickers', and advocate for the creation of 'green jobs'. This directly aligns with the code definition, which seeks provisions that address the social impacts of the transition on vulnerable communities."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document proposes the elimination of hazardous chemicals, additives, and polymers; the elimination of problematic and unnecessary plastics (including single-use plastics, microplastics, and hard-to-recycle plastics); the elimination of ghost gear pollution; and prohibiting the trade of plastic waste for non-sustainability purposes.",
+        "citation": [
+          "The elimination of hazardous chemicals, additives and polymers which are harmful to the environment and human health and unfavourable to recycling (the ILBI could identify these substances based on a scientific criteria);",
+          "The elimination of problematic and unnecessary plastics (definition and criteria to be established by the ILBI, but must include single-use plastics, microplastics, and plastics that are difficult to recycle);",
+          "The elimination of ghost gear pollution in the environment, particularly the marine environment;",
+          "Prohibiting the trade of plastic waste except for the purpose of sustainability and circularity;"
+        ],
+        "reasoning": "The document explicitly lists several potential core obligations for the international instrument that fall under the definition of a ban. The cited texts use the terms 'elimination' and 'prohibiting' to describe actions against specific plastic products, materials, and related activities, directly matching the code's definition."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document proposes several global actions, including the development of a global harmonized system for design standards to promote circularity, a global harmonized system for labeling of plastics (including information on contents, composition, and recyclability), and the establishment of scientific criteria to identify and eliminate hazardous chemicals and problematic plastics.",
+        "citation": [
+          "The elimination of hazardous chemicals, additives and polymers which are harmful to the environment and human health and unfavourable to recycling (the ILBI could identify these substances based on a scientific criteria);",
+          "The elimination of problematic and unnecessary plastics (definition and criteria to be established by the ILBI, but must include single-use plastics, microplastics, and plastics that are difficult to recycle);",
+          "The development of a global harmonized system for labeling of plastics, including information on contents, composition and recyclability of plastics;",
+          "The development of a global harmonized system for design standards, and methodologies to promote circularity of plastics;",
+          "Promoting the development of regional or global harmonized arrangement(s) for design standards, and methodologies to promote circularity of plastics;"
+        ],
+        "reasoning": "The cited texts explicitly mention the development of 'design standards', a 'harmonized system for labeling', and the establishment of 'criteria' for identifying certain plastics and chemicals. These all represent performance standards as they set specifications, criteria, or requirements that products and materials must meet regarding their design, composition, and recyclability."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document calls for the development of sustainable waste management infrastructure, including for collection and recycling, and quality infrastructure services for the circular economy.",
+        "citation": [
+          "Sustainable waste management targeting accessibility, infrastructure, collection, and recycling using best practices, techniques and technology;",
+          "Development of a comprehensive and environmentally sound and sustainable waste management infrastructure;",
+          "Development of quality infrastructure services for the circular economy and sustainable alternatives."
+        ],
+        "reasoning": "The document lists the development of waste management infrastructure as a potential core global collective action and as a key area for states to consider in their National Action Plans (NAPs). Since NAPs are identified as the 'key implementation tool' under the treaty, this implies a requirement for states to develop the necessary infrastructure to meet their obligations."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "The document suggests developing global harmonized systems for both the labeling of plastics (to include content, composition, and recyclability information) and for design standards to promote circularity.",
+        "citation": [
+          "The development of a global harmonized system for labeling of plastics, including information on contents, composition and recyclability of plastics;",
+          "The development of a global harmonized system for design standards, and methodologies to promote circularity of plastics;",
+          "Promoting the development of regional or global harmonized arrangement(s) for design standards, and methodologies to promote circularity of plastics;"
+        ],
+        "reasoning": "The document proposes establishing global harmonized systems for labeling and design standards. These systems act as a form of mandatory product control, functioning similarly to certification or approval schemes by setting requirements that products must meet to be produced or traded, which directly aligns with the code's definition."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "The document proposes a global harmonized system for labeling plastics, which would include mandatory information on plastic contents, composition, and recyclability.",
+        "citation": [
+          "The development of a global harmonized system for labeling of plastics, including information on contents, composition and recyclability of plastics;"
+        ],
+        "reasoning": "The cited text explicitly proposes the development of a 'global harmonized system for labeling of plastics' as a core obligation. This directly corresponds to the code's definition by mentioning required information disclosure on product labels concerning plastic composition ('contents, composition') and recyclability."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The document proposes National Action Plans (NAPs) as the key implementation tool for the treaty. These plans should contain clear, measurable actions and targets, be subject to ex post and ex ante reviews, and would be the mechanism for states to fulfill their binding, nationally-determined actions to meet global targets.",
+        "citation": [
+          "National Action Plans (NAPs): AOSIS views NAPs as the key implementation tool under the ILBI.",
+          "The design of the NAPs framework under the Instrument must consider the need for clear measurable actions and targets, support and flexibility for SIDS in the development and implementation of NAPs, transparency, and the inadequacies and limitations of other types of action plan frameworks in other MEAs, including the Paris Agreement.",
+          "The ILBI, through its provisions, reports, guidelines and/or annexes may also define the areas of action for States to consider in developing their NAPs and the types of measures, programmes and tools which may be useful in this regard.",
+          "Binding nationally determined action via NAPs to meet the Annex targets for global collective action"
+        ],
+        "reasoning": "The document explicitly and repeatedly refers to 'National Action Plans (NAPs)' as the 'key implementation tool' for the international legally-binding instrument (ILBI). The citations show that these are envisioned as a central component of the treaty for states to implement their obligations. Appendix A further clarifies this by describing the action as 'Binding nationally determined action via NAPs', confirming their mandatory nature as per the code definition."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "Periodic reporting on national actions implemented, support provided to developing countries, monitoring and verification of plastic pollution sources and impacts, and reporting on national levels of plastic being produced, exported, imported, and recycled.",
+        "citation": [
+          "Periodic reporting on national actions implemented as a means of achieving the common objective(s) and measuring effectiveness;",
+          "Periodic reporting on support for implementation provided to developing countries, particularly SIDS, as a means of achieving the common objective(s) and measuring effectiveness;",
+          "Monitoring and verification of sources, levels, and impacts of plastic pollution on a regular basis, particularly in the marine environment, while taking into account the importance of regionally disaggregated data and information; and",
+          "Periodic reporting on national sources and levels of plastic being produced, exported, imported and recycled."
+        ],
+        "reasoning": "The document explicitly proposes a 'Transparency and reporting framework' with four specific, mandatory reporting and monitoring requirements for states. These requirements cover implementation progress, financial support, pollution data, and plastic lifecycle statistics (production, trade, recycling), directly aligning with the code's definition of mandatory reporting and data submission."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "Prohibiting the trade of plastic waste except for sustainability and circularity purposes; Periodic reporting on levels of plastic being exported and imported.",
+        "citation": [
+          "Prohibiting the trade of plastic waste except for the purpose of sustainability and circularity;",
+          "Periodic reporting on national sources and levels of plastic being produced, exported, imported and recycled."
+        ],
+        "reasoning": "The document explicitly proposes core obligations for an international instrument, including a direct trade restriction: 'Prohibiting the trade of plastic waste except for the purpose of sustainability and circularity'. It also suggests a transparency framework that includes 'Periodic reporting on national sources and levels of plastic being produced, exported, imported and recycled,' which is a trade-related notification requirement. Both points directly align with the code definition of measures affecting international trade of plastic."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": true,
+        "details": "The document suggests the encouragement and development of tools such as 'incentive schemes and private sector programmes' and the use of 'non-regulatory and non-price means' to influence behavior.",
+        "citation": [
+          "Encouragement and development of innovative instruments and tools, including incentive schemes and private sector programmes, to prevent, reduce, and eliminate plastic pollution;",
+          "Promoting, encouraging and incorporating action, by all stakeholders to address plastic pollution, including the private sector, informal plastics waste sector, waste pickers, indigenous peoples and local communities to, among other things, facilitate pro-environment behaviour and regulate consumption patterns through non-regulatory and non-price means;"
+        ],
+        "reasoning": "The document proposes that National Action Plans could include the encouragement of 'private sector programmes' and the use of 'non-regulatory... means'. These categories encompass voluntary, non-mandatory actions like certification schemes, which entities can choose to adopt to promote environmental goals, directly matching the code's definition of optional programs."
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document proposes a comprehensive transparency and reporting framework that includes: periodic reporting to measure the effectiveness of national actions; monitoring and verification of plastic pollution sources, levels, and impacts; and periodic reporting on plastic material flows (production, export, import, recycling). It also suggests reviews of National Action Plans (NAPs) and assessments of progress by scientific panels (STEPs).",
+        "citation": [
+          "promote consistency in actions by all Parties for the purpose of monitoring global progress, the ILBI must set out the core global collective actions...",
+          "AOSIS sees value in ex post and ex ante reviews of NAPs to ensure that they are sufficient to meet the obligations under the ILBI; identify any challenges in implementation; and inform any need for higher ambition.",
+          "Periodic reporting on national actions implemented as a means of achieving the common objective(s) and measuring effectiveness;",
+          "Monitoring and verification of sources, levels, and impacts of plastic pollution on a regular basis, particularly in the marine environment, while taking into account the importance of regionally disaggregated data and information;",
+          "Periodic reporting on national sources and levels of plastic being produced, exported, imported and recycled.",
+          "The STEPs could, at minimum, provide guidance on NAPs, produce reports and assessments on progress, guide adjustments and amendments toward higher ambition..."
+        ],
+        "reasoning": "The document explicitly outlines several mechanisms for monitoring. The proposed 'Transparency and reporting framework' directly calls for systems to track policy effectiveness ('measuring effectiveness'), observe pollution levels ('Monitoring and verification of sources, levels, and impacts'), and measure material flows ('reporting on national sources and levels of plastic being produced, exported, imported and recycled'). The suggested reviews of National Action Plans and assessments by scientific panels further reinforce the establishment of processes to evaluate progress and policy effectiveness, aligning perfectly with the code definition."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document proposes providing guidance through various means, including 'guidelines', 'reports', 'assessments', and the use of 'best practices'. It also suggests establishing Scientific, Technical, and Economic Panels (STEPs) to provide specific 'guidance on NAPs' and creating platforms for disseminating 'data and information'.",
+        "citation": [
+          "The ILBI, through its provisions, reports, guidelines and/or annexes may also define the areas of action for States to consider in developing their NAPs and the types of measures, programmes and tools which may be useful in this regard.",
+          "Sustainable waste management targeting accessibility, infrastructure, collection, and recycling using best practices, techniques and technology;",
+          "The STEPs could, at minimum, provide guidance on NAPs, produce reports and assessments on progress, guide adjustments and amendments toward higher ambition, and make recommendations as may be required by Parties."
+        ],
+        "reasoning": "The cited texts explicitly mention the provision of 'guidelines,' 'reports,' and 'best practices' as tools to assist states in implementation. The proposal to establish Scientific, Technical, and Economic Panels (STEPs) creates a formal mechanism specifically tasked with providing ongoing 'guidance,' 'reports,' and 'assessments' to support parties in fulfilling their obligations, confirming the use of information and guidance as a soft instrument."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Educational and awareness raising programmes, including those aimed at behavioral change and developing capacity.",
+        "citation": [
+          "Educational and awareness raising programmes on plastic pollution, including those aimed at behavioral change and developing capacity;",
+          "Promoting, encouraging and incorporating action, by all stakeholders to address plastic pollution, including the private sector, informal plastics waste sector, waste pickers, indigenous peoples and local communities to, among other things, facilitate pro-environment behaviour and regulate consumption patterns through non-regulatory and non-price means;"
+        ],
+        "reasoning": "The document explicitly lists 'Educational and awareness raising programmes on plastic pollution' as a potential area of action for States to include in their National Action Plans. These programs are noted to aim at 'behavioral change' and facilitating 'pro-environment behaviour,' which are key components of public education initiatives as defined by the code."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The document proposes the establishment of Scientific, Technical, and Economic Panels (STEPs), which would be panels of experts in plastics pollution science, technology, and socio-economic matters.",
+        "citation": [
+          "In consideration of the scientific, technical, economic, and environmental dimensions to the issue, the instrument should establish a mechanism for States to benefit from relevant expertise in these areas for the purposes of facilitating compliance, implementation, guidance and increased ambition as may be necessary.",
+          "As such, AOSIS proposes the establishment of the STEPs to do so.",
+          "Parties could be empowered to convene appropriate panels of experts qualified in plastics pollution science, technology and socio-economic matters and determine the composition and terms of reference of any such panels.",
+          "The STEPs could, at minimum, provide guidance on NAPs, produce reports and assessments on progress, guide adjustments and amendments toward higher ambition, and make recommendations as may be required by Parties."
+        ],
+        "reasoning": "The document explicitly proposes the creation of 'Scientific, technical and economic panels (STEPs)' to provide expert guidance on various aspects of the treaty's implementation, including reviewing National Action Plans, producing assessments, and guiding future ambition. This directly matches the code definition of establishing expert bodies for guidance."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document suggests several measures, including establishing platforms for developing safe and sustainable alternatives, encouraging innovative instruments and tools, promoting the development of green technology, and creating hubs for technology and science development and dissemination.",
+        "citation": [
+          "Platforms for the development of safe and sustainable alternatives and substitutes;",
+          "Encouragement and development of innovative instruments and tools, including incentive schemes and private sector programmes, to prevent, reduce, and eliminate plastic pollution;",
+          "Promoting/developing green technology and green jobs in a circular economy in sectors related to plastic recycling;",
+          "The ILBI should also seek to develop national, regional and/or international hubs or platform(s) for the development, dissemination of, and access to technology, science, data and information on plastics, sustainability and circularity."
+        ],
+        "reasoning": "The cited texts explicitly call for the 'development', 'encouragement', and 'promoting' of new alternatives, innovative tools, green technology, and scientific platforms. These actions directly match the code's definition of encouraging scientific research and innovation as a soft instrument."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes the development of global harmonized systems for the labeling of plastics and for design standards and methodologies. It also calls for simplified and harmonized access to financial resources.",
+        "citation": [
+          "The development of a global harmonized system for labeling of plastics, including information on contents, composition and recyclability of plastics;",
+          "The development of a global harmonized system for design standards, and methodologies to promote circularity of plastics;",
+          "Promoting the development of regional or global harmonized arrangement(s) for design standards, and methodologies to promote circularity of plastics;",
+          "The provision of financial resources under or outside of the instrument shall prioritize SIDS both for simplified and harmonized access to these resources as well as their allocation with minimum floor for SIDS."
+        ],
+        "reasoning": "The document explicitly uses the term 'harmonized' multiple times to describe proposed global systems and arrangements. The citations call for creating standardized, consistent approaches to plastic labeling, design standards, and access to finance across countries, which directly matches the code definition of standardizing or aligning systems and approaches."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document proposes several knowledge sharing mechanisms, including: the use of 'best practices' for waste management, the establishment of 'Scientific, technical, and economic panels (STEPs)' to provide expertise and guidance, mechanisms for 'technology development and transfer', and the development of 'national, regional and/or international hubs or platform(s)' for disseminating technology, science, data, and information.",
+        "citation": [
+          "The ILBI should also seek to develop national, regional and/or international hubs or platform(s) for the development, dissemination of, and access to technology, science, data and information on plastics, sustainability and circularity.",
+          "In consideration of the scientific, technical, economic, and environmental dimensions to the issue, the instrument should establish a mechanism for States to benefit from relevant expertise in these areas for the purposes of facilitating compliance, implementation, guidance and increased ambition as may be necessary.",
+          "Sustainable waste management targeting accessibility, infrastructure, collection, and recycling using best practices, techniques and technology;"
+        ],
+        "reasoning": "The cited texts explicitly propose the creation of mechanisms for the purpose of exchanging knowledge and building capacity. The call for 'hubs or platform(s)' for the 'dissemination of, and access to technology, science, data and information' and for panels that provide 'expertise' and 'guidance' directly aligns with the definition of knowledge sharing as a soft instrument."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [
+        "Global collective actions should include measures across the full plastic life-cycle, including global goals or targets based on best available scientific and environmental information, that States must work towards.",
+        "AOSIS views NAPs as the key implementation tool under the ILBI. However, the design of the NAPs framework under the Instrument must consider the need for clear measurable actions and targets...",
+        "Annex: Quantitative Targets for Global Action"
+      ],
+      "reasoning": "The document explicitly states the need for 'global goals or targets' and 'clear measurable actions and targets' within National Action Plans (NAPs). It even proposes a structure with a specific annex for 'Quantitative Targets for Global Action'. However, the document itself does not define or propose any specific, measurable targets with concrete numbers, percentages, or deadlines. It only advocates for their inclusion in the future instrument."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "The document proposes the development and sourcing of safe and sustainable alternatives and substitutes to plastics, which addresses the raw materials used for production.",
+        "citation": [
+          "Platforms for the development of safe and sustainable alternatives and substitutes;",
+          "Development and sourcing of safe and sustainable alternatives to plastics;",
+          "Technology development and transfer will, therefore, be essential for SIDS to meet their targets and obligations and meet SIDS needs in relation to, inter alia, waste management, recycling, and the development of alternatives and substitutes."
+        ],
+        "reasoning": "The document repeatedly calls for the development, sourcing, and use of 'safe and sustainable alternatives and substitutes' for plastics. This directly addresses the feedstock stage of the value chain by promoting a shift away from conventional plastic raw materials to alternative ones. The citations identify this as a core obligation, a key area for National Action Plans, and a focus for technology transfer."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "Elimination of hazardous polymers, sustainable production of plastics, and reporting on national levels of plastic being produced.",
+        "citation": [
+          "The elimination of hazardous chemicals, additives and polymers which are harmful to the environment and human health and unfavourable to recycling (the ILBI could identify these substances based on a scientific criteria);",
+          "Sustainable design, production and consumption of plastics broadly;",
+          "Periodic reporting on national sources and levels of plastic being produced, exported, imported and recycled."
+        ],
+        "reasoning": "The document explicitly mentions measures targeting the production stage. The citations refer to eliminating specific harmful polymers (the building blocks of plastic), implementing sustainable production practices, and mandating reporting on the quantity of plastic being produced, all of which are core elements of the manufacturing and creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document suggests developing a global and/or regional harmonized system for design standards and methodologies to promote the circularity of plastics. It also lists sustainable design as a key area for states to consider in their National Action Plans.",
+        "citation": [
+          "The development of a global harmonized system for design standards, and methodologies to promote circularity of plastics;",
+          "Promoting the development of regional or global harmonized arrangement(s) for design standards, and methodologies to promote circularity of plastics; and",
+          "Sustainable design, production and consumption of plastics broadly;"
+        ],
+        "reasoning": "The document explicitly lists the development of 'design standards' to promote circularity as a core global action. It also includes 'sustainable design' as a recommended area for states to address in their National Action Plans, directly aligning with the code's definition of measures addressing how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": true,
+        "chemicals_addressed": true,
+        "details": "Elimination of hazardous chemicals, additives, and polymers; Elimination of problematic plastics, including microplastics; Development of a global harmonized system for design standards; Harmonized labeling for contents and composition.",
+        "citation": [
+          "The elimination of hazardous chemicals, additives and polymers which are harmful to the environment and human health and unfavourable to recycling (the ILBI could identify these substances based on a scientific criteria);",
+          "The elimination of problematic and unnecessary plastics (definition and criteria to be established by the ILBI, but must include single-use plastics, microplastics, and plastics that are difficult to recycle);",
+          "The development of a global harmonized system for labeling of plastics, including information on contents, composition and recyclability of plastics;",
+          "The development of a global harmonized system for design standards, and methodologies to promote circularity of plastics;"
+        ],
+        "reasoning": "The document explicitly proposes core obligations for an international legally-binding instrument that target the product production stage. The citations call for the elimination of specific components used in manufacturing, such as hazardous chemicals, additives, and intentionally used microplastics. Furthermore, the document advocates for the creation of harmonized design standards and labeling systems, which are key aspects of regulating how plastic products are made and what they contain."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "Prevention and mitigation of adverse impacts on supply chains and trade; Periodic reporting on levels of plastic being exported and imported.",
+        "citation": [
+          "Prevention and mitigation of adverse impacts on economies, supply chains, trade, and consumers, particularly in developing countries.",
+          "Periodic reporting on national sources and levels of plastic being produced, exported, imported and recycled."
+        ],
+        "reasoning": "The document explicitly calls for measures to mitigate adverse impacts on 'supply chains' and 'trade'. It also proposes a specific measure to track and report on the 'exported' and 'imported' levels of plastics, which are core activities within the distribution and transportation phase of the plastic value chain before products reach the consumer."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "Sustainable consumption of plastics, regulating consumption patterns, behavioral change through education and awareness programs, elimination of single-use plastics, and mitigation of adverse impacts on consumers.",
+        "citation": [
+          "Sustainable design, production and consumption of plastics broadly;",
+          "The elimination of problematic and unnecessary plastics (definition and criteria to be established by the ILBI, but must include single-use plastics, microplastics, and plastics that are difficult to recycle);",
+          "Educational and awareness raising programmes on plastic pollution, including those aimed at behavioral change and developing capacity;",
+          "Promoting, encouraging and incorporating action, by all stakeholders to address plastic pollution... to, among other things, facilitate pro-environment behaviour and regulate consumption patterns through non-regulatory and non-price means;"
+        ],
+        "reasoning": "The document explicitly includes measures addressing the consumption phase. It calls for \"Sustainable design, production and consumption of plastics broadly\" and actions to \"regulate consumption patterns.\" It also specifically addresses single-use products by calling for the \"elimination of problematic and unnecessary plastics\" which \"must include single-use plastics.\" Additionally, it suggests fostering consumer \"behavioral change\" through educational programs, directly aligning with the code's definition of addressing consumer behavior."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "Sustainable waste management targeting collection.",
+        "citation": [
+          "Sustainable waste management targeting accessibility, infrastructure, collection, and recycling using best practices, techniques and technology;"
+        ],
+        "reasoning": "The document explicitly lists 'Sustainable waste management targeting ... collection' as a core global action that could be included in the legally binding instrument. This directly addresses the gathering of post-consumer plastic waste."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "Sustainable waste management targeting accessibility, infrastructure, collection, and recycling; prohibiting trade of plastic waste; development of a comprehensive waste management infrastructure; involvement of the informal plastics waste sector and waste pickers; and technology for waste management and recycling.",
+        "citation": [
+          "Sustainable waste management targeting accessibility, infrastructure, collection, and recycling using best practices, techniques and technology;",
+          "Prohibiting the trade of plastic waste except for the purpose of sustainability and circularity;",
+          "Development of a comprehensive and environmentally sound and sustainable waste management infrastructure;",
+          "Technology development and transfer will, therefore, be essential for SIDS to meet their targets and obligations and meet SIDS needs in relation to, inter alia, waste management, recycling, and the development of alternatives and substitutes."
+        ],
+        "reasoning": "The document explicitly lists 'Sustainable waste management' as a core global action, detailing its components like infrastructure, collection, and recycling. It further suggests measures like prohibiting plastic waste trade and developing technology for waste management, all of which are key activities in the handling and processing of plastic waste after it has been used and collected."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Making plastics more favourable to recycling, eliminating difficult-to-recycle plastics, establishing a harmonized labeling system for recyclability, including recycling in sustainable waste management, promoting green technology and jobs in the plastic recycling sector, periodic reporting on recycled plastic levels, and technology development and transfer for recycling.",
+        "citation": [
+          "The elimination of hazardous chemicals, additives and polymers which are harmful to the environment and human health and unfavourable to recycling (the ILBI could identify these substances based on a scientific criteria);",
+          "The elimination of problematic and unnecessary plastics (definition and criteria to be established by the ILBI, but must include single-use plastics, microplastics, and plastics that are difficult to recycle);",
+          "Sustainable waste management targeting accessibility, infrastructure, collection, and recycling using best practices, techniques and technology;",
+          "Periodic reporting on national sources and levels of plastic being produced, exported, imported and recycled.",
+          "Promoting/developing green technology and green jobs in a circular economy in sectors related to plastic recycling;",
+          "Technology development and transfer will, therefore, be essential for SIDS to meet their targets and obligations and meet SIDS needs in relation to, inter alia, waste management, recycling, and the development of alternatives and substitutes."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'recycling', 'recyclability', and related concepts as key areas for global action and national implementation. The citations highlight proposed core obligations to make plastics more suitable for recycling, develop recycling as part of waste management infrastructure, track recycling rates through reporting, and facilitate technology transfer specifically for recycling purposes, which directly aligns with the code definition."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document suggests measures for the remediation of existing plastic pollution in the environment, including the marine environment and areas beyond national jurisdiction. It also mentions addressing 'past' plastic pollution and considers a trust fund specifically for remediation activities.",
+        "citation": [
+          "A high level of initial ambition for all stakeholders across the full-life cycle of plastics, including remediation;",
+          "The formulation of the objective must also be conducive for ensuring the scope of the Instrument includes, inter alia, the full life-cycle of plastics... and past, present and future plastic pollution in all environments, including areas beyond national jurisdiction.",
+          "The remediation of plastic pollution in the environment, including the marine environment and areas beyond national jurisdiction.",
+          "AOSIS is also considering the possibility of a trust fund that would specifically target remediation of plastic pollution in the marine environment."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'remediation' and addressing 'past... plastic pollution' as key components to be included in the international instrument. These terms directly align with the code definition of addressing existing pollution and cleaning up already-polluted areas. The proposal for a specific trust fund further validates the inclusion of this measure."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document specifies a goal to conclude the instrument by the end of 2024, with implementation to be carried out via a 'phased approach' and supported by 'periodic' reporting and updates.",
+        "citation": [
+          "With the ambitious goal of concluding this Instrument by the end of 2024, this next INC will be critical in charting our path toward completing our work and solving the plastic crisis.",
+          "Global Collective Action to be implemented by a phased approach via Nationally-determined Action (NAPs)",
+          "Periodic reporting on national actions implemented as a means of achieving the common objective(s) and measuring effectiveness;",
+          "We therefore continue to strongly consider the need for an Instrument supported by annexes capable of periodic updates to continuously drive ambition and incorporate developments in science, information and technology."
+        ],
+        "reasoning": "The document provides a specific deadline for the negotiation phase ('end of 2024'), describes the implementation strategy as a 'phased approach', and mentions recurring, time-based actions like 'periodic reporting' and 'periodic updates'. These elements collectively define a specified timeframe for the instrument's creation and execution."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes a legally binding instrument with mandatory processes. It details 'binding nationally determined action' through National Action Plans (NAPs), which would undergo 'ex post and ex ante reviews' by proposed Scientific, Technical, and Economic Panels (STEPs) to ensure compliance and sufficiency. It also includes a transparency and reporting framework for accountability and suggests 'binding financial obligations' for developed countries.",
+        "citation": [
+          "The UNEA mandate resolution is clear. The purpose of the new internationally legally-binding instrument is to “end plastic pollution.\"",
+          "For the small islands, a plastic pollution instrument that has the same institutional structure and level of ambition as the Paris Agreement would be unacceptable.",
+          "A mandatory process to increase the stringency and breadth of the actions undertaken by the regime, based on best available science, economics, technology and traditional knowledge;",
+          "AOSIS sees value in ex post and ex ante reviews of NAPs to ensure that they are sufficient to meet the obligations under the ILBI; identify any challenges in implementation; and inform any need for higher ambition.",
+          "The binding financial obligation on developed countries would be to cover the NBIs for all obligations."
+        ],
+        "reasoning": "The document explicitly calls for an 'internationally legally-binding instrument' and rejects the Paris Agreement's level of ambition as 'unacceptable,' indicating a desire for a stricter framework. The proposals for a 'mandatory process' to increase stringency, 'binding' national actions, and specific review mechanisms like 'ex post and ex ante reviews of NAPs' demonstrate a clear preference for a high-stringency model with robust compliance and enforcement measures."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global, internationally legally-binding instrument that is implemented through nationally-determined actions and National Action Plans (NAPs).",
+        "citation": [
+          "The UNEA mandate resolution is clear. The purpose of the new internationally legally-binding instrument is to “end plastic pollution.\"",
+          "We therefore take this opportunity to suggest that the Instrument be designed with the ambitious global collective actions required to end plastic pollution, while affording States the flexibility to determine the national actions required to progressively fulfill them...",
+          "Nationally-determined actions are the domestic measures to be taken by States to implement the global actions, taking into account their national circumstances and capabilities...",
+          "National Action Plans (NAPs): AOSIS views NAPs as the key implementation tool under the ILBI."
+        ],
+        "reasoning": "The document explicitly discusses the creation of an \"internationally legally-binding instrument\" which defines the scope as global. It then details that the implementation of this global instrument will be carried out at the national level through \"Nationally-determined actions\" and \"National Action Plans (NAPs),\" which are described as the \"key implementation tool.\""
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "Financing from non-state actors (which includes the private sector) and a potential linkage between extended producer responsibility (EPR) and financing for developing countries.",
+      "citation": [
+        "There must be multiple sources of finance for the agreement including both States and non-state actors.",
+        "Finally, AOSIS continues to explore the potential options for a linkage between extended producer responsibility (EPR) and financing for developing countries, in particular SIDS, to implement the Instrument.",
+        "These domestic measures will also include regulatory actions to manage the non-state actors–such as the private sector, within their jurisdiction and control."
+      ],
+      "reasoning": "The document explicitly states that financing should come from multiple sources, including 'non-state actors'. An earlier section defines 'non-state actors' as including 'the private sector'. Furthermore, it specifically identifies exploring 'extended producer responsibility (EPR)' as a financing mechanism, which is a policy approach where producers (private sector entities) are given financial responsibility for post-consumer products."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document proposes that financing should come from states, with specific, clear, and binding financial obligations on developed countries to provide support. This support is intended to cover the costs associated with National Action Plans (NAPs), which are determined by calculating their implications for national budgets.",
+      "citation": [
+        "MOI must be new, additional, adequate and predictable, with specific support provisions for SIDS including priority access, & clear obligations on developed countries to provide, and report on, support.",
+        "There must be multiple sources of finance for the agreement including both States and non-state actors.",
+        "The corresponding implications on national budgets should then be costed.",
+        "The binding financial obligation on developed countries would be to cover the NBIs for all obligations."
+      ],
+      "reasoning": "The citations explicitly mention 'States' and 'developed countries' as key sources of finance. The text establishes a direct link to public financing by stating that financial needs should be determined by costing the 'implications on national budgets' and that developed countries should have a 'binding financial obligation' to cover these costs."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document proposes a financial mechanism, a potential trust fund, and a binding financial obligation on developed countries to provide support.",
+      "citation": [
+        "To this end, the Instrument must establish a financial mechanism that has the ability to designate one or more entities that would be entrusted with its operation.",
+        "AOSIS is also considering the possibility of a trust fund that would specifically target remediation of plastic pollution in the marine environment.",
+        "The binding financial obligation on developed countries would be to cover the NBIs for all obligations."
+      ],
+      "reasoning": "The document explicitly proposes the creation of a 'financial mechanism' and a 'trust fund' within the framework of the international instrument, which are by nature international financing sources. Furthermore, it calls for a 'binding financial obligation on developed countries' to fund the implementation for developing countries, which constitutes international donor contributions."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "Extended Producer Responsibility (EPR), polluter pays principle",
+      "citation": [
+        "Extended Producer Responsibility/Liability (EPR/L) mechanism(s);",
+        "Finally, AOSIS continues to explore the potential options for a linkage between extended producer responsibility (EPR) and financing for developing countries, in particular SIDS, to implement the Instrument.",
+        "This linkage may be grounded in, among other things, Rio principles 2 (transboundary harm), 13 (liability and compensation for pollution and environmental damage), and 16 (polluter pays)."
+      ],
+      "reasoning": "The document proposes 'Extended Producer Responsibility/Liability (EPR/L)' as a core obligation and explicitly explores linking EPR to financing for developing countries. EPR schemes are a form of financing based on fees paid by producers, directly aligning with the 'polluter pays' principle, which is also cited as a justification for this linkage."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "Financing from non-state actors.",
+      "citation": [
+        "There must be multiple sources of finance for the agreement including both States and non-state actors.",
+        "Further to the actions required of non-state actors domestically by States, non-state actor action should also consist of additional actions that non-state actors commit themselves to."
+      ],
+      "reasoning": "The document explicitly identifies 'non-state actors' as a required source of finance alongside states. While developed countries are described as having 'binding financial obligations,' contributions from non-state actors (which include the private sector and philanthropic entities) are typically voluntary. The mention of 'additional actions that non-state actors commit themselves to' further supports the concept of voluntary contributions."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document mentions several responsibilities for the production sector, including: Extended Producer Responsibility/Liability (EPR/L), developing global harmonized design standards, promoting circularity of plastics, sustainable design and production, and contributing to financing for implementation based on the 'polluter pays' principle.",
+      "citation": [
+        "The development of a global harmonized system for design standards, and methodologies to promote circularity of plastics;",
+        "Extended Producer Responsibility/Liability (EPR/L) mechanism(s);",
+        "Sustainable design, production and consumption of plastics broadly;",
+        "Finally, AOSIS continues to explore the potential options for a linkage between extended producer responsibility (EPR) and financing for developing countries, in particular SIDS, to implement the Instrument. This linkage may be grounded in, among other things, Rio principles 2 (transboundary harm), 13 (liability and compensation for pollution and environmental damage), and 16 (polluter pays)."
+      ],
+      "reasoning": "The cited texts explicitly name policies and actions that are the responsibility of the production sector. 'Extended Producer Responsibility/Liability (EPR/L)' is a policy model that assigns financial and/or physical responsibility to producers for the post-consumer stage of a product's life cycle. The calls for 'sustainable design' and 'design standards' directly target the manufacturing phase controlled by producers. Furthermore, linking EPR to the 'polluter pays' principle clearly assigns financial responsibility to the production sector for the environmental impact of their products."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document suggests that National Action Plans should include educational and awareness programs aimed at consumer behavioral change, as well as measures to facilitate pro-environmental behavior and regulate consumption patterns.",
+      "citation": [
+        "Educational and awareness raising programmes on plastic pollution, including those aimed at behavioral change and developing capacity;",
+        "Promoting, encouraging and incorporating action, by all stakeholders to address plastic pollution, including the private sector, informal plastics waste sector, waste pickers, indigenous peoples and local communities to, among other things, facilitate pro-environment behaviour and regulate consumption patterns through non-regulatory and non-price means;"
+      ],
+      "reasoning": "The document assigns an indirect responsibility to consumers by identifying them as the target for key implementation measures. The citations show that National Action Plans, a core tool of the proposed instrument, are expected to include programs designed to foster 'behavioral change' and 'regulate consumption patterns' among the public, which are key consumer responsibilities in addressing plastic pollution."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document outlines several key responsibilities for the waste management sector, including: implementing sustainable waste management practices (covering accessibility, infrastructure, collection, and recycling); developing comprehensive, environmentally sound waste management infrastructure; managing the trade of plastic waste; promoting green technology and jobs in plastic recycling; and incorporating the informal waste sector and waste pickers into the system.",
+      "citation": [
+        "Sustainable waste management targeting accessibility, infrastructure, collection, and recycling using best practices, techniques and technology;",
+        "Prohibiting the trade of plastic waste except for the purpose of sustainability and circularity;",
+        "Development of a comprehensive and environmentally sound and sustainable waste management infrastructure;",
+        "Promoting, encouraging and incorporating action, by all stakeholders to address plastic pollution, including the private sector, informal plastics waste sector, waste pickers, indigenous peoples and local communities...",
+        "Promoting/developing green technology and green jobs in a circular economy in sectors related to plastic recycling;"
+      ],
+      "reasoning": "The document explicitly lists 'Sustainable waste management' as a core global action and the 'Development of a comprehensive and environmentally sound and sustainable waste management infrastructure' as a key implementation measure for states to consider in their National Action Plans. These citations directly assign roles and obligations to the entities responsible for handling waste and recycling, clearly defining their expected contributions to ending plastic pollution."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "The document suggests that National Action Plans (NAPs) should include measures to promote, encourage, and incorporate actions by the informal plastics waste sector and waste pickers as key stakeholders in addressing plastic pollution.",
+      "citation": [
+        "Promoting, encouraging and incorporating action, by all stakeholders to address plastic pollution, including the private sector, informal plastics waste sector, waste pickers, indigenous peoples and local communities to, among other things, facilitate pro-environment behaviour and regulate consumption patterns through non-regulatory and non-price means;"
+      ],
+      "reasoning": "The cited text explicitly names the 'informal plastics waste sector' and 'waste pickers' as stakeholders whose actions should be part of the measures considered in developing National Action Plans (NAPs). This directly matches the code definition by identifying a role for the informal sector in the plastic management system."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines numerous government responsibilities, referring to them as 'States'. These include determining and implementing national actions (NAPs), undertaking regulatory actions to manage non-state actors, developing policy and legislative frameworks, creating waste management infrastructure, periodic reporting on implementation and pollution levels, monitoring and verification, and for developed countries, providing financial and technical support to developing nations.",
+      "citation": [
+        "Nationally-determined actions are the domestic measures to be taken by States to implement the global actions, taking into account their national circumstances and capabilities, including their respective economies, industry conditions and capacity-constraints. These domestic measures will also include regulatory actions to manage the non-state actors–such as the private sector, within their jurisdiction and control.",
+        "In addition to States' regulation of non-state actors, States should also be encouraged to collaborate and partner with non-state actors, where appropriate, to meet the targets and goals outlined in their NAPS.",
+        "Periodic reporting on national actions implemented as a means of achieving the common objective(s) and measuring effectiveness;",
+        "Development of appropriate policy, legislative frameworks and institutional infrastructure toward the achievement of the ultimate objective of the ILBI;"
+      ],
+      "reasoning": "The document consistently refers to the obligations of 'States' (national governments) within the proposed international legally-binding instrument. The citations directly state that States are responsible for taking domestic measures, implementing regulatory actions, regulating non-state actors, reporting on their progress, and developing policy and legislative frameworks, which are all core governmental responsibilities."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "The document outlines roles for 'non-state actors' (a category including NGOs) such as: making independent commitments to action, partnering with states to achieve National Action Plan (NAP) goals, contributing to financing mechanisms, and being formally engaged in the new treaty regime through a multistakeholder action agenda.",
+      "citation": [
+        "In addition to States' regulation of non-state actors, States should also be encouraged to collaborate and partner with non-state actors, where appropriate, to meet the targets and goals outlined in their NAPS.",
+        "There must be multiple sources of finance for the agreement including both States and non-state actors.",
+        "AOSIS is of the view that the INC in its work should continue to consider possible ILBI arrangements and/or mechanisms for engaging non-state actors in the new regime and promoting and encouraging actions by non-state actors.",
+        "Non-State Actor Commitments may contribute to Global Collective Action & be combined with States' NAPs through partnerships"
+      ],
+      "reasoning": "The document explicitly and repeatedly calls for the involvement of 'non-state actors' and 'stakeholders,' which are standard terms that encompass NGOs and civil society. The cited passages directly assign responsibilities to these groups, including collaboration with states on national plans, contributing to financing, and participating in the treaty's implementation framework, thereby validating the code."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "Providing the mandate for the creation of the new internationally legally-binding instrument and defining its core objective to 'end plastic pollution'.",
+      "citation": [
+        "The UNEA mandate resolution is clear.",
+        "The purpose of the new internationally legally-binding instrument is to “end plastic pollution.\"",
+        "The objective must also take into account the goal articulated by the title of the mandate resolution: to “end plastic pollution.”"
+      ],
+      "reasoning": "The document explicitly grounds the entire purpose and objective of the proposed international instrument in the \"UNEA mandate resolution.\" The United Nations Environment Assembly (UNEA) is a core part of the UN system. By providing the mandate, the UNEA has fulfilled a critical responsibility in initiating and defining the scope of the international legal process to address plastic pollution."
+    }
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "submission_metadata": {
+    "country": "Iceland",
+    "date": "2023-05-04",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": true,
+      "timeframe": "by 2040",
+      "citation": [
+        "Proposed Objective: To end plastic pollution and protect the environment and human health from plastic pollution",
+        "The ultimate goal of the new instrument should be to end plastic pollution, and the main reasons for this - protecting the environment and human health – should be spelled out, for the sake of clarity and in line with many other multilateral agreements tackling pollution.",
+        "Iceland supports a goal of ending plastic pollution by 2040."
+      ],
+      "reasoning": "The document explicitly states the proposed objective is 'To end plastic pollution' and reinforces this by stating the 'ultimate goal...should be to end plastic pollution.' A specific timeframe is also clearly mentioned, with Iceland supporting 'a goal of ending plastic pollution by 2040.'"
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "It should contain criteria, based on science, as a basis for bans and restrictions of substances used in plastics production.",
+        "The instrument should contain a general obligation for Parties to ban or restrict the production and use of unnecessary and harmful plastic products, as well as a list of single-use products and other products that should be banned or phased out, and a list of criteria for the identification of such products.",
+        "This would reduce the demand for primary production of plastics and reduce waste and release of pollution into the environment."
+      ],
+      "reasoning": "The document explicitly calls for the instrument to include obligations to 'ban or restrict the production' of specific harmful plastic products and to place 'restrictions of substances used in plastics production'. It also notes that increasing circularity would 'reduce the demand for primary production of plastics'. These points directly align with the code definition of controlling or reducing plastic production. However, no specific quantitative targets (e.g., percentage reductions, caps) are mentioned, so 'specification_provided' is false."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document proposes protecting human health as a primary objective of the instrument, specifically mentioning concerns about harmful chemicals and polymers used in plastics and the health benefits of improved waste management.",
+      "citation": [
+        "Proposed Objective: To end plastic pollution and protect the environment and human health from plastic pollution",
+        "The ultimate goal of the new instrument should be to end plastic pollution, and the main reasons for this - protecting the environment and human health – should be spelled out...",
+        "Some chemicals and polymers used in plastics are harmful to human health and the environment and/or prevent effective recycling.",
+        "Improved management of plastic waste will not only result in less plastic pollution, but will require better general waste management, with positive overall results regarding pollution prevention, human health and environmental protection."
+      ],
+      "reasoning": "The document explicitly and repeatedly states that protecting human health is a core objective of the proposed instrument. The citations directly name 'human health' as a key reason for ending plastic pollution and identify specific threats, such as 'harmful' chemicals and polymers in plastics, reinforcing the focus on this objective."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "Proposed Objective: To end plastic pollution and protect the environment and human health from plastic pollution",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "There is, however, a significant amount of plastic pollution already in the environment, including in the oceans. The instrument should address the issue of existing plastic pollution in the environment, including in the oceans, in addition to preventing further plastic pollution.",
+        "The actions aim to reduce domestic use of plastics, increase recycling of plastic waste that is generated in Iceland and address plastic pollution in Icelandic seas."
+      ],
+      "reasoning": "The document explicitly establishes the protection of the environment as a primary objective. It consistently highlights a specific concern for marine ecosystems, using phrases like 'including in the marine environment,' 'including in the oceans,' and referencing national actions to address pollution 'in Icelandic seas.' This demonstrates a clear intent to protect biodiversity with a strong emphasis on the marine domain."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "Achieving a circular economy for plastics and plastic products, addressing all stages of the life cycle, is of central importance in reaching the instrument's objective."
+      ],
+      "reasoning": "The document explicitly responds to a prompt about addressing plastic pollution 'throughout the full life cycle' and directly states that 'addressing all stages of the life cycle' is of central importance. The subsequent recommendations confirm this full coverage by proposing measures that span from production (eliminating polymers/chemicals) and design (circularity, reusability) to waste management (collection, recycling) and even addressing existing pollution (clean-up)."
+    },
+    "other_objectives": {
+      "value": "Foster a circular economy, promote sustainable production and consumption patterns, and establish international cooperation.",
+      "citation": [
+        "A key goal is to foster a circular economy where plastics are designed to be reused, remanufactured, or recycled, thus retained in the economy as a resource rather than becoming waste.",
+        "This transition should also promote sustainable production and consumption patterns.",
+        "To be effective, the instrument must also include robust mechanisms for international cooperation, including financial and technical assistance, to support all countries in its implementation."
+      ],
+      "reasoning": "The document outlines several objectives that are distinct from the pre-defined categories. It specifies the goal of creating a 'circular economy' and promoting 'sustainable production and consumption patterns,' which are specific systemic and economic models for managing resources. These go beyond just a 'lifecycle approach' by prescribing a particular system. Additionally, the text explicitly states the objective of establishing 'international cooperation' with financial and technical support, which is a procedural and enabling goal focused on the successful implementation of the treaty rather than the direct management of plastics."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any tax-related measures. The proposed actions focus on regulatory approaches such as bans, restrictions, design requirements (e.g., minimum recycled content), and improved waste management, rather than fiscal or economic instruments like taxes, duties, or tax incentives."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "Financial assistance to support developing country Parties in implementing the instrument.",
+        "citation": [
+          "The instrument should contain provisions relating to means of implementation and support for Parties, especially developing country Parties, including on capacity-building, technical assistance, technology transfer and financial assistance."
+        ],
+        "reasoning": "The document explicitly states that the instrument should include provisions for \"financial assistance\" and \"support for Parties,\" particularly for developing nations. This aligns with the code's definition, which includes \"financial support\" as a relevant concept."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document suggests the international instrument should encourage cooperation in research across the entire plastic life cycle, from production to circularity to pollution prevention and cleanup.",
+        "citation": [
+          "The instrument should contain provisions that encourage cooperation in research regarding all elements of the instrument, from plastic production to circularity to pollution prevention and clean up."
+        ],
+        "reasoning": "The text explicitly proposes that the instrument should include provisions to 'encourage cooperation in research' across all stages of the plastic life cycle. This aligns with the code definition as it points towards supporting research and development activities, even though the specific term 'funding' is not used. Encouraging cooperation within a formal instrument implies establishing mechanisms for support."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document proposes to eliminate, restrict, ban, or phase out specific plastic polymers, chemicals, additives, and products of concern, including unnecessary, harmful, and single-use plastic products.",
+        "citation": [
+          "The instrument should contain a general obligation for Parties to eliminate and restrict such substances, as well as a list of chemicals, polymers and additives which should be banned or restricted.",
+          "The aim of the instrument should be to phase out such products and to encourage sustainable and non-polluting substitutes, where substitutes would be needed.",
+          "The instrument should contain a general obligation for Parties to ban or restrict the production and use of unnecessary and harmful plastic products, as well as a list of single-use products and other products that should be banned or phased out, and a list of criteria for the identification of such products."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for the new instrument to include legally binding obligations for parties to 'ban', 'eliminate', 'restrict', and 'phase out' specific plastic materials and products. The citations directly use these terms, aligning perfectly with the code definition of prohibitions on plastic products, materials, or additives."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document suggests establishing criteria for plastic products, including standards for durability, reusability, recyclability, and requirements for minimum recycled content. It also proposes harmonized requirements for product information and labelling, and science-based criteria for banning or restricting certain substances.",
+        "citation": [
+          "It should contain criteria, based on science, as a basis for bans and restrictions of substances used in plastics production.",
+          "Transparency needs to be ensured regarding the contents and composition of plastic products, inter alia through harmonized requirements for product information and labelling.",
+          "The criteria listed could include durability, reusability, recyclability and requirement for minimum recycled content."
+        ],
+        "reasoning": "The document explicitly proposes that the international instrument should list specific criteria that products must meet. These criteria—durability, reusability, recyclability, minimum recycled content, and harmonized labelling—are all forms of performance standards that regulate the characteristics and design of products to enhance their circularity and reduce their environmental impact."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document specifies obligations for parties to implement systems for waste sorting, separate collection, recycling, and energy conversion for non-recyclable plastic waste.",
+        "citation": [
+          "This should include an obligation to sort, separately collect and recycle plastic waste, to convert plastic waste not fit for recycling into energy and to ensure that plastic waste that goes to disposal does not enter the environment as pollution."
+        ],
+        "reasoning": "The cited text explicitly states that the treaty should include an 'obligation' for parties to implement specific waste management processes. These processes, such as sorting, separate collection, recycling, and waste-to-energy conversion, inherently require the establishment of physical infrastructure (e.g., sorting facilities, separate collection bins and vehicles, recycling plants, and energy conversion facilities) to be carried out effectively."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "The document suggests criteria for increasing plastic circularity, including a specific requirement for minimum recycled content in products. This implies a need for a verification or certification system to confirm compliance.",
+        "citation": [
+          "The instrument should contain a general obligation for Parties to take measures to increase the circularity of plastics in use, in line with criteria listed in the instrument.",
+          "The criteria listed could include durability, reusability, recyclability and requirement for minimum recycled content."
+        ],
+        "reasoning": "The text calls for a 'requirement for minimum recycled content' as a criterion for circularity. To enforce such a requirement, a verification or certification scheme would be necessary to prove that a product meets the mandated recycled content level. This falls directly under the code definition of a 'verification system that controls what types of plastics can be produced or traded'."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "The document calls for ensuring transparency about the contents and composition of plastic products through harmonized requirements for product information and labelling.",
+        "citation": [
+          "Transparency needs to be ensured regarding the contents and composition of plastic products, inter alia through harmonized requirements for product information and labelling."
+        ],
+        "reasoning": "The cited text explicitly proposes 'harmonized requirements for product information and labelling' as a necessary measure. This directly corresponds to the code's definition, which seeks mentions of required product labels or information disclosure about plastic composition."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National Action Plans",
+        "citation": [
+          "Iceland sees National Action Plans playing a key role in ensuring the implementation and success of the instrument.",
+          "National Action Plans should aim to implement the core obligations of the global instrument, establish national goals and targets in line with global goals, prescripe action to reach those goals and reflect upon progress in this regard.",
+          "The instrument should include guidelines for Parties in developing National Action Plans, including on elements like goals and targets, measures and actions, baselines for assessment and monitoring progress.",
+          "National Action Plans would form the basis for national reporting to the governing body of the instrument."
+        ],
+        "reasoning": "The document explicitly proposes 'National Action Plans' as a key implementation measure for the instrument. The citations confirm that these plans are envisioned as a mandatory tool for countries to implement core obligations, set national goals, and serve as the basis for required national reporting, directly matching the code definition."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The submission calls for mandatory national reporting based on National Action Plans. The reporting should cover requirements such as baselines, metrics, progress towards goals and targets, and various indicators.",
+        "citation": [
+          "Regular national reporting to the instrument is essential for its success, and the instrument should contain provisions on mandatory reporting.",
+          "National Action Plans would form the basis for national reporting to the governing body of the instrument.",
+          "Those provisions should outline reporting requirements, including on baselines, metrics, progress towards goals and targets, indicators etc."
+        ],
+        "reasoning": "The document explicitly states that the instrument 'should contain provisions on mandatory reporting'. It further details the content of these reports, specifying they should be based on National Action Plans and include metrics for assessing progress, which directly aligns with the code definition."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "Specification of trade requirements for listed harmful substances (chemicals, polymers) and plastic products, applicable to both Parties and non-Parties to the instrument.",
+        "citation": [
+          "Trade requirements need to be specified for listed substances and products, applicable to Parties and non-Parties to the instrument."
+        ],
+        "reasoning": "The document explicitly states that 'Trade requirements need to be specified' for certain substances and products that are banned or restricted under the proposed instrument. This directly aligns with the code's definition of measures affecting international trade of plastics."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "Baselines for assessment; monitoring progress of national action plans; periodic assessment of the instrument's effectiveness; increased and improved monitoring of plastic pollution (including in the oceans); and enhanced and coordinated data collection. Specific examples mentioned include monitoring under the Arctic Council (AMAP) and the OSPAR Convention.",
+        "citation": [
+          "The instrument should include guidelines for Parties in developing National Action Plans, including on elements like goals and targets, measures and actions, baselines for assessment and monitoring progress.",
+          "Reporting should be used by the governing body of the instrument for periodic assessment of its effectiveness and of progress towards established goals and targets.",
+          "Increased and improved monitoring of plastic pollution, including in the oceans, would support the drafting and implementation of the instrument.",
+          "The instrument could contain provisions on how to enhance and coordinate data collection and monitoring of plastic pollution in order to give a truly global picture of the state and trends in pollution."
+        ],
+        "reasoning": "The document explicitly calls for monitoring in several contexts. It suggests 'monitoring progress' of National Action Plans and using reporting for 'periodic assessment of its effectiveness'. Furthermore, it directly advocates for 'Increased and improved monitoring of plastic pollution' and enhancing 'data collection and monitoring' to get a global picture of pollution trends, even citing existing monitoring programs Iceland participates in."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document suggests including guidelines for developing National Action Plans, guidelines to support the substitution of plastics by environmentally sound materials, criteria for identifying products to be phased out, criteria for circularity (e.g., durability, reusability), guidelines for addressing existing pollution, and guidelines for national reporting.",
+        "citation": [
+          "The instrument could include guidelines to support the substitution of plastics by environmentally sound materials.",
+          "It should contain a general obligation for Parties to address existing pollution, and list relevant criteria and/or guidelines in that regard, such as regarding clean-up activities.",
+          "The instrument should include guidelines for Parties in developing National Action Plans, including on elements like goals and targets, measures and actions, baselines for assessment and monitoring progress.",
+          "Reporting requirements and guidelines can draw on a number of good examples from other international instruments."
+        ],
+        "reasoning": "The document explicitly and repeatedly proposes that the international instrument should provide various forms of non-binding guidance. The cited texts directly mention the need for 'guidelines' and 'criteria' to assist Parties in implementing core obligations, such as creating national plans, substituting materials, managing pollution, and reporting on progress. This directly aligns with the code definition of providing informational resources to help stakeholders."
+      },
+      "education": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any education or awareness-raising initiatives. The submission focuses on legally binding obligations, technical measures like product design and waste management, and implementation mechanisms such as National Action Plans and scientific cooperation. A specific section (III. Additional input) explicitly prompted for proposals on 'awareness-raising, education and exchange of information', but the response was left blank, indicating no input was provided on this topic."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The submission suggests establishing a 'subsidiary body on scientific and technical cooperation' and leveraging the 'Science-policy Panel to Contribute Further to the Sound Management of Chemicals and Waste and to Prevent Pollution'.",
+        "citation": [
+          "Consideration should be given to establishing a subsidiary body on scientific and technical cooperation, which would inform the governing body of the instrument on such issues.",
+          "Consideration should be given to how the Science-policy Panel to Contribute Further to the Sound Management of Chemicals and Waste and to Prevent Pollution, once it is established, can assist the governing body of the instrument, and its Member States, with regard to sound management of plastics and preventing plastic pollution."
+        ],
+        "reasoning": "The document explicitly proposes considering the establishment of a 'subsidiary body on scientific and technical cooperation' to inform the instrument's governing body. Additionally, it suggests utilizing the existing Science-policy Panel for assistance. These proposals directly align with the code definition of establishing or using expert bodies to provide guidance."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document suggests encouraging cooperation in research covering all aspects of the plastic lifecycle, including production, circularity, pollution prevention, and clean-up.",
+        "citation": [
+          "Good scientific knowledge is a basis for effectiveness of the instrument.",
+          "The instrument should contain provisions that encourage cooperation in research regarding all elements of the instrument, from plastic production to circularity to pollution prevention and clean up."
+        ],
+        "reasoning": "The document explicitly states that the instrument should contain provisions to 'encourage cooperation in research'. This is a direct call for the promotion of scientific knowledge and innovation as a soft instrument to support the treaty's objectives, without mentioning specific funding commitments."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes harmonized requirements for product information and labelling, as well as the coordination of data collection and monitoring of plastic pollution. It also suggests common criteria for bans/restrictions, circularity, and environmentally sound waste management.",
+        "citation": [
+          "Transparency needs to be ensured regarding the contents and composition of plastic products, inter alia through harmonized requirements for product information and labelling.",
+          "The instrument could contain provisions on how to enhance and coordinate data collection and monitoring of plastic pollution in order to give a truly global picture of the state and trends in pollution."
+        ],
+        "reasoning": "The document explicitly uses the term 'harmonized requirements' when discussing product information and labelling. Furthermore, it suggests the need to 'coordinate data collection and monitoring' to create a 'truly global picture,' which directly aligns with the code's definition of making methodologies consistent across countries."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "Sharing of experiences and innovative approaches through National Action Plans, scientific and technical cooperation, coordinated data collection and monitoring, technical assistance, and technology transfer.",
+        "citation": [
+          "By this, National Action Plans can not only spur action to help achieve the core obligations of the instrument, but also provide information on new and innovative approaches, that can inform future decisions at the international level.",
+          "Iceland can share experience from issuing a dedicated action plan against plastic pollution in 2020.",
+          "The instrument should contain provisions that encourage cooperation in research regarding all elements of the instrument, from plastic production to circularity to pollution prevention and clean up.",
+          "The instrument should contain provisions relating to means of implementation and support for Parties, especially developing country Parties, including on capacity-building, technical assistance, technology transfer and financial assistance."
+        ],
+        "reasoning": "The document explicitly proposes several mechanisms for exchanging information, expertise, and best practices. It suggests that National Action Plans should serve as a source of information on innovative approaches for the international community. Iceland offers to share its own experiences. Furthermore, the submission calls for provisions on scientific cooperation, technical assistance, and technology transfer to support the implementation of the instrument, all of which are core components of knowledge sharing."
+      }
+    },
+    "targets": {
+      "present": true,
+      "details": "End plastic pollution by 2040.",
+      "citation": [
+        "Iceland supports a goal of ending plastic pollution by 2040."
+      ],
+      "reasoning": "The document proposes a specific, measurable goal ('ending plastic pollution') with a concrete deadline ('by 2040'), which aligns with the code definition for a target."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "virgin plastic reduction, recycled content requirements",
+        "citation": [
+          "This would reduce the demand for primary production of plastics and reduce waste and release of pollution into the environment.",
+          "The criteria listed could include durability, reusability, recyclability and requirement for minimum recycled content."
+        ],
+        "reasoning": "The document explicitly discusses measures targeting the raw materials for plastic production. It mentions reducing the demand for 'primary production of plastics,' which refers to virgin feedstock, and lists 'requirement for minimum recycled content' as a specific policy tool to increase circularity, thereby altering the feedstock mix."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "Elimination and restriction of specific polymers, chemicals, and additives; Establishing science-based criteria for bans and restrictions on substances used in plastics production.",
+        "citation": [
+          "The instrument should contain a general obligation for Parties to eliminate and restrict such substances, as well as a list of chemicals, polymers and additives which should be banned or restricted.",
+          "It should contain criteria, based on science, as a basis for bans and restrictions of substances used in plastics production."
+        ],
+        "reasoning": "The document explicitly proposes core obligations to control the inputs of the plastic production process by banning or restricting specific polymers, chemicals, and additives. The citations directly mention these measures and link them to 'substances used in plastics production,' which aligns with the definition of addressing the manufacturing or creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document suggests that the instrument should include criteria for increasing the circularity of plastics, such as sustainable production design, durability, reusability, and recyclability requirements.",
+        "citation": [
+          "A circular economy for plastics requires inter alia sustainable production design and increasing the reusability and recyclability of plastic products, in addition to a profound change in consumption patterns.",
+          "The instrument should contain a general obligation for Parties to take measures to increase the circularity of plastics in use, in line with criteria listed in the instrument. The criteria listed could include durability, reusability, recyclability and requirement for minimum recycled content."
+        ],
+        "reasoning": "The citations explicitly mention 'sustainable production design' and list criteria such as 'durability, reusability, recyclability' as measures to increase the circularity of plastics. These concepts are central to the definition of the design code, which covers how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "chemical and polymer restrictions, additive restrictions, ban on production of certain plastic products, product information and labelling requirements, sustainable production design criteria (durability, reusability, recyclability), minimum recycled content requirements",
+        "citation": [
+          "Eliminate and restrict specific plastic polymers, chemicals and plastic products of concern",
+          "The instrument should contain a general obligation for Parties to eliminate and restrict such substances, as well as a list of chemicals, polymers and additives which should be banned or restricted.",
+          "The instrument should contain a general obligation for Parties to ban or restrict the production and use of unnecessary and harmful plastic products, as well as a list of single-use products and other products that should be banned or phased out...",
+          "Transparency needs to be ensured regarding the contents and composition of plastic products, inter alia through harmonized requirements for product information and labelling.",
+          "A circular economy for plastics requires inter alia sustainable production design and increasing the reusability and recyclability of plastic products...",
+          "The criteria listed could include durability, reusability, recyclability and requirement for minimum recycled content."
+        ],
+        "reasoning": "The document explicitly calls for measures that occur during the manufacturing of plastic products. This includes eliminating or restricting specific chemicals, polymers, and additives used in production, as well as outright banning the production of certain 'unnecessary and harmful' products. It also proposes establishing standards for product design, such as durability, reusability, and minimum recycled content, which are all determined at the production stage. While microplastics are mentioned, it is in the context of release from waste (downstream), not their intentional addition to products during manufacturing."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "Specifying trade requirements for listed plastic substances and products.",
+        "citation": [
+          "Trade requirements need to be specified for listed substances and products, applicable to Parties and non-Parties to the instrument."
+        ],
+        "reasoning": "The document explicitly calls for specifying trade requirements for certain plastic substances and products. Trade is a core component of the distribution and supply chain stage, as it governs the movement of goods between countries before they reach the end consumer."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "single-use plastic reduction, changing consumption patterns, ban/restriction on the use of certain products, promotion of reusable products, reduction of domestic plastic use",
+        "citation": [
+          "Some plastic products are unnecessary and prone to littering, especially products designed for single use.",
+          "The instrument should contain a general obligation for Parties to ban or restrict the production and use of unnecessary and harmful plastic products, as well as a list of single-use products and other products that should be banned or phased out...",
+          "A circular economy for plastics requires inter alia sustainable production design and increasing the reusability and recyclability of plastic products, in addition to a profound change in consumption patterns.",
+          "The actions aim to reduce domestic use of plastics, increase recycling of plastic waste that is generated in Iceland and address plastic pollution in Icelandic seas."
+        ],
+        "reasoning": "The document explicitly addresses the consumption phase of the plastic life cycle. It specifically targets 'single-use' products for phase-out and calls for bans or restrictions on the 'use' of certain plastics. Furthermore, it identifies the need for a 'profound change in consumption patterns' and cites Iceland's national action plan which aims to 'reduce domestic use of plastics', all of which are direct references to consumer behavior and the consumption stage."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document proposes an obligation for Parties to sort and separately collect plastic waste as part of an effective and environmentally sound management strategy.",
+        "citation": [
+          "The instrument should contain a general obligation for Parties to promote reuse and ensure effective and environmentally sound management of plastic waste.",
+          "This should include an obligation to sort, separately collect and recycle plastic waste, to convert plastic waste not fit for recycling into energy and to ensure that plastic waste that goes to disposal does not enter the environment as pollution."
+        ],
+        "reasoning": "The cited text explicitly calls for an 'obligation to sort, separately collect and recycle plastic waste.' This directly addresses the collection and aggregation of post-consumer plastic waste, which is the core definition of this code."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document suggests several waste management measures, including: promoting reuse, ensuring effective and environmentally sound management of plastic waste, an obligation to sort, separately collect, and recycle plastic waste, converting non-recyclable plastic waste into energy, and ensuring that plastic waste for disposal does not pollute the environment. It also proposes setting targets for reuse and recycling and establishing criteria for environmentally sound waste management.",
+        "citation": [
+          "This calls for more reuse of plastics and the effective and environmentally sound management of plastic waste, to ensure that plastics, including microplastics, do not enter the environment in the form of pollution.",
+          "The instrument should contain a general obligation for Parties to promote reuse and ensure effective and environmentally sound management of plastic waste.",
+          "This should include an obligation to sort, separately collect and recycle plastic waste, to convert plastic waste not fit for recycling into energy and to ensure that plastic waste that goes to disposal does not enter the environment as pollution.",
+          "The instrument should set targets for reuse and recycling, as appropriate, as well as criteria for environmentally sound waste management."
+        ],
+        "reasoning": "The cited text directly addresses the management of plastic waste after it has been generated. It explicitly mentions core waste management activities such as sorting, separate collection, recycling, energy conversion, and environmentally sound disposal, which are all key components of the downstream value chain stage."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document suggests several recycling-related measures, including: improving product recyclability, requiring minimum recycled content in products, creating obligations to sort and separately collect plastic waste, setting recycling targets, and addressing chemicals that prevent effective recycling.",
+        "citation": [
+          "Some chemicals and polymers used in plastics are harmful to human health and the environment and/or prevent effective recycling.",
+          "A circular economy for plastics requires inter alia sustainable production design and increasing the reusability and recyclability of plastic products, in addition to a profound change in consumption patterns.",
+          "The criteria listed could include durability, reusability, recyclability and requirement for minimum recycled content.",
+          "This should include an obligation to sort, separately collect and recycle plastic waste, to convert plastic waste not fit for recycling into energy and to ensure that plastic waste that goes to disposal does not enter the environment as pollution.",
+          "The instrument should set targets for reuse and recycling, as appropriate, as well as criteria for environmentally sound waste management.",
+          "The actions aim to reduce domestic use of plastics, increase recycling of plastic waste that is generated in Iceland and address plastic pollution in Icelandic seas."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions measures related to the recycling of plastic waste. The citations show proposals for obligations to 'recycle plastic waste', set 'recycling targets', improve 'recyclability', use 'recycled content', and separately collect waste for recycling. These statements directly address the reprocessing and recovery of plastic materials from waste, matching the code definition."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document suggests the instrument should contain an obligation for parties to address existing plastic pollution through measures like 'clean-up activities' for pollution already in the environment, including the oceans.",
+        "citation": [
+          "There is, however, a significant amount of plastic pollution already in the environment, including in the oceans.",
+          "The instrument should address the issue of existing plastic pollution in the environment, including in the oceans, in addition to preventing further plastic pollution.",
+          "It should contain a general obligation for Parties to address existing pollution, and list relevant criteria and/or guidelines in that regard, such as regarding clean-up activities.",
+          "The instrument should contain provisions that encourage cooperation in research regarding all elements of the instrument, from plastic production to circularity to pollution prevention and clean up."
+        ],
+        "reasoning": "The document explicitly recommends that the international instrument address plastic pollution that is already in the environment. It has a dedicated section titled 'Address existing plastic pollution' and specifically proposes including a general obligation for parties to undertake 'clean-up activities', which directly aligns with the definition of the legacy plastic code."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "The document suggests measures for environmentally sound management of plastic waste to prevent microplastic release, and enhanced monitoring of plastic pollution.",
+        "citation": [
+          "This calls for more reuse of plastics and the effective and environmentally sound management of plastic waste, to ensure that plastics, including microplastics, do not enter the environment in the form of pollution.",
+          "Increased and improved monitoring of plastic pollution, including in the oceans, would support the drafting and implementation of the instrument.",
+          "The instrument could contain provisions on how to enhance and coordinate data collection and monitoring of plastic pollution in order to give a truly global picture of the state and trends in pollution."
+        ],
+        "reasoning": "The document explicitly mentions the need for measures to ensure that microplastics do not enter the environment. The cited texts directly advocate for waste management practices aimed at preventing microplastic pollution and call for enhanced monitoring, which are key measures for addressing microplastic leakage."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document proposes a specific target year for achieving the ultimate goal of the instrument.",
+        "citation": [
+          "Iceland supports a goal of ending plastic pollution by 2040.",
+          "That goal is very ambitious, and would need to be defined and spelled out in practical terms. What matters most is that the new agreement will contain effective measures that will support an ambitious goal and timeline."
+        ],
+        "reasoning": "The cited text explicitly states a target year, 2040, for achieving the objective of ending plastic pollution. This constitutes a specific, long-term deadline or timeline for the instrument's overall implementation and success."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes that the instrument should be built upon legally binding core obligations and include mandatory reporting to a governing body for periodic assessment.",
+        "citation": [
+          "The instrument should contain legally binding core obligations to reach its objective, as well as provide a framework for national actions and voluntary approaches.",
+          "Regular national reporting to the instrument is essential for its success, and the instrument should contain provisions on mandatory reporting.",
+          "Reporting should be used by the governing body of the instrument for periodic assessment of its effectiveness and of progress towards established goals and targets."
+        ],
+        "reasoning": "The submission explicitly calls for 'legally binding core obligations,' which is a key indicator of high stringency. This is further supported by the proposal for 'mandatory reporting' that would be used by a governing body to assess effectiveness and progress, indicating a formal compliance and oversight mechanism rather than a voluntary or flexible approach."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global instrument with legally binding core obligations that are to be implemented by signatory nations through National Action Plans.",
+        "citation": [
+          "International rules with core obligations are needed to tackle plastic pollution, as it is a transboundary and truly global challenge, with plastic pollution affecting regions far from pollution sources, including the Arctic.",
+          "Iceland sees National Action Plans playing a key role in ensuring the implementation and success of the instrument.",
+          "National Action Plans should aim to implement the core obligations of the global instrument, establish national goals and targets in line with global goals, prescripe action to reach those goals and reflect upon progress in this regard."
+        ],
+        "reasoning": "The document explicitly describes the problem as a 'truly global challenge' requiring 'International rules,' which defines the scope as global. The primary mechanism for implementation is at the national level, with the text stating that 'National Action Plans' play a 'key role' in implementing the 'core obligations of the global instrument'."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": true,
+      "details": "financial assistance",
+      "citation": [
+        "The instrument should contain provisions relating to means of implementation and support for Parties, especially developing country Parties, including on capacity-building, technical assistance, technology transfer and financial assistance."
+      ],
+      "reasoning": "The document explicitly calls for the instrument to include provisions for 'financial assistance' to support its implementation, particularly for developing countries. In the context of a multilateral environmental agreement, this type of financial support is provided by state parties (national governments), thus qualifying as financing from state sources."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "financial assistance",
+      "citation": [
+        "The instrument should contain provisions relating to means of implementation and support for Parties, especially developing country Parties, including on capacity-building, technical assistance, technology transfer and financial assistance."
+      ],
+      "reasoning": "The document explicitly proposes that the international instrument should include provisions for 'financial assistance' to support developing country Parties, which is a direct reference to a form of international financing."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document suggests several responsibilities for the production sector, including: eliminating and restricting specific polymers, chemicals, and additives used in production; banning or restricting the production of unnecessary and harmful plastic products; ensuring transparency through product information and labelling; implementing sustainable production design to increase durability, reusability, and recyclability; and meeting requirements for minimum recycled content.",
+      "citation": [
+        "It should contain criteria, based on science, as a basis for bans and restrictions of substances used in plastics production.",
+        "The instrument should contain a general obligation for Parties to ban or restrict the production and use of unnecessary and harmful plastic products...",
+        "Transparency needs to be ensured regarding the contents and composition of plastic products, inter alia through harmonized requirements for product information and labelling.",
+        "A circular economy for plastics requires inter alia sustainable production design and increasing the reusability and recyclability of plastic products, in addition to a profound change in consumption patterns.",
+        "The criteria listed could include durability, reusability, recyclability and requirement for minimum recycled content."
+      ],
+      "reasoning": "The cited text explicitly details obligations that directly impact the production phase of the plastic lifecycle. It calls for restrictions on substances 'used in plastics production,' controls on the 'production' of specific items, and sets design criteria for products, such as 'sustainable production design,' 'reusability,' 'recyclability,' and 'minimum recycled content,' which are all responsibilities of producers."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "A profound change in consumption patterns is required to achieve a circular economy for plastics.",
+      "citation": [
+        "A circular economy for plastics requires inter alia sustainable production design and increasing the reusability and recyclability of plastic products, in addition to a profound change in consumption patterns."
+      ],
+      "reasoning": "The document explicitly states that achieving a circular economy for plastics necessitates a 'profound change in consumption patterns'. This directly points to the role and responsibility of consumers in altering their behavior as a key component of the solution, alongside changes in production and product design."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Promote reuse; ensure environmentally sound management of plastic waste through obligations to sort, separately collect, and recycle; convert non-recyclable waste to energy; and ensure non-polluting disposal.",
+      "citation": [
+        "The instrument should contain a general obligation for Parties to promote reuse and ensure effective and environmentally sound management of plastic waste.",
+        "This should include an obligation to sort, separately collect and recycle plastic waste, to convert plastic waste not fit for recycling into energy and to ensure that plastic waste that goes to disposal does not enter the environment as pollution."
+      ],
+      "reasoning": "The document explicitly proposes that the instrument create an 'obligation' for the 'effective and environmentally sound management of plastic waste.' It further details this responsibility by listing specific waste sector activities, including sorting, separate collection, recycling, energy conversion, and ensuring non-polluting disposal, directly assigning these roles to entities handling post-consumer plastic."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Responsibilities include developing and implementing National Action Plans; eliminating, restricting, and banning harmful plastic polymers, chemicals, and products; increasing plastic circularity; ensuring environmentally sound waste management (including sorting, collection, recycling); addressing existing pollution; and mandatory national reporting on progress.",
+      "citation": [
+        "The instrument should contain a general obligation for Parties to eliminate and restrict such substances, as well as a list of chemicals, polymers and additives which should be banned or restricted.",
+        "The instrument should contain a general obligation for Parties to take measures to increase the circularity of plastics in use, in line with criteria listed in the instrument.",
+        "The instrument should contain a general obligation for Parties to promote reuse and ensure effective and environmentally sound management of plastic waste.",
+        "National Action Plans should aim to implement the core obligations of the global instrument, establish national goals and targets in line with global goals, prescripe action to reach those goals and reflect upon progress in this regard.",
+        "Regular national reporting to the instrument is essential for its success, and the instrument should contain provisions on mandatory reporting."
+      ],
+      "reasoning": "The document consistently outlines 'obligations for Parties' throughout. In the context of an international instrument, 'Parties' refers to the signatory nations and their governments. The citations explicitly describe mandatory actions that these governments must undertake, such as restricting substances, managing waste, creating National Action Plans, and engaging in mandatory reporting, which are all core governmental responsibilities."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Consultation in the formation of a national action plan.",
+      "citation": [
+        "The plan consists of 18 actions and was formed in consultation with NGOs, business, municipalities and the Parliament."
+      ],
+      "reasoning": "The document explicitly states that Iceland's national action plan was created 'in consultation with NGOs,' which identifies a specific role for these organizations in the policy development process at the national level."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document suggests roles for international bodies such as a governing body for the instrument, a subsidiary body on scientific and technical cooperation, and the Science-policy Panel. Responsibilities include: receiving and assessing national reports, providing scientific advice, assisting member states, coordinating global data collection and monitoring, and facilitating support for implementation (e.g., capacity-building, technical and financial assistance).",
+      "citation": [
+        "Reporting should be used by the governing body of the instrument for periodic assessment of its effectiveness and of progress towards established goals and targets.",
+        "Consideration should be given to establishing a subsidiary body on scientific and technical cooperation, which would inform the governing body of the instrument on such issues.",
+        "Consideration should be given to how the Science-policy Panel to Contribute Further to the Sound Management of Chemicals and Waste and to Prevent Pollution, once it is established, can assist the governing body of the instrument, and its Member States, with regard to sound management of plastics and preventing plastic pollution.",
+        "The instrument could contain provisions on how to enhance and coordinate data collection and monitoring of plastic pollution in order to give a truly global picture of the state and trends in pollution.",
+        "The instrument should contain provisions relating to means of implementation and support for Parties, especially developing country Parties, including on capacity-building, technical assistance, technology transfer and financial assistance."
+      ],
+      "reasoning": "The cited texts explicitly assign responsibilities to international entities that would form part of the UN system or a related treaty governance structure. These responsibilities include high-level functions like assessing the instrument's effectiveness, providing scientific advice through subsidiary bodies, coordinating global monitoring efforts, and providing various forms of implementation support to Parties, thereby clearly matching the code's definition."
+    }
+  }
+}

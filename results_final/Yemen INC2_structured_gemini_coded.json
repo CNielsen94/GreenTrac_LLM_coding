@@ -1,0 +1,534 @@
+{
+  "submission_metadata": {
+    "country": "Yemen",
+    "date": "2022-12-20",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "To promote national and international cooperative measures to reduce plastic pollution in the marine environment, including existing plastic pollution;",
+        "To promote national action plans to work towards the prevention, reduction and elimination of plastic pollution, and to support regional and international cooperation;"
+      ],
+      "reasoning": "The document explicitly lists 'elimination of plastic pollution' as a goal for national action plans, and also aims to 'reduce plastic pollution'. This directly satisfies the code definition for mentioning the objective. However, no specific year or timeline is provided for when this elimination should be achieved."
+    },
+    "reduce_production": {
+      "mentioned": false,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [],
+      "reasoning": "The document does not contain any language referring to the reduction, limitation, or control of plastic production or manufacturing. Its focus is entirely on downstream measures, such as reducing the 'use of single-use plastic products', managing 'plastic waste', and reducing 'plastic pollution'."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document mentions developing awareness campaigns on the harmful effects of plastic waste and preventing illegal burning, which releases toxins harmful to human health.",
+      "citation": [
+        "take measures to prevent the spontaneous garbage dumping, illegal burning and burying",
+        "Develop campaigns awareness on the harmful effects of plastic waste, and highlight measures to reduce plastic waste and plastic bags in daily activities,"
+      ],
+      "reasoning": "The document explicitly calls for raising awareness about the 'harmful effects of plastic waste,' which directly implies a risk to human health. Furthermore, the measure to prevent 'illegal burning' is a direct action to stop the release of toxic fumes that are detrimental to public health."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "To promote national and international cooperative measures to reduce plastic pollution in the marine environment, including existing plastic pollution;",
+        "Harness international resources for technical support and investment to control marine plastic waste.",
+        "Strengthen the control and management of discharges into water sources from the entertainment activities at the beaches and lakes;",
+        "Investigate, compile statistics, classify and evaluate sources of plastic waste from land and sea"
+      ],
+      "reasoning": "The document explicitly states an objective to reduce plastic pollution in 'the marine environment' and control 'marine plastic waste.' It also mentions managing pollution sources at 'beaches' and from the 'sea,' clearly indicating an objective to protect ecosystems with a specific focus on the marine context."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "Harness international resources for technical support and investment to control marine plastic waste. and improve recycling and transition to a circular economy and green growth.",
+        "Specifically, the attention is laid on how to reduce and reuse plastic materials in the first place, and if unavoidable, how to optimize and boost local recycling and enhanced plastic waste management, in order to identify a collective framework and a timeline for implementation.",
+        "Develop guidance documents, communications and training on reducing plastic waste and single-use plastic products (integrating with waste separation at source plans) in convenience stores, production facilities, industrial zones"
+      ],
+      "reasoning": "The document explicitly advocates for a 'circular economy', a concept that inherently addresses the entire lifecycle of a product. Furthermore, it details actions across various stages, including upstream measures ('reduce and reuse plastic materials in the first place', interventions at 'production facilities') and downstream measures ('recycling and enhanced plastic waste management'). This comprehensive scope justifies the coding of a full lifecycle approach."
+    },
+    "other_objectives": {
+      "value": "Promote a circular economy; ensure a just transition for affected populations; provide financial and technical assistance to developing countries; ensure access to safe alternatives.",
+      "citation": [
+        "The future legally binding instrument should include obligations to promote a circular economy for plastics, which will contribute to the achievement of sustainable production and consumption of plastics.",
+        "This includes obligations to increase the value of plastics throughout their life cycle.",
+        "A core objective should be to ensure a just transition for affected populations, including workers in the informal waste sector...",
+        "...and to provide financial and technical assistance, including technology transfer and capacity building, to developing country Parties to enable them to implement their obligations under the instrument.",
+        "The instrument must also ensure that all countries have access to safe and environmentally sound alternatives and substitutes for plastics."
+      ],
+      "reasoning": "The document explicitly states several objectives that are not covered by the other categories. These include: 1) Promoting a 'circular economy' as an economic model. 2) Ensuring a 'just transition', a socio-economic objective focused on equity for affected workers. 3) Providing 'financial and technical assistance' to developing countries, which is an objective related to implementation and international cooperation. 4) Ensuring access to 'safe alternatives', which is an enabling objective for the transition. These are distinct as they focus on economic systems, social equity, and implementation mechanisms."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "Investment to improve recycling and transition to a circular economy.",
+        "citation": [
+          "Harness international resources for technical support and investment to control marine plastic waste. and improve recycling and transition to a circular economy and green growth."
+        ],
+        "reasoning": "The document explicitly mentions harnessing 'investment to... improve recycling and transition to a circular economy'. This directly aligns with the code definition of providing financial support for technological development in the plastic value chain, specifically targeting recycling and circular economy solutions."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The document proposes working towards the elimination of plastic pollution and promoting the reduction of single-use plastics.",
+        "citation": [
+          "To promote national action plans to work towards the prevention, reduction and elimination of plastic pollution, and to support regional and international cooperation;",
+          "Develop and implement a plan with defined objectives and activities promoting the reduction of singleuse plastics in stores, markets, supermarkets, trade centers and convenience stores over time"
+        ],
+        "reasoning": "The document explicitly states an objective to work towards the 'elimination of plastic pollution,' which directly aligns with the code's definition of banning or phasing out materials. This is further supported by the proposal to implement a plan for 'promoting the reduction of singleuse plastics' over time, indicating an intent to restrict or gradually remove these items from use."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document mentions plans for waste segregation and separation at the source, which implies the need for corresponding collection systems and infrastructure.",
+        "citation": [
+          "Develop and implement a pilot model for commercial establishments, tourist accommodation and other tourist services in tourist areas, attractions, mass and sports fitness facilities, training centers, sports competitions, and religious and creed institutions to reduce the use of single-use plastic products (which includes waste segregation at source)",
+          "Develop guidance documents, communications and training on reducing plastic waste and single-use plastic products (integrating with waste separation at source plans) in convenience stores, production facilities, industrial zones"
+        ],
+        "reasoning": "The text explicitly calls for implementing 'waste segregation at source' and integrating with 'waste separation at source plans'. These actions require the establishment of physical systems and infrastructure, such as separate collection bins and related logistics, to be effective, which directly aligns with the code's definition of mandatory infrastructure for waste collection."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The document explicitly calls for the promotion and development of 'national action plans' to prevent, reduce, and eliminate plastic pollution. It also mentions developing specific plans for reducing single-use plastics and work plans for managing waste and discharges.",
+        "citation": [
+          "To promote national action plans to work towards the prevention, reduction and elimination of plastic pollution, and to support regional and international cooperation;",
+          "Develop and implement a plan with defined objectives and activities promoting the reduction of singleuse plastics in stores, markets, supermarkets, trade centers and convenience stores over time",
+          "Develop national plastic disposal legislation and support the National Action Plan",
+          "work plan to Strengthen the control and management of discharges into water sources from the entertainment activities at the beaches and; and take measures to prevent the spontaneous garbage dumping, illegal burning and burying."
+        ],
+        "reasoning": "The text directly and repeatedly refers to 'national action plans' as a key objective and core obligation. It also describes other required 'plans' and 'work plans' with defined objectives, which aligns perfectly with the code definition of mandatory plans that entities must develop to implement policy."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "Compilation of statistics, classification, and evaluation of plastic waste sources.",
+        "citation": [
+          "Investigate, compile statistics, classify and evaluate sources of plastic waste from land and sea"
+        ],
+        "reasoning": "The document explicitly calls for the compilation of statistics and the evaluation of plastic waste sources. This is a form of mandatory data collection and information gathering about plastic-related activities, which directly aligns with the code's definition of reporting, data submission, or information sharing."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "Investigation, statistical compilation, classification, and evaluation of plastic waste sources from land and sea.",
+        "citation": [
+          "Investigate, compile statistics, classify and evaluate sources of plastic waste from land and sea"
+        ],
+        "reasoning": "The document explicitly mentions activities that are central to monitoring, such as investigating, compiling statistics, classifying, and evaluating sources of plastic waste. These actions directly correspond to the definition of monitoring, which includes systems to track, measure, and assess plastic pollution."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The submission proposes the development of guidance documents, communications materials, training programs, and public awareness campaigns to help reduce plastic waste.",
+        "citation": [
+          "Develop guidance documents, communications and training on reducing plastic waste and single-use plastic products (integrating with waste separation at source plans) in convenience stores, production facilities, industrial zones",
+          "Support inspection of plastic packaging activities in city markets by individuals and organizations, with a view to mobilizing and guiding businesses toward environmentally friendly alternatives.",
+          "Develop campaigns awareness on the harmful effects of plastic waste, and highlight measures to reduce plastic waste and plastic bags in daily activities,"
+        ],
+        "reasoning": "The cited texts explicitly mention the creation of 'guidance documents, communications and training' and the implementation of 'awareness campaigns'. These are all clear examples of informational and guidance-based soft instruments designed to inform stakeholders and encourage voluntary changes in behavior, directly matching the code's definition."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Development of guidance documents, communications, training, and awareness campaigns on the harmful effects of plastic waste and measures to reduce its use.",
+        "citation": [
+          "Develop guidance documents, communications and training on reducing plastic waste and single-use plastic products (integrating with waste separation at source plans) in convenience stores, production facilities, industrial zones",
+          "Develop campaigns awareness on the harmful effects of plastic waste, and highlight measures to reduce plastic waste and plastic bags in daily activities,"
+        ],
+        "reasoning": "The document explicitly mentions several educational initiatives. It calls for the creation of 'guidance documents, communications and training' for specific sectors and the development of 'campaigns awareness' for the general public. These actions directly align with the definition of education as a soft instrument to inform and change behavior regarding plastic pollution."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "Investigating, compiling statistics, classifying, and evaluating sources of plastic waste",
+        "citation": [
+          "Investigate, compile statistics, classify and evaluate sources of plastic waste from land and sea"
+        ],
+        "reasoning": "The document explicitly calls for investigating, compiling statistics, classifying, and evaluating plastic waste sources. This activity is a form of knowledge development and foundational research aimed at understanding the scope of the problem, which directly aligns with the code definition."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "collective framework for implementation",
+        "citation": [
+          "To promote national and international cooperative measures to reduce plastic pollution in the marine environment, including existing plastic pollution;",
+          "Specifically, the attention is laid on how to reduce and reuse plastic materials in the first place, and if unavoidable, how to optimize and boost local recycling and enhanced plastic waste management, in order to identify a collective framework and a timeline for implementation."
+        ],
+        "reasoning": "The document calls for the promotion of 'international cooperative measures' and explicitly mentions the goal 'to identify a collective framework.' A 'collective framework' implies a standardized or aligned approach across different actors, directly matching the definition of harmonization."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions a desire for international cooperative measures, regional and international cooperation, and leveraging international resources for technical support.",
+        "citation": [
+          "To promote national and international cooperative measures to reduce plastic pollution in the marine environment, including existing plastic pollution;",
+          "To promote national action plans to work towards the prevention, reduction and elimination of plastic pollution, and to support regional and international cooperation;",
+          "Harness international resources for technical support and investment to control marine plastic waste."
+        ],
+        "reasoning": "The document explicitly proposes objectives to 'promote... international cooperative measures' and 'support regional and international cooperation'. It further specifies a need to 'Harness international resources for technical support', which are clear mechanisms for exchanging expertise and information between countries to build capacity, directly matching the code definition."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document outlines objectives and proposes actions, such as 'promoting the reduction of singleuse plastics' and developing plans 'with defined objectives'. However, it does not contain any specific, measurable targets with concrete numbers, percentages, or deadlines."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "production": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": "Guidance and training for production facilities on reducing plastic waste; inspection of plastic packaging activities.",
+        "citation": [
+          "Develop guidance documents, communications and training on reducing plastic waste and single-use plastic products (integrating with waste separation at source plans) in convenience stores, production facilities, industrial zones",
+          "Support inspection of plastic packaging activities in city markets by individuals and organizations, with a view to mobilizing and guiding businesses toward environmentally friendly alternatives."
+        ],
+        "reasoning": "The document explicitly mentions developing guidance and training for 'production facilities' to reduce plastic waste and calls for the 'inspection of plastic packaging activities'. Both of these measures are directly related to the manufacturing and production stage of the value chain."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "single-use plastic reduction, consumer awareness campaigns, promoting environmentally friendly alternatives, reducing plastic bag use in daily activities",
+        "citation": [
+          "Develop and implement a plan with defined objectives and activities promoting the reduction of singleuse plastics in stores, markets, supermarkets, trade centers and convenience stores over time",
+          "Develop and implement a pilot model for commercial establishments, tourist accommodation and other tourist services... to reduce the use of single-use plastic products (which includes waste segregation at source)",
+          "Develop campaigns awareness on the harmful effects of plastic waste, and highlight measures to reduce plastic waste and plastic bags in daily activities,"
+        ],
+        "reasoning": "The document explicitly addresses the consumption phase by detailing plans to reduce the use of single-use plastics in various commercial and public settings where consumers acquire them. Furthermore, it proposes consumer-focused measures such as awareness campaigns to change behavior in 'daily activities', directly aligning with the code's focus on consumer use and behavior."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions measures related to the collection process, specifically 'waste segregation at source' and 'waste separation at source plans'. It also addresses the need to prevent 'spontaneous garbage dumping', indicating a focus on establishing formal collection systems.",
+        "citation": [
+          "...reduce the use of single-use plastic products (which includes waste segregation at source)",
+          "...take measures to prevent the spontaneous garbage dumping, illegal burning and burying",
+          "Develop guidance documents, communications and training on reducing plastic waste and single-use plastic products (integrating with waste separation at source plans) in convenience stores, production facilities, industrial zones"
+        ],
+        "reasoning": "The cited texts justify the finding as they explicitly mention 'waste segregation at source' and 'waste separation at source plans', which are integral parts of the waste collection stage. Furthermore, the measure to prevent 'spontaneous garbage dumping' directly addresses the need for structured and formal waste collection services."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "national plastic disposal legislation; preventing illegal dumping, burning, and burying; waste segregation at source; control and management of discharges into water sources; enhanced plastic waste management",
+        "citation": [
+          "enhanced plastic waste management, in order to identify a collective framework and a timeline for implementation.",
+          "Develop national plastic disposal legislation and support the National Action Plan",
+          "Strengthen the control and management of discharges into water sources from the entertainment activities at the beaches and lakes; and take measures to prevent the spontaneous garbage dumping, illegal burning and burying",
+          "Develop and implement a pilot model for commercial establishments, tourist accommodation and other tourist services in tourist areas, attractions, mass and sports fitness facilities, training centers, sports competitions, and religious and creed institutions to reduce the use of single-use plastic products (which includes waste segregation at source)"
+        ],
+        "reasoning": "The document explicitly mentions \"enhanced plastic waste management\" and outlines several specific measures for handling waste after collection. These include creating \"national plastic disposal legislation,\" preventing improper disposal methods like \"illegal burning and burying,\" and implementing \"waste segregation at source.\" These actions directly align with the definition of waste management."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Improving recycling, optimizing and boosting local recycling.",
+        "citation": [
+          "Harness international resources for technical support and investment to control marine plastic waste. and improve recycling and transition to a circular economy and green growth.",
+          "Specifically, the attention is laid on how to reduce and reuse plastic materials in the first place, and if unavoidable, how to optimize and boost local recycling and enhanced plastic waste management, in order to identify a collective framework and a timeline for implementation."
+        ],
+        "reasoning": "The document explicitly states the objectives to 'improve recycling' and 'optimize and boost local recycling' as key measures for managing plastic waste and transitioning to a circular economy, justifying the positive coding for recycling."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The policy aims to address existing plastic pollution in the marine environment and proposes to investigate, classify, and evaluate sources of plastic waste from both land and sea.",
+        "citation": [
+          "To promote national and international cooperative measures to reduce plastic pollution in the marine environment, including existing plastic pollution;",
+          "Investigate, compile statistics, classify and evaluate sources of plastic waste from land and sea"
+        ],
+        "reasoning": "The document explicitly states an objective to address 'existing plastic pollution' in the marine environment. This directly aligns with the code's definition of addressing pollution already present in the environment. The call to investigate and classify current plastic waste sources is a foundational step for any cleanup or remediation measure."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "Prevention of illegal burning of plastic waste.",
+        "citation": [
+          "Strengthen the control and management of discharges into water sources from the entertainment activities at the beaches and lakes; and take measures to prevent the spontaneous garbage dumping, illegal burning and burying",
+          "work plan to Strengthen the control and management of discharges into water sources from the entertainment activities at the beaches and; and take measures to prevent the spontaneous garbage dumping, illegal burning and burying."
+        ],
+        "reasoning": "The document explicitly mentions taking measures to prevent the \"illegal burning\" of garbage, which includes plastic waste. The burning of plastics is a significant source of air pollution and greenhouse gas emissions. Therefore, preventing this activity constitutes a measure to address emissions from the plastic lifecycle."
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": false,
+        "details": null,
+        "citation": [
+          "...in order to identify a collective framework and a timeline for implementation.",
+          "Develop and implement a plan with defined objectives and activities promoting the reduction of singleuse plastics in stores, markets, supermarkets, trade centers and convenience stores over time"
+        ],
+        "reasoning": "The document explicitly states the objective is to 'identify... a timeline for implementation', indicating that one has not yet been specified. Furthermore, it uses the non-specific phrase 'over time' rather than providing concrete deadlines, schedules, or phases."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document focuses on developing guidance, training, pilot models, and awareness campaigns. While 'inspection' is mentioned, its stated purpose is to guide businesses, not enforce compliance through penalties.",
+        "citation": [
+          "Develop guidance documents, communications and training on reducing plastic waste and single-use plastic products (integrating with waste separation at source plans) in convenience stores, production facilities, industrial zones",
+          "Support inspection of plastic packaging activities in city markets by individuals and organizations, with a view to mobilizing and guiding businesses toward environmentally friendly alternatives.",
+          "Develop and implement a pilot model for commercial establishments, tourist accommodation and other tourist services in tourist areas...",
+          "Develop campaigns awareness on the harmful effects of plastic waste, and highlight measures to reduce plastic waste and plastic bags in daily activities,"
+        ],
+        "reasoning": "The cited text indicates a low level of stringency by emphasizing soft implementation measures like 'guidance documents', 'training', 'awareness campaigns', and a 'pilot model'. The mention of 'inspection' is framed as a supportive action to 'guide businesses' rather than a punitive enforcement mechanism. There are no references to legally binding obligations, sanctions, or penalties for non-compliance."
+      },
+      "scale": {
+        "scope": "National",
+        "details": "National action plan with implementation at the local level, seeking international cooperation.",
+        "citation": [
+          "To promote national action plans to work towards the prevention, reduction and elimination of plastic pollution, and to support regional and international cooperation;",
+          "Develop national plastic disposal legislation and support the National Action Plan",
+          "Harness international resources for technical support and investment to control marine plastic waste."
+        ],
+        "reasoning": "The document is a submission from Yemen detailing a plan focused on national-level action. The citations explicitly reference the creation of 'national action plans' and 'national plastic disposal legislation' as central strategies. While international cooperation is mentioned, it is in the context of supporting these national efforts, making the primary implementation scope 'National'."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "international": {
+      "mentioned": true,
+      "details": "international resources for investment",
+      "citation": [
+        "Harness international resources for technical support and investment to control marine plastic waste."
+      ],
+      "reasoning": "The document explicitly states an objective to 'Harness international resources for ... investment', which directly refers to seeking financial support from international sources to manage plastic waste."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Responsibilities include receiving guidance and training on reducing plastic waste and for businesses involved in plastic packaging to be guided toward using environmentally friendly alternatives.",
+      "citation": [
+        "Develop guidance documents, communications and training on reducing plastic waste and single-use plastic products (integrating with waste separation at source plans) in convenience stores, production facilities, industrial zones",
+        "Support inspection of plastic packaging activities in city markets by individuals and organizations, with a view to mobilizing and guiding businesses toward environmentally friendly alternatives."
+      ],
+      "reasoning": "The document explicitly mentions 'production facilities' as a target for guidance and training on reducing plastic waste. It also refers to guiding 'businesses' involved in 'plastic packaging activities' to adopt 'environmentally friendly alternatives,' which directly implies an obligation on those producing or using plastic packaging."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document implies consumer responsibilities such as preventing littering and illegal dumping, participating in waste segregation at the source, monitoring packaging activities, and generally reducing the use of plastic waste and bags in their daily lives.",
+      "citation": [
+        "...take measures to prevent the spontaneous garbage dumping, illegal burning and burying",
+        "...waste segregation at source...",
+        "Support inspection of plastic packaging activities in city markets by individuals and organizations, with a view to mobilizing and guiding businesses toward environmentally friendly alternatives.",
+        "Develop campaigns awareness on the harmful effects of plastic waste, and highlight measures to reduce plastic waste and plastic bags in daily activities,"
+      ],
+      "reasoning": "The document assigns responsibility to the public both implicitly and explicitly. It calls for measures to prevent actions like 'spontaneous garbage dumping,' which are carried out by individuals. More directly, it suggests a role for 'individuals' in inspecting packaging activities and calls for awareness campaigns to highlight how the public can reduce plastic use in their 'daily activities,' clearly framing reduction as a consumer role."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document assigns several responsibilities, including improving recycling, enhancing plastic waste management, developing national plastic disposal legislation, controlling discharges into water, preventing illegal dumping/burning/burying, implementing waste segregation at source, and investigating/classifying plastic waste sources.",
+      "citation": [
+        "how to optimize and boost local recycling and enhanced plastic waste management, in order to identify a collective framework and a timeline for implementation.",
+        "Develop national plastic disposal legislation and support the National Action Plan",
+        "Strengthen the control and management of discharges into water sources from the entertainment activities at the beaches and lakes; and take measures to prevent the spontaneous garbage dumping, illegal burning and burying",
+        "Develop and implement a pilot model for commercial establishments...to reduce the use of single-use plastic products (which includes waste segregation at source)",
+        "Investigate, compile statistics, classify and evaluate sources of plastic waste from land and sea"
+      ],
+      "reasoning": "The cited texts explicitly mention core responsibilities of the waste management sector. These include strategic improvements ('enhanced plastic waste management', 'boost local recycling'), legislative development ('national plastic disposal legislation'), operational controls ('control and management of discharges', 'prevent...dumping, illegal burning and burying'), and foundational activities like data collection ('investigate, compile statistics, classify') and source separation ('waste segregation at source')."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Promoting national action plans, developing national legislation, regulatory oversight and enforcement, implementing pilot programs, developing guidance and training, supporting inspections, conducting research and statistics, and running public awareness campaigns.",
+      "citation": [
+        "To promote national action plans to work towards the prevention, reduction and elimination of plastic pollution, and to support regional and international cooperation;",
+        "Develop national plastic disposal legislation and support the National Action Plan",
+        "Strengthen the control and management of discharges into water sources from the entertainment activities at the beaches and lakes; and take measures to prevent the spontaneous garbage dumping, illegal burning and burying",
+        "Support inspection of plastic packaging activities in city markets by individuals and organizations, with a view to mobilizing and guiding businesses toward environmentally friendly alternatives.",
+        "Investigate, compile statistics, classify and evaluate sources of plastic waste from land and sea"
+      ],
+      "reasoning": "The document explicitly outlines responsibilities that are characteristic of national governments. The citations call for the creation of 'national action plans' and 'national... legislation,' which are core governmental functions. Additionally, the text details duties like 'strengthen the control and management,' 'support inspection,' and 'investigate, compile statistics,' all of which fall under the government's role in regulation, enforcement, and policy development."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Inspection of plastic packaging activities in city markets; mobilizing and guiding businesses toward environmentally friendly alternatives.",
+      "citation": [
+        "Support inspection of plastic packaging activities in city markets by individuals and organizations, with a view to mobilizing and guiding businesses toward environmentally friendly alternatives."
+      ],
+      "reasoning": "The document explicitly assigns the responsibility of supporting the inspection of plastic packaging and guiding businesses to 'organizations'. In the context of public policy and community-level action, 'organizations' is a common term for non-governmental or civil society organizations, distinguishing them from formal government bodies."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "Provision of technical support and investment to control marine plastic waste, improve recycling, and facilitate the transition to a circular economy.",
+      "citation": [
+        "Harness international resources for technical support and investment to control marine plastic waste. and improve recycling and transition to a circular economy and green growth."
+      ],
+      "reasoning": "The document explicitly assigns a responsibility to 'international resources' for providing 'technical support and investment'. This falls under the code definition which includes roles for international bodies and governance entities in supporting national efforts against plastic pollution."
+    }
+  }
+}

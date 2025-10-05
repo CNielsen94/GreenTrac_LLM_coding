@@ -1,0 +1,570 @@
+{
+  "submission_metadata": {
+    "country": "KINGDOM OF BAHRAIN",
+    "date": "2023-02-10",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "The main objective of the instrument shall be protecting the human health and the environment from plastic pollution while recognizing the importance of plastics for sustainable development.",
+        "One of the main challenges that we are facing today to tackle plastic pollution is that scientific and technical information related to plastic pollution is still limited...",
+        "The role of raising awareness, training and education shall not be underestimated when it comes to tackling plastic pollution.",
+        "It is very important to understand the need to focus on the efforts that will help to solve the issue of plastic pollution and not to narrow the discussion to banning or restricting any kind of plastic products."
+      ],
+      "reasoning": "The document explicitly states that the main objective of the instrument is to protect the environment from plastic pollution. It repeatedly uses phrases like 'tackle plastic pollution' and 'solve the issue of plastic pollution' when discussing various measures, clearly indicating that addressing plastic pollution is a primary goal. However, the document does not specify any date or timeline for achieving this objective."
+    },
+    "reduce_production": {
+      "mentioned": false,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "It is very important to understand the need to focus on the efforts that will help to solve the issue of plastic pollution and not to narrow the discussion to banning or restricting any kind of plastic products."
+      ],
+      "reasoning": "The document does not mention reducing, limiting, or capping plastic production. Instead, it focuses on sustainable design, circularity, and waste management. It explicitly advises against measures like 'banning or restricting any kind of plastic products', which directly contradicts the objective of production reduction."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "sustainable development, packaging, building and construction, textiles, transportations, electrical and electronics, medicine, agriculture",
+      "citation": [
+        "The main objective of the instrument shall be protecting the human health and the environment from plastic pollution while recognizing the importance of plastics for sustainable development.",
+        "Plastic is one of the most useful materials in the modern world.",
+        "We use it in our daily life in variety of applications such as packaging, building and construction, textiles, transportations, electrical and electronics, medicine and agriculture.",
+        "It is very important to understand the need to focus on the efforts that will help to solve the issue of plastic pollution and not to narrow the discussion to banning or restricting any kind of plastic products."
+      ],
+      "reasoning": "The document explicitly acknowledges the positive contributions and utility of plastics. It directly states that plastic is one of the 'most useful materials' and recognizes its 'importance... for sustainable development.' A specific list of beneficial applications is provided, covering sectors from medicine and agriculture to construction and transportation, validating its essential role in the modern world. The text also advises against outright bans, further implying that the benefits of plastic are significant and should be preserved."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "Protecting human health is stated as a main objective of the instrument. Specific concerns mentioned include hazardous and toxic chemical additives in plastics and the need to raise public awareness about the health consequences of plastic pollution.",
+      "citation": [
+        "The main objective of the instrument shall be protecting the human health and the environment from plastic pollution while recognizing the importance of plastics for sustainable development.",
+        "Phase out certain hazardous chemical additives used in producing plastic.",
+        "One of the main challenges that we are facing today to tackle plastic pollution is that scientific and technical information related to plastic pollution is still limited (e.g., microplastics, plastic product design, toxic additives, advanced recycling technologies for different types of plastics.).",
+        "Each party shall, within its capabilities provide the following information to the public: - Health, environmental and socio-economic consequences of plastic pollution."
+      ],
+      "reasoning": "The document explicitly states that a main objective of the instrument is \"protecting the human health\". It further substantiates this by identifying \"hazardous chemical additives\" and \"toxic additives\" as key problems and proposing their phase-out as a control measure. Additionally, it calls for raising public awareness about the \"health... consequences of plastic pollution,\" reinforcing the focus on this objective."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "The main objective of the instrument shall be protecting the human health and the environment from plastic pollution while recognizing the importance of plastics for sustainable development.",
+        "...addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "Strategies to reduce plastic pollution in marine environment, especially for small island developing states (SIDSs)."
+      ],
+      "reasoning": "The document explicitly states that a main objective is 'protecting the... environment from plastic pollution.' It further specifies a focus on the marine environment, mentioning the need to address plastic pollution 'including in the marine environment' and proposing national action plan strategies to 'reduce plastic pollution in marine environment'."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?"
+      ],
+      "reasoning": "The document explicitly uses the phrase 'throughout the full life cycle' when framing the discussion on core obligations. This indicates a clear intention to address plastic pollution across all stages of its existence, from creation to disposal and beyond."
+    },
+    "other_objectives": {
+      "value": "Promote a circular economy, ensure a just transition for affected communities, and facilitate international cooperation through technology transfer and financial assistance.",
+      "citation": [
+        "This includes promoting a circular economy for plastics, which can foster innovation and create new economic opportunities, including decent jobs.",
+        "A key part of this approach is to ensure a just transition for all affected communities, particularly in the waste sector.",
+        "This international legally binding instrument should also facilitate access to technology and financial assistance for developing countries to meet their obligations."
+      ],
+      "reasoning": "The document outlines several objectives that are distinct from the primary environmental and health goals. These include establishing a specific economic model (a circular economy), ensuring socio-economic equity for affected workers and communities (a just transition), and creating mechanisms for international cooperation and support (access to technology and finance). These objectives focus on the economic and social frameworks required for a successful treaty, rather than solely on the environmental problem of pollution or the technical aspects of the plastic lifecycle."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "Financial assistance from developed to developing countries to support capacity-building and the development of infrastructure for plastic waste collection and recycling.",
+        "citation": [
+          "To ensure the implementation of the instrument effectively by parties especially the developing countries and small island developing states, it is important to provide adequate financial and technical assistance, capacity-building, and technology transfer from developed country parties to developing country parties, especially those countries most needed to enable them to tackle plastic pollution.",
+          "This is very critical for developing country parties to fulfill their obligations and to build robust infrastructure and system for collection and recycling of plastic waste which will ultimately promote the circularity approaches."
+        ],
+        "reasoning": "The document explicitly calls for 'financial assistance' to be provided from developed to developing countries to support the implementation of the treaty. This term aligns with the code definition's inclusion of 'financial support' and 'subsidies'. The assistance is specified to help developing nations build infrastructure for waste collection and recycling, which constitutes a form of subsidy to achieve environmental goals."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document calls for the treaty to include provisions for science and research, technology transfer, and information exchange on recent research into areas such as advanced recycling technologies and plastic product design.",
+        "citation": [
+          "The treaty shall include provisions on science & research and technology transfer to find solutions for the issue of plastic pollution.",
+          "It is imperative for the parties to exchange information between them especially the information related to ... the recent research on plastic products design and advanced recycling technologies.",
+          "To ensure the implementation of the instrument effectively by parties especially the developing countries and small island developing states, it is important to provide adequate financial and technical assistance, capacity-building, and technology transfer from developed country parties to developing country parties..."
+        ],
+        "reasoning": "The document explicitly advocates for treaty provisions to support 'science & research and technology transfer' to address plastic pollution. It highlights specific research areas like 'advanced recycling technologies' and 'plastic products design'. Furthermore, it connects 'financial and technical assistance' with 'technology transfer' as critical means of implementation. This combination directly aligns with the code's definition of financial support for research and technological development."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "The document proposes a core obligation to build capacity to understand, assess, and address the socio-economic impacts that arise from implementing the treaty's response measures.",
+        "citation": [
+          "Build capacity to understand, assess, and address the socio-economic impacts of the implementation of response measures."
+        ],
+        "reasoning": "The cited text is listed as a 'Core Obligation' within the submission. It explicitly calls for assessing and addressing the 'socio-economic impacts' of the transition policies ('response measures'). This directly corresponds to the definition of a just transition, which aims to manage the social consequences of environmental policies on affected people and communities."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Phase out of certain hazardous chemical additives used in producing plastic.",
+        "citation": [
+          "Phase out certain hazardous chemical additives used in producing plastic."
+        ],
+        "reasoning": "The document proposes to 'Phase out certain hazardous chemical additives used in producing plastic' as a control measure. The code definition explicitly includes 'phase-outs' as a form of ban, which justifies this coding decision."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not contain any mention of moratoriums, temporary bans, pauses, or suspensions of activities. The submission's focus is on sustainable design, circularity, and capacity building, and it explicitly argues against measures like bans or restrictions."
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document proposes several performance standards, including requirements for all plastic products to be fully recyclable, specifications for minimum recycled content in new products, and the phasing out of hazardous chemical additives.",
+        "citation": [
+          "Improve the design of plastic products such that all plastic products produced are totally recyclable.",
+          "Specify minimum recycled content required in producing new plastic products which will help to strengthen the market demand for recycled plastics and hence increase collection, sorting and recycling of plastic waste.",
+          "Phase out certain hazardous chemical additives used in producing plastic."
+        ],
+        "reasoning": "The cited texts explicitly propose control measures that function as performance standards for plastic products. They set specific requirements and criteria that products must meet, such as being 'totally recyclable', containing a 'minimum recycled content', and excluding 'hazardous chemical additives', which directly aligns with the code definition."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document calls for building a robust system and infrastructure for the collection, segregation, proper sorting, and recycling of plastic waste at the municipal level.",
+        "citation": [
+          "Improve the plastic waste collection and segregation at municipal level.",
+          "Build robust system and infrastructure for collection and proper sorting of plastic waste.",
+          "...to build robust infrastructure and system for collection and recycling of plastic waste which will ultimately promote the circularity approaches."
+        ],
+        "reasoning": "The document explicitly identifies 'Build robust system and infrastructure for collection and proper sorting of plastic waste' as a key control measure. It also highlights the need for financial and technical assistance for developing countries to 'build robust infrastructure and system for collection and recycling of plastic waste'. This is further supported by the core obligation to 'Improve the plastic waste collection and segregation at municipal level,' collectively indicating a clear requirement for establishing or enhancing physical infrastructure for waste management."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "Verification system to ensure minimum recycled content in new plastic products.",
+        "citation": [
+          "Specify minimum recycled content required in producing new plastic products which will help to strengthen the market demand for recycled plastics and hence increase collection, sorting and recycling of plastic waste."
+        ],
+        "reasoning": "The document proposes a control measure to 'specify minimum recycled content required in producing new plastic products.' The implementation of such a mandatory requirement would necessitate a verification or certification system to ensure that producers are complying with the specified content levels. This aligns with the code's definition of a 'verification system that controls what types of plastics can be produced'."
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document discusses high-level strategies such as sustainable product design, improving waste collection, phasing out hazardous additives, and public awareness campaigns. However, it does not mention any specific regulatory measures related to mandatory product labelling, marking, or information disclosure regarding plastic composition, recyclability, or disposal."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The document proposes national action plans that should include: National Strategic Objectives, Plastic Recycling targets, Actions to improve plastic waste collection and recycling, and Strategies to reduce plastic pollution in the marine environment. It also suggests that parties should provide a schedule for the implementation of these plans.",
+        "citation": [
+          "Drawing up national action plan is very important to ensure the implementation of the instrument at the national level while taking in account the different national circumstances and respective capabilities on a bottom-up approach for each country party.",
+          "The national action plan may include:\n- National Strategic Objectives\n- Plastic Recycling targets\n- Actions to improve plastic waste collection and recycling\n- Strategies to reduce plastic pollution in marine environment, especially for small island developing states (SIDSs).",
+          "The parties shall provide schedule for the implementation of the national action plan."
+        ],
+        "reasoning": "The document explicitly recommends the use of a 'National Action Plan' as a key measure to ensure the implementation of the instrument at the national level. It details potential contents for these plans and states that parties 'shall provide a schedule' for their implementation, directly matching the code's definition of required plans or strategies."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document suggests including national reporting provisions in the treaty to track the progress of implementing national action plans. It also mentions that parties should provide a schedule for the implementation of their national action plan.",
+        "citation": [
+          "The parties shall provide schedule for the implementation of the national action plan.",
+          "To track the progress of the implementation of the national action plan and to ensure the effectiveness of the instrument, the national reporting provisions must be included in the treaty without standardization and harmonization.",
+          "The national reporting will give an indicator of which parties having difficulties so that assistance could be provided to strength their compliance capacity."
+        ],
+        "reasoning": "The document explicitly proposes the inclusion of 'national reporting provisions' in the treaty under the heading 'Efficient National Reporting'. The purpose of this reporting is clearly stated as tracking implementation progress of national action plans and identifying parties that require assistance, which directly aligns with the code definition."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "National reporting to track progress of national action plans and ensure the effectiveness of the instrument.",
+        "citation": [
+          "To track the progress of the implementation of the national action plan and to ensure the effectiveness of the instrument, the national reporting provisions must be included in the treaty without standardization and harmonization.",
+          "The national reporting will give an indicator of which parties having difficulties so that assistance could be provided to strength their compliance capacity."
+        ],
+        "reasoning": "The document explicitly proposes 'national reporting' as a mechanism to 'track the progress' and 'ensure the effectiveness' of the instrument. This directly aligns with the definition of monitoring, which includes systems to track, assess, or evaluate policy effectiveness. The citations describe using reporting as an 'indicator' to assess implementation, which is a core function of monitoring."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document calls for parties to exchange information on best practices in plastic waste collection, recycling, product design, and advanced technologies. It also proposes providing information to the public to raise awareness.",
+        "citation": [
+          "Each party shall, within its capabilities provide the following information to the public: - Health, environmental and socio-economic consequences of plastic pollution. - The importance of sorting, reusability, and recyclability of plastic to tackle the plastic pollution.",
+          "It is imperative for the parties to exchange information between them especially the information related to best practices in plastic waste collection and recycling as well as the recent research on plastic products design and advanced recycling technologies."
+        ],
+        "reasoning": "The document explicitly proposes the exchange of information on 'best practices' between parties and the provision of informational materials to the public. These actions directly align with the code definition of providing guidelines, best practices, or informational resources to help stakeholders implement effective measures."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "The document highlights the importance of raising awareness, training, and education to change consumer behaviors. It suggests parties should provide information to the public regarding the health, environmental, and socio-economic consequences of plastic pollution, as well as the importance of sorting, reusability, and recyclability.",
+        "citation": [
+          "The role of raising awareness, training and education shall not be underestimated when it comes to tackling plastic pollution. to meet the objectives of the treaty.",
+          "In fact, they play a huge role in combating the environmental pollution crisis through changing the consumers behaviours.",
+          "Each party shall, within its capabilities provide the following information to the public: - Health, environmental and socio-economic consequences of plastic pollution. - The importance of sorting, reusability, and recyclability of plastic to tackle the plastic pollution."
+        ],
+        "reasoning": "The document explicitly identifies 'Awareness-Raising', 'training', and 'education' as crucial elements for tackling plastic pollution. The cited text details the specific types of public education initiatives that should be undertaken, directly matching the code's definition of informing the public to change behavior."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "Promoting science and research to find solutions for plastic pollution, specifically on microplastics, plastic product design, toxic additives, and advanced recycling technologies.",
+        "citation": [
+          "The treaty shall include provisions on science & research and technology transfer to find solutions for the issue of plastic pollution.",
+          "It is imperative for the parties to exchange information between them especially the information related to best practices in plastic waste collection and recycling as well as the recent research on plastic products design and advanced recycling technologies."
+        ],
+        "reasoning": "The document explicitly states that the treaty should include provisions for 'science & research' and encourages the exchange of 'recent research' to address plastic pollution. This directly aligns with the code's definition of encouraging scientific research and knowledge development without specific funding commitments."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document discusses the concept of standardization and harmonization in the context of national reporting provisions, but explicitly argues against it.",
+        "citation": [
+          "To track the progress of the implementation of the national action plan and to ensure the effectiveness of the instrument, the national reporting provisions must be included in the treaty without standardization and harmonization."
+        ],
+        "reasoning": "The document explicitly mentions the concepts of 'standardization and harmonization' in the context of a specific implementation measure (national reporting). Although the submission argues against this approach, the concept itself is clearly raised and considered, justifying the 'mentioned: true' coding. The provided quote is direct evidence of this discussion."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document calls for technology transfer, technical assistance, capacity-building, and the exchange of information, particularly concerning best practices in waste management and recent research on product design and recycling technologies.",
+        "citation": [
+          "The treaty shall include provisions on science & research and technology transfer to find solutions for the issue of plastic pollution.",
+          "To ensure the implementation of the instrument effectively by parties especially the developing countries and small island developing states, it is important to provide adequate financial and technical assistance, capacity-building, and technology transfer from developed country parties to developing country parties...",
+          "It is imperative for the parties to exchange information between them especially the information related to best practices in plastic waste collection and recycling as well as the recent research on plastic products design and advanced recycling technologies."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for mechanisms to share knowledge among parties. The citations advocate for 'technology transfer', 'technical assistance', 'capacity-building', and the 'exchange [of] information' related to 'best practices' and 'recent research', all of which directly match the code's definition of exchanging information, best practices, technology, and expertise to build capacity."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [
+        "The national action plan may include: - National Strategic Objectives - Plastic Recycling targets"
+      ],
+      "reasoning": "The document suggests that National Action Plans may include 'Plastic Recycling targets,' but it does not specify any concrete, quantitative targets with numbers, percentages, or deadlines. It only mentions the category of target that should be considered, not a specific target itself."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "recycled content requirements",
+        "citation": [
+          "Specify minimum recycled content required in producing new plastic products which will help to strengthen the market demand for recycled plastics and hence increase collection, sorting and recycling of plastic waste."
+        ],
+        "reasoning": "The document explicitly proposes a control measure to specify minimum recycled content in new plastic products. This directly addresses the raw materials (feedstock) used in plastic production, which aligns with the code definition."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The submission calls for promoting sustainable production of plastic products, phasing out hazardous chemical additives used in the production process, and specifying minimum recycled content requirements for new plastic products.",
+        "citation": [
+          "Promote sustainable design and production of plastic products",
+          "Phase out certain hazardous chemical additives used in producing plastic.",
+          "Specify minimum recycled content required in producing new plastic products which will help to strengthen the market demand for recycled plastics and hence increase collection, sorting and recycling of plastic waste."
+        ],
+        "reasoning": "The document explicitly lists several core obligations and control measures that directly address the manufacturing process of plastics. These include promoting 'sustainable...production', controlling the chemical inputs by 'phas[ing] out certain hazardous chemical additives', and mandating material composition through 'minimum recycled content required in producing new plastic products', all of which are clearly related to the production stage of the value chain."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "sustainable design, design for recyclability",
+        "citation": [
+          "The treaty should focus on finding the solutions that will solve the issue of plastic pollution through sustainable design and production of plastic products and shifting from linearity model to circularity model.",
+          "Promote sustainable design and production of plastic products",
+          "Improve the design of plastic products such that all plastic products produced are totally recyclable."
+        ],
+        "reasoning": "The document explicitly identifies 'sustainable design' as a core solution and obligation for the treaty. It further specifies a control measure to 'improve the design of plastic products' to ensure they are 'totally recyclable,' directly aligning with the code's definition of addressing how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "Sustainable product design, phasing out hazardous chemical additives, designing for recyclability, and requiring minimum recycled content in new products.",
+        "citation": [
+          "However, the unsustainable design of plastic products, using hazardous chemical additives in plastic products and the mismanagement of plastic waste have created a lot of environmental problems.",
+          "The treaty should focus on finding the solutions that will solve the issue of plastic pollution through sustainable design and production of plastic products and shifting from linearity model to circularity model.",
+          "Improve the design of plastic products such that all plastic products produced are totally recyclable.",
+          "Phase out certain hazardous chemical additives used in producing plastic.",
+          "Specify minimum recycled content required in producing new plastic products which will help to strengthen the market demand for recycled plastics and hence increase collection, sorting and recycling of plastic waste."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions measures related to the manufacturing and design of plastic products. The citations support the finding that the production stage is addressed through proposals for sustainable design, phasing out hazardous chemical additives, designing for recyclability, and mandating recycled content. While 'microplastics' are mentioned as a knowledge gap, the document does not address intentionally added microplastics in products, hence 'microplastics_addressed' is false."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "The document addresses sustainable consumption, changing consumer behaviours through awareness and education, and promoting the reusability of plastic products.",
+        "citation": [
+          "...it is not a hazardous material if it is designed, produced, and consumed in a sustainable way and managed properly when it becomes waste.",
+          "In fact, they play a huge role in combating the environmental pollution crisis through changing the consumers behaviours.",
+          "The importance of sorting, reusability, and recyclability of plastic to tackle the plastic pollution."
+        ],
+        "reasoning": "The document explicitly mentions that plastic should be 'consumed in a sustainable way'. It also highlights the importance of awareness-raising and education to achieve the goal of 'changing the consumers behaviours' and emphasizes promoting 'reusability', all of which are measures directly related to the consumption stage of the plastic life cycle."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document lists several measures related to collection, including improving plastic waste collection and segregation at the municipal level, building robust systems and infrastructure for collection and sorting, and including actions to improve plastic waste collection in national action plans.",
+        "citation": [
+          "Improve the plastic waste collection and segregation at municipal level.",
+          "Build robust system and infrastructure for collection and proper sorting of plastic waste.",
+          "Actions to improve plastic waste collection and recycling",
+          "It is imperative for the parties to exchange information between them especially the information related to best practices in plastic waste collection and recycling as well as the recent research on plastic products design and advanced recycling technologies."
+        ],
+        "reasoning": "The document explicitly identifies the improvement of plastic waste collection as a core obligation, a control measure, and a key component of national action plans. The citations directly mention the need to improve, build infrastructure for, and share best practices on 'plastic waste collection', aligning perfectly with the code's definition."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document details several waste management measures, including improving plastic waste collection, segregation, and sorting at the municipal level; establishing plastic recycling targets; and building infrastructure and systems for collection and recycling.",
+        "citation": [
+          "Improve the plastic waste collection and segregation at municipal level.",
+          "Build robust system and infrastructure for collection and proper sorting of plastic waste.",
+          "Specify minimum recycled content required in producing new plastic products which will help to strengthen the market demand for recycled plastics and hence increase collection, sorting and recycling of plastic waste.",
+          "Plastic Recycling targets",
+          "Actions to improve plastic waste collection and recycling",
+          "build robust infrastructure and system for collection and recycling of plastic waste which will ultimately promote the circularity approaches."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for measures that fall under waste management. The citations refer to the handling and processing of plastic waste after it has been generated, including collection, segregation, sorting, and recycling, which directly align with the code's definition of addressing the management of plastic waste after collection."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Designing products to be fully recyclable, setting minimum recycled content requirements, establishing national plastic recycling targets, improving waste collection and recycling infrastructure, and developing and sharing information on advanced recycling technologies.",
+        "citation": [
+          "Improve the design of plastic products such that all plastic products produced are totally recyclable.",
+          "Specify minimum recycled content required in producing new plastic products which will help to strengthen the market demand for recycled plastics and hence increase collection, sorting and recycling of plastic waste.",
+          "The national action plan may include: ... Plastic Recycling targets ... Actions to improve plastic waste collection and recycling",
+          "...build robust infrastructure and system for collection and recycling of plastic waste which will ultimately promote the circularity approaches.",
+          "It is imperative for the parties to exchange information between them especially the information related to best practices in plastic waste collection and recycling as well as the recent research on plastic products design and advanced recycling technologies."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions measures focused on recycling. The cited texts propose specific actions such as designing products for recyclability, mandating recycled content to stimulate the market, setting national recycling targets, and building the necessary infrastructure. These all directly address the recovery and reprocessing of plastic materials from waste, aligning perfectly with the code's definition."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document mentions developing 'strategies to reduce plastic pollution in marine environment', which implies addressing existing pollution.",
+        "citation": [
+          "Strategies to reduce plastic pollution in marine environment, especially for small island developing states (SIDSs)."
+        ],
+        "reasoning": "The document proposes that national action plans may include 'Strategies to reduce plastic pollution in marine environment'. While this could be interpreted as both prevention and cleanup, reducing existing pollution is a key component of tackling marine pollution, thus fitting the code's definition of addressing existing plastic pollution in the environment."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document mentions the term 'microplastics' once, but only in the context of being an area where scientific and technical information is limited. It does not propose or discuss any specific measures to address the unintentional release of microplastics from sources like tire wear or textile washing, as required by the code definition."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "Parties are required to provide a schedule for the implementation of their respective national action plans.",
+        "citation": [
+          "The parties shall provide schedule for the implementation of the national action plan."
+        ],
+        "reasoning": "The document explicitly states that parties must create a 'schedule' for implementing their national action plans. This confirms that a specific timeframe is considered a necessary component of the instrument's implementation at the national level."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document proposes a flexible, bottom-up approach centered on national action plans and non-standardized national reporting. The compliance mechanism is framed as supportive, using reporting to identify parties that need assistance to strengthen their compliance capacity, rather than imposing penalties.",
+        "citation": [
+          "Drawing up national action plan is very important to ensure the implementation of the instrument at the national level while taking in account the different national circumstances and respective capabilities on a bottom-up approach for each country party.",
+          "To track the progress of the implementation of the national action plan and to ensure the effectiveness of the instrument, the national reporting provisions must be included in the treaty without standardization and harmonization.",
+          "The national reporting will give an indicator of which parties having difficulties so that assistance could be provided to strength their compliance capacity."
+        ],
+        "reasoning": "The cited text indicates a low level of stringency. The emphasis on a 'bottom-up approach' that accounts for 'different national circumstances,' reporting 'without standardization and harmonization,' and using reporting to provide assistance rather than enforce penalties all point to a flexible and non-punitive implementation framework."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global treaty with national-level implementation through national action plans.",
+        "citation": [
+          "Kingdom of Bahrain: Written Submissions on Potential Options for Elements Towards an International Legally Binding Instrument on Plastic Pollution",
+          "Drawing up national action plan is very important to ensure the implementation of the instrument at the national level while taking in account the different national circumstances and respective capabilities on a bottom-up approach for each country party.",
+          "To ensure the implementation of the instrument effectively by parties especially the developing countries and small island developing states, it is important to provide adequate financial and technical assistance, capacity-building, and technology transfer from developed country parties to developing country parties..."
+        ],
+        "reasoning": "The document title explicitly refers to an 'International Legally Binding Instrument,' indicating a global scope. The citations further clarify that this global treaty would be implemented 'at the national level' through 'national action plan[s]' developed by each 'country party.' The reference to different categories of countries (developed, developing, SIDSs) further confirms the international, multi-nation scale of the proposed instrument."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": true,
+      "details": "Financial assistance from developed country parties to developing country parties.",
+      "citation": [
+        "To ensure the implementation of the instrument effectively by parties especially the developing countries and small island developing states, it is important to provide adequate financial and technical assistance, capacity-building, and technology transfer from developed country parties to developing country parties, especially those countries most needed to enable them to tackle plastic pollution."
+      ],
+      "reasoning": "The document explicitly calls for 'financial... assistance... from developed country parties to developing country parties'. 'Developed country parties' are national governments (states), which directly supports the code's definition of financing from national or public sources."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document specifies the need for financial assistance from developed country parties to developing country parties to support the implementation of the instrument.",
+      "citation": [
+        "To ensure the implementation of the instrument effectively by parties especially the developing countries and small island developing states, it is important to provide adequate financial and technical assistance, capacity-building, and technology transfer from developed country parties to developing country parties, especially those countries most needed to enable them to tackle plastic pollution."
+      ],
+      "reasoning": "The text explicitly calls for financial assistance to flow from one group of countries (developed) to another (developing) to support treaty implementation, which is a form of international financing."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Responsibilities include sustainable design and production, ensuring all plastic products are fully recyclable, phasing out hazardous chemical additives, and meeting minimum recycled content targets in new products.",
+      "citation": [
+        "Promote sustainable design and production of plastic products",
+        "Improve the design of plastic products such that all plastic products produced are totally recyclable.",
+        "Phase out certain hazardous chemical additives used in producing plastic.",
+        "Specify minimum recycled content required in producing new plastic products which will help to strengthen the market demand for recycled plastics and hence increase collection, sorting and recycling of plastic waste."
+      ],
+      "reasoning": "The document clearly outlines several core obligations and control measures that are responsibilities of the production sector. The cited texts specify actions related to product design, chemical composition, and material inputs (recycled content), all of which are roles assigned to plastic producers and manufacturers."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "Changing consumption behaviors, waste sorting, promoting reusability and recyclability of plastic products.",
+      "citation": [
+        "In fact, they play a huge role in combating the environmental pollution crisis through changing the consumers behaviours.",
+        "Each party shall, within its capabilities provide the following information to the public: ... The importance of sorting, reusability, and recyclability of plastic to tackle the plastic pollution."
+      ],
+      "reasoning": "The document explicitly states that changing consumer behaviors is a key component in addressing plastic pollution. It further identifies specific actions such as sorting waste and understanding the importance of reusability and recyclability as areas for public education, implying these are roles and responsibilities for consumers."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Responsibilities for the waste management sector include improving plastic waste collection and segregation at the municipal level, building robust systems and infrastructure for collection and proper sorting, increasing the rates of collection, sorting, and recycling, and meeting national plastic recycling targets.",
+      "citation": [
+        "Improve the plastic waste collection and segregation at municipal level.",
+        "Build robust system and infrastructure for collection and proper sorting of plastic waste.",
+        "Actions to improve plastic waste collection and recycling",
+        "...increase collection, sorting and recycling of plastic waste.",
+        "...to build robust infrastructure and system for collection and recycling of plastic waste which will ultimately promote the circularity approaches."
+      ],
+      "reasoning": "The document explicitly assigns responsibilities for managing plastic once it becomes waste. The cited quotes detail core obligations and control measures such as 'collection', 'segregation', 'sorting', and 'recycling', as well as the development of 'robust infrastructure' to support these activities. These are all fundamental roles of the waste management sector."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document discusses improving plastic waste collection, sorting, and recycling systems at a high level (e.g., 'at municipal level,' 'build robust system and infrastructure') but does not contain any specific mention of the informal sector, waste pickers, or their roles within these systems."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines several government responsibilities, including: drawing up and implementing national action plans, setting national recycling targets, improving waste collection infrastructure, providing national progress reports, phasing out hazardous chemicals, specifying minimum recycled content in products, providing public information and awareness campaigns, and exchanging information with other countries.",
+      "citation": [
+        "Drawing up national action plan is very important to ensure the implementation of the instrument at the national level while taking in account the different national circumstances and respective capabilities on a bottom-up approach for each country party.",
+        "The parties shall provide schedule for the implementation of the national action plan.",
+        "To track the progress of the implementation of the national action plan and to ensure the effectiveness of the instrument, the national reporting provisions must be included in the treaty...",
+        "Each party shall, within its capabilities provide the following information to the public: - Health, environmental and socio-economic consequences of plastic pollution."
+      ],
+      "reasoning": "The document, a submission by a national government for an international treaty, consistently outlines the obligations and roles for the \"parties\" or \"country party.\" The citations explicitly detail these responsibilities, such as creating national action plans, providing implementation schedules, engaging in national reporting, and conducting public awareness campaigns, which are all core functions of a government under an international instrument."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document references a UNEP document as a basis for implementation measures, including capacity-building, technical assistance, and technology transfer. It also implies a role for a central coordinating body (like a treaty secretariat) in receiving national reports to identify parties that require assistance.",
+      "citation": [
+        "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance.",
+        "The national reporting will give an indicator of which parties having difficulties so that assistance could be provided to strength their compliance capacity."
+      ],
+      "reasoning": "The submission directly references a document from UNEP (United Nations Environment Programme) as the framework for means of implementation, thereby linking the UN system to these responsibilities. Furthermore, the proposed function of using national reports to identify parties in need of assistance implies a central coordinating and facilitating role, which is typically fulfilled by a UN-affiliated treaty secretariat."
+    }
+  }
+}

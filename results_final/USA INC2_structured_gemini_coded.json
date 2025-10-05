@@ -1,0 +1,626 @@
+{
+  "submission_metadata": {
+    "country": "United States of America",
+    "date": "2023-02-13",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": true,
+      "timeframe": "by 2040",
+      "citation": [
+        "We support recognizing the need to end plastic pollution, including through efforts aimed at eliminating the release of plastic into the environment by 2040.",
+        "We support robust engagement by INC Members in the negotiation of this instrument to take both common and nationally determined actions to combat plastic pollution.",
+        "Overall, the United States recognizes the critical roles that means of implementation (MoI), including a financial mechanism, will play in ending plastic discharge into the environment."
+      ],
+      "reasoning": "The document explicitly states support for recognizing 'the need to end plastic pollution' and notes the role of implementation measures in 'ending plastic discharge into the environment.' A specific timeframe is clearly provided in the preamble with the phrase 'eliminating the release of plastic into the environment by 2040'."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "The instrument's obligations, commitments, and voluntary approaches should strive to promote the sustainable production and consumption of plastic, increase plastic circularity in a manner that is protective of human health and the environment, and strengthen the environmentally sound management of plastic waste.",
+        "We recognize that many of these actions, when taken together, could also drive down the demand for plastic."
+      ],
+      "reasoning": "The document supports measures for the 'sustainable production and consumption of plastic' and acknowledges that the proposed actions 'could also drive down the demand for plastic.' This indicates an intention to influence the production phase of the plastic lifecycle, which is distinct from post-consumer waste management. However, the document does not provide any specific quantitative targets, caps, or timelines for reducing production."
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "Role in the economy, human health, food safety",
+      "citation": [
+        "We can also envision discussion of whether the preamble might underscore the ubiquitous role of plastics in the economy...",
+        "...the beneficial role of plastic, including for human health and food safety, among other sectors..."
+      ],
+      "reasoning": "The document explicitly acknowledges the positive aspects of plastics while discussing potential elements for the preamble of the international instrument. It directly references the 'ubiquitous role of plastics in the economy' and its 'beneficial role', specifying 'human health and food safety' as key areas of contribution."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document specifies that the instrument's objective should focus on the protection of human health from plastic pollution. It highlights the need to address the risks and adverse effects on human health and well-being, ensure circularity measures are protective of health, and promote research into potential adverse human health outcomes.",
+      "citation": [
+        "We can also envision discussion of whether the preamble might underscore ... the impact of plastic pollution on the environment, including the marine environment, and its related risks to human health and adverse effects on human well-being;",
+        "We support an objective focused on the protection of human health and the environment from plastic pollution.",
+        "The instrument's obligations, commitments, and voluntary approaches should strive to ... increase plastic circularity in a manner that is protective of human health and the environment, and strengthen the environmentally sound management of plastic waste.",
+        "The instrument should have provisions to encourage Parties to promote the cooperation and coordination of research to improve understanding of plastic pollution, including, inter alia, ... potential adverse human health outcomes..."
+      ],
+      "reasoning": "The document explicitly and repeatedly identifies the protection of human health as a core objective for the international instrument. The citations show this principle being applied to the instrument's preamble, its main objective, its specific obligations regarding plastic circularity, and its priorities for scientific research, demonstrating a consistent focus on addressing the health impacts of plastic pollution."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "the impact of plastic pollution on the environment, including the marine environment, and its related risks to human health and adverse effects on human well-being;",
+        "We support an objective focused on the protection of human health and the environment from plastic pollution.",
+        "The United States also recognizes that this scope does not exclude consideration of the impact of plastic pollution on terrestrial and freshwater ecosystems, in addition to protecting our ocean."
+      ],
+      "reasoning": "The document explicitly states that a core objective is the 'protection of... the environment from plastic pollution.' It specifically mentions the impact on 'the marine environment' multiple times and also clarifies that the scope includes 'terrestrial and freshwater ecosystems,' confirming both a general environmental protection goal and a specific focus on marine ecosystems."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "Taken as a whole, the instrument should be sufficiently flexible to allow for different solutions to address different problems at the various stages of the lifecycle, taking into account national circumstances.",
+        "The United States views national action plans as a mechanism to foster ambitious action, whereby Parties can identify and address sources of plastic pollution throughout the lifecycle of plastic in ways that are most suited to their national circumstances.",
+        "MoI should prioritize activities that result in transformational action in addressing the full lifecycle of plastics, particularly in countries with significant plastic pollution issues.",
+        "The instrument's obligations, commitments, and voluntary approaches should strive to promote the sustainable production and consumption of plastic, increase plastic circularity in a manner that is protective of human health and the environment, and strengthen the environmentally sound management of plastic waste."
+      ],
+      "reasoning": "The document frequently and explicitly refers to a 'lifecycle' approach for addressing plastic pollution. It specifically uses the term 'full lifecycle', indicating a comprehensive scope. Furthermore, it details actions across all key stages, including 'sustainable production and consumption' and 'environmentally sound management of plastic waste,' which validates the 'Full lifecycle' coverage determination."
+    },
+    "other_objectives": {
+      "value": "Promote international cooperation, support a just transition for the workforce, and establish financial mechanisms.",
+      "citation": [
+        "The instrument should include provisions to promote international cooperation including through financial and technical assistance, scientific and technical cooperation, technology transfer on mutually agreed terms, capacity building, and the exchange of information.",
+        "The instrument must also support a just transition for the workforce and the creation of decent work and quality jobs in the transition to a circular economy for plastics.",
+        "A dedicated multilateral fund should be established to support implementation of the instrument in developing countries."
+      ],
+      "reasoning": "The cited text outlines specific objectives related to the implementation and socio-economic aspects of the policy. These goals—fostering international cooperation, ensuring a just transition for workers, and creating dedicated financial support mechanisms—are distinct from the primary environmental and health outcomes covered by the other specified categories."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document suggests measures to incentivize sustainable chemistry and the development of plastic alternatives, as well as programs to incentivize recycling and reuse.",
+        "citation": [
+          "Measures to foster innovation and incentivize sustainable or green chemistry to further reduce the use of hazardous substances in plastic and further the development of more sustainable alternatives to plastics.",
+          "These might address a range of areas, including, among other things... programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The document explicitly uses the term 'incentivize' in two separate sections, aligning with the code definition of 'financial incentives' or 'reward systems'. The first citation lists it as a potential area for obligations and commitments, while the second lists it as a possible action within national action plans to promote recycling and reuse."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": true,
+        "details": "Public procurement policies to prevent and reduce plastic waste generation; using public procurement to drive demand for plastic products with higher recycled content levels.",
+        "citation": [
+          "Public procurement policies or other approaches that prevent and reduce the generation of plastic waste, including from single-use plastics.",
+          "Measures to strengthen demand for secondary plastics to facilitate environmentally sound plastic scrap recycling, including by using public procurement to drive demand for plastic products containing higher recycled content levels, where feasible.",
+          "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The document explicitly proposes 'Public procurement policies' as a potential area for obligations and commitments within the international instrument. It specifies that these policies can be used to prevent and reduce plastic waste and to drive demand for products containing higher recycled content. This directly matches the code definition of using government purchasing requirements and public sector market creation for sustainable alternatives."
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document suggests measures to foster and incentivize innovation for sustainable chemistry and plastic alternatives. It also identifies stimulating locally appropriate innovations as a key role for the instrument's Means of Implementation (MoI), which includes the financial mechanism.",
+        "citation": [
+          "Measures to foster innovation and incentivize sustainable or green chemistry to further reduce the use of hazardous substances in plastic and further the development of more sustainable alternatives to plastics.",
+          "Stimulating locally appropriate innovations along the plastic lifecycle may be a particularly important role for MoI in this instrument."
+        ],
+        "reasoning": "The cited texts confirm the presence of R&D funding as an economic instrument. The first quote, listed under potential obligations, explicitly mentions measures to 'foster innovation and incentivize' research and development in sustainable chemistry and alternatives. The second quote reinforces this by stating that 'stimulating... innovations' is a key function for the Means of Implementation (MoI), which encompasses financial assistance and other support mechanisms."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "Extended producer responsibility approaches are listed as an example of programs to incentivize recycling and reuse that could be included in a Party's national action plan.",
+        "citation": [
+          "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The document explicitly mentions 'extended producer responsibility approaches' as a potential policy approach that Parties could outline in their national action plans to address plastic pollution. This aligns with the code definition, which includes schemes making producers responsible for the post-consumer stage of their products."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "The document suggests provisions for mitigating risks to livelihoods, addressing adverse impacts on marginalized communities, and ensuring the inclusion of vulnerable stakeholders such as informal waste workers, general workers, and unions.",
+        "citation": [
+          "We can also envision discussion of whether the preamble might underscore... the importance of mitigating risks to livelihoods from transiting to more circular approaches for plastics;",
+          "Actions to address adverse impacts from plastic pollution disproportionately borne by marginalized or underrepresented communities, through the Party's development, implementation, and enforcement, as appropriate, of laws, regulations, and policies.",
+          "Stakeholder involvement should include the most affected local communities, with a focus on particularly affected community members, including women and children; and workers and unions, including informal waste workers."
+        ],
+        "reasoning": "The document directly addresses the core principles of a just transition. The citations explicitly mention the need to mitigate risks to livelihoods resulting from the transition to a circular plastics economy and to address the disproportionate impacts on marginalized communities. Furthermore, the specific inclusion of 'informal waste workers' as a key stakeholder group provides clear evidence that the social impacts of the transition on vulnerable populations are being considered."
+      },
+      "bans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document mentions several types of performance standards as potential measures, including product design criteria, transparent labeling, ecolabeling, and requirements for recycled content levels in plastic products.",
+        "citation": [
+          "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+          "Measures to strengthen demand for secondary plastics to facilitate environmentally sound plastic scrap recycling, including by using public procurement to drive demand for plastic products containing higher recycled content levels, where feasible.",
+          "The instrument should not directly establish standards because such activities are more appropriate for, and would duplicate the work of, existing international standard-setting bodies (e.g., ISO, ASTM).",
+          "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions product standards and criteria as potential measures for parties to implement. The citations refer to 'product design,' 'transparent labeling,' 'ecolabeling,' and 'recycled content levels' as examples of actions that could be included in national action plans or considered as obligations. Although the submission argues that the instrument itself should not set these standards, it clearly identifies them as relevant tools for addressing plastic pollution, thus meeting the code definition for being 'mentioned'."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any required or mandatory infrastructure development. Instead, it advocates for a flexible, country-driven approach through national action plans. While these plans could address topics like 'the management of plastic waste' and 'programs to incentivize recycling and reuse,' the text presents these as potential, non-obligatory areas for action that are 'tailored to the Party's circumstances,' rather than as specific, universally mandated infrastructure requirements."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "The document suggests that National Action Plans could include measures for 'ecolabeling', setting 'recycled content levels in plastic products', and developing 'transparent labeling of plastic products' to inform consumers.",
+        "citation": [
+          "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+          "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The document explicitly lists 'ecolabeling' and 'recycled content levels in plastic products' as potential regulatory approaches that countries could include in their mandatory national action plans. Ecolabeling is a form of certification, and verifying recycled content requires an approval or verification scheme, both of which fall under the code's definition."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "transparent labeling of plastic products, ecolabeling, labels to enable informed consumer choices, labels to facilitate reuse and recycling",
+        "citation": [
+          "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+          "The actions outlined in such national actions plans could include administrative, legislative, policy, regulatory, or other approaches. These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The document explicitly proposes labeling as a potential measure. It suggests developing 'transparent labeling of plastic products' to inform consumers and aid in reuse and recycling. Furthermore, it lists 'ecolabeling' as a potential action area for national plans. These points directly match the code definition for required product labels concerning recyclability, disposal, and environmental impact."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "Parties should be obligated to develop, communicate, and regularly update (e.g., every five years) National Action Plans. These plans must outline how a Party will contribute to the instrument's objective and implement its obligations, demonstrating increased ambition over time. The plans should include minimum elements such as national goals, sources of pollution to be addressed, nationally determined actions, measures for marginalized communities, and methods for assessing progress.",
+        "citation": [
+          "Each Party should be obligated to develop and communicate a national action plan that outlines how it will contribute to the achievement of the instrument's objective, including how it intends to implement obligations specified in the instrument with regard to preventing, reducing, or eliminating plastic pollution.",
+          "The instrument should obligate Parties to update their respective plans regularly (e.g., every five years).",
+          "The instrument should call on Parties to demonstrate continued progress and increased ambition over time via their successive national action plans, taking into account, among other things, developments in science and innovation.",
+          "We envision each plan addressing, at a minimum, the following elements: National goal(s) relating to the Party's contribution to the achievement of the objective of the instrument. Such goals could be timebound and measurable, where feasible. Sources and types of plastic pollution to be addressed through a Party's national action plan. Nationally determined actions, including regulations, policies, programs, measures, and voluntary approaches... Actions to address adverse impacts from plastic pollution... Description of how the Party would assess progress in implementing its national action plan."
+        ],
+        "reasoning": "The document explicitly proposes that Parties be 'obligated to develop and communicate a national action plan.' It dedicates an entire section to this topic, detailing the purpose, content, and regular update cycle of these plans. The citations confirm that these are mandatory plans required for implementing the treaty, which directly aligns with the code definition."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document calls for mandatory national reporting on progress in implementing national action plans and achieving their goals. It also suggests reporting could cover information on the lifecycle of plastic, science, technology, innovation, and awareness-raising. Furthermore, it mentions measures to publish and update information on plastic production, use, and additives.",
+        "citation": [
+          "The instrument should have provisions on mandatory national reporting.",
+          "With regards to national action plans, the United States supports an obligation for each Party to report on the progress achieved on implementation of all elements of its national action plan, including progress towards achieving any goals or targets set out in the plan.",
+          "Measures to publish and update, in a transparent manner, relevant and available information on plastic production, use, and additives, consistent with national laws.",
+          "Depending on the substantive provision being reported on, such information could include information on aspects of the lifecycle of plastic; science, technology, and innovation; and awareness raising, education and exchange of information."
+        ],
+        "reasoning": "The document explicitly advocates for mandatory national reporting in a dedicated section with that title. The cited quotes clearly state that the instrument should include these provisions, specify what should be reported on (e.g., progress on national action plans), and mention other potential disclosure requirements, such as data on plastic production and use. This directly aligns with the code definition."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": true,
+        "details": "transparent labeling of plastic products, ecolabeling",
+        "citation": [
+          "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+          "The actions outlined in such national actions plans could include administrative, legislative, policy, regulatory, or other approaches. These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The document explicitly proposes the development of 'transparent labeling of plastic products' and lists 'ecolabeling' as a potential action that could be included in national action plans. Both transparent product labeling and ecolabeling are common forms of voluntary certification schemes intended to inform consumers and encourage sustainable product design, fitting the code definition."
+      },
+      "voluntary_labelling": {
+        "mentioned": true,
+        "details": "The document suggests developing transparent labeling for plastic products and lists ecolabeling as a potential measure for national action plans.",
+        "citation": [
+          "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+          "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The document explicitly mentions 'transparent labeling' and 'ecolabeling' as potential measures. These are presented under the section 'Obligations, commitments, and voluntary approaches' and as potential, not mandatory, components of 'National action plans'. This framing indicates that these labeling schemes are optional measures that parties can choose to implement, which directly aligns with the definition of a voluntary soft instrument."
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document mentions several systems for monitoring and evaluation, including: a formal 'effectiveness evaluation' of the instrument's aggregate actions; a requirement for Parties to describe how they will assess progress on their national action plans; national reporting to assess overall progress; scientific monitoring and modeling of plastic's fate and transport; and the potential establishment of bodies to monitor or assess the amounts, distribution, and types of plastic pollution, relying on existing monitoring networks.",
+        "citation": [
+          "Description of how the Party would assess progress in implementing its national action plan.",
+          "The governing body of the instrument should be able to use the reporting information generated to assess the overall progress of the instrument in achieving its objective and to contribute to the evaluation of the effectiveness of the instrument.",
+          "The United States supports a robust, science-based, transparent, and cost-effective effectiveness evaluation of the aggregate actions taken under the instrument that is based on consistent and reliable data.",
+          "The instrument should have provisions to encourage Parties to promote the cooperation and coordination of research to improve understanding of plastic pollution, including, inter alia, monitoring and modeling the fate and transport of plastic in environmental compartments...",
+          "...monitoring or assessing the amounts, distribution, types, and other aspects of plastic pollution in the environment."
+        ],
+        "reasoning": "The document explicitly proposes multiple systems to track, assess, and evaluate progress and effectiveness at various levels. It calls for an 'effectiveness evaluation' of the entire instrument, requires Parties to 'assess progress' on their national plans, and suggests scientific activities like 'monitoring and modeling' of plastic pollution. These proposals directly align with the code's definition of tracking, observing, measuring, assessing, or evaluating plastic pollution or policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document suggests several information and guidance measures, including sharing knowledge on best practices, policies, and interventions; developing transparent labeling for consumer choice; and implementing awareness-raising campaigns, education programs, and information exchanges on topics like sustainable consumption and waste management.",
+        "citation": [
+          "The instrument should also promote sharing of knowledge and greater understanding of best practices, policies, and interventions to enhance Parties' efforts to address plastic pollution across the plastics lifecycle.",
+          "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+          "The instrument should include provisions on awareness raising, education, and information exchange that facilitate public outreach and understanding in addressing plastic pollution.",
+          "Parties and others should be encouraged to actively promote the sharing of information on, for example, sustainable consumption and production, environmentally sound waste management, sources of plastic pollution, human and animal exposures to plastic pollution, associated risks, and reduction options, among policy makers, stakeholders, and the public."
+        ],
+        "reasoning": "The document explicitly proposes the use of informational tools to support the instrument's objectives. The cited texts directly advocate for the promotion and sharing of 'best practices,' developing 'transparent labeling' to guide consumers, and establishing provisions for 'awareness raising, education, and information exchange.' These measures are designed to guide stakeholders and the public, which directly aligns with the definition of the information and guidance code."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "consumer behavior change campaigns, training, education, public awareness, public participation, and public access to information",
+        "citation": [
+          "The instrument should include provisions on awareness raising, education, and information exchange that facilitate public outreach and understanding in addressing plastic pollution.",
+          "Where possible, activities undertaken should have demonstrated evidence of success in preventing and reducing plastic pollution and could include consumer behavior change campaigns, training, education, public awareness, public participation, and public access to information.",
+          "Educational opportunities should be geared towards enabling consumers and the public to make better decisions about plastic use and disposal, rather than just sharing resources about the impacts of plastic pollution."
+        ],
+        "reasoning": "The document explicitly proposes a dedicated section for 'Awareness-raising, education, and exchange of information' in the international instrument. The cited texts detail specific activities like 'consumer behavior change campaigns,' 'training,' and 'public awareness,' and state the goal is to enable the public to make better decisions, directly matching the code's definition of public education initiatives."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The document proposes that the governing body be empowered to establish subsidiary bodies, specifically mentioning those focused on scientific or technical aspects, as well as potential monitoring or assessment bodies. It also suggests a role for stakeholders as advisors to these groups.",
+        "citation": [
+          "We also recognize the important role stakeholders may play in any subsidiary bodies that might be established, such as acting as advisors to subsidiary bodies focused on scientific or technical aspects of plastic pollution.",
+          "The United States supports provisions that would allow for the governing body of the instrument to establish one or more subsidiary bodies to support the governing body in specific aspects of implementation of the instrument.",
+          "Should any monitoring or assessment bodies or processes be established, our inclination would be to have such a body or process under the instrument rely on available information and data, rather than producing its own data."
+        ],
+        "reasoning": "The cited text explicitly supports establishing subsidiary bodies to assist the governing body. It specifies that these could be for 'scientific or technical aspects' and 'monitoring or assessment,' which aligns with the definition of expert groups providing guidance for the treaty."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "Encouraging cooperation and coordination of research to improve understanding of plastic pollution's lifecycle, impacts, and interventions; promoting technological innovation in product design, materials, green chemistry, and circular approaches; fostering development of sustainable alternatives to plastics; and promoting knowledge sharing.",
+        "citation": [
+          "Measures to foster innovation and incentivize sustainable or green chemistry to further reduce the use of hazardous substances in plastic and further the development of more sustainable alternatives to plastics.",
+          "The instrument should have provisions to encourage Parties to promote the cooperation and coordination of research to improve understanding of plastic pollution, including, inter alia, monitoring and modeling the fate and transport of plastic in environmental compartments, environmental impacts, potential adverse human health outcomes, and the environmental, economic, and socioeconomic consequences and effectiveness of specific interventions throughout the lifecycle of plastic.",
+          "The instrument should include provisions for Parties to promote cooperation and coordination on technological innovation, including on product design, materials, and manufacturing processes; sustainable, green chemistry, and circular approaches related to plastics; and other technological advancements for environmentally sustainable and cost-effective approaches to address plastic pollution at local, regional, and global scales."
+        ],
+        "reasoning": "The document explicitly advocates for provisions within the international instrument to 'encourage' and 'promote' research, technological innovation, and knowledge sharing. The cited texts detail specific areas for this promotion, such as understanding plastic pollution's lifecycle, fostering innovation in green chemistry and product design, and developing sustainable alternatives. This aligns directly with the code's definition of encouraging research and innovation as a soft instrument."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document suggests a standardized format for reporting and a set of harmonized methodologies, measurements, metrics, and indicators to measure progress.",
+        "citation": [
+          "Where possible, such aspects could include a standardized format for reporting and a set of harmonized methodologies and measurements, metrics, and indicators to measure progress under the instrument, as well as progress in the implementation of national action plans, building on existing data collection activities."
+        ],
+        "reasoning": "The cited text explicitly uses the terms 'standardized format' and 'harmonized methodologies and measurements' in the context of national reporting. This directly aligns with the code definition of seeking efforts to standardize or make consistent the approaches and methodologies across parties to allow for comparable progress measurement."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document suggests several knowledge sharing mechanisms, including: information sharing on effective policies and legislation; sharing of knowledge on best practices and interventions; a portal for stakeholder actions to share information and publicize contributions; active promotion of information sharing on topics like sustainable consumption and waste management; and technology transfer.",
+        "citation": [
+          "It can also support regional and international cooperation through information sharing on effective policies, legislation, regulations, and other efforts to address plastic pollution.",
+          "The instrument should also promote sharing of knowledge and greater understanding of best practices, policies, and interventions to enhance Parties' efforts to address plastic pollution across the plastics lifecycle.",
+          "A portal on stakeholder actions to share information and publicize stakeholder contributions to achieving the objective of the global instrument.",
+          "Parties and others should be encouraged to actively promote the sharing of information on, for example, sustainable consumption and production, environmentally sound waste management, sources of plastic pollution, human and animal exposures to plastic pollution, associated risks, and reduction options, among policy makers, stakeholders, and the public.",
+          "Capacity building, technical assistance, and technology transfer under voluntary and mutually agreed terms are important contributions to the instrument's eventual effective implementation."
+        ],
+        "reasoning": "The document repeatedly and explicitly calls for mechanisms to exchange information, best practices, and technology. The cited texts describe these mechanisms, such as 'information sharing on effective policies', 'sharing of knowledge and greater understanding of best practices', 'a portal on stakeholder actions to share information', and 'technology transfer', which directly align with the code definition of knowledge sharing."
+      }
+    },
+    "targets": {
+      "present": true,
+      "details": "Eliminating the release of plastic into the environment by 2040.",
+      "citation": [
+        "We support recognizing the need to end plastic pollution, including through efforts aimed at eliminating the release of plastic into the environment by 2040."
+      ],
+      "reasoning": "The cited text proposes a specific, measurable target for the instrument's preamble: the complete elimination of plastic release into the environment by the concrete deadline of 2040. This aligns with the code's definition of a specific target with a deadline."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "recycled content levels, sustainable alternatives to plastics",
+        "citation": [
+          "Measures to strengthen demand for secondary plastics to facilitate environmentally sound plastic scrap recycling, including by using public procurement to drive demand for plastic products containing higher recycled content levels, where feasible.",
+          "The actions outlined in such national actions plans could include administrative, legislative, policy, regulatory, or other approaches. These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches).",
+          "Measures to foster innovation and incentivize sustainable or green chemistry to further reduce the use of hazardous substances in plastic and further the development of more sustainable alternatives to plastics."
+        ],
+        "reasoning": "The document explicitly mentions measures to increase demand for products with 'higher recycled content levels' and suggests that 'recycled content levels in plastic products' be an area addressed by national action plans. This directly relates to the feedstock stage by promoting the use of recycled materials (secondary plastics) as a raw material in place of virgin plastic. The mention of developing 'more sustainable alternatives to plastics' also points to the feedstock stage by encouraging the use of different raw materials, such as biobased plastics."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document mentions promoting sustainable production, publishing information on plastic production, and promoting technological innovation in manufacturing processes.",
+        "citation": [
+          "The instrument's obligations, commitments, and voluntary approaches should strive to promote the sustainable production and consumption of plastic, increase plastic circularity in a manner that is protective of human health and the environment, and strengthen the environmentally sound management of plastic waste.",
+          "Measures to publish and update, in a transparent manner, relevant and available information on plastic production, use, and additives, consistent with national laws.",
+          "The instrument should include provisions for Parties to promote cooperation and coordination on technological innovation, including on product design, materials, and manufacturing processes; sustainable, green chemistry, and circular approaches related to plastics; and other technological advancements for environmentally sustainable and cost-effective approaches to address plastic pollution at local, regional, and global scales."
+        ],
+        "reasoning": "The cited texts explicitly reference measures related to the manufacturing stage of plastics, including promoting \"sustainable production,\" publishing \"information on plastic production,\" and fostering innovation in \"manufacturing processes.\" These phrases directly align with the code definition concerning the creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "Consideration of product design to facilitate reuse and recycling; improving product design as part of national action plans; technological innovation on product design, materials, and manufacturing processes.",
+        "citation": [
+          "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+          "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches).",
+          "The instrument should include provisions for Parties to promote cooperation and coordination on technological innovation, including on product design, materials, and manufacturing processes; sustainable, green chemistry, and circular approaches related to plastics; and other technological advancements for environmentally sustainable and cost-effective approaches to address plastic pollution at local, regional, and global scales."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions 'product design' as a key area for action. The citations show that product design is considered in the context of stakeholder processes to facilitate reuse and recycling, as a potential element in national action plans, and as a focus for technological innovation. This directly aligns with the code definition of addressing how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "reducing hazardous substances/additives in plastic, improving product design, transparent labeling of plastic products, recycled content levels in plastic products, innovation in manufacturing processes",
+        "citation": [
+          "Measures to foster innovation and incentivize sustainable or green chemistry to further reduce the use of hazardous substances in plastic and further the development of more sustainable alternatives to plastics.",
+          "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+          "Measures to publish and update, in a transparent manner, relevant and available information on plastic production, use, and additives, consistent with national laws.",
+          "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches).",
+          "The instrument should include provisions for Parties to promote cooperation and coordination on technological innovation, including on product design, materials, and manufacturing processes..."
+        ],
+        "reasoning": "The document explicitly proposes measures related to the manufacturing of plastic products. It addresses chemical additives by suggesting measures to reduce 'hazardous substances in plastic' and publish information on 'additives'. It also discusses various aspects of product production, including 'product design', 'manufacturing processes', 'transparent labeling of plastic products', and setting 'recycled content levels in plastic products'. However, while microplastics are mentioned in the general scope of plastic pollution, there is no specific mention of addressing intentionally added microplastics within products."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "sustainable consumption promotion, informed consumer choices through labeling, reuse promotion, single-use plastic reduction through public procurement, consumer behavior change campaigns, consumer education on use and disposal",
+        "citation": [
+          "The instrument's obligations, commitments, and voluntary approaches should strive to promote the sustainable production and consumption of plastic, increase plastic circularity in a manner that is protective of human health and the environment, and strengthen the environmentally sound management of plastic waste.",
+          "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+          "Public procurement policies or other approaches that prevent and reduce the generation of plastic waste, including from single-use plastics.",
+          "Educational opportunities should be geared towards enabling consumers and the public to make better decisions about plastic use and disposal, rather than just sharing resources about the impacts of plastic pollution."
+        ],
+        "reasoning": "The document explicitly states the goal of promoting 'sustainable consumption of plastic' and outlines several measures targeting the consumption phase. These include enabling 'informed consumer choices' through labeling, facilitating 'reuse', reducing waste from 'single-use plastics' via public procurement, and implementing educational initiatives to help 'consumers and the public make better decisions about plastic use'. This directly addresses consumer behavior and the use phase of plastic products."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document suggests that national action plans could include measures addressing the 'management of plastic waste' and specific programs like 'extended producer responsibility approaches', which typically involve the collection of post-consumer waste.",
+        "citation": [
+          "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The cited text explicitly mentions that national action plans could include measures for 'the management of plastic waste' and provides 'extended producer responsibility approaches' as a specific example. Extended Producer Responsibility (EPR) schemes are policy instruments that make producers responsible for the post-consumer stage of their products' lifecycle, which fundamentally includes organizing and financing collection, thus directly matching the code's definition."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document suggests measures to strengthen the environmentally sound management of plastic waste, including plastic scrap recycling and programs to incentivize recycling.",
+        "citation": [
+          "The instrument's obligations, commitments, and voluntary approaches should strive to... strengthen the environmentally sound management of plastic waste.",
+          "Measures to strengthen environmentally sound management of plastic waste, including actions to prevent and reduce the generation of plastic waste.",
+          "Measures to strengthen demand for secondary plastics to facilitate environmentally sound plastic scrap recycling, including by using public procurement to drive demand for plastic products containing higher recycled content levels, where feasible.",
+          "These might address a range of areas, including, among other things... the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for measures to strengthen the 'environmentally sound management of plastic waste'. The citations specify actions such as 'plastic scrap recycling' and 'programs to incentivize recycling', which are core activities within the waste management stage of the value chain, occurring after plastic has been used and collected."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Product labeling to facilitate recycling, strengthening demand for secondary plastics, environmentally sound plastic scrap recycling, public procurement for products with higher recycled content, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches).",
+        "citation": [
+          "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+          "Measures to strengthen demand for secondary plastics to facilitate environmentally sound plastic scrap recycling, including by using public procurement to drive demand for plastic products containing higher recycled content levels, where feasible.",
+          "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+        ],
+        "reasoning": "The document explicitly mentions several measures related to recycling. The citations refer to facilitating recycling through labeling, promoting environmentally sound plastic scrap recycling by strengthening demand for secondary plastics, and using public procurement to drive demand for products with higher recycled content. Furthermore, it suggests that national action plans could include measures like setting recycled content levels and implementing programs to incentivize recycling, directly addressing the recovery and reprocessing of plastic materials from waste."
+      },
+      "legacy_plastic": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "monitoring and modeling the fate and transport of plastic in environmental compartments",
+        "citation": [
+          "Operative paragraph 3 and the third preambular paragraph of UNEA resolution 5/14 establish the scope of the negotiating mandate for a future instrument as plastic pollution, including in the marine environment, with plastic pollution understood to include microplastics.",
+          "The instrument should have provisions to encourage Parties to promote the cooperation and coordination of research to improve understanding of plastic pollution, including, inter alia, monitoring and modeling the fate and transport of plastic in environmental compartments, environmental impacts, potential adverse human health outcomes..."
+        ],
+        "reasoning": "The document first establishes that the scope of 'plastic pollution' explicitly includes 'microplastics'. It later proposes measures to improve the understanding of this pollution through 'monitoring and modeling the fate and transport of plastic in environmental compartments'. Since 'microplastic monitoring' is a valid example of a measure in the code definition, the combination of these cited texts confirms that measures related to microplastic leakage are mentioned."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document specifies a long-term goal for 2040, a recurring 5-year cycle for updating national action plans, and discusses the timing for a first and subsequent periodic effectiveness evaluations.",
+        "citation": [
+          "We support recognizing the need to end plastic pollution, including through efforts aimed at eliminating the release of plastic into the environment by 2040.",
+          "The instrument should obligate Parties to update their respective plans regularly (e.g., every five years).",
+          "The first evaluation should be scheduled to give sufficient time for measurable progress attributable to the instrument's implementation to manifest and be measured.",
+          "The periodicity of evaluations should allow time to measure new and additional progress in implementation as well as changes in the environment."
+        ],
+        "reasoning": "The document explicitly mentions several time-bound elements. It proposes a concrete target year (2040) for a key objective, a specific frequency ('every five years') for updating national action plans, and outlines the principles for scheduling the first and subsequent effectiveness evaluations, clearly indicating that timelines are a component of the proposed instrument."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document proposes a mixed approach including legally binding obligations, commitments, and voluntary approaches, with a strong emphasis on flexibility. Implementation is centered on nationally determined action plans. A 'facilitating' compliance process is suggested, which is non-punitive.",
+        "citation": [
+          "The United States envisions an ambitious, innovative, and country-driven instrument that will result in near-term and lasting meaningful reductions of plastic pollution entering the environment through a combination of legally binding obligations, commitments, and voluntary approaches.",
+          "Taken as a whole, the instrument should be sufficiently flexible to allow for different solutions to address different problems at the various stages of the lifecycle, taking into account national circumstances.",
+          "We believe that prescriptive measures alone would not sufficiently accommodate the diversity of consumer and social behaviors, production practices, and environmental factors across countries.",
+          "Key characteristics that we believe would be integral to a successful compliance process include: A focus on facilitating compliance..."
+        ],
+        "reasoning": "The document explicitly advocates for a flexible, 'country-driven' instrument that combines binding obligations with voluntary approaches. The emphasis on accommodating national circumstances and the proposal for a compliance process focused on 'facilitating' compliance, which is typically non-punitive and non-confrontational, indicates a low level of stringency rather than a strict, top-down enforcement regime."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global, legally binding instrument implemented through nationally determined action plans tailored to individual country circumstances.",
+        "citation": [
+          "The United States is pleased to present its views on potential options for elements of an international legally binding instrument on plastic pollution for consideration at INC-2.",
+          "The preamble should cogently recognize plastic pollution as a global and transboundary issue that requires a coordinated global response.",
+          "The United States envisions an ambitious, innovative, and country-driven instrument that will result in near-term and lasting meaningful reductions of plastic pollution...",
+          "Each Party should be obligated to develop and communicate a national action plan that outlines how it will contribute to the achievement of the instrument's objective, including how it intends to implement obligations specified in the instrument with regard to preventing, reducing, or eliminating plastic pollution."
+        ],
+        "reasoning": "The document consistently refers to an 'international legally binding instrument' and a 'coordinated global response,' which clearly establishes a 'Global' scope. The implementation mechanism is described as 'country-driven,' with the core obligation for each nation ('Party') being the development and execution of a 'national action plan' tailored to their specific circumstances. This indicates a global treaty that is implemented at the national level."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document mentions private sector contributions, partnerships involving the private sector, mobilization of private sector financial resources, and the acceptance of private sector contributions into the formal financial mechanism.",
+      "citation": [
+        "It will be important that the eventual instrument references the contributions of the private sector and subnational entities to further these activities, as well as their critical role in finance.",
+        "Such a mechanism should be capable of receiving contributions from a broad country donor base that reflects current economic realities, as well as accepting contributions from the private sector.",
+        "Assistance provided through the financial mechanism additionally takes place within a dynamic finance landscape that includes private sector, bilateral and multilateral funding, and development assistance across the full lifecycle of plastics.",
+        "We understand that this support could be delivered through new and existing multilateral, regional, subregional, bilateral, and national arrangements, including regional and subregional centres, and through partnerships, including involving the private sector."
+      ],
+      "reasoning": "The document explicitly and repeatedly identifies the private sector as a source of financing for the instrument. The cited texts state that the instrument should reference the private sector's 'critical role in finance,' that the financial mechanism should be capable of 'accepting contributions from the private sector,' and that the overall funding landscape includes 'private sector... funding' and 'partnerships, including involving the private sector.'"
+    },
+    "state": {
+      "mentioned": true,
+      "details": "public procurement policies, bilateral funding, multilateral funding, development assistance, country donor contributions to a financial mechanism",
+      "citation": [
+        "Public procurement policies or other approaches that prevent and reduce the generation of plastic waste, including from single-use plastics.",
+        "Measures to strengthen demand for secondary plastics to facilitate environmentally sound plastic scrap recycling, including by using public procurement to drive demand for plastic products containing higher recycled content levels, where feasible.",
+        "We understand that this support could be delivered through new and existing multilateral, regional, subregional, bilateral, and national arrangements, including regional and subregional centres, and through partnerships, including involving the private sector.",
+        "Such a mechanism should be capable of receiving contributions from a broad country donor base that reflects current economic realities, as well as accepting contributions from the private sector.",
+        "Assistance provided through the financial mechanism additionally takes place within a dynamic finance landscape that includes private sector, bilateral and multilateral funding, and development assistance across the full lifecycle of plastics."
+      ],
+      "reasoning": "The cited text provides clear evidence of state financing. It explicitly mentions 'public procurement,' a direct use of government funds. Furthermore, it details a financial mechanism for the instrument that would rely on 'contributions from a broad country donor base' and be part of a landscape that includes 'bilateral and multilateral funding' and 'development assistance,' which are all forms of financing provided by national governments."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document discusses support through multilateral, regional, subregional, and bilateral arrangements, a potential dedicated multilateral fund, contributions from a broad country donor base, and development assistance.",
+      "citation": [
+        "We understand that this support could be delivered through new and existing multilateral, regional, subregional, bilateral, and national arrangements, including regional and subregional centres, and through partnerships, including involving the private sector.",
+        "The United States is currently open to considering a range of institutional structures for the financial mechanism, including being based at an existing institution, being a dedicated multilateral fund, or some combination of the two.",
+        "Such a mechanism should be capable of receiving contributions from a broad country donor base that reflects current economic realities, as well as accepting contributions from the private sector.",
+        "Assistance provided through the financial mechanism additionally takes place within a dynamic finance landscape that includes private sector, bilateral and multilateral funding, and development assistance across the full lifecycle of plastics."
+      ],
+      "reasoning": "The document explicitly mentions various international financing sources and mechanisms. The citations refer to 'multilateral, regional, subregional, bilateral' arrangements, a 'dedicated multilateral fund', a 'broad country donor base', and 'bilateral and multilateral funding', all of which are forms of international financing as defined by the code."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "Contributions from the private sector; Mobilizing stakeholder financial resources",
+      "citation": [
+        "Such a mechanism should be capable of receiving contributions from a broad country donor base that reflects current economic realities, as well as accepting contributions from the private sector.",
+        "Mobilize stakeholder financial and technical resources to contribute to achieving the objective of the instrument;",
+        "It will be critical that the instrument references the financial flows provided by these entities and that the financial mechanism play a clear, additive, and complementary role to these financial flows."
+      ],
+      "reasoning": "The document explicitly states that the proposed financial mechanism should be capable of 'accepting contributions from the private sector.' It also identifies an objective for a multi-stakeholder action agenda to 'Mobilize stakeholder financial... resources.' These are clear references to non-mandatory, voluntary financial support from non-state actors."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document suggests responsibilities for the production sector including: promoting sustainable production, fostering innovation in green chemistry, reducing hazardous substances, considering product design to facilitate reuse and recycling, developing transparent labeling, publishing information on production and additives, using higher recycled content, and implementing extended producer responsibility (EPR) approaches.",
+      "citation": [
+        "The instrument's obligations, commitments, and voluntary approaches should strive to promote the sustainable production and consumption of plastic, increase plastic circularity in a manner that is protective of human health and the environment, and strengthen the environmentally sound management of plastic waste.",
+        "Measures to foster innovation and incentivize sustainable or green chemistry to further reduce the use of hazardous substances in plastic and further the development of more sustainable alternatives to plastics.",
+        "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+        "Measures to strengthen demand for secondary plastics to facilitate environmentally sound plastic scrap recycling, including by using public procurement to drive demand for plastic products containing higher recycled content levels, where feasible.",
+        "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+      ],
+      "reasoning": "The document explicitly lists several potential obligations and areas for national action plans that directly assign roles and responsibilities to the production sector. The citations mention key producer-focused actions such as 'sustainable production', 'product design', 'recycled content levels in plastic products', and 'extended producer responsibility approaches', which are all core functions of plastic manufacturers and producers."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document outlines consumer responsibilities such as making informed choices facilitated by product labeling, changing behavior through awareness campaigns, making better decisions regarding plastic use and disposal, and practicing sustainable consumption.",
+      "citation": [
+        "Processes for working with stakeholders, international organizations, and others to consider product design and develop transparent labeling of plastic products that can enable informed consumer choices and facilitate reuse and recycling.",
+        "Where possible, activities undertaken should have demonstrated evidence of success in preventing and reducing plastic pollution and could include consumer behavior change campaigns, training, education, public awareness, public participation, and public access to information.",
+        "Educational opportunities should be geared towards enabling consumers and the public to make better decisions about plastic use and disposal, rather than just sharing resources about the impacts of plastic pollution.",
+        "Parties and others should be encouraged to actively promote the sharing of information on, for example, sustainable consumption and production, environmentally sound waste management, sources of plastic pollution..."
+      ],
+      "reasoning": "The cited texts directly support the finding that consumer responsibilities are mentioned. The document explicitly calls for measures that 'enable informed consumer choices,' promotes 'consumer behavior change campaigns,' and advocates for education to help consumers 'make better decisions about plastic use and disposal.' Furthermore, the encouragement to share information on 'sustainable consumption' clearly assigns an active role and responsibility to the public."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Strengthen environmentally sound management of plastic waste; Facilitate environmentally sound plastic scrap recycling; Improve management of plastic waste; Participate in programs to incentivize recycling and reuse.",
+      "citation": [
+        "The instrument's obligations, commitments, and voluntary approaches should strive to promote the sustainable production and consumption of plastic, increase plastic circularity in a manner that is protective of human health and the environment, and strengthen the environmentally sound management of plastic waste.",
+        "Measures to strengthen environmentally sound management of plastic waste, including actions to prevent and reduce the generation of plastic waste.",
+        "Measures to strengthen demand for secondary plastics to facilitate environmentally sound plastic scrap recycling, including by using public procurement to drive demand for plastic products containing higher recycled content levels, where feasible.",
+        "These might address a range of areas, including, among other things, improving product design, ecolabeling, public procurement, recycled content levels in plastic products, the management of plastic waste, and programs to incentivize recycling and reuse (e.g., extended producer responsibility approaches)."
+      ],
+      "reasoning": "The document explicitly identifies 'strengthen[ing] the environmentally sound management of plastic waste' and facilitating 'environmentally sound plastic scrap recycling' as key areas for obligations and commitments within the proposed international instrument. These are core responsibilities of the waste management and recycling sectors. Furthermore, the text suggests national action plans will include improving 'the management of plastic waste' and implementing programs to 'incentivize recycling and reuse,' which directly involve and assign roles to entities handling post-consumer materials."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "The document identifies the 'informal sector' and 'informal waste workers' as key stakeholders whose involvement is supported for the successful implementation of the instrument.",
+      "citation": [
+        "The United States believes that the plastic pollution problem cannot be solved by national governments alone and supports involvement from stakeholders in the instrument, including civil society, the private sector, the informal sector, indigenous peoples, academia, and subnational governments.",
+        "Stakeholder involvement should include the most affected local communities, with a focus on particularly affected community members, including women and children; and workers and unions, including informal waste workers."
+      ],
+      "reasoning": "The text explicitly names the 'informal sector' and 'informal waste workers' as crucial stakeholder groups that should be involved in the international instrument. The citations directly support this by listing these groups as part of the broader stakeholder community whose participation is necessary."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Governments (referred to as 'Parties') are assigned numerous responsibilities, including: developing and updating national action plans; implementing obligations through administrative, legislative, policy, and regulatory approaches; mandatory national reporting on progress; promoting scientific research and technological innovation; setting public procurement policies; strengthening waste management; engaging in public awareness campaigns; and participating in the instrument's governing body to review and evaluate implementation.",
+      "citation": [
+        "Each Party should be obligated to develop and communicate a national action plan that outlines how it will contribute to the achievement of the instrument's objective, including how it intends to implement obligations specified in the instrument with regard to preventing, reducing, or eliminating plastic pollution.",
+        "The actions outlined in such national actions plans could include administrative, legislative, policy, regulatory, or other approaches.",
+        "The instrument should have provisions on mandatory national reporting. The United States believes that such reporting obligations can help shed light on the extent to which Parties are individually contributing to the achievement of the instrument's objective and complying with their obligations under the instrument.",
+        "The instrument should establish a governing body as the main decision-making authority under the instrument, such as a “Conference of the Parties” (COP), and should provide for the convening of ordinary and extraordinary meetings of that governing body. The general authorities and functions could include reviewing and evaluating implementation of the instrument..."
+      ],
+      "reasoning": "The document extensively details the expected roles and obligations of national governments, referred to as 'Parties,' under the proposed international instrument. The citations explicitly state that governments are obligated to create national action plans, implement them through various means including legislation and regulation, report on their progress, and participate in the overarching governing body that oversees the entire treaty. This clearly assigns primary responsibility for policy creation, implementation, and oversight to government actors."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Involvement in the instrument's implementation through public participation and dialogue; accreditation to meetings with speaking rights and the ability to organize side events; acting as advisors to subsidiary bodies; and cooperating with the governing body.",
+      "citation": [
+        "The United States believes that the plastic pollution problem cannot be solved by national governments alone and supports involvement from stakeholders in the instrument, including civil society, the private sector, the informal sector, indigenous peoples, academia, and subnational governments.",
+        "We support accreditation of stakeholders to meetings related to implementation of the instrument, with the opportunity to speak and organize side meetings.",
+        "We also recognize the important role stakeholders may play in any subsidiary bodies that might be established, such as acting as advisors to subsidiary bodies focused on scientific or technical aspects of plastic pollution.",
+        "The general authorities and functions could include reviewing and evaluating implementation of the instrument; establishing subsidiary bodies as it considers necessary for the implementation of the instrument; cooperating, where appropriate, with competent international organizations and intergovernmental and non-governmental bodies..."
+      ],
+      "reasoning": "The document explicitly identifies 'civil society' and 'non-governmental bodies' as key stakeholders and assigns them specific responsibilities. The citations show that their roles include involvement in the instrument, active participation in meetings, advising subsidiary bodies, and cooperating with the governing body, which directly matches the code definition."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document assigns several roles to a Secretariat, including: preparing documents with potential options to facilitate negotiations; making arrangements for meetings of the governing and subsidiary bodies; providing services to these bodies; coordinating with other relevant international bodies; assisting Parties with information exchange; and preparing and distributing periodic reports.",
+      "citation": [
+        "We thank the Secretariat in advance for drawing on these views in its preparation of a document with potential options for elements of the instrument for INC-2.",
+        "We look forward to the Secretariat's document providing detailed conceptual options, ideas, and/or examples of such elements for consideration by Members that will facilitate discussions at INC-2...",
+        "We support the establishment of a Secretariat for the instrument to carry out typical functions, such as: making arrangements for meetings of the governing body, any subsidiary bodies, and potentially the multistakeholder action agenda; providing them with services as required; coordinating, as appropriate, with the Secretariats of relevant international bodies and instruments; assisting Parties, as required, in the exchange of information related to the implementation of the instrument; and preparing and making available to the Parties periodic reports based on national reporting and other sources of information, as appropriate."
+      ],
+      "reasoning": "The document explicitly assigns preparatory, administrative, and coordination responsibilities to a 'Secretariat'. In the context of an international legally binding instrument negotiated under UN auspices (as indicated by references to UNEA and INC), the 'Secretariat' is a core component of the UN system's role in treaty implementation. The cited texts list specific functions such as preparing documents for negotiations, arranging meetings, and coordinating with other international bodies, clearly defining its responsibilities."
+    }
+  }
+}

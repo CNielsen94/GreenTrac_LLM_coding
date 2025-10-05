@@ -1,0 +1,537 @@
+{
+  "submission_metadata": {
+    "country": "Islamic Republic of Iran",
+    "date": "2023-02-08",
+    "type": null
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "to reduce uncontrolled hazardous plastic pollution.",
+        "to develop an effective framework to enable all countries to control and minimize hazardous plastic pollution including in marine environments with taking into account the national circumstances and capabilities of countries;"
+      ],
+      "reasoning": "The document explicitly states a proposed objective 'to reduce uncontrolled hazardous plastic pollution' and a core obligation to 'control and minimize hazardous plastic pollution'. These goals directly align with the code's definition of addressing or tackling plastic pollution. No specific timeframe or target year for achieving this objective is mentioned."
+    },
+    "reduce_production": {
+      "mentioned": false,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "benefits_of_plastics": {
+      "mentioned": true,
+      "benefits_listed": "Important role for human well-being",
+      "citation": [
+        "to recognize the important role played by plastics for today and future life of human well-being;"
+      ],
+      "reasoning": "The document explicitly acknowledges the positive contribution of plastics in the 'Preamble' section. The cited text directly states that plastics play an 'important role' for 'human well-being,' which aligns with the code definition of acknowledging plastic's utility and positive contributions."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "Recognizing the important role of plastics for human well-being.",
+      "citation": [
+        "to recognize the important role played by plastics for today and future life of human well-being;"
+      ],
+      "reasoning": "The document explicitly mentions the 'well-being' of humans in the preamble section. This directly links the issue of plastics to human health and quality of life, fulfilling the code's requirement to check for mentions of preserving or protecting human health."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "to develop an effective framework to enable all countries to control and minimize hazardous plastic pollution including in marine environments with taking into account the national circumstances and capabilities of countries;",
+        "to enhance the people's environmental knowledge that how reducing plastic waste can lift the sustainable development criteria and save the environment;",
+        "investigating and researching the types of hazardous plastic pollution in the world and its effects on nature and the environment;"
+      ],
+      "reasoning": "The document explicitly states a goal to 'save the environment' and proposes research on the 'effects on nature and the environment' from plastic pollution, confirming an objective to protect ecosystems. The repeated and specific mention of controlling pollution 'in marine environments' clearly indicates a particular focus on protecting marine biodiversity."
+    },
+    "lifecycle_approach": {
+      "mentioned": false,
+      "coverage": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "other_objectives": {
+      "value": "Foster a circular economy, create economic opportunities and green jobs, drive innovation, and ensure a just transition for workers.",
+      "citation": [
+        "A key additional objective should be to foster a circular economy for plastics.",
+        "This approach not only manages waste but also creates economic opportunities, such as green jobs, and drives innovation in new materials and business models.",
+        "This also means ensuring a just transition for workers in affected industries."
+      ],
+      "reasoning": "The document explicitly identifies fostering a circular economy as a \"key additional objective.\" This objective is further detailed to include creating economic opportunities and green jobs, driving innovation, and ensuring a just transition for workers. These are distinct socio-economic goals that are not covered by the other specified categories, which focus on pollution, production, health, biodiversity, and the general lifecycle framework."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document mentions financial support, assistance, and resources for developing countries to manage hazardous plastic waste. Specific mechanisms include establishing a new and independent international fund, creating a dedicated financial mechanism, and mobilizing financial resources from donor countries for waste management initiatives.",
+        "citation": [
+          "capacity building through provisions of financial, technical, and technological support to developing countries;",
+          "to establish a new and independent international fund to ensure the availability of financial resources and facilitate access of developing countries to the funds and necessary technologies predictably and affordably;",
+          "to mobilize adequate and predictable financial resources by donor countries for enforcing hazardous plastic waste management initiatives in developing countries;",
+          "to create a new and independent dedicated financial mechanism to enable developing countries to achieve the objectives, along with considering the link between the financial assistance and implementation of the commitment of developing countries;"
+        ],
+        "reasoning": "The document repeatedly calls for various forms of 'financial support,' 'financial resources,' and 'financial assistance' to be provided to developing countries. These proposed mechanisms, such as an international fund and mobilized resources from donor countries, function as grants or subsidies to aid nations in implementing plastic pollution control measures, directly matching the code's definition."
+      },
+      "penalties": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document proposes establishing standing committees for financing and technology development, as well as a new international fund to facilitate access to necessary technologies.",
+        "citation": [
+          "to establish a new and independent international fund to ensure the availability of financial resources and facilitate access of developing countries to the funds and necessary technologies predictably and affordably;",
+          "to focus on technological and educational support for plastic wastes management and control;",
+          "to establish standing committees for financing, technology development and transfer, and capacity-building including technical support to help developing countries in implementing their obligations;"
+        ],
+        "reasoning": "The document explicitly proposes the creation of a standing committee responsible for 'financing, technology development and transfer'. The direct pairing of 'financing' with 'technology development' indicates an intent to fund R&D activities. This is further supported by the proposal for a new international fund to provide financial resources for 'necessary technologies' and a general call for 'technological... support'."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document mentions the development of 'technical guidelines including standards' for managing hazardous plastic waste and the promotion of 'Best Available Technologies (BAT) and Best Environmental Practices (BEP)'.",
+        "citation": [
+          "to develop technical guidelines including standards applied in successful countries for hazardous plastic waste management.;",
+          "to promote technology transfer including Best Available Technologies (BAT) and Best Environmental Practices (BEP) for environmentally sound management of hazardous plastic wastes;"
+        ],
+        "reasoning": "The document explicitly calls for the creation of 'standards' for waste management and the promotion of 'Best Environmental Practices (BEP)'. These fall under the code's definition as they represent specifications and criteria that management practices must meet to be considered environmentally sound."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document proposes the establishment of regional centers to assist in the implementation of the instrument.",
+        "citation": [
+          "to establish regional centers according to their role in assisting in the implementation of the instrument;"
+        ],
+        "reasoning": "The document explicitly calls for the establishment of 'regional centers' to help implement the instrument's provisions. This aligns with the code definition which includes 'facility establishment, or system creation to implement the treaty provisions'."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "The submission calls for national and regional action plans on plastic waste management, as well as an initial assessment and national action plan to reduce hazardous plastic wastes.",
+        "citation": [
+          "to prepare periodical national reports and enforce national/regional action plans on plastic waste management with a focus on the marine environment;",
+          "to develop an initial assessment and national action plan to accelerate achieving the objectives for reducing uncontrolled hazardous plastic wastes;",
+          "In development implementation and updating national action plans, national circumstances, and country-driven approaches should be reflected."
+        ],
+        "reasoning": "The document explicitly lists the development and enforcement of 'national/regional action plans' as a key control measure. It also identifies the creation of a 'national action plan' as a primary method for ensuring the implementation of the instrument at the national level."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document proposes the preparation of 'periodical national reports' and 'national/regional action plans' on plastic waste management. It specifies that developed countries should submit biennial national reports, while reporting for developing countries should be voluntary and conditional on receiving financial and technical support.",
+        "citation": [
+          "to prepare periodical national reports and enforce national/regional action plans on plastic waste management with a focus on the marine environment;",
+          "While the developed countries should prepare and submit their national reports to the instrument biennially, the developing countries should be allowed to prepare and submit their national reports voluntarily subject to the availability of financial and technical support;",
+          "National reporting of developing countries should be voluntary and conditional on the availability and accessibility of capacity-building, technical assistance, technology transfer, and financial support;"
+        ],
+        "reasoning": "The document explicitly lists the preparation of 'periodical national reports' as a control measure. The citations clearly outline a differentiated approach, proposing mandatory biennial reporting for developed countries and voluntary, conditional reporting for developing countries. This fulfills the code's definition of mentioning reporting or data submission requirements."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document mentions several monitoring measures, including the preparation of periodical national reports, the development of initial assessments and national/regional action plans, and the evaluation of the effectiveness of national programs.",
+        "citation": [
+          "to prepare periodical national reports and enforce national/regional action plans on plastic waste management with a focus on the marine environment;",
+          "to develop an initial assessment and national action plan to accelerate achieving the objectives for reducing uncontrolled hazardous plastic wastes;",
+          "c) evaluating the effectiveness of countries' hazardous plastic pollution reduction programs and presenting the outcomes and successful experiences of countries in implementing the instrument;"
+        ],
+        "reasoning": "The document explicitly calls for systems to track and evaluate progress. The mention of 'periodical national reports,' 'initial assessment,' and 'evaluating the effectiveness of...programs' directly corresponds to the code definition, which includes systems to track, assess, or evaluate plastic pollution or policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document suggests establishing bodies for exchanging information and best practices, promoting Best Environmental Practices (BEP), and developing technical guidelines and standards for hazardous plastic waste management.",
+        "citation": [
+          "to establish/promote national and regional bodies to boost cooperation in exchanging information and best practices for safe and sound waste management, including in the marine environment;",
+          "to promote technology transfer including Best Available Technologies (BAT) and Best Environmental Practices (BEP) for environmentally sound management of hazardous plastic wastes;",
+          "to develop technical guidelines including standards applied in successful countries for hazardous plastic waste management.;"
+        ],
+        "reasoning": "The document explicitly mentions the creation and dissemination of informational resources to guide stakeholders. The cited texts call for 'exchanging information and best practices,' promoting 'Best Environmental Practices (BEP),' and developing 'technical guidelines including standards,' all of which are clear examples of the information and guidance soft instrument as defined."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Promoting environmental awareness, enhancing people's environmental knowledge, providing educational support and assistance, and promoting public awareness through mass media and NGOs.",
+        "citation": [
+          "The obligations have to concentrate on promoting plastic waste management and the related technical methods and promote environmental awareness;",
+          "to enhance the people's environmental knowledge that how reducing plastic waste can lift the sustainable development criteria and save the environment;",
+          "to focus on technological and educational support for plastic wastes management and control;",
+          "Promotion of public awareness through public and private mass media as well as NGOs"
+        ],
+        "reasoning": "The document explicitly mentions the need to 'promote environmental awareness' and 'enhance the people's environmental knowledge' as core obligations and control measures. It also includes a dedicated section on 'Awareness-raising' that specifies the use of mass media and NGOs for public education, directly matching the code's definition of awareness-raising campaigns and public education initiatives."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The submission proposes the 'formation of related technical working groups' and the establishment of 'standing committees for financing, technology development and transfer, and capacity-building'.",
+        "citation": [
+          "...the formation of related technical working groups to promote plastic waste management.",
+          "to establish standing committees for financing, technology development and transfer, and capacity-building including technical support to help developing countries in implementing their obligations;"
+        ],
+        "reasoning": "The document explicitly proposes the creation of 'technical working groups' to handle plastic waste classification and management, and 'standing committees' to assist with implementation related to finance, technology, and capacity-building. These proposals directly align with the code's definition of establishing expert bodies to provide guidance on the treaty."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "The document calls for conducting extensive science-based studies on plastic waste listing and classification. It also proposes undertaking scientific and technical studies to evaluate the socio-economic and environmental effects of replacing hazardous plastics, investigate types of plastic pollution and their effects, and evaluate the effectiveness of national reduction programs. Additionally, it encourages innovating ways for waste reduction and management.",
+        "citation": [
+          "It is necessary to promote the environmentally sound management of plastic waste by conducting extensive science-based studies on the plastic waste listing, and classification as well as the formation of related technical working groups to promote plastic waste management.",
+          "to undertake a scientific and technical study focusing on the following elements:",
+          "b) investigating and researching the types of hazardous plastic pollution in the world and its effects on nature and the environment;",
+          "c) evaluating the effectiveness of countries' hazardous plastic pollution reduction programs and presenting the outcomes and successful experiences of countries in implementing the instrument;",
+          "...innovating ways and means of reducing hazardous plastic wastes and more efficient plastic management including in marine environment."
+        ],
+        "reasoning": "The document explicitly encourages research and scientific study through a dedicated 'Research' section, which outlines specific areas for investigation, such as the environmental effects of plastic pollution and the effectiveness of reduction programs. It also promotes science-based studies for waste management and encourages innovation, directly aligning with the code's definition of promoting scientific research and knowledge development."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "Proposals for plastic waste listing and classification, and the development of technical guidelines and standards for hazardous plastic waste management.",
+        "citation": [
+          "It is necessary to promote the environmentally sound management of plastic waste by conducting extensive science-based studies on the plastic waste listing, and classification as well as the formation of related technical working groups to promote plastic waste management.",
+          "to develop technical guidelines including standards applied in successful countries for hazardous plastic waste management.;"
+        ],
+        "reasoning": "The document advocates for harmonizing approaches by proposing a common 'listing, and classification' of plastic waste. Furthermore, it explicitly calls for the creation of 'technical guidelines including standards' based on successful examples, which is a direct effort to standardize methodologies for waste management across different countries."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions several knowledge sharing initiatives, including: exchanging information and best practices through national and regional bodies, technology transfer (specifically Best Available Technologies and Best Environmental Practices), technical assistance and support, development of technical guidelines based on successful country experiences, and establishing standing committees for technology development and transfer.",
+        "citation": [
+          "to establish/promote national and regional bodies to boost cooperation in exchanging information and best practices for safe and sound waste management, including in the marine environment;",
+          "effectiveness of the instrument is dependent on other elements including support for capacity-building, technical assistance, technology transfer, and financial assistance;",
+          "to promote technology transfer including Best Available Technologies (BAT) and Best Environmental Practices (BEP) for environmentally sound management of hazardous plastic wastes;",
+          "to develop technical guidelines including standards applied in successful countries for hazardous plastic waste management.;",
+          "to establish standing committees for financing, technology development and transfer, and capacity-building including technical support to help developing countries in implementing their obligations;"
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for mechanisms to exchange information, expertise, and technology between countries. The citations directly mention 'exchanging information and best practices,' 'technology transfer,' 'technical assistance,' and developing 'technical guidelines' based on successful countries' standards, which are all core examples of knowledge sharing as per the code definition."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document proposes objectives such as reducing uncontrolled hazardous plastic pollution and promoting its sound management, but it does not specify any quantitative, measurable targets with concrete numbers, percentages, or deadlines. The submission focuses on establishing frameworks, national plans, and support mechanisms rather than defining specific performance targets."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "production": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "product_production": {
+        "mentioned": false,
+        "microplastics_addressed": false,
+        "chemicals_addressed": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document's entire focus is on the downstream, post-consumer stage, specifically the 'management of hazardous plastic wastes'. It does not contain any measures, obligations, or discussions related to the manufacturing of plastic products, the regulation of chemical additives during production, or the issue of intentionally added microplastics."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "The document mentions measures to enhance public environmental knowledge and promote environmental awareness to encourage the reduction of plastic waste.",
+        "citation": [
+          "The obligations have to concentrate on promoting plastic waste management and the related technical methods and promote environmental awareness;",
+          "to enhance the people's environmental knowledge that how reducing plastic waste can lift the sustainable development criteria and save the environment;",
+          "Promotion of public awareness through public and private mass media as well as NGOs"
+        ],
+        "reasoning": "The cited texts indicate a focus on influencing consumer behavior through education and awareness campaigns. Measures like 'promot[ing] environmental awareness' and enhancing 'people's environmental knowledge' are directly aimed at the consumption phase by encouraging the public to reduce plastic waste."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "Environmentally sound management of plastic waste, development of national policies/laws/regulations, exchanging best practices, creation of action plans, use of Best Available Technologies (BAT) and Best Environmental Practices (BEP), and development of technical guidelines and standards for waste management.",
+        "citation": [
+          "to promote environmentally safe and sound management of hazardous plastic wastes;",
+          "The obligations have to concentrate on promoting plastic waste management and the related technical methods and promote environmental awareness;",
+          "to adopt effective national policies, laws, and regulations for managing hazardous plastic wastes;",
+          "to prepare periodical national reports and enforce national/regional action plans on plastic waste management with a focus on the marine environment;",
+          "to promote technology transfer including Best Available Technologies (BAT) and Best Environmental Practices (BEP) for environmentally sound management of hazardous plastic wastes;"
+        ],
+        "reasoning": "The document frequently and explicitly calls for the promotion and implementation of 'plastic waste management' and 'environmentally sound management of hazardous plastic wastes'. The citations highlight the focus on creating national policies, action plans, and using best practices (BAT/BEP) specifically for managing waste, which directly aligns with the code's definition of addressing the handling, processing, or management of plastic waste after collection."
+      },
+      "recycling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "addressing existing plastic pollution",
+        "citation": [
+          "to encourage cooperation and partnership at the national, regional ,and international levels to reduce hazardous plastic waste and pollution in the marine environment, including existing plastic pollution, is necessary;"
+        ],
+        "reasoning": "The document explicitly states the necessity of cooperation to reduce 'existing plastic pollution'. This phrase directly corresponds to the code's definition of addressing plastic that has already polluted the environment."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "microplastic_leakage": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document consistently refers to 'hazardous plastic wastes' and 'hazardous plastic pollution' in a general sense, focusing on waste management. It does not mention any specific measures or sources related to the unintentional leakage of microplastics, such as from tire wear, textile washing, or plastic degradation."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document specifies that developed countries should submit national reports biennially (every two years) and also refers to the preparation of 'periodical national reports' more generally.",
+        "citation": [
+          "to prepare periodical national reports and enforce national/regional action plans on plastic waste management with a focus on the marine environment;",
+          "While the developed countries should prepare and submit their national reports to the instrument biennially, the developing countries should be allowed to prepare and submit their national reports voluntarily subject to the availability of financial and technical support;"
+        ],
+        "reasoning": "The citations directly mention time-related schedules for a key implementation activity, which is national reporting. The term 'biennially' defines a specific two-year cycle for developed countries, and 'periodical' indicates a recurring schedule, which confirms that an implementation timeframe is specified in the document."
+      },
+      "stringency": {
+        "level": "Low",
+        "details": "The document proposes a two-tiered system where developed countries have legally binding obligations, but all actions and reporting for developing countries are voluntary and conditional on receiving support. The overall approach is described as flexible, facilitative, and nationally determined, with no mention of sanctions or enforcement mechanisms.",
+        "citation": [
+          "While the developed countries should commit themselves to legally binding obligations to ensure the reduction of hazardous plastic pollution and financial and technological contribution to developing countries, all actions and initiatives of developing countries in this respect including reporting should be voluntary.",
+          "flexibility together with a facilitative and supportive approach in implementation measures which allow countries discretion in particular for developing countries in the implementation of their commitments is indispensable;",
+          "National reporting of developing countries should be voluntary and conditional on the availability and accessibility of capacity-building, technical assistance, technology transfer, and financial support;",
+          "any policies and measures to cope with plastic pollution to be nationally determined;"
+        ],
+        "reasoning": "The stringency is coded as 'Low' because the document explicitly states that actions and reporting for developing countries should be voluntary. It emphasizes flexibility, national discretion, and a 'facilitative and supportive approach' rather than a strict, universally binding framework with enforcement measures. While 'legally binding obligations' are mentioned for developed countries, the overall architecture for a large number of parties is voluntary and non-punitive."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "Global instrument intended to be implemented through national-level policies, laws, and action plans, with support from regional and international cooperation.",
+        "citation": [
+          "to promote cooperation and partnership at the regional and international levels;",
+          "to develop an effective framework to enable all countries to control and minimize hazardous plastic pollution including in marine environments with taking into account the national circumstances and capabilities of countries;",
+          "to adopt effective national policies, laws, and regulations for managing hazardous plastic wastes;",
+          "to prepare periodical national reports and enforce national/regional action plans on plastic waste management with a focus on the marine environment;"
+        ],
+        "reasoning": "The document is a submission to an Intergovernmental Negotiating Committee (INC) for a new instrument on plastic pollution, indicating a global-scale negotiation. The citations confirm this global scope, mentioning an 'international' framework that enables 'all countries' to act. The implementation mechanism is explicitly defined at the national and regional levels, through 'national policies, laws, and regulations' and 'national/regional action plans'."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document specifies that 'donor countries' and 'developed countries' should provide financial resources and contributions to support developing countries in managing plastic waste.",
+      "citation": [
+        "to mobilize adequate and predictable financial resources by donor countries for enforcing hazardous plastic waste management initiatives in developing countries;",
+        "While the developed countries should commit themselves to legally binding obligations to ensure the reduction of hazardous plastic pollution and financial and technological contribution to developing countries, all actions and initiatives of developing countries in this respect including reporting should be voluntary."
+      ],
+      "reasoning": "The cited texts explicitly mention 'donor countries' and 'developed countries' as sources of financial resources and contributions. These terms refer to national governments, which are public sources of financing, thus directly aligning with the code definition."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document calls for the establishment of a new and independent international fund, financial resources from donor countries, and a dedicated financial mechanism to support developing countries.",
+      "citation": [
+        "to establish a new and independent international fund to ensure the availability of financial resources and facilitate access of developing countries to the funds and necessary technologies predictably and affordably;",
+        "to mobilize adequate and predictable financial resources by donor countries for enforcing hazardous plastic waste management initiatives in developing countries;",
+        "to create a new and independent dedicated financial mechanism to enable developing countries to achieve the objectives, along with considering the link between the financial assistance and implementation of the commitment of developing countries;"
+      ],
+      "reasoning": "The cited texts explicitly propose the creation of an 'international fund' and call for 'donor countries' to provide financial resources. These are direct references to international financing sources, justifying the 'true' value for 'mentioned' and providing the specific mechanisms for 'details'."
+    },
+    "fees_taxes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document does not mention any financing sources related to credit mechanisms. The text consistently refers to financial support through \"financial assistance,\" a \"new and independent international fund,\" and a \"dedicated financial mechanism,\" which are distinct from loans, bonds, or credit schemes."
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document does not mention any voluntary financing sources. While it refers to 'donor countries' and an 'international fund', it frames financial support from developed countries as a 'legally binding obligation', which is the opposite of a voluntary contribution. The 'Voluntary approaches' section explicitly contrasts these financial obligations with the voluntary actions of developing countries."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The role assigned to the private sector (producers) is to attend plenary meetings as observers and provide views and suggestions on innovative methods for reducing hazardous plastic waste and improving plastic management.",
+      "citation": [
+        "on stakeholder engagement, the negotiation part of this intergovernmental process should remain restricted to the participation of the government representatives. However, NGOs, local communities ,and private sector representatives could be allowed to attend the plenary of INC meetings as observers to readout their views and suggestions for innovating ways and means of reducing hazardous plastic wastes and more efficient plastic management including in marine environment."
+      ],
+      "reasoning": "The document explicitly defines a role for the 'private sector representatives', which includes plastic producers. While this role is consultative (attending meetings as observers and offering suggestions) rather than a direct obligation like EPR or take-back schemes, it is a specifically assigned role in the process, thus meeting the code's criteria."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "Enhancing environmental knowledge and public awareness about reducing plastic waste.",
+      "citation": [
+        "to enhance the people's environmental knowledge that how reducing plastic waste can lift the sustainable development criteria and save the environment;",
+        "Promotion of public awareness through public and private mass media as well as NGOs"
+      ],
+      "reasoning": "The cited texts explicitly mention enhancing 'people's environmental knowledge' and promoting 'public awareness' regarding plastic waste reduction. This assigns a role to the general public (consumers) to become informed and participate in the solution, implying a responsibility to act on this awareness."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document assigns responsibilities such as conducting 'environmentally sound management of hazardous plastic wastes', ensuring this management is conducted 'by/under national laws and regulations', and achieving 'more efficient plastic management'.",
+      "citation": [
+        "to promote environmentally safe and sound management of hazardous plastic wastes;",
+        "Hazardous plastic waste management should be conducted by/under national laws and regulations.",
+        "...innovating ways and means of reducing hazardous plastic wastes and more efficient plastic management including in marine environment."
+      ],
+      "reasoning": "The document repeatedly emphasizes the necessity of 'environmentally sound management' of plastic waste and explicitly states that this 'management should be conducted'. These citations directly assign the operational role and responsibility for managing waste to the relevant sector, even though the broader context is about the obligations of nations to create the enabling legal and financial frameworks."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document makes no mention of the informal sector, waste pickers, or informal recyclers. The text focuses on government-led actions, international cooperation, financial mechanisms, and engagement with broad stakeholder groups such as 'NGOs, local communities, and private sector representatives', without specifying any role or responsibility for the informal waste sector within these groups."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "Governments are responsible for developing national frameworks, laws, policies, and regulations for managing hazardous plastic waste. They are also tasked with creating and enforcing national action plans, preparing periodical national reports, establishing national and regional bodies for cooperation, and participating in intergovernmental negotiations.",
+      "citation": [
+        "any policies and measures to cope with plastic pollution to be nationally determined;",
+        "to adopt effective national policies, laws, and regulations for managing hazardous plastic wastes;",
+        "to prepare periodical national reports and enforce national/regional action plans on plastic waste management with a focus on the marine environment;",
+        "Hazardous plastic waste management should be conducted by/under national laws and regulations.",
+        "on stakeholder engagement, the negotiation part of this intergovernmental process should remain restricted to the participation of the government representatives."
+      ],
+      "reasoning": "The document explicitly assigns numerous responsibilities to national entities (countries/governments). The cited texts demonstrate that governments are obligated to determine policies, adopt laws and regulations, prepare national reports, enforce action plans, and act as the primary representatives in intergovernmental negotiations, all of which are core government functions."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Promotion of public awareness; Attending INC meetings as observers; Providing views and suggestions on waste reduction and management.",
+      "citation": [
+        "Promotion of public awareness through public and private mass media as well as NGOs",
+        "However, NGOs, local communities ,and private sector representatives could be allowed to attend the plenary of INC meetings as observers to readout their views and suggestions for innovating ways and means of reducing hazardous plastic wastes and more efficient plastic management including in marine environment."
+      ],
+      "reasoning": "The document explicitly identifies NGOs as having a role in two key areas. First, under 'Awareness-raising', they are listed as a channel for promoting public awareness. Second, under 'Stakeholder engagement', they are assigned the role of observers in meetings, where they can actively provide 'views and suggestions' on plastic waste management. These passages clearly define responsibilities for non-governmental organizations."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document proposes that the United Nations Environment Programme (UNEP) should host the secretariats for the new instrument and its financial mechanism.",
+      "citation": [
+        "The secretariats of the new instrument and its financial mechanism shall be preferably based in Nairobi (UNEP headquarter);"
+      ],
+      "reasoning": "The text explicitly assigns an institutional and administrative role to a specific UN agency, the United Nations Environment Programme (UNEP), by suggesting its headquarters should host the secretariat for the new plastics treaty. This constitutes a direct responsibility for the UN system."
+    }
+  }
+}

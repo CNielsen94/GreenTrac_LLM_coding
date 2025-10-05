@@ -1,0 +1,594 @@
+{
+  "submission_metadata": {
+    "country": "Sri Lanka",
+    "date": "2023-02-07",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "Main Objective: Eliminate plastic pollution in atmospheric, terrestrial and marine environments."
+      ],
+      "reasoning": "The submission explicitly states that the main objective of the instrument should be to 'Eliminate plastic pollution'. However, no specific timeframe or target year for achieving this objective is mentioned in the text."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Considering the drive towards renewable energy and drop in fossil fuel usage, the tendency to increase in plastic production in future using fossil fuels needs to be considered and a control mechanism has to be established..."
+      ],
+      "reasoning": "The document explicitly states that a \"control mechanism has to be established\" to address the future \"increase in plastic production.\" This directly aligns with the code's definition of controlling or limiting the manufacturing of plastic."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The submission addresses human health protection by calling for a ban on toxic plastics (containing toxic polymers, pigments, and additives), ensuring the occupational health and safety of waste pickers, and highlighting the need for further research on the health impacts of micro and nano plastics.",
+      "citation": [
+        "Ban toxic plastics consisting of toxic polymers, pigments, additives and phase out selected single use plastics and other problematic plastics considering the precautionary principle.",
+        "Develop waste pickers in to entrepreneurs in waste management and ensure their occupational health and safety.",
+        "Further research is needed to find the impacts of micro and nano plastics on human health and environment, where a platform could be established for exchange of research findings globally."
+      ],
+      "reasoning": "The document explicitly mentions protecting human health in several contexts: first, through the proactive measure of banning toxic components in plastics; second, by safeguarding a specific vulnerable group ('occupational health and safety' of waste pickers); and third, by identifying a key knowledge gap regarding the impacts of micro and nano plastics on 'human health'."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "This will lead to pollution of sensitive environments and irreversible damages to sensitive ecosystems.",
+        "Main Objective: Eliminate plastic pollution in atmospheric, terrestrial and marine environments.",
+        "Considering the impact of plastic pollution that has on climate change and loss of bio diversity, teaming up with relevant stakeholders and implementing programmes are essential."
+      ],
+      "reasoning": "The document explicitly mentions the goal of preventing 'irreversible damages to sensitive ecosystems' and directly cites the 'loss of bio diversity' as a key impact of plastic pollution that needs to be addressed. While the overall objective is broad, the marine environment is specifically and repeatedly highlighted as a primary area for protection, alongside terrestrial and atmospheric environments, thus confirming a marine focus."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "Lifecycle management of plastics in upstream, mid-stream and down stream.",
+        "Promote Lifecycle Assessment of Plastics."
+      ],
+      "reasoning": "The document explicitly lists 'Lifecycle management' and 'Lifecycle Assessment' as core obligations. The specific mention of 'upstream, mid-stream and down stream' confirms that the intended scope covers the entire lifecycle, from production to end-of-life, justifying the 'Full lifecycle' coverage determination."
+    },
+    "other_objectives": {
+      "value": "Promote a just transition for workers and communities",
+      "citation": [
+        "Moreover, the treaty should promote a just transition for workers and communities affected by measures taken to address plastic pollution, in particular in developing countries and for people working in the informal sector."
+      ],
+      "reasoning": "The document explicitly states that the treaty should aim to 'promote a just transition for workers and communities'. This objective focuses on the socioeconomic impacts and equity for people affected by plastic pollution policies, which is a distinct goal not covered by the other specified environmental, health, or lifecycle-focused categories."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document calls for financial assistance and sustainable funding mechanisms for developing countries to implement National Action Plans, manage plastic waste, respond to disasters, ensure environmental equity, and support infrastructure development for waste management and recycling facilities.",
+        "citation": [
+          "Technical support and sustainable funding mechanisms to implement the National Action Plans are essential to improve in-country plastic waste management.",
+          "Provision of financial assistance to ensure environmental equity.",
+          "In implementing the National Action Plans - Technical and financial assistance will be needed by the developing countries.",
+          "Sustainable funding mechanism need to be established considering environmental equity.",
+          "Support for Infra- structure development for waste management and establishing standard recycling facilities is essential to minimize air pollution."
+        ],
+        "reasoning": "The document repeatedly uses the terms 'financial assistance', 'sustainable funding mechanisms', and 'support for infrastructure', which are forms of financial support and grants covered by the code's definition. The cited texts specify that this support is needed for developing countries to implement national plans and build waste management infrastructure, which are clear examples of subsidies or grants aimed at environmental objectives."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "Polluter Pay Principle (PPP)",
+        "citation": [
+          "Implement Polluter Pay Principle, (PPP)and Extended Producer Responsibility(EPR) to manage plastics."
+        ],
+        "reasoning": "The document explicitly lists the 'Polluter Pay Principle, (PPP)' as a core obligation for managing plastics. The code definition identifies the 'polluter-pays principle' as a specific example of a penalty or punitive financial measure, thus justifying the coding."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document does not mention any market-based trading mechanisms such as emissions trading, plastic credits, cap-and-trade systems, or tariffs. While it does mention other economic instruments like the 'Polluter Pay Principle' and 'Extended Producer Responsibility', these do not constitute trading systems as defined by the code."
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document mentions the need to promote research to control micro and nano plastic leakage, and for further research into the impacts of micro and nano plastics on human health and the environment.",
+        "citation": [
+          "Promote research and take remedial measures to control micro and nano plastics leakage into the environment.",
+          "Further research is needed to find the impacts of micro and nano plastics on human health and environment, where a platform could be established for exchange of research findings globally."
+        ],
+        "reasoning": "The document explicitly calls to 'Promote research' and states that 'Further research is needed' in relation to micro and nano plastics. These statements are direct calls for research and development activities, which align with the definition of R&D funding and financial support for technological and knowledge development."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document lists Extended Producer Responsibility (EPR) as a core obligation for plastic management.",
+        "citation": [
+          "Implement Polluter Pay Principle, (PPP)and Extended Producer Responsibility(EPR) to manage plastics."
+        ],
+        "reasoning": "The text explicitly mentions 'Extended Producer Responsibility(EPR)' as a core obligation to be implemented for managing plastics, which directly aligns with the code definition."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "The document proposes to develop waste pickers into entrepreneurs and ensure their occupational health and safety.",
+        "citation": [
+          "Develop waste pickers in to entrepreneurs in waste management and ensure their occupational health and safety."
+        ],
+        "reasoning": "The cited text explicitly mentions 'waste pickers,' a key vulnerable group in the waste management sector, and proposes measures for their economic empowerment ('develop into entrepreneurs') and well-being ('ensure their occupational health and safety'). This directly aligns with the definition of a just transition, which focuses on the social impacts of environmental policies on affected groups."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Ban on toxic plastics (including toxic polymers, pigments, additives) and phase-out of selected single-use plastics and other problematic plastics.",
+        "citation": [
+          "Ban toxic plastics consisting of toxic polymers, pigments, additives and phase out selected single use plastics and other problematic plastics considering the precautionary principle."
+        ],
+        "reasoning": "The document explicitly lists 'Ban toxic plastics...' and to 'phase out selected single use plastics...' as a core obligation for an international legally binding instrument. This directly satisfies the code definition, which looks for mentions of prohibitions, bans, or phase-outs."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "Standards for plastic products and recycled products; standard recycling facilities.",
+        "citation": [
+          "Develop and adhere to standards for plastic products and recycled products.",
+          "Support for Infra- structure development for waste management and establishing standard recycling facilities is essential to minimize air pollution."
+        ],
+        "reasoning": "The document explicitly proposes as a core obligation to 'Develop and adhere to standards for plastic products and recycled products'. It also mentions the need for 'standard recycling facilities'. These statements directly match the code definition, which includes setting standards, specifications, or criteria that products or related facilities must meet."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "Infrastructure development for waste management, sustainable recyclable collection mechanisms, standard recycling facilities, and residual plastic treatment facilities.",
+        "citation": [
+          "the developing countries do not have adequate waste disposal options, sustainable recyclable collection mechanisms and standard recycling facilities.",
+          "Improve waste management in developing countries and promote residual plastic treatment technologies and assist establishment of such facilities in developing countries.",
+          "Support for Infra- structure development for waste management and establishing standard recycling facilities is essential to minimize air pollution."
+        ],
+        "reasoning": "The document explicitly states the lack of 'sustainable recyclable collection mechanisms and standard recycling facilities' in developing countries. It further identifies 'Support for Infra- structure development for waste management and establishing standard recycling facilities' as an essential means of implementation for the treaty, directly matching the code's definition of requiring the development of physical systems and facilities for waste management."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "Standards for plastic products and recycled products.",
+        "citation": [
+          "Develop and adhere to standards for plastic products and recycled products."
+        ],
+        "reasoning": "The document lists the development of and adherence to standards for plastic and recycled products as a core obligation. The requirement to 'adhere to standards' directly implies a mandatory verification or certification scheme to ensure products meet specific criteria before they can be produced or traded."
+      },
+      "labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "National Action Plan on Plastic Waste Management",
+        "citation": [
+          "Technical support and sustainable funding mechanisms to implement the National Action Plans are essential to improve in-country plastic waste management.",
+          "a) Carry out initial assessment to identify country specific needs in relation to INC and develop a National Action Plan on Plastic Waste Management based on the findings. Then it should be implemented and a monitoring mechanism should be developed to monitor the progress.",
+          "c) In implementing the National Action Plans - Technical and financial assistance will be needed by the developing countries."
+        ],
+        "reasoning": "The document explicitly states that a core implementation measure should be for countries to 'develop a National Action Plan on Plastic Waste Management'. It further reinforces this by mentioning the need for technical and financial support for the implementation of these 'National Action Plans', indicating they are a required component of the proposed treaty."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document suggests a monitoring mechanism to track the progress of National Action Plans. It proposes a formal 'National reporting' system, modeled after other international conventions like Minamata, which would start with basic information and become more detailed over time. It also calls for the exchange of information on research findings, success stories, and new technologies.",
+        "citation": [
+          "a monitoring mechanism should be developed to monitor the progress.",
+          "National reporting can follow the same methodology practiced under international conventions, (eg. Minamata) initiating with reporting basic information at the beginning and moving on to more specific detailed information with time.",
+          "exchange of research findings globally.",
+          "Exchange of information on success stories, new technology, innovative approaches will be beneficial for all countries."
+        ],
+        "reasoning": "The cited texts explicitly propose 'National reporting' and the development of a 'monitoring mechanism' as key implementation elements for the instrument. The text details a phased approach to reporting and suggests a model from another convention, clearly indicating a requirement for mandatory reporting and information sharing."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "Control of transboundary movement of plastics.",
+        "citation": [
+          "The legally binding mechanism is essential to control transboundary movement through air and sea transport modes.",
+          "Control transboundary movement of plastics through transportation modes (sea & air) and through sea currents to other countries."
+        ],
+        "reasoning": "The document explicitly proposes the 'control [of] transboundary movement of plastics' as both an essential element of the legally binding mechanism and a core obligation. This directly corresponds to the definition of trade requirements, which includes measures affecting the international trade (import/export) of plastics."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document proposes the development of a monitoring mechanism to track the progress of National Action Plans and suggests a system for national reporting to observe implementation over time.",
+        "citation": [
+          "a) Carry out initial assessment to identify country specific needs in relation to INC and develop a National Action Plan on Plastic Waste Management based on the findings. Then it should be implemented and a monitoring mechanism should be developed to monitor the progress.",
+          "b) National reporting can follow the same methodology practiced under international conventions, (eg. Minamata) initiating with reporting basic information at the beginning and moving on to more specific detailed information with time."
+        ],
+        "reasoning": "The cited texts explicitly call for the creation of a 'monitoring mechanism' to 'monitor the progress' of national plans and suggest 'national reporting' as a tool for tracking implementation. These align directly with the code's definition of systems to track, observe, or assess policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document mentions the provision of technical guidance, development of standards for plastic products, and the exchange of information on success stories, new technology, and research findings.",
+        "citation": [
+          "Provision of technical guidance and technology transfer for developing countries.",
+          "Develop and adhere to standards for plastic products and recycled products.",
+          "Provision of Technical Guidance/Technology Transfer is essential for developing countries.",
+          "Exchange of information on success stories, new technology, innovative approaches will be beneficial for all countries."
+        ],
+        "reasoning": "The submission explicitly identifies the 'Provision of technical guidance' as a core obligation and an essential means of implementation. Furthermore, it advocates for developing 'standards for plastic products' and creating mechanisms for the 'exchange of information on success stories, new technology, innovative approaches,' all of which align with the definition of providing guidelines, best practices, and informational resources to stakeholders."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Awareness creation for all segments of the community",
+        "citation": [
+          "Awareness creation for all segments of the community is essential in attitudinal change, in managing plastics and minimizing plastic pollution."
+        ],
+        "reasoning": "The document explicitly identifies 'Awareness creation for all segments of the community' as an essential measure for changing public attitudes towards plastic management. This aligns directly with the code's definition of public education initiatives and awareness-raising campaigns."
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "Promoting research to control micro and nano plastic leakage, understanding their impacts on human health and the environment, and facilitating the exchange of information on new technologies and innovative approaches.",
+        "citation": [
+          "Promote research and take remedial measures to control micro and nano plastics leakage into the environment.",
+          "Further research is needed to find the impacts of micro and nano plastics on human health and environment, where a platform could be established for exchange of research findings globally.",
+          "Exchange of information on success stories, new technology, innovative approaches will be beneficial for all countries."
+        ],
+        "reasoning": "The document explicitly proposes to 'Promote research' into micro and nano plastics and states that 'Further research is needed' on their impacts. It also encourages the 'Exchange of information on... new technology, innovative approaches,' which fits the definition of promoting knowledge development and innovation without specific funding commitments."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes the development of standards for plastic products and recycled products, as well as a standardized methodology for national reporting.",
+        "citation": [
+          "Develop and adhere to standards for plastic products and recycled products.",
+          "National reporting can follow the same methodology practiced under international conventions, (eg. Minamata) initiating with reporting basic information at the beginning and moving on to more specific detailed information with time."
+        ],
+        "reasoning": "The document explicitly calls for the development and adherence to 'standards' for products, which is a core element of harmonization. Furthermore, it suggests that national reporting should follow the 'same methodology' as other conventions, indicating a desire to align and standardize reporting processes across countries party to the instrument."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document calls for technical guidance, technology transfer, capacity building, training, a platform for exchanging research findings, and the exchange of information on success stories, new technology, and innovative approaches.",
+        "citation": [
+          "Provision of technical guidance and technology transfer for developing countries.",
+          "Human resource Development, Capacity Building and training is required to implement successful programmes.",
+          "Further research is needed to find the impacts of micro and nano plastics on human health and environment, where a platform could be established for exchange of research findings globally.",
+          "Exchange of information on success stories, new technology, innovative approaches will be beneficial for all countries."
+        ],
+        "reasoning": "The document explicitly proposes several mechanisms for exchanging expertise, technology, and information among countries. The cited texts directly mention 'technology transfer', 'technical guidance', 'capacity building', and establishing platforms for the 'exchange of research findings' and 'information on success stories', which are all clear examples of knowledge sharing to build capacity, as per the code definition."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [],
+      "reasoning": "The document outlines high-level objectives and principles, such as to 'Eliminate plastic pollution' and 'Promote 3R (Reduce, Reuse, Recycle)'. However, it does not specify any quantitative targets with concrete numbers, percentages, or deadlines that would meet the code's definition."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "Control of virgin plastic production from fossil fuels",
+        "citation": [
+          "Considering the drive towards renewable energy and drop in fossil fuel usage, the tendency to increase in plastic production in future using fossil fuels needs to be considered and a control mechanism has to be established..."
+        ],
+        "reasoning": "The document explicitly mentions the need to control the production of plastics from fossil fuels. This directly addresses the raw material (feedstock) stage of the value chain by targeting the source of virgin plastic."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document calls for a control mechanism for plastic production, achieving Sustainable Production (SDG 12), and lifecycle management of the upstream stage of plastics.",
+        "citation": [
+          "Considering the drive towards renewable energy and drop in fossil fuel usage, the tendency to increase in plastic production in future using fossil fuels needs to be considered and a control mechanism has to be established...",
+          "Achieve SDG 12 - Sustainable Production and Consumption in relation to plastics.",
+          "Lifecycle management of plastics in upstream, mid-stream and down stream."
+        ],
+        "reasoning": "The cited texts directly address the manufacturing and creation stage of plastics. The first quote explicitly mentions the need for a 'control mechanism' for 'plastic production'. The other quotes reinforce this by calling for 'Sustainable Production' and management of the 'upstream' part of the plastic lifecycle, which inherently includes the production phase."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document proposes to develop and adhere to standards for plastic products and recycled products.",
+        "citation": [
+          "Develop and adhere to standards for plastic products and recycled products."
+        ],
+        "reasoning": "The cited text explicitly calls for the establishment of 'standards for plastic products.' This is a direct measure addressing how products are made, which encompasses design aspects like material composition, durability, and potential for recyclability, aligning perfectly with the code definition."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "ban on toxic plastics (including additives), phase-out of selected single-use plastics, and development of standards for plastic products",
+        "citation": [
+          "Ban toxic plastics consisting of toxic polymers, pigments, additives and phase out selected single use plastics and other problematic plastics considering the precautionary principle.",
+          "Develop and adhere to standards for plastic products and recycled products.",
+          "Promote research and take remedial measures to control micro and nano plastics leakage into the environment."
+        ],
+        "reasoning": "The document explicitly addresses the product production stage by calling for a ban on plastics containing toxic 'additives' and for the development of 'standards for plastic products'. This directly relates to the manufacturing process and the chemical composition of final goods. While microplastics are mentioned, the focus is on leakage and research into their impacts, not on banning their intentional use in products like cosmetics."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "The document addresses consumption through multiple measures, including achieving Sustainable Consumption (SDG 12), phasing out selected single-use plastics, promoting the 3Rs (Reduce, Reuse, Recycle), encouraging the use of environmentally friendly alternatives, and creating consumer awareness to foster attitudinal change.",
+        "citation": [
+          "Achieve SDG 12 - Sustainable Production and Consumption in relation to plastics.",
+          "Ban toxic plastics consisting of toxic polymers, pigments, additives and phase out selected single use plastics and other problematic plastics considering the precautionary principle.",
+          "Promote 3R (Reduce, Reuse, Recycle) and upcycling in plastic management.",
+          "Awareness creation for all segments of the community is essential in attitudinal change, in managing plastics and minimizing plastic pollution."
+        ],
+        "reasoning": "The cited texts explicitly mention 'Sustainable...Consumption', call for phasing out 'single use plastics', and promote consumer-focused behaviors like 'Reduce' and 'Reuse' from the 3Rs. Furthermore, the call for 'Awareness creation... in attitudinal change' directly targets consumer behavior, confirming that the consumption stage of the value chain is addressed."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document mentions the need for 'sustainable recyclable collection mechanisms', the development of 'waste pickers' (who are involved in informal collection), and the implementation of 'Extended Producer Responsibility (EPR)', which often includes collection schemes.",
+        "citation": [
+          "...the developing countries do not have adequate waste disposal options, sustainable recyclable collection mechanisms and standard recycling facilities.",
+          "Develop waste pickers in to entrepreneurs in waste management and ensure their occupational health and safety.",
+          "Implement Polluter Pay Principle, (PPP)and Extended Producer Responsibility(EPR) to manage plastics."
+        ],
+        "reasoning": "The document explicitly identifies the lack of 'sustainable recyclable collection mechanisms' as a key problem. It also proposes developing 'waste pickers', who are integral to informal waste collection, and implementing 'Extended Producer Responsibility (EPR)', a policy framework that typically obligates producers to finance or manage post-consumer product collection. These points directly address the gathering and aggregation of plastic waste after consumer use."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "Improving in-country waste management, establishing adequate waste disposal options, decontamination of contaminated sites (e.g., waste dumps), promoting residual plastic treatment technologies, establishing standard recycling facilities, and developing waste picker entrepreneurship.",
+        "citation": [
+          "Improve waste management in developing countries and promote residual plastic treatment technologies and assist establishment of such facilities in developing countries.",
+          "Decontamination of plastic contaminated sites (eg. Waste dump sites, marine environment etc) in an environmentally friendly manner.",
+          "Technical support and sustainable funding mechanisms to implement the National Action Plans are essential to improve in-country plastic waste management.",
+          "Support for Infra- structure development for waste management and establishing standard recycling facilities is essential to minimize air pollution."
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for the improvement of plastic waste management, particularly in developing countries. The citations provide clear evidence of measures for handling and processing plastic waste after collection, such as promoting 'residual plastic treatment technologies', decontaminating 'waste dump sites', and developing infrastructure like 'standard recycling facilities', all of which directly align with the code definition."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "sustainable recyclable collection mechanisms; standard recycling facilities; standards for recycled products; promotion of 3R (Recycle)",
+        "citation": [
+          "...developing countries do not have adequate waste disposal options, sustainable recyclable collection mechanisms and standard recycling facilities.",
+          "Develop and adhere to standards for plastic products and recycled products.",
+          "Promote 3R (Reduce, Reuse, Recycle) and upcycling in plastic management.",
+          "Support for Infra- structure development for waste management and establishing standard recycling facilities is essential to minimize air pollution."
+        ],
+        "reasoning": "The document explicitly mentions the need for 'standard recycling facilities' and 'sustainable recyclable collection mechanisms'. It also calls for the promotion of the '3R (Reduce, Reuse, Recycle)' principle and the development of standards for 'recycled products', all of which are core components of the recycling stage of the value chain."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document calls for the decontamination of plastic contaminated sites, such as waste dumps and the marine environment, and the provision of assistance for plastic-related disasters, like shipwrecks.",
+        "citation": [
+          "Decontamination of plastic contaminated sites (eg. Waste dump sites, marine environment etc) in an environmentally friendly manner.",
+          "Provision of global technical and financial assistance in disasters related to plastics.( eg. Ship Disaster - Express - PEARL - Sri Lanka)"
+        ],
+        "reasoning": "The document explicitly lists 'Decontamination of plastic contaminated sites' as a core obligation, which is a direct measure to clean up existing pollution. Additionally, the call for assistance in 'disasters related to plastics,' referencing a specific ship disaster, involves remedial action to manage plastic that has already polluted the environment. Both points align with the code's definition of addressing legacy plastic."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The submission addresses the impact of plastic pollution on climate change and the need to minimize air pollution from waste management and recycling facilities. It also sets an objective to eliminate atmospheric plastic pollution.",
+        "citation": [
+          "Main Objective: Eliminate plastic pollution in atmospheric, terrestrial and marine environments.",
+          "Considering the impact of plastic pollution that has on climate change and loss of bio diversity, teaming up with relevant stakeholders and implementing programmes are essential.",
+          "Support for Infra- structure development for waste management and establishing standard recycling facilities is essential to minimize air pollution."
+        ],
+        "reasoning": "The document explicitly mentions the need to address 'air pollution' from waste management infrastructure and the 'impact of plastic pollution that has on climate change,' which is driven by greenhouse gas emissions. The stated objective to 'eliminate plastic pollution in atmospheric... environments' further supports this finding, directly aligning with the code definition."
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "Promote research and take remedial measures to control micro and nano plastics leakage into the environment.",
+        "citation": [
+          "Promote research and take remedial measures to control micro and nano plastics leakage into the environment."
+        ],
+        "reasoning": "The document explicitly lists the promotion of research and the implementation of remedial measures to control micro and nano plastic leakage as a core obligation. This directly addresses the code's focus on measures to manage the unintentional release of microplastics."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document proposes a phased approach for national reporting, beginning with basic information and gradually moving to more detailed reporting over time. It also specifies an 'initial assessment' as a first step before developing and implementing a National Action Plan.",
+        "citation": [
+          "Carry out initial assessment to identify country specific needs in relation to INC and develop a National Action Plan on Plastic Waste Management based on the findings.",
+          "National reporting can follow the same methodology practiced under international conventions, (eg. Minamata) initiating with reporting basic information at the beginning and moving on to more specific detailed information with time."
+        ],
+        "reasoning": "The document specifies a temporal sequence for implementation activities. The use of terms like 'initial assessment' and the description of a reporting process that starts 'at the beginning' with basic information and progresses 'with time' to more detail constitutes a specified, albeit general, timeline."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes a legally binding instrument with core obligations, national action plans, a monitoring mechanism, and national reporting. It also calls for the implementation of the Polluter Pay Principle (PPP) and Extended Producer Responsibility (EPR).",
+        "citation": [
+          "The legally binding mechanism is essential to control transboundary movement through air and sea transport modes.",
+          "Follow the format of specific conventions, rather than framework conventions.",
+          "Implement Polluter Pay Principle, (PPP)and Extended Producer Responsibility(EPR) to manage plastics.",
+          "...develop a National Action Plan on Plastic Waste Management... Then it should be implemented and a monitoring mechanism should be developed to monitor the progress.",
+          "National reporting can follow the same methodology practiced under international conventions, (eg. Minamata)..."
+        ],
+        "reasoning": "The submission explicitly calls for a 'legally binding mechanism' and a structure based on 'specific conventions' (which are typically stricter than framework conventions). It outlines clear compliance and enforcement details such as implementing the Polluter Pay Principle (PPP), Extended Producer Responsibility (EPR), national action plans with monitoring, and a formal national reporting system, all of which are characteristic of a high-stringency international agreement."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "The document describes an international legally binding instrument to address transboundary plastic pollution, which will be implemented by individual countries through National Action Plans.",
+        "citation": [
+          "Written Submissions on the Potential Options for Elements Towards an International Legally Binding Instrument on Plastic Pollution Including Marine Environment",
+          "The legally binding mechanism is essential to control transboundary movement through air and sea transport modes.",
+          "Technical support and sustainable funding mechanisms to implement the National Action Plans are essential to improve in-country plastic waste management.",
+          "Carry out initial assessment to identify country specific needs in relation to INC and develop a National Action Plan on Plastic Waste Management based on the findings."
+        ],
+        "reasoning": "The document's title explicitly states it is a submission towards an 'International Legally Binding Instrument'. The citations confirm this global scope by mentioning the need to control 'transboundary movement' of plastics and referencing the development and implementation of 'National Action Plans', which is a common approach for executing global treaties at the country level."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "The document advocates for the implementation of the Polluter Pay Principle (PPP) and Extended Producer Responsibility (EPR), which are mechanisms that place financial responsibility on producers (private sector).",
+      "citation": [
+        "Implement Polluter Pay Principle, (PPP)and Extended Producer Responsibility(EPR) to manage plastics."
+      ],
+      "reasoning": "The 'Polluter Pay Principle' and 'Extended Producer Responsibility' are policy approaches that require producers, which are typically private sector entities, to bear the financial costs associated with the management and environmental impact of their products post-consumption. This directly qualifies as a form of financing from the private sector."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document refers to the need for funding mechanisms to implement 'National Action Plans' and for 'Infra-structure development', which are areas typically funded by state or public sources.",
+      "citation": [
+        "Technical support and sustainable funding mechanisms to implement the National Action Plans are essential to improve in-country plastic waste management.",
+        "In implementing the National Action Plans - Technical and financial assistance will be needed by the developing countries.",
+        "Support for Infra- structure development for waste management and establishing standard recycling facilities is essential to minimize air pollution."
+      ],
+      "reasoning": "The text explicitly mentions the need for funding to implement 'National Action Plans'. By definition, a national plan is a state-led initiative, and its funding, regardless of origin, constitutes public financing managed by the state. The call for support for infrastructure development further reinforces this, as infrastructure is a primary area of public expenditure."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "global financial assistance, sustainable funding mechanisms, financial assistance for developing countries",
+      "citation": [
+        "Provision of global technical and financial assistance in disasters related to plastics.( eg. Ship Disaster - Express - PEARL - Sri Lanka)",
+        "Provision of financial assistance to ensure environmental equity.",
+        "In implementing the National Action Plans - Technical and financial assistance will be needed by the developing countries.",
+        "Sustainable funding mechanism need to be established considering environmental equity."
+      ],
+      "reasoning": "The document explicitly and repeatedly calls for financial support for developing countries within the context of an international legally binding instrument. The use of phrases like 'global... financial assistance' and the stated need for 'financial assistance... by the developing countries' and a 'sustainable funding mechanism' clearly indicates a call for financing from international sources to support national-level implementation."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "Polluter Pay Principle (PPP), Extended Producer Responsibility (EPR)",
+      "citation": [
+        "Implement Polluter Pay Principle, (PPP)and Extended Producer Responsibility(EPR) to manage plastics."
+      ],
+      "reasoning": "The document explicitly calls for the implementation of the 'Polluter Pay Principle (PPP)' and 'Extended Producer Responsibility (EPR)'. These are internationally recognized principles that establish financial responsibility for pollution. They are operationalized through mechanisms such as fees, levies, or taxes on producers and polluters to fund waste management and pollution control, which directly corresponds to the code's definition of financing from fees and taxes."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Implement Extended Producer Responsibility (EPR) and Polluter Pay Principle (PPP); achieve sustainable production and consumption; develop and adhere to standards for plastic products; manage the lifecycle of plastics (including upstream); promote Lifecycle Assessment of Plastics.",
+      "citation": [
+        "Achieve SDG 12 - Sustainable Production and Consumption in relation to plastics.",
+        "Develop and adhere to standards for plastic products and recycled products.",
+        "Lifecycle management of plastics in upstream, mid-stream and down stream.",
+        "Implement Polluter Pay Principle, (PPP)and Extended Producer Responsibility(EPR) to manage plastics.",
+        "Promote Lifecycle Assessment of Plastics."
+      ],
+      "reasoning": "The document explicitly cites core obligations that place responsibility on the production sector. It calls for the implementation of 'Extended Producer Responsibility (EPR)' and the 'Polluter Pay Principle (PPP)', which are policy mechanisms specifically designed to make producers responsible for the end-of-life management of their products. Furthermore, the calls for 'Sustainable Production', adherence to 'standards for plastic products', and management of the 'upstream' part of the plastic 'lifecycle' are all direct responsibilities of producers and manufacturers."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document outlines consumer responsibilities through concepts such as achieving 'Sustainable Consumption,' practicing the '3Rs (Reduce, Reuse, Recycle),' and undergoing 'attitudinal change' to properly manage plastics and minimize pollution.",
+      "citation": [
+        "Achieve SDG 12 - Sustainable Production and Consumption in relation to plastics.",
+        "Promote 3R (Reduce, Reuse, Recycle) and upcycling in plastic management.",
+        "Awareness creation for all segments of the community is essential in attitudinal change, in managing plastics and minimizing plastic pollution."
+      ],
+      "reasoning": "The document assigns responsibility to consumers by citing 'Sustainable Consumption' and promoting the '3R (Reduce, Reuse, Recycle)' principle, both of which require direct action and behavioral changes from the public. Additionally, the call for 'attitudinal change' across 'all segments of the community' explicitly frames the general public's role as essential for managing plastics and reducing pollution."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document outlines several responsibilities for the waste management sector, including: decontaminating polluted sites like waste dumps, improving overall waste management systems in developing countries, promoting and establishing residual plastic treatment technologies and standard recycling facilities, developing waste pickers into entrepreneurs, adhering to standards for recycled products, and promoting recycling and upcycling.",
+      "citation": [
+        "Decontamination of plastic contaminated sites (eg. Waste dump sites, marine environment etc) in an environmentally friendly manner.",
+        "Improve waste management in developing countries and promote residual plastic treatment technologies and assist establishment of such facilities in developing countries.",
+        "Develop waste pickers in to entrepreneurs in waste management and ensure their occupational health and safety.",
+        "Develop and adhere to standards for plastic products and recycled products.",
+        "Support for Infra- structure development for waste management and establishing standard recycling facilities is essential to minimize air pollution."
+      ],
+      "reasoning": "The document explicitly lists several 'core obligations' and 'means of implementation' that are direct responsibilities of the waste management sector. These citations detail specific actions such as decontaminating sites, improving infrastructure, establishing facilities, and managing recycling processes, which are all roles assigned to entities handling post-consumer waste."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "The document lists developing waste pickers into entrepreneurs and ensuring their occupational health and safety as a core obligation.",
+      "citation": [
+        "Develop waste pickers in to entrepreneurs in waste management and ensure their occupational health and safety."
+      ],
+      "reasoning": "The text explicitly mentions 'waste pickers,' a key component of the informal sector, and assigns a specific responsibility to develop them into entrepreneurs and protect their health and safety. This is listed under the 'Core obligations' section, validating its role in the proposed plastic management framework."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines numerous government responsibilities, including developing and implementing National Action Plans, establishing national legal frameworks, banning toxic plastics, controlling transboundary movement, implementing principles like the Polluter Pay Principle (PPP) and Extended Producer Responsibility (EPR), and conducting national monitoring and reporting.",
+      "citation": [
+        "Ban toxic plastics consisting of toxic polymers, pigments, additives and phase out selected single use plastics and other problematic plastics considering the precautionary principle.",
+        "Implement Polluter Pay Principle, (PPP)and Extended Producer Responsibility(EPR) to manage plastics.",
+        "Carry out initial assessment to identify country specific needs in relation to INC and develop a National Action Plan on Plastic Waste Management based on the findings. Then it should be implemented and a monitoring mechanism should be developed to monitor the progress.",
+        "National reporting can follow the same methodology practiced under international conventions, (eg. Minamata) initiating with reporting basic information at the beginning and moving on to more specific detailed information with time.",
+        "National and International Legal framework for management of plastics need to be established."
+      ],
+      "reasoning": "The document is a submission by a country for an international legally binding instrument, and it explicitly lists 'Core obligations' and 'Implementation measures' for participating nations. The cited texts are direct examples of these obligations, which fall squarely within the purview of governmental and regulatory action, such as creating laws (banning plastics, establishing legal frameworks), implementing policy (PPP, EPR), and managing national programs (National Action Plans, reporting)."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "The document highlights the importance of 'stakeholder engagement' which includes NGOs, in developing the legally binding instrument and in implementing programmes and plastic management activities.",
+      "citation": [
+        "Considering the impact of plastic pollution that has on climate change and loss of bio diversity, teaming up with relevant stakeholders and implementing programmes are essential.",
+        "Stakeholder engagement is important in developing the legally binding instrument and implementing the plastic management activities."
+      ],
+      "reasoning": "The document uses the broad term 'stakeholders,' which conventionally includes non-governmental organizations and civil society. It assigns this group an essential role in both the development of the international instrument and the implementation of programmes to manage plastic pollution, thus meeting the code's definition."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "The document outlines several roles for international bodies, including: the provision of global technical guidance, technology transfer, and financial assistance to developing countries; the establishment of a sustainable funding mechanism; the coordination of global assistance for disasters related to plastics; overseeing national reporting processes similar to other international conventions; and establishing a global platform for information exchange.",
+      "citation": [
+        "Provision of global technical and financial assistance in disasters related to plastics.( eg. Ship Disaster - Express - PEARL - Sri Lanka)",
+        "Provision of technical guidance and technology transfer for developing countries.",
+        "Sustainable funding mechanism need to be established considering environmental equity.",
+        "National reporting can follow the same methodology practiced under international conventions, (eg. Minamata) initiating with reporting basic information at the beginning and moving on to more specific detailed information with time.",
+        "...a platform could be established for exchange of research findings globally."
+      ],
+      "reasoning": "The document, while not explicitly naming the 'UN', repeatedly calls for functions that are characteristic responsibilities of the UN system or secretariats of international conventions (which are often administered by UN agencies). The citations refer to the provision of global technical and financial assistance, the establishment of a funding mechanism, and the management of national reporting under an international legally binding instrument. The reference to the Minamata Convention, which is serviced by UNEP, further implies a role for a similar international governance entity."
+    }
+  }
+}

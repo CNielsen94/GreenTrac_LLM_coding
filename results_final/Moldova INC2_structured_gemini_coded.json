@@ -1,0 +1,582 @@
+{
+  "submission_metadata": {
+    "country": "Republic of Moldova",
+    "date": "2023-01-13",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "The core obligation to address the plastic pollution are following:",
+        "An ambitious plan to end plastic pollution must be efficient and effective in long term for all countries united to make this change."
+      ],
+      "reasoning": "The document explicitly uses the phrases \"addressing plastic pollution\" and \"end plastic pollution,\" which directly align with the code's definition of mentioning the objective. The submission clearly outlines that a core obligation of the instrument is to address this issue. However, the text does not specify any year, date, or timeline for achieving this goal."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "The instrument shall address the whole lifecycle of plastics with priority given to the upstream parts, lay out commitments and provisions that bring consumption and production of plastics to sustainable levels...",
+        "restrain plastic consumption and production to sustainable levels, and enable a circular economy for plastics that protects the environment and human health...",
+        "...in order to ensure that we are reducing the overall production and consumption of plastics to sustainable levels through concrete measures..."
+      ],
+      "reasoning": "The document explicitly states the objective to bring 'production of plastics to sustainable levels' and lists the need to 'restrain plastic... production to sustainable levels' as a core obligation. This directly aligns with the code's focus on decreasing or controlling the manufacturing of plastic, distinct from just managing waste."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": "The document does not contain any statements acknowledging the positive contributions, utility, or necessity of plastics. The text is exclusively focused on the problems associated with plastic pollution and the measures needed to reduce, control, and manage it throughout its lifecycle."
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document states that a key objective is to enable a circular economy for plastics that protects human health.",
+      "citation": [
+        "The instrument shall address the whole lifecycle of plastics with priority given to the upstream parts, lay out commitments and provisions that bring consumption and production of plastics to sustainable levels, and to enable a circular economy that protects the environment and human health.",
+        "restrain plastic consumption and production to sustainable levels, and enable a circular economy for plastics that protects the environment and human health while achieving environmentally sound management and recycling of plastic waste."
+      ],
+      "reasoning": "The submission explicitly mentions the protection of human health as a primary objective for the instrument and as a core obligation. The provided citations clearly state that enabling a circular economy for plastics is intended to protect human health."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "At the INC1 countries agreed on urgent need to tackle plastic use and plastic disposal as a major contributor to the triple planetary crisis of climate change, biodiversity loss and pollution."
+      ],
+      "reasoning": "The document explicitly identifies plastic pollution as a 'major contributor' to 'biodiversity loss', directly addressing the objective. It also specifies the need for a comprehensive approach to 'addressing plastic pollution, including in the marine environment', indicating a clear marine focus."
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "The instrument shall address the whole lifecycle of plastics with priority given to the upstream parts, lay out commitments and provisions that bring consumption and production of plastics to sustainable levels, and to enable a circular economy that protects the environment and human health.",
+        "In this regard we consider that the full life cycle of plastic from the stage of production and processing to end of life or waste management operations, including all types of plastics such as microplastics, nanoplastics, plastic pellets used as raw material in plastic production shall be are covered by this instrument.",
+        "The core obligation to address the plastic pollution are following: - develop common international and binding obligations and control measures, across the full lifecycle of plastics...",
+        "...effective interventions –along the entire plastics lifecycle."
+      ],
+      "reasoning": "The document repeatedly and explicitly states that the proposed instrument must address the 'whole lifecycle', 'full life cycle', and 'entire plastics lifecycle'. It further defines this scope as covering all stages 'from the stage of production and processing to end of life or waste management operations', confirming the intention for comprehensive, end-to-end coverage."
+    },
+    "other_objectives": {
+      "value": "Promote a circular economy for plastics and provide financial and technical assistance to developing countries.",
+      "citation": [
+        "Promoting a circular economy for plastics, which prioritizes reuse, repair, and recycling.",
+        "Providing financial and technical assistance, including scientific and technical cooperation, and capacity building to developing countries."
+      ],
+      "reasoning": "The document clearly states two objectives not covered by the other categories. First, 'Promoting a circular economy' is a specific systemic and economic model being advocated for, which is distinct from a general 'lifecycle approach'. Second, 'Providing financial and technical assistance to developing countries' is an objective focused on international cooperation, equity, and capacity building, which are essential means of implementation but also a standalone political objective of the instrument."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": true,
+        "details": "charges and levies",
+        "citation": [
+          "We would like to underline the importance of the national EPR schemes in developing policy tools as is incentives instrument that includes charges and levies."
+        ],
+        "reasoning": "The document explicitly mentions the use of 'charges and levies' as part of an 'incentives instrument' within national policy tools. Charges and levies are fiscal measures that function similarly to taxes, aligning with the code definition."
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document suggests including provisions to incentivize private financial flows and investments and mentions the development of an 'incentives instrument' as a policy tool through national Extended Producer Responsibility (EPR) schemes.",
+        "citation": [
+          "We consider important to including provisions to incentivize private financial flows and investments to support the overarching goal and objectives of the instrument.",
+          "We would like to underline the importance of the national EPR schemes in developing policy tools as is incentives instrument that includes charges and levies."
+        ],
+        "reasoning": "The text explicitly mentions the need to 'incentivize private financial flows' and the use of an 'incentives instrument'. These phrases directly align with the code definition, which includes 'financial incentives' as a form of subsidy-related economic instrument to encourage desired behaviors and investments."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The submission advocates for core obligations based on the 'polluter-pays' principle and suggests using 'charges and levies' as policy tools within national EPR schemes.",
+        "citation": [
+          "develop common international and binding obligations and control measures, across the full lifecycle of plastics based on the precautionary approach, waste hierarchy and the polluter-pays and extended producer responsibility principles,",
+          "We would like to underline the importance of the national EPR schemes in developing policy tools as is incentives instrument that includes charges and levies."
+        ],
+        "reasoning": "The document explicitly mentions the 'polluter-pays' principle, a foundational concept for financial penalties on polluters. It further specifies the use of 'charges and levies' as instruments to be developed, which are direct examples of punitive financial measures."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": true,
+        "details": "The document mentions the need for policies to encourage innovation and investments in infrastructure for a circular economy, incentivize private financial flows, and facilitate financial assistance for scientific assessments.",
+        "citation": [
+          "We need a clear and consistent policy which will encourage innovation and investments in infrastructure towards transition to a circular economy.",
+          "facilitate effective technical and financial assistance as well as scientific and socio-economic assessments.",
+          "We consider important to including provisions to incentivize private financial flows and investments to support the overarching goal and objectives of the instrument."
+        ],
+        "reasoning": "The cited texts explicitly mention the need to \"encourage innovation and investments\" and \"incentivize private financial flows\" to support the transition to a circular economy. This directly aligns with the code definition of supporting 'innovation investments' and 'financial support for technological development' within the plastic value chain. The call for \"financial assistance\" for \"scientific assessments\" further supports this finding."
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "The document refers to the 'extended producer responsibility principles' as a foundation for core obligations and mentions 'national EPR schemes' as a policy tool for creating incentives like charges and levies.",
+        "citation": [
+          "develop common international and binding obligations and control measures, across the full lifecycle of plastics based on the precautionary approach, waste hierarchy and the polluter-pays and extended producer responsibility principles,",
+          "We would like to underline the importance of the national EPR schemes in developing policy tools as is incentives instrument that includes charges and levies."
+        ],
+        "reasoning": "The document explicitly includes 'extended producer responsibility principles' as a basis for core obligations in addressing plastic pollution. Furthermore, it highlights the practical application of this principle through 'national EPR schemes', identifying them as a key mechanism for implementing financial incentives, which directly aligns with the definition of making producers responsible for the post-consumer stage of their products."
+      },
+      "just_transition": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "Bans and elimination of unnecessary, avoidable, and problematic plastics, substances, and additives.",
+        "citation": [
+          "Unnecessary, avoidable, and problematic plastics, substances and additives should be reduced, eliminated, substituted or banned.",
+          "eliminate problematic plastics, substances and additives, including by bans and restrictions;"
+        ],
+        "reasoning": "The document explicitly states that the future instrument should include provisions to ban or eliminate certain categories of plastics. The citations from the 'Objective(s)' and 'Core obligations' sections directly use the terms 'banned' and 'eliminate' in reference to 'problematic plastics, substances and additives', which aligns with the code definition."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document suggests developing global sustainability criteria and standards for plastics, setting global baselines and targets for sustainability, and ensuring transparency regarding material and chemical composition.",
+        "citation": [
+          "develop global sustainability criteria and standards for plastics across the full lifecycle;",
+          "set global baselines and targets for sustainability throughout the life-cycle of plastics, as well monitoring and reporting obligations;",
+          "ensure transparency in the value chain of plastics, including for material and chemical composition throughout the life-cycle of plastics;"
+        ],
+        "reasoning": "The document explicitly calls for the creation of 'global sustainability criteria and standards for plastics' and 'global baselines and targets'. These directly align with the definition of performance standards, which are requirements or specifications that products must meet. The call for transparency in material and chemical composition also functions as a product standard."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document mentions the need for investments in infrastructure to support the transition to a circular economy for plastics.",
+        "citation": [
+          "We need a clear and consistent policy which will encourage innovation and investments in infrastructure towards transition to a circular economy."
+        ],
+        "reasoning": "The document explicitly states that a policy framework is needed to encourage 'investments in infrastructure'. This indicates that developing or upgrading infrastructure is seen as a required component to successfully implement the treaty's objectives for a circular economy, aligning with the code's definition of required infrastructure development."
+      },
+      "certification": {
+        "mentioned": true,
+        "details": "The document suggests developing global sustainability criteria and standards for plastics to be applied across their full lifecycle.",
+        "citation": [
+          "- develop global sustainability criteria and standards for plastics across the full lifecycle;"
+        ],
+        "reasoning": "The document explicitly calls for the development of 'global sustainability criteria and standards for plastics'. Such standards are the foundational element of any mandatory certification, approval, or verification scheme designed to control what types of plastics can be produced or traded, directly matching the code's definition."
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "information disclosure on material and chemical composition",
+        "citation": [
+          "ensure transparency in the value chain of plastics, including for material and chemical composition throughout the life-cycle of plastics;"
+        ],
+        "reasoning": "The document proposes a core obligation to 'ensure transparency in the value chain of plastics, including for material and chemical composition'. This requirement for information disclosure directly corresponds to the 'labelling' code definition, which covers mandatory disclosure of plastic composition."
+      },
+      "action_plans": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The document suggests setting global monitoring and reporting obligations. It calls for transparency in the plastics value chain, including material and chemical composition. It also proposes a common framework of indicators to support national, regional, and global reporting, leveraging existing systems for waste management and recycling targets.",
+        "citation": [
+          "- set global baselines and targets for sustainability throughout the life-cycle of plastics, as well monitoring and reporting obligations;",
+          "- ensure transparency in the value chain of plastics, including for material and chemical composition throughout the life-cycle of plastics;",
+          "In order to ensure effectiveness of the instrument it is important to have a common framework of indicators that will support monitoring and reporting at the national, regional and global level.",
+          "Existed national reporting system on waste management, on PRTR, etc. that already are used for reporting under other MEA, shall be used to monitor achievement of established recycling targets for plastics instrument."
+        ],
+        "reasoning": "The cited texts explicitly state the need for 'monitoring and reporting obligations' as a core component of the instrument. They also detail the type of information to be reported, such as 'material and chemical composition' for transparency, and mention the use of 'a common framework of indicators' and existing systems to report on 'waste management' and 'recycling targets', thus confirming the presence and specific details of reporting as a regulatory instrument."
+      },
+      "trade_requirements": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "Proposals include setting global baselines and targets with associated monitoring and reporting obligations. It suggests using a common framework of indicators and leveraging existing national reporting systems (e.g., on waste management, PRTR) to monitor the achievement of recycling targets.",
+        "citation": [
+          "set global baselines and targets for sustainability throughout the life-cycle of plastics, as well monitoring and reporting obligations;",
+          "In order to ensure effectiveness of the instrument it is important to have a common framework of indicators that will support monitoring and reporting at the national, regional and global level.",
+          "Existed national reporting system on waste management, on PRTR, etc. that already are used for reporting under other MEA, shall be used to monitor achievement of established recycling targets for plastics instrument."
+        ],
+        "reasoning": "The cited texts directly mention the need for 'monitoring and reporting obligations', a 'common framework of indicators' to support this process, and using existing 'national reporting system[s]' to 'monitor achievement' of targets. This aligns with the code's definition of systems to track, measure, assess, or evaluate policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document mentions the need for regular updates on new scientific information, exchange of information on the current state of knowledge, best available science, emerging trends, and available best techniques.",
+        "citation": [
+          "In this regard a regular updates on new scientific information and exchange information on the current state of knowledge is crucial to assess the best available science, emerging trends and available best techniques."
+        ],
+        "reasoning": "The cited text explicitly calls for the provision and exchange of various forms of information and knowledge, such as scientific updates and best available techniques. This directly aligns with the definition of the 'information_guidance' code, which looks for the provision of informational resources to help stakeholders."
+      },
+      "education": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "expert_groups": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "Encouraging innovation for circular economy transition, facilitating scientific and socio-economic assessments, and promoting the exchange of scientific information on plastic pollution effects and best available techniques.",
+        "citation": [
+          "...facilitate effective technical and financial assistance as well as scientific and socio-economic assessments.",
+          "We need a clear and consistent policy which will encourage innovation and investments in infrastructure towards transition to a circular economy.",
+          "Even the crises become obviously, many countries lack resources to do a relevant researches and scientific work on plastic pollution effects.",
+          "In this regard a regular updates on new scientific information and exchange information on the current state of knowledge is crucial to assess the best available science, emerging trends and available best techniques."
+        ],
+        "reasoning": "The document explicitly advocates for policies that 'encourage innovation', calls for the facilitation of 'scientific and socio-economic assessments', and highlights the need for 'researches and scientific work on plastic pollution effects'. It also stresses the importance of exchanging 'new scientific information' to assess 'best available science', all of which are clear indicators of promoting research and knowledge development as a soft instrument."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes several harmonization measures, including: developing common international obligations and control measures, creating global sustainability criteria and standards for plastics, setting global baselines and targets, and establishing a common framework of indicators for monitoring and reporting.",
+        "citation": [
+          "develop common international and binding obligations and control measures, across the full lifecycle of plastics based on the precautionary approach, waste hierarchy and the polluter-pays and extended producer responsibility principles,",
+          "develop global sustainability criteria and standards for plastics across the full lifecycle;",
+          "set global baselines and targets for sustainability throughout the life-cycle of plastics, as well monitoring and reporting obligations;",
+          "In order to ensure effectiveness of the instrument it is important to have a common framework of indicators that will support monitoring and reporting at the national, regional and global level."
+        ],
+        "reasoning": "The cited texts explicitly call for the development of 'common international' obligations, 'global' criteria, standards, baselines, and targets, and a 'common framework of indicators'. These phrases directly refer to the effort of standardizing and aligning approaches across different countries and stakeholders, which is the core definition of harmonization."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document mentions the need for regular updates on scientific information, exchange of information on the current state of knowledge, assessment of best available science and techniques, technical assistance, and technology transfer.",
+        "citation": [
+          "In this regard a regular updates on new scientific information and exchange information on the current state of knowledge is crucial to assess the best available science, emerging trends and available best techniques.",
+          "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance."
+        ],
+        "reasoning": "The document explicitly states that the 'exchange information on the current state of knowledge is crucial' to assess 'best available science' and 'best techniques.' Furthermore, it references a foundational document that includes 'technical assistance' and 'technology transfer' as key implementation elements. This directly aligns with the code's definition of exchanging information, best practices, and expertise to build capacity."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [
+        "set global baselines and targets for sustainability throughout the life-cycle of plastics, as well monitoring and reporting obligations;",
+        "Existed national reporting system on waste management, on PRTR, etc. that already are used for reporting under other MEA, shall be used to monitor achievement of established recycling targets for plastics instrument.",
+        "In this regard in order to ensure that we are reducing the overall production and consumption of plastics to sustainable levels through concrete measures, we should know well the current situation to set up a well-informed targets, and policies that will ensure effective interventions –along the entire plastics lifecycle."
+      ],
+      "reasoning": "The document strongly advocates for the establishment of targets, such as setting 'global baselines and targets' and monitoring 'established recycling targets'. However, it does not specify any concrete, measurable targets with numbers, percentages, or deadlines. The text is a proposal about what an international instrument should contain, rather than a policy that outlines existing targets."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "The document proposes that the instrument should cover raw materials, specifically mentioning 'plastic pellets used as raw material', and sets an objective to restrain 'production of plastics to sustainable levels'.",
+        "citation": [
+          "The instrument shall address the whole lifecycle of plastics with priority given to the upstream parts, lay out commitments and provisions that bring consumption and production of plastics to sustainable levels...",
+          "...we consider that the full life cycle of plastic from the stage of production and processing to end of life or waste management operations, including all types of plastics such as microplastics, nanoplastics, plastic pellets used as raw material in plastic production shall be are covered by this instrument.",
+          "...restrain plastic consumption and production to sustainable levels, and enable a circular economy for plastics that protects the environment and human health while achieving environmentally sound management and recycling of plastic waste."
+        ],
+        "reasoning": "The document explicitly identifies the need to cover 'plastic pellets used as raw material in plastic production,' which directly relates to the feedstock stage. Furthermore, the repeated call to bring plastic production to 'sustainable levels' is an upstream measure aimed at controlling the input of raw materials into the value chain."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "The document calls for restraining, reducing, and bringing plastic production to sustainable levels. It also specifies that the instrument should cover plastic pellets used as raw material in plastic production.",
+        "citation": [
+          "The instrument shall address the whole lifecycle of plastics with priority given to the upstream parts, lay out commitments and provisions that bring consumption and production of plastics to sustainable levels, and to enable a circular economy that protects the environment and human health.",
+          "restrain plastic consumption and production to sustainable levels, and enable a circular economy for plastics that protects the environment and human health while achieving environmentally sound management and recycling of plastic waste.",
+          "The full life cycle of plastic from the stage of production and processing to end of life or waste management operations, including all types of plastics such as microplastics, nanoplastics, plastic pellets used as raw material in plastic production shall be are covered by this instrument.",
+          "In this regard in order to ensure that we are reducing the overall production and consumption of plastics to sustainable levels through concrete measures, we should know well the current situation to set up a well-informed targets, and policies that will ensure effective interventions –along the entire plastics lifecycle."
+        ],
+        "reasoning": "The document explicitly and repeatedly mentions the need for measures to address the production stage of the plastic lifecycle. The citations directly call for bringing production to 'sustainable levels', restraining production, and reducing overall production. This clearly aligns with the code definition of addressing the manufacturing or creation process of plastic materials."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "The document highlights the importance of involving product designers in the implementation process of the instrument.",
+        "citation": [
+          "We also would like point to the importance of involvement in the implementation process of product designer, in order to have them on board since beginning."
+        ],
+        "reasoning": "The document explicitly states the need to involve 'product designer' in the implementation of the instrument, which directly addresses the design stage of the plastic value chain by identifying the key actors responsible for it."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": false,
+        "chemicals_addressed": true,
+        "details": "The document calls for the elimination, substitution, or banning of problematic substances and additives; transparency on chemical composition; and the involvement of product designers.",
+        "citation": [
+          "Unnecessary, avoidable, and problematic plastics, substances and additives should be reduced, eliminated, substituted or banned.",
+          "eliminate problematic plastics, substances and additives, including by bans and restrictions;",
+          "ensure transparency in the value chain of plastics, including for material and chemical composition throughout the life-cycle of plastics;",
+          "We also would like point to the importance of involvement in the implementation process of product designer, in order to have them on board since beginning."
+        ],
+        "reasoning": "The document explicitly advocates for measures targeting chemical additives in plastics, such as elimination, bans, and demands for transparency on chemical composition. It also mentions the role of product designers, which is integral to the product production stage. While 'microplastics' are mentioned in a general context, the document does not specifically address intentionally added microplastics in products, as required by the code definition."
+      },
+      "distribution": {
+        "mentioned": true,
+        "details": "transparency in the value chain of plastics",
+        "citation": [
+          "ensure transparency in the value chain of plastics, including for material and chemical composition throughout the life-cycle of plastics;"
+        ],
+        "reasoning": "The document explicitly calls for measures to 'ensure transparency in the value chain of plastics'. The value chain includes the midstream distribution and supply chain stages, and implementing transparency measures directly addresses this phase of the plastic lifecycle before products reach the consumer."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": false,
+        "details": "restrain plastic consumption to sustainable levels, addressing consumer lifestyle",
+        "citation": [
+          "The instrument shall address the whole lifecycle of plastics with priority given to the upstream parts, lay out commitments and provisions that bring consumption and production of plastics to sustainable levels, and to enable a circular economy that protects the environment and human health.",
+          "restrain plastic consumption and production to sustainable levels, and enable a circular economy for plastics that protects the environment and human health while achieving environmentally sound management and recycling of plastic waste.",
+          "Our own experiences show that plastic consumption are deeply rooted within the life-style of our consumers.",
+          "In this regard in order to ensure that we are reducing the overall production and consumption of plastics to sustainable levels through concrete measures, we should know well the current situation to set up a well-informed targets, and policies that will ensure effective interventions –along the entire plastics lifecycle."
+        ],
+        "reasoning": "The document explicitly and repeatedly states the objective to 'bring consumption... to sustainable levels' and to 'restrain plastic consumption'. It also directly addresses consumer behavior, noting that 'plastic consumption are deeply rooted within the life-style of our consumers', which validates that the consumption stage of the value chain is being considered. However, there is no specific mention of 'single-use' or 'disposable' products."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document refers to collection in broad terms such as 'end of life or waste management operations', 'environmentally sound management and recycling of plastic waste', and 'plastics waste management practice'.",
+        "citation": [
+          "...full life cycle of plastic from the stage of production and processing to end of life or waste management operations, including all types of plastics such as microplastics, nanoplastics, plastic pellets used as raw material in plastic production shall be are covered by this instrument.",
+          "...enable a circular economy for plastics that protects the environment and human health while achieving environmentally sound management and recycling of plastic waste.",
+          "...existed plastics waste management practice that is of crucial importance to build up a coherent and complete picture for the baseline scenario on which further activities shall build on."
+        ],
+        "reasoning": "The document explicitly includes 'end of life or waste management operations' and 'environmentally sound management and recycling of plastic waste' within the scope of the instrument. These phrases inherently cover the collection, gathering, and aggregation of plastic waste as a prerequisite for any subsequent management or recycling activity."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "end of life or waste management operations, environmentally sound management and recycling of plastic waste, national reporting system on waste management, recycling targets, plastic disposal",
+        "citation": [
+          "In this regard we consider that the full life cycle of plastic from the stage of production and processing to end of life or waste management operations, including all types of plastics such as microplastics, nanoplastics, plastic pellets used as raw material in plastic production shall be are covered by this instrument.",
+          "...enable a circular economy for plastics that protects the environment and human health while achieving environmentally sound management and recycling of plastic waste.",
+          "Existed national reporting system on waste management, on PRTR, etc. that already are used for reporting under other MEA, shall be used to monitor achievement of established recycling targets for plastics instrument.",
+          "...ongoing TA projects financed by UNEP and other donors will help countries with economy in transition to have an in-depth understanding of the current situation on put on the market plastics and existed plastics waste management practice..."
+        ],
+        "reasoning": "The document explicitly refers to the need for the instrument to cover 'end of life or waste management operations'. It further details this by mentioning specific measures such as 'environmentally sound management and recycling of plastic waste', the establishment of 'recycling targets', and the use of a 'national reporting system on waste management'. These phrases directly address the handling, processing, and management of plastic waste after collection."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "Environmentally sound management and recycling of plastic waste; monitoring achievement of recycling targets.",
+        "citation": [
+          "The instrument should enable countries to reduce, to reuse, to recycle and to replace plastics with cleaner alternatives or substitutes.",
+          "...enable a circular economy for plastics that protects the environment and human health while achieving environmentally sound management and recycling of plastic waste.",
+          "Existed national reporting system on waste management, on PRTR, etc. that already are used for reporting under other MEA, shall be used to monitor achievement of established recycling targets for plastics instrument."
+        ],
+        "reasoning": "The document explicitly states that the instrument should enable countries to 'recycle' plastics. It further identifies 'environmentally sound management and recycling of plastic waste' as a core obligation and mentions a specific measure of using existing national reporting systems to 'monitor achievement of established recycling targets'."
+      },
+      "legacy_plastic": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "Tackling plastic use and disposal is identified as a measure to address its contribution to the crisis of climate change.",
+        "citation": [
+          "At the INC1 countries agreed on urgent need to tackle plastic use and plastic disposal as a major contributor to the triple planetary crisis of climate change, biodiversity loss and pollution."
+        ],
+        "reasoning": "The document explicitly identifies plastic use and disposal as a major contributor to the climate change crisis. Climate change is driven by greenhouse gas emissions, so the text frames addressing plastics as a measure to combat these emissions, directly aligning with the code's definition."
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "The document suggests that the new instrument should cover all types of plastics, specifically mentioning microplastics, nanoplastics, and plastic pellets used as raw material.",
+        "citation": [
+          "In this regard we consider that the full life cycle of plastic from the stage of production and processing to end of life or waste management operations, including all types of plastics such as microplastics, nanoplastics, plastic pellets used as raw material in plastic production shall be are covered by this instrument."
+        ],
+        "reasoning": "The document explicitly calls for the inclusion of 'microplastics, nanoplastics, plastic pellets' in the scope of the new instrument. This directly addresses the code's focus on microplastics, including pre-production pellets, which are a known source of unintentional leakage into the environment."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document calls for binding obligations, control measures, strong compliance enforcement, and monitoring and reporting obligations.",
+        "citation": [
+          "develop common international and binding obligations and control measures, across the full lifecycle of plastics based on the precautionary approach, waste hierarchy and the polluter-pays and extended producer responsibility principles,",
+          "Without a public buy-in policy, associated with a strong compliance enforcement our efforts would be ineffective.",
+          "set global baselines and targets for sustainability throughout the life-cycle of plastics, as well monitoring and reporting obligations;"
+        ],
+        "reasoning": "The document explicitly advocates for 'binding obligations' and 'strong compliance enforcement', stating that efforts would be 'ineffective' without them. This indicates a preference for a strict, legally binding instrument with enforcement mechanisms, which aligns with the definition of a 'High' stringency level."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "A global instrument or treaty designed to create internationally binding obligations, with implementation and monitoring occurring at the national, regional, and global levels.",
+        "citation": [
+          "develop common international and binding obligations and control measures, across the full lifecycle of plastics...",
+          "set global baselines and targets for sustainability throughout the life-cycle of plastics, as well monitoring and reporting obligations;",
+          "How to ensure implementation of the instrument at the national level (eg. role national action plans contribute to meeting the objectives and obligations of the instrument?)",
+          "it is important to have a common framework of indicators that will support monitoring and reporting at the national, regional and global level.",
+          "An ambitious plan to end plastic pollution must be efficient and effective in long term for all countries united to make this change."
+        ],
+        "reasoning": "The text explicitly calls for 'common international and binding obligations' and 'global baselines and targets,' establishing the instrument's global scope. It then clarifies that this global framework is to be implemented 'at the national level' and monitored across 'national, regional and global' scales, confirming a global treaty enacted through national actions."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": true,
+      "details": "private financial flows and investments; national EPR schemes",
+      "citation": [
+        "We are confident that public, private as well as international and domestic finance will have an important role to play to achieve the objectives of the future instrument.",
+        "We consider important to including provisions to incentivize private financial flows and investments to support the overarching goal and objectives of the instrument.",
+        "We would like to underline the importance of the national EPR schemes in developing policy tools as is incentives instrument that includes charges and levies."
+      ],
+      "reasoning": "The document explicitly states that 'private...finance' and 'private financial flows and investments' will play an important role. It also specifies 'national EPR schemes' (Extended Producer Responsibility) as a relevant policy tool, which is a mechanism where producers in the private sector bear financial responsibility for their products' end-of-life management."
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document mentions the role of public finance, domestic finance, and national policy tools such as charges and levies.",
+      "citation": [
+        "We are confident that public, private as well as international and domestic finance will have an important role to play to achieve the objectives of the future instrument.",
+        "We would like to underline the importance of the national EPR schemes in developing policy tools as is incentives instrument that includes charges and levies."
+      ],
+      "reasoning": "The text explicitly states that 'public' and 'domestic finance' will play an important role, which directly refers to financing from state or national government sources. Additionally, it specifies 'charges and levies' developed through 'national EPR schemes' as policy tools, which are forms of public financing mechanisms mandated by the state."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "international finance, projects financed by UNEP, financing from other donors",
+      "citation": [
+        "We are confident that public, private as well as international and domestic finance will have an important role to play to achieve the objectives of the future instrument.",
+        "We believe that ongoing TA projects financed by UNEP and other donors will help countries with economy in transition to have an in-depth understanding of the current situation on put on the market plastics and existed plastics waste management practice that is of crucial importance to build up a coherent and complete picture for the baseline scenario on which further activities shall build on."
+      ],
+      "reasoning": "The document explicitly states that 'international...finance will have an important role to play' and provides specific examples of existing international financial support, citing 'ongoing TA projects financed by UNEP and other donors'."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "charges and levies",
+      "citation": [
+        "We would like to underline the importance of the national EPR schemes in developing policy tools as is incentives instrument that includes charges and levies."
+      ],
+      "reasoning": "The document explicitly identifies 'charges and levies' as incentive instruments that can be developed within national Extended Producer Responsibility (EPR) schemes. This directly aligns with the code's definition of financing derived from fees, levies, or charges to address plastic pollution."
+    },
+    "credit_schemes": {
+      "mentioned": true,
+      "details": "Charges and levies as part of national Extended Producer Responsibility (EPR) schemes.",
+      "citation": [
+        "We would like to underline the importance of the national EPR schemes in developing policy tools as is incentives instrument that includes charges and levies."
+      ],
+      "reasoning": "The document explicitly mentions 'charges and levies' as financial instruments developed under national EPR schemes to support the instrument's objectives. These fall under the category of 'similar financial instruments' as specified in the code definition, as they are mechanisms to generate funds for environmental purposes."
+    },
+    "voluntary": {
+      "mentioned": true,
+      "details": "donor-financed projects",
+      "citation": [
+        "We believe that ongoing TA projects financed by UNEP and other donors will help countries with economy in transition to have an in-depth understanding of the current situation on put on the market plastics and existed plastics waste management practice that is of crucial importance to build up a coherent and complete picture for the baseline scenario on which further activities shall build on."
+      ],
+      "reasoning": "The document explicitly refers to 'donors' financing technical assistance projects. The term 'donors' signifies entities that provide voluntary financial contributions or aid, which directly corresponds to the code's definition of voluntary financing sources such as donations or philanthropic funding."
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "Restrain production to sustainable levels; adhere to extended producer responsibility (EPR) and polluter-pays principles; eliminate or substitute problematic plastics, substances, and additives; ensure transparency of material and chemical composition; involve product designers in the implementation process.",
+      "citation": [
+        "...restrain plastic consumption and production to sustainable levels, and enable a circular economy for plastics that protects the environment and human health...",
+        "...develop common international and binding obligations and control measures, across the full lifecycle of plastics based on the precautionary approach, waste hierarchy and the polluter-pays and extended producer responsibility principles,",
+        "eliminate problematic plastics, substances and additives, including by bans and restrictions;",
+        "ensure transparency in the value chain of plastics, including for material and chemical composition throughout the life-cycle of plastics;",
+        "We also would like point to the importance of involvement in the implementation process of product designer, in order to have them on board since beginning."
+      ],
+      "reasoning": "The document explicitly assigns responsibilities to the production sector by name, citing the 'extended producer responsibility principle' and the need to 'restrain... production'. It further details obligations that fall on producers, such as eliminating harmful additives, ensuring transparency about product composition, and involving product designers in the process, clearly outlining their role and obligations in addressing plastic pollution."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "The document highlights the need for 'public buy-in' for policies to be effective, implying a consumer responsibility to accept and participate in new measures. It also points to the necessity of changing consumption patterns that are 'deeply rooted' in consumer lifestyles.",
+      "citation": [
+        "Our own experiences show that plastic consumption are deeply rooted within the life-style of our consumers.",
+        "Without a public buy-in policy, associated with a strong compliance enforcement our efforts would be ineffective."
+      ],
+      "reasoning": "The text explicitly states that without 'public buy-in', efforts to curb plastic pollution will be ineffective. This assigns a crucial role and responsibility to the public (consumers) for the success of policy implementation. Furthermore, identifying consumption as 'deeply rooted within the life-style of our consumers' frames consumer behavior as a central element that must be addressed, implying a responsibility to change."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "The document mentions achieving 'environmentally sound management and recycling of plastic waste' and utilizing the national reporting system on waste management to 'monitor achievement of established recycling targets'.",
+      "citation": [
+        "In this regard we consider that the full life cycle of plastic from the stage of production and processing to end of life or waste management operations, including all types of plastics such as microplastics, nanoplastics, plastic pellets used as raw material in plastic production shall be are covered by this instrument.",
+        "...enable a circular economy for plastics that protects the environment and human health while achieving environmentally sound management and recycling of plastic waste.",
+        "Existed national reporting system on waste management, on PRTR, etc. that already are used for reporting under other MEA, shall be used to monitor achievement of established recycling targets for plastics instrument."
+      ],
+      "reasoning": "The document explicitly includes 'waste management operations' within the scope of the proposed instrument. It defines a core obligation as achieving 'environmentally sound management and recycling of plastic waste' and assigns a specific reporting function to the 'national reporting system on waste management' to track recycling targets. These citations directly outline responsibilities and roles for the waste management sector."
+    },
+    "informal_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines several government responsibilities including: creating and implementing a national policy framework, ensuring compliance enforcement, establishing bans and restrictions on certain plastics, setting up monitoring and reporting systems, and developing policy tools like national Extended Producer Responsibility (EPR) schemes that include charges and levies.",
+      "citation": [
+        "eliminate problematic plastics, substances and additives, including by bans and restrictions;",
+        "We strongly believe that a comprehensive and coordinated policy framework with a multi-stakeholder engagement will enable conditions for implementation of the instrument at the national level.",
+        "Without a public buy-in policy, associated with a strong compliance enforcement our efforts would be ineffective.",
+        "We would like to underline the importance of the national EPR schemes in developing policy tools as is incentives instrument that includes charges and levies."
+      ],
+      "reasoning": "The document, submitted by a national ministry, explicitly calls for actions that fall under the purview of government. The citations highlight the need for national-level policy frameworks, the use of regulatory powers such as bans and restrictions, the duty of compliance enforcement, and the implementation of specific economic policy tools like EPR schemes, charges, and levies, all of which are core responsibilities of a government."
+    },
+    "ngos": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "Financing technical assistance (TA) projects, capacity-building, technology transfer, and financial assistance.",
+      "citation": [
+        "With respect to means of implementation, document UNEP/PP/INC.1/5 covers the following elements: capacity-building, technical assistance, technology transfer on mutually agreed terms and financial assistance.",
+        "We believe that ongoing TA projects financed by UNEP and other donors will help countries with economy in transition to have an in-depth understanding of the current situation on put on the market plastics and existed plastics waste management practice that is of crucial importance to build up a coherent and complete picture for the baseline scenario on which further activities shall build on."
+      ],
+      "reasoning": "The document explicitly names UNEP (United Nations Environment Programme) as an entity that finances technical assistance projects. It also references a specific UNEP document that outlines key support roles for implementation, including capacity-building, technical assistance, technology transfer, and financial assistance. These citations directly assign responsibilities to a UN agency."
+    }
+  }
+}

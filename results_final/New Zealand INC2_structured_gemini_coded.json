@@ -1,0 +1,618 @@
+{
+  "submission_metadata": {
+    "country": "New Zealand",
+    "date": "2023-02-13",
+    "type": "Member State"
+  },
+  "objectives": {
+    "end_plastic_pollution": {
+      "mentioned": true,
+      "timeframe_specified": false,
+      "timeframe": null,
+      "citation": [
+        "The primary objective of the instrument should reflect an ambition to eliminate plastic pollution, including microplastics, by reducing plastic waste overall and recognising the need to reduce the impact of plastic pollution on human and ecosystem health.",
+        "New Zealand wishes to see the establishment of an effective global regime to reduce plastic waste and eliminate plastic pollution on a global scale.",
+        "This approach would help to strengthen the collective will to address plastic pollution and help drive uptake of initiatives that will make a tangible impact.",
+        "As part of core obligations, New Zealand sees a need for the use of timebound and measurable global rules and targets, while ensuring implementation is supported at a national level through mandatory national action plans.",
+        "If we have any hope of ending plastic pollution, we must decolonise the science of plastic pollution and learn from the wisdom of Indigenous systems approaches, holism, and relational ontologies and epistemologies, methodologies, and practices."
+      ],
+      "reasoning": "The document explicitly and repeatedly states that the primary objective of the instrument should be to 'eliminate plastic pollution' and 'address plastic pollution'. This is a central theme of the submission. However, while the submission calls for 'timebound and measurable global rules and targets', it does not propose a specific year or timeline for when the overall objective of eliminating plastic pollution should be achieved."
+    },
+    "reduce_production": {
+      "mentioned": true,
+      "specification_provided": false,
+      "specifications": null,
+      "citation": [
+        "Reduced production of virgin plastic (associated targets could be appropriate)"
+      ],
+      "reasoning": "The document, in its non-exhaustive list of upstream control measures, explicitly states support for the 'Reduced production of virgin plastic'. This directly aligns with the code's definition of seeking to decrease or reduce plastic production."
+    },
+    "benefits_of_plastics": {
+      "mentioned": false,
+      "benefits_listed": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "protect_human_health": {
+      "mentioned": true,
+      "details": "The document proposes objectives and control measures to reduce the impact of plastic pollution on human health. Specific measures include eliminating materials, additives, and hazardous/toxic chemicals that negatively impact human health, and proactively preventing toxic pollution.",
+      "citation": [
+        "The primary objective of the instrument should reflect an ambition to eliminate plastic pollution, including microplastics, by reducing plastic waste overall and recognising the need to reduce the impact of plastic pollution on human and ecosystem health.",
+        "Eliminating materials and additives that are unnecessary, impact human and/or ecosystem health, or affect reusability/recyclability (associated targets could be appropriate)",
+        "Removing hazardous chemicals used in plastic",
+        "The transboundary chemical, physical and biological impacts of plastic pollution on global biodiversity, climate change, human health and human rights should be evidence enough to know that we are all connected."
+      ],
+      "reasoning": "The document explicitly states that a primary objective of the instrument should be to reduce the impact of plastic pollution on human health. It further details specific control measures aimed at this objective, such as eliminating materials and additives that impact human health and removing hazardous chemicals from plastics. The submission also acknowledges the transboundary impacts of plastic pollution on human health, solidifying the connection between the proposed measures and the goal of health protection."
+    },
+    "protect_biodiversity": {
+      "mentioned": true,
+      "marine_focus": true,
+      "citation": [
+        "The primary objective of the instrument should reflect an ambition to eliminate plastic pollution...recognising the need to reduce the impact of plastic pollution on human and ecosystem health.",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "New Zealand supports an instrument with control measures that are focused on the waste hierarchy and a regenerative circular economy, promoting economic activity that restores and regenerates natural systems.",
+        "The transboundary chemical, physical and biological impacts of plastic pollution on global biodiversity, climate change, human health and human rights should be evidence enough to know that we are all connected."
+      ],
+      "reasoning": "The document explicitly mentions protecting biodiversity as a key objective. It states the need to reduce plastic pollution's impact on 'ecosystem health,' restore 'natural systems,' and directly addresses the 'impacts of plastic pollution on global biodiversity.' The focus includes marine environments, as the submission frames its response on core obligations in the context of addressing plastic pollution 'including in the marine environment.'"
+    },
+    "lifecycle_approach": {
+      "mentioned": true,
+      "coverage": "Full lifecycle",
+      "citation": [
+        "Cover the full lifespan of plastics from extraction and production to disposal.",
+        "What core obligations, control measures and voluntary approaches would provide a comprehensive approach to addressing plastic pollution, including in the marine environment, throughout the full life cycle in line with the future objective(s) of the instrument?",
+        "For the purposes of this submission, we have grouped measures as upstream, midstream and downstream categories."
+      ],
+      "reasoning": "The document explicitly states that the instrument's objectives should cover the 'full lifespan of plastics' and address pollution 'throughout the full life cycle'. Furthermore, it structures its proposed control measures into 'upstream, midstream and downstream categories,' which directly corresponds to a comprehensive lifecycle approach covering production, use, and disposal phases."
+    },
+    "other_objectives": {
+      "value": "Promote a just and equitable transition, foster innovation, and enhance international cooperation and capacity-building.",
+      "citation": [
+        "This Treaty must create a just and equitable transition to support workers across the plastics value chain, provide financial and technical support to countries that need it, and ensure that Indigenous Peoples, waste pickers and other frontline communities are a part of the solution.",
+        "We must also ensure that the solutions we create do not disproportionately burden developing countries or marginalized communities.",
+        "A key objective is to foster innovation in sustainable materials and new business models that move away from the single-use throwaway culture.",
+        "The treaty should promote international cooperation and capacity-building to help all nations meet their obligations."
+      ],
+      "reasoning": "The document clearly outlines several objectives that are distinct from the excluded categories. These include ensuring a 'just and equitable transition' by supporting workers and vulnerable communities, providing financial and technical aid, fostering innovation in new materials and business models, and promoting international cooperation. These objectives are focused on the socio-economic, technological, and diplomatic mechanisms for implementing the treaty, rather than the environmental or health outcomes themselves."
+    }
+  },
+  "measures": {
+    "economic_instruments": {
+      "tax_incentives": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "subsidies": {
+        "mentioned": true,
+        "details": "The document lists 'Fossil fuel subsidy reform' as a supported upstream control measure. It also mentions the need for 'Financial support' and 'financial resources' to ensure all parties can implement the instrument.",
+        "citation": [
+          "Fossil fuel subsidy reform",
+          "Financial support; education, awareness and capacity building; technical support; and other means of implementation are needed to ensure that all Parties can meet their obligations under the instrument.",
+          "The full implementation of the instrument will require the provision of adequate, predictable and easily accessible financial resources."
+        ],
+        "reasoning": "The document explicitly includes 'Fossil fuel subsidy reform' in its non-exhaustive list of supported upstream control measures, which aligns with the code definition's inclusion of 'removal of existing subsidies'. Furthermore, the text identifies 'Financial support' and 'financial resources' as necessary means of implementation, matching the code's definition of financial support and grants."
+      },
+      "penalties": {
+        "mentioned": true,
+        "details": "The document mentions 'polluter pays' measures as a potential midstream control measure.",
+        "citation": [
+          "Product stewardship models, this could include 'polluter pays' measures"
+        ],
+        "reasoning": "The text explicitly suggests 'polluter pays' measures as part of product stewardship models. The polluter-pays principle is a core example of a punitive financial measure, as defined by the code, where those who produce pollution are responsible for paying for the damage done to the natural environment."
+      },
+      "trading_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "deposit_systems": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "public_procurement": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "rd_funding": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      }
+    },
+    "regulatory_instruments": {
+      "epr": {
+        "mentioned": true,
+        "details": "Product stewardship models, 'polluter pays' measures",
+        "citation": [
+          "Product stewardship models, this could include 'polluter pays' measures"
+        ],
+        "reasoning": "The document explicitly mentions support for 'Product stewardship models' and the 'polluter pays' principle. Product stewardship is a key concept within Extended Producer Responsibility (EPR), making producers responsible for the environmental impacts of their products throughout their life cycle. The 'polluter pays' principle is a foundational element of EPR, directly aligning with its core definition."
+      },
+      "just_transition": {
+        "mentioned": true,
+        "details": "Inclusive transition of the informal waste sector.",
+        "citation": [
+          "Inclusive transition of the informal waste sector (including individuals and groups who collect and sell waste materials)"
+        ],
+        "reasoning": "The document explicitly lists an 'Inclusive transition of the informal waste sector' as a supported downstream control measure. This directly addresses the social impact of the transition on a vulnerable group (informal waste collectors and sellers), which is a core component of the just transition code definition."
+      },
+      "bans": {
+        "mentioned": true,
+        "details": "The submission supports eliminating unnecessary, single-use, and/or problematic plastic types, as well as eliminating specific materials and additives, and removing hazardous chemicals used in plastic. It also suggests moving away from single-use plastics.",
+        "citation": [
+          "Global rules or targets will be useful in some areas, for example for eliminating unnecessary, single use and/or problematic plastic types, product design requirements, definitions and standards.",
+          "Eliminating materials and additives that are unnecessary, impact human and/or ecosystem health, or affect reusability/recyclability (associated targets could be appropriate)",
+          "Moving away from single-use plastics (associated targets could be appropriate)",
+          "Removing hazardous chemicals used in plastic"
+        ],
+        "reasoning": "The document explicitly uses the term 'eliminating' when discussing control measures for certain plastic types, materials, and additives. It also mentions 'removing' hazardous chemicals and 'moving away from' single-use plastics. These terms directly align with the code definition, which includes prohibitions, bans, and phase-outs as regulatory instruments."
+      },
+      "moratoriums": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "performance_standards": {
+        "mentioned": true,
+        "details": "The document mentions several types of performance standards, including product design requirements, sustainable design criteria, standards for reusability/recyclability, standardisation of labelling, and standardisation of materials for recyclability.",
+        "citation": [
+          "Global rules or targets will be useful in some areas, for example for eliminating unnecessary, single use and/or problematic plastic types, product design requirements, definitions and standards.",
+          "Product design - for example through developing sustainable design criteria",
+          "Eliminating materials and additives that are unnecessary, impact human and/or ecosystem health, or affect reusability/recyclability (associated targets could be appropriate)",
+          "Standardisation of labelling",
+          "Standardisation of materials for recyclability"
+        ],
+        "reasoning": "The cited texts explicitly support establishing rules and criteria that products and materials must meet. Phrases like 'product design requirements', 'sustainable design criteria', and 'standardisation of materials for recyclability' directly refer to setting performance-based standards to improve a product's environmental impact, which aligns perfectly with the code definition."
+      },
+      "mandatory_infrastructure": {
+        "mentioned": true,
+        "details": "The document supports measures for improving infrastructure, designing systems for reuse/repair/refill, and enhancing collection and recycling rates.",
+        "citation": [
+          "System design (reuse, repair, refill systems)",
+          "Improving infrastructure (associated targets could be appropriate)",
+          "Improving collection rates and actual recycling rates (associated targets could be appropriate)"
+        ],
+        "reasoning": "The document explicitly lists 'Improving infrastructure' as a supported midstream control measure. Additionally, it supports 'System design (reuse, repair, refill systems)' and 'Improving collection rates and actual recycling rates'. These measures inherently require the development and establishment of physical infrastructure, such as collection systems, reuse/refill stations, and recycling facilities, to be effectively implemented."
+      },
+      "certification": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "labelling": {
+        "mentioned": true,
+        "details": "Standardisation of labelling",
+        "citation": [
+          "- Standardisation of labelling"
+        ],
+        "reasoning": "The document, under the 'Non-exhaustive list of midstream control measures supported by New Zealand', explicitly includes 'Standardisation of labelling'. This is proposed as a control measure to support recycling and a more regenerative circular economy, directly matching the code's definition of required product labels or marking."
+      },
+      "action_plans": {
+        "mentioned": true,
+        "details": "mandatory national action plans, National Plastics Action Plan",
+        "citation": [
+          "As part of core obligations, New Zealand sees a need for the use of timebound and measurable global rules and targets, while ensuring implementation is supported at a national level through mandatory national action plans.",
+          "In summary, New Zealand supports the following core obligations: - Global rules and targets, where appropriate - Develop and implement coordinated national action plans - Reporting and compliance",
+          "New Zealand considers national action plans will play a key role (if not be the main mechanism) to implement the instrument's core obligations and control measures at a national level.",
+          "New Zealand has a revised national waste strategy and legislation currently under development and a National Plastics Action Plan."
+        ],
+        "reasoning": "The document explicitly and repeatedly states support for 'mandatory national action plans' as a core obligation and the primary mechanism for national implementation of the treaty. It also mentions its own existing 'National Plastics Action Plan' as an example."
+      },
+      "reporting": {
+        "mentioned": true,
+        "details": "The submission lists 'Reporting and compliance' as a core obligation. It specifies the need for transparent reporting requirements, periodic assessment of implementation progress, standardised data collection and evaluation, and harmonised definitions and metrics for reporting.",
+        "citation": [
+          "In summary, New Zealand supports the following core obligations: - Global rules and targets, where appropriate - Develop and implement coordinated national action plans - Reporting and compliance",
+          "New Zealand supports transparent reporting requirements and periodic assessment of the progress of implementation and effectiveness of the instrument.",
+          "New Zealand also considers that standardised data collection, evaluation and reporting, together with standardised definitions, will help to strengthen the usefulness of the reporting.",
+          "New Zealand supports countries adopting harmonised definitions and metrics for reporting."
+        ],
+        "reasoning": "The document explicitly identifies 'Reporting and compliance' as one of three core obligations for the instrument. It further details the need for transparent, periodic, and standardized reporting and data collection to assess progress and ensure effectiveness, confirming that reporting is a key proposed regulatory measure."
+      },
+      "trade_requirements": {
+        "mentioned": true,
+        "details": "The document references reporting requirements under the Basel Convention, which governs the transboundary movement of hazardous wastes, including certain plastic wastes.",
+        "citation": [
+          "It is important that reporting requirements are not divorced from, but build on and add value to, what we already report on (for example, as a Party to the Basel Convention (including the regional Waigani Convention), the Stockholm Convention, the G20Report on Actions Against Marine Plastic Litter, and reporting on the Ellen MacArthur Foundation Plastics Global Commitment,)."
+        ],
+        "reasoning": "The citation explicitly mentions New Zealand's reporting obligations as a Party to the Basel Convention. The Basel Convention is the primary international treaty that regulates the international trade and transboundary movement of plastic waste through restrictions and notification requirements. This directly aligns with the code's definition of measures affecting international trade of plastic."
+      }
+    },
+    "soft_instruments": {
+      "voluntary_certification": {
+        "mentioned": true,
+        "details": "The document supports a combination of mandatory and voluntary measures, listing 'Standardisation of labelling' as a midstream control measure and referencing an existing voluntary scheme, the 'Ellen MacArthur Foundation Plastics Global Commitment'.",
+        "citation": [
+          "New Zealand supports the need for a combination of mandatory control measures and voluntary measures, given the different starting points, capacities and contexts for different countries.",
+          "Standardisation of labelling",
+          "It is important that reporting requirements are not divorced from, but build on and add value to, what we already report on (for example, as a Party to the Basel Convention (including the regional Waigani Convention), the Stockholm Convention, the G20Report on Actions Against Marine Plastic Litter, and reporting on the Ellen MacArthur Foundation Plastics Global Commitment,)."
+        ],
+        "reasoning": "The submission explicitly endorses the use of 'voluntary measures'. It lists 'Standardisation of labelling' as a control measure, which aligns with the concept of voluntary eco-labels. Furthermore, it cites reporting on the 'Ellen MacArthur Foundation Plastics Global Commitment', a prominent voluntary verification scheme, as a current practice to build upon, directly confirming the mention of such instruments."
+      },
+      "voluntary_labelling": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": null
+      },
+      "monitoring": {
+        "mentioned": true,
+        "details": "The document supports systems for monitoring the effectiveness of the instrument through periodic assessments, transparent reporting, standardized data collection and evaluation, tracking of plastic flows, and impact assessments.",
+        "citation": [
+          "New Zealand supports transparent reporting requirements and periodic assessment of the progress of implementation and effectiveness of the instrument.",
+          "This will also enable better information about plastic flows over time.",
+          "New Zealand also considers that standardised data collection, evaluation and reporting, together with standardised definitions, will help to strengthen the usefulness of the reporting.",
+          "There could be a need for a scientific advisory function that will support impact assessments, data collection and standardisation."
+        ],
+        "reasoning": "The cited texts explicitly mention key monitoring activities. They call for 'periodic assessment' to evaluate the 'effectiveness of the instrument', 'standardised data collection' to track 'plastic flows over time', and 'impact assessments'. These activities directly match the definition of monitoring as systems to track, assess, or evaluate plastic pollution, material flows, or policy effectiveness."
+      },
+      "information_guidance": {
+        "mentioned": true,
+        "details": "The document supports the provision of guidance on voluntary controls and targets for national action plans, the establishment of global definitions and standards, the development of sustainable design criteria, and standardized methods for data collection and reporting.",
+        "citation": [
+          "New Zealand considers that the instrument should clearly identify the mandatory controls and targets that must be contained in all national action plans, while also providing guidance on a range of voluntary controls and targets that could be contained in national action plans.",
+          "Global rules or targets will be useful in some areas, for example for eliminating unnecessary, single use and/or problematic plastic types, product design requirements, definitions and standards.",
+          "Product design - for example through developing sustainable design criteria",
+          "New Zealand also considers that standardised data collection, evaluation and reporting, together with standardised definitions, will help to strengthen the usefulness of the reporting."
+        ],
+        "reasoning": "The cited texts explicitly support the international instrument providing 'guidance', 'definitions and standards', 'sustainable design criteria', and 'standardised data collection, evaluation and reporting'. These are all forms of informational soft instruments intended to guide and harmonize the actions of member states, particularly in the context of voluntary measures and reporting, thereby aligning with the code's definition."
+      },
+      "education": {
+        "mentioned": true,
+        "details": "Education and awareness campaigns; capacity building.",
+        "citation": [
+          "Non-exhaustive list of downstream control measures supported by New Zealand (dispose, treat, remediate, prevent leakage)\n- Coordinated global, national and local efforts to address damage caused by ongoing plastic pollution, including clean-up and remediation activities\n- Inclusive transition of the informal waste sector (including individuals and groups who collect and sell waste materials)\n- Education and awareness campaigns",
+          "Financial support; education, awareness and capacity building; technical support; and other means of implementation are needed to ensure that all Parties can meet their obligations under the instrument."
+        ],
+        "reasoning": "The document explicitly includes 'Education and awareness campaigns' in its non-exhaustive list of supported downstream control measures. Furthermore, it identifies 'education, awareness and capacity building' as a required measure to support the implementation of the instrument."
+      },
+      "expert_groups": {
+        "mentioned": true,
+        "details": "The submission suggests a 'scientific advisory function' and references the existing 'Science Policy Panel' established by UNEA.",
+        "citation": [
+          "There could be a need for a scientific advisory function that will support impact assessments, data collection and standardisation.",
+          "New Zealand notes that a Science Policy Panel has recently been established by UNEA to support action on chemicals, waste and pollution. There should be consideration of which functions the Science Policy Panel will be better placed to support and which functions will need to be supported through other means, before consideration of what form this function should take."
+        ],
+        "reasoning": "The document explicitly proposes the potential need for a 'scientific advisory function' to support the treaty's implementation. It also discusses leveraging an existing expert body, the 'Science Policy Panel', to provide scientific and technical guidance. This directly matches the code definition of establishing or utilizing scientific committees or expert bodies."
+      },
+      "research_promotion": {
+        "mentioned": true,
+        "details": "Investigating appropriate alternatives to plastics while considering their potential undesirable outcomes.",
+        "citation": [
+          "- Investigating alternatives and where those alternatives would be appropriate (avoid undesirable outcomes of alternatives, including through any new additives)"
+        ],
+        "reasoning": "The document lists 'Investigating alternatives' as a supported midstream control measure. This is a direct encouragement of research and development into new materials and solutions, which aligns perfectly with the definition of research promotion as a soft instrument."
+      },
+      "harmonization": {
+        "mentioned": true,
+        "details": "The document proposes harmonizing several aspects, including: harmonised approaches to create a level playing field for industry, global rules for definitions and standards, harmonised definitions and metrics for reporting, standardised data collection and evaluation, standardisation of labelling, and standardisation of materials for recyclability.",
+        "citation": [
+          "Global rules are needed to create a level playing field for industry and businesses globally and harmonise approaches, which will both reduce plastic pollution and enable efficiencies for industry and businesses.",
+          "New Zealand supports countries adopting harmonised definitions and metrics for reporting.",
+          "New Zealand also considers that standardised data collection, evaluation and reporting, together with standardised definitions, will help to strengthen the usefulness of the reporting.",
+          "Standardisation of labelling",
+          "Standardisation of materials for recyclability"
+        ],
+        "reasoning": "The document explicitly and repeatedly calls for harmonization and standardization to create consistency across countries and stakeholders. It uses direct terms like 'harmonise approaches' and 'standardisation' and specifies multiple areas for this alignment, including definitions, metrics for reporting, data collection methods, product labelling, and materials for recyclability. This aligns perfectly with the code definition of standardizing or making approaches consistent."
+      },
+      "knowledge_sharing": {
+        "mentioned": true,
+        "details": "The document explicitly supports several knowledge sharing mechanisms, including capacity-building, technical assistance, technology transfer, education, awareness, scientific and technical cooperation, and the exchange of information to support the implementation of the instrument.",
+        "citation": [
+          "Full implementation will also require cooperation and collaboration in building the necessary capacity and transfer of technologies to allow parties, especially developing country parties, to fully implement the instrument.",
+          "Financial support; education, awareness and capacity building; technical support; and other means of implementation are needed to ensure that all Parties can meet their obligations under the instrument."
+        ],
+        "reasoning": "The cited texts directly confirm the need for mechanisms to exchange expertise and technology. They explicitly mention 'cooperation and collaboration in building the necessary capacity and transfer of technologies' and list 'education, awareness and capacity building' and 'technical support' as necessary means of implementation, all of which are forms of knowledge sharing."
+      }
+    },
+    "targets": {
+      "present": false,
+      "details": null,
+      "citation": [
+        "New Zealand sees a need for the use of timebound and measurable global rules and targets, while ensuring implementation is supported at a national level through mandatory national action plans.",
+        "We have included a non-exhaustive list of possible measures supported by New Zealand and we have signalled where associated timebound and measurable targets could be appropriate for consideration throughout the negotiations too.",
+        "Improving collection rates and actual recycling rates (associated targets could be appropriate)",
+        "Increasing the volume and quantity of recycled content material (and data) (associated targets could be appropriate)"
+      ],
+      "reasoning": "The document does not contain any specific, measurable targets with concrete numbers, percentages, or deadlines. Instead, it expresses strong support for the *concept* of using 'timebound and measurable global rules and targets' and repeatedly suggests areas where such targets 'could be appropriate' (e.g., for collection rates, recycled content, reduction of virgin plastic). However, it never quantifies these potential targets."
+    }
+  },
+  "value_chain": {
+    "upstream": {
+      "feedstock": {
+        "mentioned": true,
+        "details": "Reduced production of virgin plastic, increasing the volume and quantity of recycled content material.",
+        "citation": [
+          "Reduced production of virgin plastic (associated targets could be appropriate)",
+          "Increasing the volume and quantity of recycled content material (and data) (associated targets could be appropriate)"
+        ],
+        "reasoning": "The document explicitly lists 'Reduced production of virgin plastic' as a desired upstream control measure and 'Increasing the volume and quantity of recycled content material' as a midstream measure. Both directly address the raw materials used in plastic production, which corresponds to the feedstock stage of the value chain."
+      },
+      "production": {
+        "mentioned": true,
+        "details": "Reduced production of virgin plastic",
+        "citation": [
+          "Reduced production of virgin plastic (associated targets could be appropriate)"
+        ],
+        "reasoning": "The document explicitly lists 'Reduced production of virgin plastic' as a supported upstream control measure. This directly addresses the manufacturing or creation process of new plastic material, which fits the definition of the production code."
+      }
+    },
+    "midstream": {
+      "design": {
+        "mentioned": true,
+        "details": "product design requirements, sustainable design criteria",
+        "citation": [
+          "Global rules or targets will be useful in some areas, for example for eliminating unnecessary, single use and/or problematic plastic types, product design requirements, definitions and standards.",
+          "- Product design - for example through developing sustainable design criteria"
+        ],
+        "reasoning": "The document explicitly states New Zealand's support for 'product design requirements' as part of global rules. It also lists 'Product design - for example through developing sustainable design criteria' as a key control measure, directly aligning with the code's definition of addressing how plastic products are designed."
+      },
+      "product_production": {
+        "mentioned": true,
+        "microplastics_addressed": true,
+        "chemicals_addressed": true,
+        "details": "product design requirements, standards for plastic products, elimination of unnecessary or hazardous materials and chemical additives, and specific provisions for primary (intentionally added) microplastics.",
+        "citation": [
+          "Recognise the need to address the problems caused by plastic both as a material with any associated chemicals and additives, and a product (with plastic as the main material).",
+          "Global rules or targets will be useful in some areas, for example for eliminating unnecessary, single use and/or problematic plastic types, product design requirements, definitions and standards.",
+          "Specific provisions may be required to manage the issues associated with primary and secondary microplastics.",
+          "Eliminating materials and additives that are unnecessary, impact human and/or ecosystem health, or affect reusability/recyclability",
+          "Removing hazardous chemicals used in plastic"
+        ],
+        "reasoning": "The document explicitly addresses the production of plastic products by calling for 'product design requirements, definitions and standards'. It specifically addresses intentionally added microplastics by stating that 'Specific provisions may be required to manage the issues associated with primary... microplastics'. It also directly addresses chemical additives by calling for the elimination of 'additives that are unnecessary' and 'Removing hazardous chemicals used in plastic'."
+      },
+      "distribution": {
+        "mentioned": false,
+        "details": null,
+        "citation": [],
+        "reasoning": "The document categorizes control measures into upstream, midstream, and downstream. However, its 'midstream' section focuses on recycling and recovery aspects (e.g., 'Standardisation of labelling', 'Improving collection rates', 'Product stewardship models'). These measures do not align with the code's definition of distribution, which concerns the transportation and supply chain of products before they reach the consumer. The text does not mention any specific measures related to logistics, transport optimization, or supply chain traceability for plastic products."
+      },
+      "consumption": {
+        "mentioned": true,
+        "single_use_addressed": true,
+        "details": "Reduced consumption of plastic products, moving away from single-use plastics.",
+        "citation": [
+          "Moving away from single-use plastics (associated targets could be appropriate)",
+          "Reduced consumption of plastic products and plastic as a material (associated targets could be appropriate)"
+        ],
+        "reasoning": "The document explicitly lists 'Reduced consumption of plastic products' and 'Moving away from single-use plastics' as supported control measures. These directly address consumer behavior and the consumption phase of plastics, including a specific focus on single-use items, as per the code definitions."
+      }
+    },
+    "downstream": {
+      "collection": {
+        "mentioned": true,
+        "details": "The document supports measures for improving collection rates and the inclusion of the informal waste sector, which is involved in collecting and selling waste materials.",
+        "citation": [
+          "Improving collection rates and actual recycling rates (associated targets could be appropriate)",
+          "Inclusive transition of the informal waste sector (including individuals and groups who collect and sell waste materials)"
+        ],
+        "reasoning": "The document explicitly lists 'Improving collection rates' as a midstream control measure. Additionally, under downstream measures, it mentions supporting the informal sector, which is defined by its activity of collecting waste. Both points directly address the aggregation of plastic waste after consumer use, which is the core of the 'collection' code."
+      },
+      "waste_management": {
+        "mentioned": true,
+        "details": "The document mentions several downstream waste management measures including: efforts for clean-up and remediation, supporting the informal waste sector, and reducing disposal to landfill and incineration.",
+        "citation": [
+          "Non-exhaustive list of downstream control measures supported by New Zealand (dispose, treat, remediate, prevent leakage)",
+          "Coordinated global, national and local efforts to address damage caused by ongoing plastic pollution, including clean-up and remediation activities",
+          "Inclusive transition of the informal waste sector (including individuals and groups who collect and sell waste materials)",
+          "Less disposal to landfill, incineration (associated targets could be appropriate)"
+        ],
+        "reasoning": "The document explicitly outlines a section for 'downstream control measures', which includes specific actions like 'clean-up and remediation' and transitioning the 'informal waste sector'. It also mentions reducing final disposal methods such as 'landfill' and 'incineration'. These points directly address the handling and processing of plastic waste after its initial use and collection, fitting the code definition perfectly."
+      },
+      "recycling": {
+        "mentioned": true,
+        "details": "The document supports several recycling-related measures, including: standardisation of materials for recyclability, improving actual recycling rates, increasing the volume and quantity of recycled content, and eliminating additives that affect recyclability.",
+        "citation": [
+          "Non-exhaustive list of midstream control measures supported by New Zealand (recycle, recover for a more regenerative circular global economy)",
+          "Standardisation of materials for recyclability",
+          "Improving collection rates and actual recycling rates (associated targets could be appropriate)",
+          "Increasing the volume and quantity of recycled content material (and data) (associated targets could be appropriate)",
+          "Eliminating materials and additives that are unnecessary, impact human and/or ecosystem health, or affect reusability/recyclability (associated targets could be appropriate)"
+        ],
+        "reasoning": "The document explicitly lists several control measures related to recycling under a section header that includes the word 'recycle'. The cited texts detail specific actions such as standardizing materials to make them easier to recycle, setting targets for recycling rates, and increasing the use of recycled content, all of which directly align with the code definition of addressing the recycling, reprocessing, or recovery of plastic materials from waste."
+      },
+      "legacy_plastic": {
+        "mentioned": true,
+        "details": "The document mentions the need for coordinated efforts to address existing plastic pollution through clean-up and remediation activities.",
+        "citation": [
+          "Coordinated global, national and local efforts to address damage caused by ongoing plastic pollution, including clean-up and remediation activities"
+        ],
+        "reasoning": "The cited text explicitly lists 'clean-up and remediation activities' as a downstream control measure. These actions directly correspond to the code definition, which focuses on addressing existing plastic pollution in the environment."
+      }
+    },
+    "cross_value_chain": {
+      "emissions": {
+        "mentioned": true,
+        "details": "The submission recognizes the policy linkages between plastic pollution and climate change, supports a low emissions approach, and notes that measures should aim to meaningfully reduce emissions. Reducing incineration is also mentioned as a control measure.",
+        "citation": [
+          "We also recognise the policy linkages between the global plastic pollution and climate change crises, and support a low emissions approach from a global perspective through this instrument.",
+          "While material standardisation and recycling can play a role in improving the circularity of plastic products, this may not be sufficient to address issues around microplastics or meaningfully reduce emissions.",
+          "Less disposal to landfill, incineration (associated targets could be appropriate)"
+        ],
+        "reasoning": "The document explicitly links plastic pollution to the 'climate change crises' and advocates for a 'low emissions approach'. It further states that certain circularity measures may not be sufficient to 'meaningfully reduce emissions' and lists reducing 'incineration,' a significant source of air pollution and greenhouse gas emissions, as a potential control measure."
+      },
+      "microplastic_leakage": {
+        "mentioned": true,
+        "details": "The document calls for specific provisions and control measures to manage primary and secondary microplastics, noting that different sectors like textiles may require different approaches and that standard recycling is not sufficient to address the issue.",
+        "citation": [
+          "The primary objective of the instrument should reflect an ambition to eliminate plastic pollution, including microplastics, by reducing plastic waste overall and recognising the need to reduce the impact of plastic pollution on human and ecosystem health.",
+          "We also note that different types of plastic (eg microplastics vs plastic products) and different sectors (eg fisheries, textiles, construction) may require different control measures and different expertise to input into designing such measures.",
+          "Specific provisions may be required to manage the issues associated with primary and secondary microplastics.",
+          "While material standardisation and recycling can play a role in improving the circularity of plastic products, this may not be sufficient to address issues around microplastics or meaningfully reduce emissions."
+        ],
+        "reasoning": "The document explicitly identifies microplastics as a key target for elimination and highlights that specific provisions are needed to manage them. It mentions textiles, a major source of unintentional microplastic leakage, as a sector requiring distinct control measures. Furthermore, it states that conventional circular economy measures like recycling are insufficient for addressing microplastics, reinforcing the need for specific measures targeting leakage."
+      }
+    }
+  },
+  "implementation": {
+    "implementation": {
+      "timeframe": {
+        "specified": true,
+        "details": "The document advocates for timebound global rules and targets, periodic assessment and reporting, and suggests a specific frequency of 'biennially' for the conference of parties. It also specifies that financial mechanisms should be operational from the moment the instrument enters into force.",
+        "citation": [
+          "As part of core obligations, New Zealand sees a need for the use of timebound and measurable global rules and targets, while ensuring implementation is supported at a national level through mandatory national action plans.",
+          "New Zealand supports transparent reporting requirements and periodic assessment of the progress of implementation and effectiveness of the instrument.",
+          "New Zealand suggests regular conference of parties to govern the instrument (for example biennially), given the technical nature of plastics that may require frequent decision-making.",
+          "Any financial mechanism needs to be efficient and effective, able to operate from the outset of entry into force of the instrument..."
+        ],
+        "reasoning": "The document specifies a timeframe by repeatedly calling for 'timebound' targets, proposing 'periodic' assessments, and suggesting a specific interval of 'biennially' for governance meetings. It also sets a clear starting point for the financial mechanism ('from the outset of entry into force'), all of which constitute defined temporal elements for implementation."
+      },
+      "stringency": {
+        "level": "High",
+        "details": "The document proposes a system of core obligations, including mandatory national action plans, timebound and measurable global rules, transparent reporting requirements, and periodic assessments of progress. It explicitly lists 'Reporting and compliance' as a core obligation.",
+        "citation": [
+          "As part of core obligations, New Zealand sees a need for the use of timebound and measurable global rules and targets, while ensuring implementation is supported at a national level through mandatory national action plans.",
+          "In summary, New Zealand supports the following core obligations: - Global rules and targets, where appropriate - Develop and implement coordinated national action plans - Reporting and compliance",
+          "New Zealand considers that the instrument should clearly identify the mandatory controls and targets that must be contained in all national action plans...",
+          "New Zealand supports transparent reporting requirements and periodic assessment of the progress of implementation and effectiveness of the instrument."
+        ],
+        "reasoning": "The submission explicitly advocates for a framework of 'core obligations' that are binding and enforceable. The use of terms like 'mandatory national action plans,' 'global rules,' 'mandatory controls and targets,' and the inclusion of 'Reporting and compliance' as a core obligation clearly indicates a preference for a high-stringency, legally binding instrument rather than a flexible or voluntary one."
+      },
+      "scale": {
+        "scope": "Global",
+        "details": "The document outlines a global instrument (treaty) that sets global rules and targets, with implementation carried out primarily at the national level through mandatory action plans, which may also involve sub-national engagement.",
+        "citation": [
+          "New Zealand wishes to see the establishment of an effective global regime to reduce plastic waste and eliminate plastic pollution on a global scale.",
+          "As part of core obligations, New Zealand sees a need for the use of timebound and measurable global rules and targets, while ensuring implementation is supported at a national level through mandatory national action plans.",
+          "New Zealand is looking to see both coordinated national and global action reflected in the instrument.",
+          "...the instrument should reflect the need for indigenous peoples to be engaged in implementation of the instrument at the national and/or subnational level."
+        ],
+        "reasoning": "The citations clearly establish the ambition for a 'global regime' and 'global rules'. They simultaneously specify that the mechanism for carrying out these global obligations is through 'national action plans' and engagement at the 'national and/or subnational level', defining a clear multi-level implementation structure originating from a global agreement."
+      }
+    }
+  },
+  "financing": {
+    "private_sector": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "state": {
+      "mentioned": true,
+      "details": "The document mentions the need for 'Financial support', 'financial assistance', 'adequate, predictable and easily accessible financial resources', and a 'financial mechanism' to support the implementation of the instrument.",
+      "citation": [
+        "Financial support; education, awareness and capacity building; technical support; and other means of implementation are needed to ensure that all Parties can meet their obligations under the instrument.",
+        "The full implementation of the instrument will require the provision of adequate, predictable and easily accessible financial resources.",
+        "Any financial mechanism needs to be efficient and effective, able to operate from the outset of entry into force of the instrument, and in line with what is required to address the high and rapidly increasing levels of plastic pollution."
+      ],
+      "reasoning": "The document explicitly identifies 'Financial support' and 'financial resources' as essential 'Means of Implementation' for the treaty. It calls for a 'financial mechanism' to ensure all parties can meet their obligations. In the context of an international instrument being negotiated by states, these terms refer to public financing provided by state parties to support the treaty's objectives."
+    },
+    "international": {
+      "mentioned": true,
+      "details": "The document mentions the need for a financial mechanism to provide financial support and resources, particularly for developing countries, to implement the instrument.",
+      "citation": [
+        "Financial support; education, awareness and capacity building; technical support; and other means of implementation are needed to ensure that all Parties can meet their obligations under the instrument.",
+        "The full implementation of the instrument will require the provision of adequate, predictable and easily accessible financial resources.",
+        "Any financial mechanism needs to be efficient and effective, able to operate from the outset of entry into force of the instrument, and in line with what is required to address the high and rapidly increasing levels of plastic pollution.",
+        "Full implementation will also require cooperation and collaboration in building the necessary capacity and transfer of technologies to allow parties, especially developing country parties, to fully implement the instrument."
+      ],
+      "reasoning": "The document explicitly states that implementing the international instrument will require 'financial support' and 'financial resources' through a 'financial mechanism'. It specifically notes the need to support 'developing country parties', which clearly indicates the requirement for international financing to facilitate global implementation of the treaty."
+    },
+    "fees_taxes": {
+      "mentioned": true,
+      "details": "Product stewardship models, 'polluter pays' measures",
+      "citation": [
+        "Product stewardship models, this could include 'polluter pays' measures"
+      ],
+      "reasoning": "The document explicitly lists 'polluter pays' measures as a potential midstream control measure. The 'polluter pays' principle is the foundational concept for financing mechanisms such as dedicated fees, taxes, and levies on producers to cover the cost of pollution management and remediation, directly aligning with the code definition."
+    },
+    "credit_schemes": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    },
+    "voluntary": {
+      "mentioned": false,
+      "details": null,
+      "citation": [],
+      "reasoning": null
+    }
+  },
+  "responsibilities": {
+    "production_sector": {
+      "mentioned": true,
+      "details": "The document lists several responsibilities for the production sector, including: product design with sustainable criteria, reducing virgin plastic production, removing hazardous chemicals, eliminating unnecessary materials and additives, standardisation of materials for recyclability, standardisation of labelling, implementing product stewardship and 'polluter pays' models, and increasing the use of recycled content.",
+      "citation": [
+        "Product design - for example through developing sustainable design criteria",
+        "Reduced production of virgin plastic (associated targets could be appropriate)",
+        "Removing hazardous chemicals used in plastic",
+        "Eliminating materials and additives that are unnecessary, impact human and/or ecosystem health, or affect reusability/recyclability (associated targets could be appropriate)",
+        "Standardisation of materials for recyclability",
+        "Product stewardship models, this could include 'polluter pays' measures",
+        "Increasing the volume and quantity of recycled content material (and data) (associated targets could be appropriate)"
+      ],
+      "reasoning": "The document explicitly lists upstream and midstream control measures that are direct responsibilities of the production sector. These measures include actions related to product design, material choice, chemical composition, virgin plastic production levels, and post-consumer responsibility through stewardship models. These citations directly outline obligations for those who manufacture and design plastic products."
+    },
+    "consumers": {
+      "mentioned": true,
+      "details": "Reduced consumption of plastic products and materials, education and awareness.",
+      "citation": [
+        "Reduced consumption of plastic products and plastic as a material (associated targets could be appropriate)",
+        "Education and awareness campaigns"
+      ],
+      "reasoning": "The document explicitly lists 'Reduced consumption of plastic products and plastic as a material' as a desired upstream control measure, which is a direct consumer responsibility. Furthermore, it includes 'Education and awareness campaigns' as a downstream measure, which are targeted at the general public to influence their behavior and knowledge regarding plastic pollution, thus implying a consumer role in being receptive to and acting upon this information."
+    },
+    "waste_management": {
+      "mentioned": true,
+      "details": "Improving infrastructure, improving collection and recycling rates, increasing use of recycled content, reducing disposal to landfill and incineration, engaging in clean-up and remediation activities, and ensuring an inclusive transition for the informal waste sector.",
+      "citation": [
+        "Improving infrastructure (associated targets could be appropriate)",
+        "Improving collection rates and actual recycling rates (associated targets could be appropriate)",
+        "Increasing the volume and quantity of recycled content material (and data) (associated targets could be appropriate)",
+        "Less disposal to landfill, incineration (associated targets could be appropriate)",
+        "Coordinated global, national and local efforts to address damage caused by ongoing plastic pollution, including clean-up and remediation activities",
+        "Inclusive transition of the informal waste sector (including individuals and groups who collect and sell waste materials)"
+      ],
+      "reasoning": "The document proposes several midstream and downstream control measures that are core responsibilities of the waste management sector. These include improving infrastructure for waste processing, increasing collection and recycling rates, reducing landfill and incineration, conducting clean-ups, and managing the transition of the informal waste sector. These points directly outline obligations and roles for entities handling post-consumer waste."
+    },
+    "informal_sector": {
+      "mentioned": true,
+      "details": "Inclusive transition of the informal waste sector.",
+      "citation": [
+        "Inclusive transition of the informal waste sector (including individuals and groups who collect and sell waste materials)"
+      ],
+      "reasoning": "The document explicitly mentions the informal waste sector as part of the downstream control measures supported by New Zealand. The citation directly points to the need for an 'inclusive transition' for this sector, defining its actors as individuals and groups who collect and sell waste materials, thereby acknowledging their role in the plastic management system."
+    },
+    "government": {
+      "mentioned": true,
+      "details": "The document outlines several government responsibilities, including: developing and implementing national action plans, participating in setting global rules and targets, reporting and compliance, engaging indigenous peoples in implementation, ensuring the protection of indigenous rights and knowledge, and governing the international instrument through regular conferences.",
+      "citation": [
+        "As part of core obligations, New Zealand sees a need for the use of timebound and measurable global rules and targets, while ensuring implementation is supported at a national level through mandatory national action plans.",
+        "In summary, New Zealand supports the following core obligations: - Global rules and targets, where appropriate - Develop and implement coordinated national action plans - Reporting and compliance",
+        "New Zealand considers national action plans will play a key role (if not be the main mechanism) to implement the instrument's core obligations and control measures at a national level.",
+        "Implementation of the instrument must ensure indigenous peoples' rights and knowledge, including traditional knowledge, are respected, documented, and preserved with their free, prior and informed consent, including through their full and effective participation in decision-making."
+      ],
+      "reasoning": "The document, a submission from the New Zealand government, explicitly details its position on the 'core obligations' for nations under a proposed international instrument. The citations directly mention government-led actions such as creating 'mandatory national action plans', 'reporting and compliance', and specific duties regarding the rights and engagement of indigenous peoples, clearly defining responsibilities for national governments."
+    },
+    "ngos": {
+      "mentioned": true,
+      "details": "Stakeholder engagement in the development of the instrument.",
+      "citation": [
+        "New Zealand also recognises the importance of the engagement of stakeholders and indigenous peoples in the development of this instrument, and we support multiple mechanisms for doing so."
+      ],
+      "reasoning": "The document explicitly states that the engagement of 'stakeholders' is important for the development of the international instrument. The term 'stakeholders' is a standard and broad category that includes non-governmental organizations (NGOs), civil society, and advocacy groups, thereby assigning them a role in the process."
+    },
+    "un_system": {
+      "mentioned": true,
+      "details": "Providing a scientific advisory function via the UNEA-established Science Policy Panel to support impact assessments, data collection, standardization, and action on pollution. Also, governing the instrument through a regular conference of parties.",
+      "citation": [
+        "There could be a need for a scientific advisory function that will support impact assessments, data collection and standardisation.",
+        "New Zealand notes that a Science Policy Panel has recently been established by UNEA to support action on chemicals, waste and pollution.",
+        "New Zealand suggests regular conference of parties to govern the instrument (for example biennially), given the technical nature of plastics that may require frequent decision-making."
+      ],
+      "reasoning": "The document explicitly mentions a 'Science Policy Panel' established by 'UNEA' (the UN Environment Assembly) and outlines its potential functions, such as providing scientific advice and supporting data standardization. It also proposes a 'conference of parties' to govern the instrument, which is a standard responsibility for secretariats of UN-administered treaties. These points directly assign roles and responsibilities to UN system actors."
+    }
+  }
+}
