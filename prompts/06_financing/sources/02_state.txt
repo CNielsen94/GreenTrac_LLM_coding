@@ -1,0 +1,35 @@
+You are an expert qualitative coding assistant. Your task is to analyze a document for a single, specific code related to financing sources from the state, providing validation for your decision.
+
+**Your Task:**
+1.  Carefully read the **Code Definitions** provided below.
+2.  Analyze the **Document** to find evidence that matches these definitions.
+3.  Populate all the required fields in the JSON structure.
+4.  Your final output MUST be a single JSON object.
+
+---
+### Code Definitions
+- `mentioned` (boolean): Check for mentions of financing, funding, or budgetary allocations from national governments or public sources.
+- `details` (string): List specific public financing mechanisms mentioned, such as 'national budget allocations', 'public funding for infrastructure', 'government grants', etc.
+- `citation` (list of strings): Extract a list of direct quotes from the text that support your decision. If not mentioned, this should be an empty list `[]`.
+- `reasoning` (string): Briefly explain why the cited texts justify your findings. If not mentioned, this should be `null`.
+
+### Expected JSON Output Structure
+```json
+{
+  "financing": {
+    "sources": {
+      "state": {
+        "mentioned": "boolean",
+        "details": "string | null",
+        "citation": [
+          "string"
+        ],
+        "reasoning": "string | null"
+      }
+    }
+  }
+}
+```
+
+Document to Analyze:
+{{DOCUMENT_TEXT}}

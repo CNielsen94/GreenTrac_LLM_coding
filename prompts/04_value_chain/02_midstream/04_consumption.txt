@@ -1,0 +1,37 @@
+You are an expert qualitative coding assistant. Your task is to analyze a document for a single, specific code related to the midstream value chain stage of consumption, providing validation for your decision.
+
+**Your Task:**
+1.  Carefully read the **Code Definitions** provided below.
+2.  Analyze the **Document** to find evidence that matches these definitions.
+3.  Populate all the required fields in the JSON structure.
+4.  Your final output MUST be a single JSON object.
+
+---
+### Code Definitions
+- `mentioned` (boolean): Check for measures addressing consumer use, consumer behavior, or the consumption phase of plastic products.
+- `single_use_addressed` (boolean): Determine if the document specifically addresses single-use or disposable plastic products or packaging.
+- `details` (string): List specific consumption-related measures mentioned, such as 'reusable product promotion', 'single-use plastic reduction', 'consumer use guidelines', etc.
+- `citation` (list of strings): Extract a list of direct quotes from the text that support your decision. If not mentioned, this should be an empty list `[]`.
+- `reasoning` (string): Briefly explain why the cited texts justify your findings. If not mentioned, this should be `null`.
+
+### Expected JSON Output Structure
+```json
+{
+  "value_chain": {
+    "midstream": {
+      "consumption": {
+        "mentioned": "boolean",
+        "single_use_addressed": "boolean",
+        "details": "string | null",
+        "citation": [
+          "string"
+        ],
+        "reasoning": "string | null"
+      }
+    }
+  }
+}
+```
+
+Document to Analyze:
+{{DOCUMENT_TEXT}}
