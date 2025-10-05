@@ -2,7 +2,7 @@
 
 ## 🗂️ Table of Contents
 
-1. [📊 Disagreement Summary](#disagreement-summary)
+1. [📊 Disagreement Summary](##disagreement-summary)
 2. [📝 Detailed Disagreement Review](#detailed-disagreement-review)
    - [B : Mentioned with time frame](#b-mentioned-with-time-frame)
    - [C : Mentioned, no time frame](#c-mentioned-no-time-frame)
