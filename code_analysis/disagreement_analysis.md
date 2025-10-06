@@ -1,5 +1,71 @@
-# 📝 Disagreement Analysis Checklist
-This list includes all codes that showed a disagreement between the LLM and the NVIVO "gold standard" coding. Use this checklist to track your root-cause analysis for each item.
+# 📝 Disagreement Analysis
+This report was generated using Gemin-2.5-pro. The model was provided the following:
+1. **Code name:** (for example Objectives - End plastic pollution) and it's subcodes (```mentioned with timeframe```, ```mentioned, no timeframe``` and ```not mentioned```
+2. **Code prompt:** The specific prompt provided to the coding system for the given code. These prompts contain the individual code definitions used.
+3. **'Golden' definition:** The original codebook definition for the given code (this one is currently only applied to the C9 codes, but will be applied to the rest later)
+4. **Disagreement instances:** All instances of disagreement from disagreement_report.md for the respective code.
+
+## 1. High-Level Overview
+This report summarizes the root-cause analysis of disagreements between an LLM's qualitative coding and an expert human's "golden standard." The analysis reveals a clear and consistent meta-pattern: the primary driver of disagreement is not a failure of the LLM to follow instructions, but rather a fundamental mismatch between the simplified, literal prompts given to the LLM and the complex, nuanced, and context-dependent cognitive model of the human expert.
+
+In almost every case, the LLM performed its given task with high fidelity. However, the tasks themselves were often flawed hypotheses about the expert's true coding process. The disagreements, therefore, are not failures but invaluable data points that successfully reverse-engineer the expert's unstated rules. The overwhelming primary culprit is Prompt Ambiguity, not in the sense of unclear wording, but in the prompt's failure to accurately model the expert's sophisticated logic.
+
+#### 2. **Key Themes of Disagreement & Primary Failure Patterns**
+
+The analysis revealed three dominant themes of prompt failure, each leading to systematic disagreements.
+
+#### **Theme 1: The "Substance" Filter (Keyword Mention vs. Substantive Proposal)**
+
+The most common failure pattern occurred when the LLM was prompted to find any mention of a concept, while the expert was only coding for substantive, concrete policy proposals. The LLM correctly found keywords, but lacked the instruction to evaluate the author's intent.
+
+Core Issue: Prompts instructed the LLM to perform simple keyword detection, while the expert was performing nuanced proposal evaluation.
+
+Prime Examples:
+
+Ban & Moratorium: The LLM correctly found the word "ban" in a document arguing against it (Japan) and "moratoriums" in a general list of options (HAC). The expert correctly excluded these because they were not concrete proposals for a ban or moratorium.
+
+Mandatory action plan: The LLM correctly found the phrase "national action plans" within a pre-written template question (Tonga) or in a hypothetical statement (Kuwait). The expert correctly ignored these as they were not substantive, country-authored proposals.
+
+##### **Theme 2: The "Mutual Exclusivity" Filter (Conceptual Conflation & Codebook Architecture)**
+
+This was the most critical and insightful failure pattern. The expert operates within a highly structured, hierarchical codebook where categories are mutually exclusive. The LLM, given a series of flat, isolated prompts, was unable to respect these boundaries, leading to systematic miscategorization.
+
+Core Issue: Prompts for general codes were so broad that they conceptually overlapped with other, more specific codes in the system, violating the principle of mutual exclusivity.
+
+Prime Examples:
+
+Knowledge sharing (Parent vs. Child): The expert's definition revealed that this is a parent category with specific child codes like "technology transfer" and "capacity building." The LLM was incorrectly prompted to code for the parent category, causing it to flag any mention of a child category, which the expert correctly assigned to the more specific code.
+
+Economic Instruments (Tax incentive, Subsidy, Penalty): The LLM was given overly broad prompts for each, causing it to conflate them. It coded "fees" and "levies" under Tax incentive when the expert assigned them to Penalty, and it coded general "financial assistance" under Subsidy when the expert reserved that code for specific market-altering instruments.
+
+Information and guidance: This prompt was so broad it became a "catch-all," causing the LLM to incorrectly code concepts that belonged in more specific categories like Harmonization, Expert group, and Education programs.
+
+##### **Theme 3: The "Level of Abstraction" Filter (General Concept vs. Formal Mechanism)**
+
+This pattern occurred when the expert was looking for a specific, high-level, formal mechanism, while the prompt instructed the LLM to find any general mention of the related low-level concept.
+
+Core Issue: A mismatch in the required level of abstraction between the prompt and the expert's true definition.
+
+Prime Examples:
+
+Performance standard: The expert's definition included formal frameworks like "ESM" and "BAT." The LLM, prompted to find any "requirement," flagged general goals like "products must be recyclable" (Kuwait), which did not meet the expert's high-level, formal-framework standard.
+
+Harmonization: The expert's example referenced the formal "Harmonized System" for trade. The LLM, prompted to find any effort to "align" or "make consistent," flagged general statements like "we should align our plans," which the expert correctly excluded.
+
+Just transition: The expert's definition was titled "Legal recognition – just transition," indicating a search for formal legal mechanisms. The LLM, prompted to find general "social impact," incorrectly flagged social support programs that lacked this legalistic core.
+
+3. Unified Recommendation for Prompt Engineering
+The consistent theme is that simple, keyword-based prompts are insufficient for replicating expert-level qualitative analysis. The path to alignment requires re-engineering the prompts to mirror the expert's cognitive process, making their tacit, unwritten knowledge explicit.
+
+Prioritize a Structured, Mutually Exclusive Codebook: The entire system of prompts must be designed with an "awareness" of the other codes. For hierarchical structures (like Knowledge sharing), prompts for parent categories must be written as residual categories, explicitly instructing the LLM to first check for a fit in a more specific child category.
+
+Incorporate Contextual Filters and Negative Constraints: Prompts must move beyond simple "look for X" instructions. They need to be framed as multi-step, conditional logic:
+
+Add a "Substance" Filter: "Code as 'Mentioned' ONLY IF the text makes a substantive proposal for a new measure..."
+
+Add Negative Constraints: "You MUST NOT code for..." This is the most powerful tool for enforcing mutual exclusivity and preventing conceptual bleed. For example, the Information and guidance prompt must explicitly exclude concepts belonging to Harmonization or Expert group.
+
+Match the Level of Abstraction: Analyze the golden standard's examples to determine the correct level of abstraction. If the expert is looking for formal, named systems (like "ESM"), the prompt must instruct the LLM to prioritize those and ignore general, aspirational statements.
 
 #### **(Objectives - End plastic pollution)**
 
