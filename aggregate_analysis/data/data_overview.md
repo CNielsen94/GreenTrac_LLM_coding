@@ -1,4 +1,4 @@
-<img width="960" height="488" alt="image" src="https://github.com/user-attachments/assets/8f9e1250-c0d4-43ac-b17b-ed1868f121ad" />Note: 
+Note: 
 After uploading, I noticed that the dataset rows are in a bit of a wild order compared to the original codebook.
 I will be re-uploading the datasets where they are ordered properly. For now there is a section below on how to sort the data (which sub-codes with which parent codes)
 
