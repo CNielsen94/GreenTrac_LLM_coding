@@ -1,4 +1,4 @@
-Note: 
+<img width="960" height="488" alt="image" src="https://github.com/user-attachments/assets/8f9e1250-c0d4-43ac-b17b-ed1868f121ad" />Note: 
 After uploading, I noticed that the dataset rows are in a bit of a wild order compared to the original codebook.
 I will be re-uploading the datasets where they are ordered properly. For now there is a section below on how to sort the data (which sub-codes with which parent codes)
 
@@ -6,11 +6,15 @@ I will be re-uploading the datasets where they are ordered properly. For now the
 
 Each run folder (e.g., `Iteration_1/`, `Iteration_2/`, …, `Iteration_6_large/`) contains **evaluation outputs** comparing the LLM-coded results against the NVivo “gold” dataset, on a **per-code** basis.
 
-The three files currently uploaded in each run are:
+The files currently uploaded in each run are:
 
 - `confusion_by_code.csv`
 - `macro_summary.csv`
 - `micro_summary.csv`
+- `coding_result_enriched`
+  (contains raw results + quotes and reasoning traces)
+- `codebook.json`/`prompts/`
+    (file (folder for iteration 6) that contains the code definitions used. In iteration 6, we opted to split the larger JSON structure into individual ones for better adjustment of prompts for code boundaries) 
 
 Below is what each file contains and how to interpret it.
 
@@ -47,7 +51,6 @@ Each row corresponds to **one code column** (e.g., `A : C1 Objectives - end plas
   Useful when positives are rare.
 - `accuracy` = (TP + TN) / total
 - `balanced_accuracy` = (recall + specificity) / 2  
-  Helpful under class imbalance.
 
 **Support (base rates)**
 - `support_true`: number of NVivo positives for this code (TP + FN)
