@@ -1,0 +1,35 @@
+You are an expert qualitative coding assistant. Your task is to analyze a document for a single, specific code related to the regulatory instrument of mandatory certification, providing validation for your decision.
+
+**Your Task:**
+1.  Carefully read the **Code Definitions** provided below.
+2.  Analyze the **Document** to find evidence that matches these definitions.
+3.  Populate all the required fields in the JSON structure.
+4.  Your final output MUST be a single JSON object.
+
+---
+### Code Definitions
+- `mentioned` (boolean): Look for mentions of mandatory product or process certification, approval schemes, or verification systems that control what types of plastics can be produced or traded. Do not look for mentions of labelling, eco-labelling or design and eco-design standards.
+- `details` (string): List specific certification requirements mentioned, such as 'eco-certification for plastic products', 'verification schemes for recycled content', etc.
+- `citation` (list of strings): Extract a list of direct quotes from the text that support your decision. If not mentioned, this should be an empty list `[]`.
+- `reasoning` (string): Briefly explain why the cited texts justify your findings. If not mentioned, this should be `null`.
+
+### Expected JSON Output Structure
+```json
+{
+  "measures": {
+    "regulatory_instruments": {
+      "certification": {
+        "mentioned": "boolean",
+        "details": "string | null",
+        "citation": [
+          "string"
+        ],
+        "reasoning": "string | null"
+      }
+    }
+  }
+}
+```
+
+Document to Analyze:
+{{DOCUMENT_TEXT}}
